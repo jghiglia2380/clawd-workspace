@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Impact Report - Dianna Martinez | PFL Academy</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    body {
+      background: var(--bg-primary);
+    }
+    
+    .report-actions {
+      background: #fff;
+      border-bottom: 1px solid var(--border-light);
+      padding: 1rem 0;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    
+    .report-actions-content {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    
+    .back-link {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 0.875rem;
+    }
+    
+    .back-link:hover {
+      color: var(--accent);
+    }
+    
+    .action-buttons {
+      display: flex;
+      gap: 0.5rem;
+    }
+    
+    .action-btn {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.5rem 1rem;
+      border: 1px solid var(--border-medium);
+      border-radius: var(--radius-md);
+      background: #fff;
+      font-size: 0.875rem;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    
+    .action-btn:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+    
+    .action-btn.primary {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+    
+    .report-container {
+      max-width: 850px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    
+    .report {
+      background: #fff;
+      box-shadow: var(--shadow-xl);
+      border-radius: 0.5rem;
+      overflow: hidden;
+    }
+    
+    /* Report Header */
+    .report-header {
+      background: linear-gradient(135deg, var(--cover-color-one), var(--cover-color-two));
+      color: #fff;
+      padding: 2.5rem;
+    }
+    
+    .report-header-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 2rem;
+    }
+    
+    .report-logo {
+      font-size: 1.25rem;
+      font-weight: 700;
+    }
+    
+    .report-badge {
+      background: rgba(255,255,255,0.2);
+      padding: 0.375rem 0.75rem;
+      border-radius: 9999px;
+      font-size: 0.75rem;
+    }
+    
+    .report-title {
+      font-size: 1.75rem;
+      margin-bottom: 2rem;
+      text-align: center;
+    }
+    
+    .report-meta {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1rem 2rem;
+    }
+    
+    .report-meta-item {
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .report-meta-label {
+      font-size: 0.75rem;
+      opacity: 0.7;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    
+    .report-meta-value {
+      font-size: 1rem;
+      font-weight: 600;
+    }
+    
+    /* Stats Section */
+    .report-stats {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      background: var(--bg-light);
+    }
+    
+    .report-stat {
+      padding: 1.5rem;
+      text-align: center;
+      border-right: 1px solid var(--border-light);
+    }
+    
+    .report-stat:last-child {
+      border-right: none;
+    }
+    
+    .report-stat-value {
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--accent);
+      line-height: 1;
+    }
+    
+    .report-stat-label {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      margin-top: 0.5rem;
+    }
+    
+    @media (max-width: 640px) {
+      .report-stats {
+        grid-template-columns: repeat(2, 1fr);
+      }
+      .report-stat:nth-child(2) {
+        border-right: none;
+      }
+      .report-stat:nth-child(1),
+      .report-stat:nth-child(2) {
+        border-bottom: 1px solid var(--border-light);
+      }
+    }
+    
+    /* Report Body */
+    .report-body {
+      padding: 2rem 2.5rem;
+    }
+    
+    .report-section {
+      margin-bottom: 2rem;
+    }
+    
+    .report-section:last-child {
+      margin-bottom: 0;
+    }
+    
+    .report-section h2 {
+      font-size: 0.875rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-secondary);
+      margin-bottom: 1rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 2px solid var(--accent);
+    }
+    
+    .curriculum-checklist {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 0.5rem;
+    }
+    
+    @media (max-width: 640px) {
+      .curriculum-checklist {
+        grid-template-columns: 1fr;
+      }
+    }
+    
+    .curriculum-item {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.9375rem;
+      color: var(--text-secondary);
+    }
+    
+    .curriculum-item .check {
+      color: var(--accent);
+      font-weight: bold;
+    }
+    
+    .standards-note {
+      background: var(--bg-light);
+      padding: 0.75rem 1rem;
+      border-radius: var(--radius-md);
+      font-size: 0.8125rem;
+      color: var(--text-muted);
+      margin-top: 1rem;
+    }
+    
+    .outcomes-list {
+      list-style: none;
+    }
+    
+    .outcomes-list li {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.625rem;
+      padding: 0.5rem 0;
+      font-size: 0.9375rem;
+      color: var(--text-secondary);
+    }
+    
+    .outcomes-list li .icon {
+      color: var(--accent);
+      font-weight: bold;
+      flex-shrink: 0;
+    }
+    
+    .featured-work {
+      background: var(--bg-accent-light);
+      padding: 1.25rem;
+      border-radius: var(--radius-md);
+    }
+    
+    .featured-work-header {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 0.75rem;
+    }
+    
+    .featured-work-icon {
+      width: 48px;
+      height: 48px;
+      background: #fff;
+      border-radius: var(--radius-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      box-shadow: var(--shadow-sm);
+    }
+    
+    .featured-work-title {
+      font-size: 1.125rem;
+      font-weight: 700;
+    }
+    
+    .featured-work-meta {
+      font-size: 0.8125rem;
+      color: var(--text-muted);
+    }
+    
+    .featured-work-stats {
+      display: flex;
+      gap: 1.5rem;
+      margin-top: 0.75rem;
+      font-size: 0.875rem;
+    }
+    
+    .featured-work-stat {
+      display: flex;
+      align-items: center;
+      gap: 0.375rem;
+    }
+    
+    .featured-work-stat strong {
+      color: var(--accent);
+    }
+    
+    .quote-section {
+      background: var(--bg-accent-light);
+      border-left: 4px solid var(--accent);
+      padding: 1.25rem;
+      border-radius: 0 var(--radius-md) var(--radius-md) 0;
+    }
+    
+    .quote-text {
+      font-size: 1rem;
+      font-style: italic;
+      color: var(--text-secondary);
+      line-height: 1.6;
+      margin-bottom: 0.75rem;
+    }
+    
+    .quote-author {
+      font-size: 0.875rem;
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+    
+    /* Report Footer */
+    .report-footer {
+      background: var(--bg-light);
+      padding: 1.5rem 2.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 0.8125rem;
+      color: var(--text-muted);
+    }
+    
+    .report-footer-logo {
+      font-weight: 700;
+      color: var(--accent);
+    }
+    
+    /* Print styles */
+    @media print {
+      body {
+        background: #fff;
+      }
+      .report-actions {
+        display: none;
+      }
+      .report-container {
+        margin: 0;
+        padding: 0;
+      }
+      .report {
+        box-shadow: none;
+        border-radius: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Actions Bar -->
+  <div class="report-actions">
+    <div class="container">
+      <div class="report-actions-content">
+        <a href="04-instructor-profile.html" class="back-link">
+          ← Back to Profile
+        </a>
+        <div class="action-buttons">
+          <button class="action-btn" onclick="window.print()">
+            🖨️ Print
+          </button>
+          <button class="action-btn">
+            📄 Download PDF
+          </button>
+          <button class="action-btn">
+            📤 Share
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Report -->
+  <div class="report-container">
+    <div class="report">
+      
+      <!-- Header -->
+      <div class="report-header">
+        <div class="report-header-top">
+          <div class="report-logo">PFL Academy</div>
+          <div class="report-badge">Official Report</div>
+        </div>
+        
+        <h1 class="report-title">Classroom Impact Report</h1>
+        
+        <div class="report-meta">
+          <div class="report-meta-item">
+            <span class="report-meta-label">Instructor</span>
+            <span class="report-meta-value">Dianna Martinez</span>
+          </div>
+          <div class="report-meta-item">
+            <span class="report-meta-label">School</span>
+            <span class="report-meta-value">Lincoln High School</span>
+          </div>
+          <div class="report-meta-item">
+            <span class="report-meta-label">District</span>
+            <span class="report-meta-value">Sacramento Unified School District</span>
+          </div>
+          <div class="report-meta-item">
+            <span class="report-meta-label">Reporting Period</span>
+            <span class="report-meta-value">Fall 2024 Semester</span>
+          </div>
+          <div class="report-meta-item">
+            <span class="report-meta-label">Course</span>
+            <span class="report-meta-value">Business & Entrepreneurship</span>
+          </div>
+          <div class="report-meta-item">
+            <span class="report-meta-label">Grade Level</span>
+            <span class="report-meta-value">11th - 12th Grade</span>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Stats -->
+      <div class="report-stats">
+        <div class="report-stat">
+          <div class="report-stat-value">47</div>
+          <div class="report-stat-label">Students Enrolled</div>
+        </div>
+        <div class="report-stat">
+          <div class="report-stat-value">38</div>
+          <div class="report-stat-label">Business Plans</div>
+        </div>
+        <div class="report-stat">
+          <div class="report-stat-value">$412K</div>
+          <div class="report-stat-label">Projected Revenue</div>
+        </div>
+        <div class="report-stat">
+          <div class="report-stat-value">94%</div>
+          <div class="report-stat-label">Completion Rate</div>
+        </div>
+      </div>
+      
+      <!-- Body -->
+      <div class="report-body">
+        
+        <!-- Curriculum Coverage -->
+        <div class="report-section">
+          <h2>Curriculum Coverage</h2>
+          <div class="curriculum-checklist">
+            <div class="curriculum-item">
+              <span class="check">✓</span>
+              Financial Literacy Fundamentals
+            </div>
+            <div class="curriculum-item">
+              <span class="check">✓</span>
+              Business Planning & Strategy
+            </div>
+            <div class="curriculum-item">
+              <span class="check">✓</span>
+              Market Research & Analysis
+            </div>
+            <div class="curriculum-item">
+              <span class="check">✓</span>
+              Revenue Modeling & Projections
+            </div>
+            <div class="curriculum-item">
+              <span class="check">✓</span>
+              Pitch Development & Presentation
+            </div>
+            <div class="curriculum-item">
+              <span class="check">✓</span>
+              Risk Assessment & Mitigation
+            </div>
+          </div>
+          <div class="standards-note">
+            📋 Aligned with California CTE Model Curriculum Standards for Business and Finance, including Financial Services and Entrepreneurship pathways.
+          </div>
+        </div>
+        
+        <!-- Student Outcomes -->
+        <div class="report-section">
+          <h2>Student Outcomes</h2>
+          <ul class="outcomes-list">
+            <li>
+              <span class="icon">✓</span>
+              <span>Average assessment score: <strong>87%</strong></span>
+            </li>
+            <li>
+              <span class="icon">✓</span>
+              <span>38 complete, portfolio-ready business plans created</span>
+            </li>
+            <li>
+              <span class="icon">✓</span>
+              <span>12 students presented at district showcase event</span>
+            </li>
+            <li>
+              <span class="icon">✓</span>
+              <span>2 students launched real businesses (farmers market, online)</span>
+            </li>
+            <li>
+              <span class="icon">✓</span>
+              <span>94% of students completed the full curriculum (vs. 78% platform avg)</span>
+            </li>
+          </ul>
+        </div>
+        
+        <!-- Featured Student Work -->
+        <div class="report-section">
+          <h2>Featured Student Work</h2>
+          <div class="featured-work">
+            <div class="featured-work-header">
+              <div class="featured-work-icon">🍪</div>
+              <div>
+                <div class="featured-work-title">Bright Bites Bakery</div>
+                <div class="featured-work-meta">Jordan M. • Grade 11</div>
+              </div>
+            </div>
+            <p style="font-size: 0.9375rem; color: var(--text-secondary); margin-bottom: 0.75rem;">
+              Healthy baked goods for school events — now selling at local farmers market
+            </p>
+            <div class="featured-work-stats">
+              <div class="featured-work-stat">
+                📈 Projected Revenue: <strong>$12,400</strong>
+              </div>
+              <div class="featured-work-stat">
+                💰 Profit Margin: <strong>67%</strong>
+              </div>
+              <div class="featured-work-stat">
+                🚀 Status: <strong>Now Operating</strong>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Quote -->
+        <div class="report-section">
+          <div class="quote-section">
+            <p class="quote-text">
+              "PFL Academy transformed how I teach entrepreneurship. My students leave with real skills and tangible work products. The platform does the heavy lifting — my job is just to facilitate and watch them surprise themselves."
+            </p>
+            <p class="quote-author">— Dianna Martinez</p>
+          </div>
+        </div>
+        
+      </div>
+      
+      <!-- Footer -->
+      <div class="report-footer">
+        <div>
+          <span class="report-footer-logo">PFL Academy</span>
+          <span> • Personal Financial Literacy Education</span>
+        </div>
+        <div>
+          Report Generated: January 2025 • www.pflacademy.co
+        </div>
+      </div>
+      
+    </div>
+  </div>
+
+  <!-- Notes for Justin -->
+  <div class="container" style="margin-top: 2rem; margin-bottom: 4rem;">
+    <div style="background: #fef3c7; padding: 2rem; border-radius: 1rem; border: 2px dashed #d97706;">
+      <h3 style="color: #92400e; margin-bottom: 1rem;">📝 Design Notes for Justin</h3>
+      <ul style="color: #78350f; line-height: 1.8;">
+        <li><strong>Purpose:</strong> This is the one-pager Dianna hands to her principal. "Look what my class accomplished."</li>
+        <li><strong>Print-Ready:</strong> Click "Print" — it's styled for clean PDF/print output.</li>
+        <li><strong>Data-Driven:</strong> All stats would pull from the platform automatically.</li>
+        <li><strong>Customizable:</strong> Instructor can choose reporting period, featured student, and add their own quote.</li>
+        <li><strong>Standards Alignment:</strong> The footer text adapts based on state (we'd have templates for each).</li>
+        <li><strong>Shareable:</strong> Can be downloaded as PDF or shared via unique link.</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>

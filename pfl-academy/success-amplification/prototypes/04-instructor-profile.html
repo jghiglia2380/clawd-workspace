@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dianna Martinez | Educator Profile | PFL Academy</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    .profile-hero {
+      background: linear-gradient(135deg, var(--cover-color-one), var(--cover-color-two));
+      padding: 4rem 0 6rem;
+      color: #fff;
+    }
+    
+    .profile-hero-content {
+      display: flex;
+      align-items: center;
+      gap: 2rem;
+    }
+    
+    .profile-avatar {
+      width: 140px;
+      height: 140px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 3.5rem;
+      color: var(--accent);
+      font-weight: 700;
+      box-shadow: var(--shadow-xl);
+      flex-shrink: 0;
+    }
+    
+    .profile-info h1 {
+      font-size: 2.25rem;
+      margin-bottom: 0.25rem;
+    }
+    
+    .profile-title {
+      font-size: 1.125rem;
+      opacity: 0.9;
+      margin-bottom: 0.5rem;
+    }
+    
+    .profile-location {
+      display: flex;
+      align-items: center;
+      gap: 0.375rem;
+      font-size: 0.9375rem;
+      opacity: 0.8;
+    }
+    
+    .profile-badges {
+      display: flex;
+      gap: 0.5rem;
+      margin-top: 1rem;
+    }
+    
+    .profile-badge {
+      background: rgba(255,255,255,0.2);
+      padding: 0.375rem 0.75rem;
+      border-radius: 9999px;
+      font-size: 0.8125rem;
+    }
+    
+    @media (max-width: 768px) {
+      .profile-hero-content {
+        flex-direction: column;
+        text-align: center;
+      }
+      .profile-badges {
+        justify-content: center;
+      }
+    }
+    
+    .stats-section {
+      margin-top: -4rem;
+      position: relative;
+      z-index: 10;
+      padding-bottom: 2rem;
+    }
+    
+    .stats-card {
+      background: #fff;
+      border-radius: 1rem;
+      box-shadow: var(--shadow-xl);
+      padding: 2rem;
+    }
+    
+    .stats-row {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 2rem;
+      text-align: center;
+    }
+    
+    @media (max-width: 768px) {
+      .stats-row {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+    
+    .stat-item-value {
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: var(--accent);
+      line-height: 1;
+    }
+    
+    .stat-item-label {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-top: 0.5rem;
+    }
+    
+    .profile-body {
+      padding: 2rem 0 4rem;
+    }
+    
+    .profile-grid {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 2rem;
+    }
+    
+    @media (max-width: 1024px) {
+      .profile-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+    
+    .profile-section {
+      background: #fff;
+      border-radius: 1rem;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      box-shadow: var(--shadow-sm);
+    }
+    
+    .profile-section h2 {
+      font-size: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-secondary);
+      margin-bottom: 1rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 2px solid var(--accent);
+    }
+    
+    .quote-box {
+      background: var(--bg-accent-light);
+      border-left: 4px solid var(--accent);
+      padding: 1.25rem;
+      border-radius: 0 var(--radius-md) var(--radius-md) 0;
+      font-size: 1.125rem;
+      font-style: italic;
+      color: var(--text-secondary);
+      line-height: 1.6;
+    }
+    
+    .approach-list {
+      list-style: none;
+    }
+    
+    .approach-list li {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.75rem;
+      padding: 0.75rem 0;
+      border-bottom: 1px solid var(--border-light);
+    }
+    
+    .approach-list li:last-child {
+      border-bottom: none;
+    }
+    
+    .approach-icon {
+      width: 32px;
+      height: 32px;
+      background: var(--bg-accent-light);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    
+    .approach-text {
+      color: var(--text-secondary);
+    }
+    
+    .student-work-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1rem;
+    }
+    
+    @media (max-width: 640px) {
+      .student-work-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+    
+    .student-work-card {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding: 1rem;
+      background: var(--bg-light);
+      border-radius: var(--radius-md);
+      text-decoration: none;
+      color: inherit;
+      transition: all 0.2s;
+    }
+    
+    .student-work-card:hover {
+      background: var(--bg-accent-light);
+      transform: translateX(4px);
+    }
+    
+    .student-work-icon {
+      width: 48px;
+      height: 48px;
+      background: #fff;
+      border-radius: var(--radius-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      box-shadow: var(--shadow-sm);
+    }
+    
+    .student-work-info h4 {
+      font-size: 0.9375rem;
+      margin-bottom: 0.125rem;
+    }
+    
+    .student-work-info p {
+      font-size: 0.8125rem;
+      color: var(--text-muted);
+    }
+    
+    .sidebar-card {
+      background: #fff;
+      border-radius: 1rem;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      box-shadow: var(--shadow-sm);
+    }
+    
+    .sidebar-card h3 {
+      font-size: 0.875rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-secondary);
+      margin-bottom: 1rem;
+    }
+    
+    .badges-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 0.75rem;
+    }
+    
+    .badge-item {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.625rem;
+      background: var(--bg-light);
+      border-radius: var(--radius-md);
+      font-size: 0.8125rem;
+    }
+    
+    .badge-item-icon {
+      font-size: 1.25rem;
+    }
+    
+    .actions-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+    
+    .action-btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      padding: 0.75rem;
+      background: var(--bg-light);
+      border: 1px solid var(--border-light);
+      border-radius: var(--radius-md);
+      font-size: 0.875rem;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-decoration: none;
+      color: var(--text-primary);
+    }
+    
+    .action-btn:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+    
+    .action-btn.primary {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+    
+    .action-btn.primary:hover {
+      background: var(--accent-dark);
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="container header-content">
+      <a href="01-landing-with-showcase.html" class="logo">PFL Academy</a>
+      <nav class="nav-links">
+        <a href="#" class="nav-link">Curriculum</a>
+        <a href="#" class="nav-link" style="color: var(--accent);">Educators</a>
+        <a href="02-student-showcase-gallery.html" class="nav-link">Showcase</a>
+        <a href="#" class="btn btn-primary btn-sm">Sign In</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Profile Hero -->
+  <section class="profile-hero">
+    <div class="container">
+      <div class="profile-hero-content">
+        <div class="profile-avatar">DM</div>
+        <div class="profile-info">
+          <h1>Dianna Martinez</h1>
+          <p class="profile-title">Business & Entrepreneurship Teacher</p>
+          <p class="profile-location">
+            <span>📍</span>
+            Lincoln High School • Sacramento, California
+          </p>
+          <div class="profile-badges">
+            <span class="profile-badge">🏆 PFL Educator since 2023</span>
+            <span class="profile-badge">⭐ Featured Instructor</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Stats -->
+  <section class="stats-section">
+    <div class="container">
+      <div class="stats-card">
+        <div class="stats-row">
+          <div class="stat-item">
+            <div class="stat-item-value">127</div>
+            <div class="stat-item-label">Students Taught</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-item-value">89</div>
+            <div class="stat-item-label">Business Plans</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-item-value">$847K</div>
+            <div class="stat-item-label">Projected Revenue</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-item-value">94%</div>
+            <div class="stat-item-label">Completion Rate</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Profile Body -->
+  <section class="profile-body">
+    <div class="container">
+      <div class="profile-grid">
+        
+        <!-- Main Content -->
+        <div class="profile-main">
+          
+          <!-- About -->
+          <div class="profile-section">
+            <h2>About</h2>
+            <div class="quote-box">
+              "I believe every student can be an entrepreneur. My job is to give them the tools and confidence to try."
+            </div>
+            <p style="margin-top: 1rem; color: var(--text-secondary); line-height: 1.7;">
+              Dianna has been teaching business courses for 8 years, specializing in helping students develop real-world financial literacy and entrepreneurship skills. She transforms her classroom into a startup incubator where students don't just learn about business — they build businesses.
+            </p>
+          </div>
+          
+          <!-- Teaching Approach -->
+          <div class="profile-section">
+            <h2>Teaching Approach</h2>
+            <ul class="approach-list">
+              <li>
+                <div class="approach-icon">📣</div>
+                <div class="approach-text">
+                  <strong>Weekly Pitch Sessions</strong> — Students present their evolving business ideas to peers for feedback every Friday.
+                </div>
+              </li>
+              <li>
+                <div class="approach-icon">🎮</div>
+                <div class="approach-text">
+                  <strong>Simulation-First Learning</strong> — Uses PFL Academy's games as warm-up activities before diving into concepts.
+                </div>
+              </li>
+              <li>
+                <div class="approach-icon">🤝</div>
+                <div class="approach-text">
+                  <strong>Real-World Connections</strong> — Invites local business owners as guest speakers and judges for final pitches.
+                </div>
+              </li>
+              <li>
+                <div class="approach-icon">📐</div>
+                <div class="approach-text">
+                  <strong>Cross-Curricular Integration</strong> — Partners with math department to reinforce financial concepts.
+                </div>
+              </li>
+            </ul>
+          </div>
+          
+          <!-- Featured Student Work -->
+          <div class="profile-section">
+            <h2>Featured Student Work</h2>
+            <div class="student-work-grid">
+              <a href="03-student-portfolio.html" class="student-work-card">
+                <div class="student-work-icon">🍪</div>
+                <div class="student-work-info">
+                  <h4>Bright Bites Bakery</h4>
+                  <p>Jordan M. • $12,400</p>
+                </div>
+              </a>
+              <a href="#" class="student-work-card">
+                <div class="student-work-icon">📱</div>
+                <div class="student-work-info">
+                  <h4>Pet Pal App</h4>
+                  <p>Alex T. • $45,000</p>
+                </div>
+              </a>
+              <a href="#" class="student-work-card">
+                <div class="student-work-icon">🌿</div>
+                <div class="student-work-info">
+                  <h4>Green Clean Co.</h4>
+                  <p>Sam K. • $8,200</p>
+                </div>
+              </a>
+              <a href="#" class="student-work-card">
+                <div class="student-work-icon">👗</div>
+                <div class="student-work-info">
+                  <h4>Threads by Tay</h4>
+                  <p>Taylor R. • $15,800</p>
+                </div>
+              </a>
+            </div>
+            <div style="text-align: center; margin-top: 1rem;">
+              <a href="02-student-showcase-gallery.html" class="btn btn-secondary btn-sm">View All Student Work →</a>
+            </div>
+          </div>
+          
+        </div>
+        
+        <!-- Sidebar -->
+        <div class="profile-sidebar">
+          
+          <!-- Badges -->
+          <div class="sidebar-card">
+            <h3>Badges & Recognition</h3>
+            <div class="badges-grid">
+              <div class="badge-item">
+                <span class="badge-item-icon">⭐</span>
+                Featured Instructor
+              </div>
+              <div class="badge-item">
+                <span class="badge-item-icon">💯</span>
+                Century Club
+              </div>
+              <div class="badge-item">
+                <span class="badge-item-icon">🏅</span>
+                High Completion
+              </div>
+              <div class="badge-item">
+                <span class="badge-item-icon">📊</span>
+                Top 10% Scores
+              </div>
+            </div>
+          </div>
+          
+          <!-- Actions -->
+          <div class="sidebar-card">
+            <h3>Actions</h3>
+            <div class="actions-list">
+              <a href="05-impact-report.html" class="action-btn primary">
+                📄 View Impact Report
+              </a>
+              <button class="action-btn">
+                📤 Share Profile
+              </button>
+              <button class="action-btn">
+                🔗 Copy Link
+              </button>
+            </div>
+          </div>
+          
+          <!-- Contact CTA -->
+          <div class="sidebar-card" style="background: linear-gradient(135deg, var(--cover-color-one), var(--cover-color-two)); color: #fff;">
+            <h3 style="color: #fff;">Interested in PFL Academy?</h3>
+            <p style="font-size: 0.875rem; opacity: 0.9; margin-bottom: 1rem;">
+              See how educators like Dianna are transforming their classrooms.
+            </p>
+            <a href="#" class="btn" style="background: #fff; color: var(--accent); width: 100%;">
+              Book a Demo
+            </a>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </section>
+</body>
+</html>
