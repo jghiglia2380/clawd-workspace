@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Command Center | Justin's Daily Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        dark: {
+                            50: '#f8fafc',
+                            100: '#1e293b',
+                            200: '#1a2332',
+                            300: '#151c28',
+                            400: '#0f141d',
+                            500: '#0a0e14',
+                        },
+                        accent: {
+                            blue: '#3b82f6',
+                            purple: '#8b5cf6',
+                            emerald: '#10b981',
+                            amber: '#f59e0b',
+                            rose: '#f43f5e',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+        
+        * { font-family: 'Inter', sans-serif; }
+        
+        .glass {
+            background: rgba(30, 41, 59, 0.7);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+        }
+        
+        .card-hover {
+            transition: all 0.3s ease;
+        }
+        
+        .card-hover:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 20px 40px -12px rgba(0, 0, 0, 0.4);
+            border-color: rgba(255, 255, 255, 0.15);
+        }
+        
+        .glow-blue { box-shadow: 0 0 20px rgba(59, 130, 246, 0.3); }
+        .glow-emerald { box-shadow: 0 0 20px rgba(16, 185, 129, 0.3); }
+        .glow-purple { box-shadow: 0 0 20px rgba(139, 92, 246, 0.3); }
+        .glow-amber { box-shadow: 0 0 20px rgba(245, 158, 11, 0.3); }
+        
+        .gradient-text {
+            background: linear-gradient(135deg, #3b82f6, #8b5cf6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        .news-tab.active {
+            background: linear-gradient(135deg, #3b82f6, #8b5cf6);
+            color: white;
+        }
+        
+        .progress-bar {
+            background: linear-gradient(90deg, #10b981, #3b82f6);
+        }
+        
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: #1e293b; }
+        ::-webkit-scrollbar-thumb { background: #475569; border-radius: 3px; }
+    </style>
+</head>
+<body class="bg-dark-500 text-gray-100 min-h-screen">
+    <!-- Background Gradient -->
+    <div class="fixed inset-0 bg-gradient-to-br from-dark-400 via-dark-500 to-dark-400 -z-10"></div>
+    <div class="fixed top-0 right-0 w-96 h-96 bg-blue-600/10 rounded-full blur-3xl -z-10"></div>
+    <div class="fixed bottom-0 left-0 w-96 h-96 bg-purple-600/10 rounded-full blur-3xl -z-10"></div>
+
+    <!-- Main Container -->
+    <div class="max-w-7xl mx-auto p-6">
+        
+        <!-- ═══════════════════════════════════════════════════════════════ -->
+        <!-- HEADER -->
+        <!-- ═══════════════════════════════════════════════════════════════ -->
+        <header class="mb-8">
+            <div class="flex items-center justify-between">
+                <div>
+                    <h1 class="text-4xl font-bold gradient-text mb-1">Command Center</h1>
+                    <p class="text-gray-400">Good morning, Justin. Here's your daily briefing.</p>
+                </div>
+                <div class="text-right">
+                    <div id="current-time" class="text-3xl font-light text-white"></div>
+                    <div id="current-date" class="text-gray-400"></div>
+                </div>
+            </div>
+        </header>
+
+        <!-- ═══════════════════════════════════════════════════════════════ -->
+        <!-- MORNING DIGEST - Bento Grid -->
+        <!-- ═══════════════════════════════════════════════════════════════ -->
+        <section class="mb-8">
+            <h2 class="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-4 flex items-center gap-2">
+                <i class="fas fa-sun text-amber-400"></i> Morning Digest
+            </h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <!-- Weather Widget -->
+                <div class="glass rounded-2xl p-5 card-hover">
+                    <div class="flex items-start justify-between mb-4">
+                        <div>
+                            <p class="text-gray-400 text-sm">Pleasanton, CA</p>
+                            <div class="flex items-baseline gap-2">
+                                <span class="text-5xl font-light text-white">72°</span>
+                                <span class="text-gray-400">F</span>
+                            </div>
+                        </div>
+                        <div class="text-5xl text-amber-400">
+                            <i class="fas fa-sun"></i>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-4 text-sm text-gray-400">
+                        <span><i class="fas fa-droplet text-blue-400 mr-1"></i> 45%</span>
+                        <span><i class="fas fa-wind text-gray-500 mr-1"></i> 8 mph</span>
+                        <span class="text-emerald-400">No rain today</span>
+                    </div>
+                </div>
+
+                <!-- Calendar / Upcoming Events -->
+                <div class="glass rounded-2xl p-5 card-hover">
+                    <div class="flex items-center justify-between mb-4">
+                        <h3 class="font-semibold text-white flex items-center gap-2">
+                            <i class="fas fa-calendar text-blue-400"></i> Today's Schedule
+                        </h3>
+                        <span class="text-xs text-gray-500">3 events</span>
+                    </div>
+                    <div class="space-y-3">
+                        <div class="flex items-center gap-3 p-2 rounded-lg bg-dark-300/50 border-l-2 border-blue-500">
+                            <span class="text-xs text-gray-400 w-12">9:00</span>
+                            <span class="text-sm text-white">Team standup</span>
+                        </div>
+                        <div class="flex items-center gap-3 p-2 rounded-lg bg-dark-300/50 border-l-2 border-emerald-500">
+                            <span class="text-xs text-gray-400 w-12">11:00</span>
+                            <span class="text-sm text-white">Coalinga follow-up call</span>
+                        </div>
+                        <div class="flex items-center gap-3 p-2 rounded-lg bg-dark-300/50 border-l-2 border-purple-500">
+                            <span class="text-xs text-gray-400 w-12">2:30</span>
+                            <span class="text-sm text-white">PFL demo - Colorado</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Priority Tasks -->
+                <div class="glass rounded-2xl p-5 card-hover">
+                    <div class="flex items-center justify-between mb-4">
+                        <h3 class="font-semibold text-white flex items-center gap-2">
+                            <i class="fas fa-bolt text-amber-400"></i> Priority Tasks
+                        </h3>
+                        <span class="text-xs px-2 py-1 bg-amber-500/20 text-amber-400 rounded-full">4 urgent</span>
+                    </div>
+                    <div class="space-y-2">
+                        <label class="flex items-center gap-3 p-2 rounded-lg hover:bg-dark-300/30 cursor-pointer group">
+                            <input type="checkbox" class="w-4 h-4 rounded border-gray-600 bg-dark-300 text-blue-500 focus:ring-blue-500/20">
+                            <span class="text-sm text-gray-300 group-hover:text-white">Review Project Explore Book 2 proofs</span>
+                        </label>
+                        <label class="flex items-center gap-3 p-2 rounded-lg hover:bg-dark-300/30 cursor-pointer group">
+                            <input type="checkbox" class="w-4 h-4 rounded border-gray-600 bg-dark-300 text-blue-500 focus:ring-blue-500/20">
+                            <span class="text-sm text-gray-300 group-hover:text-white">Send Coalinga contract reminder</span>
+                        </label>
+                        <label class="flex items-center gap-3 p-2 rounded-lg hover:bg-dark-300/30 cursor-pointer group">
+                            <input type="checkbox" class="w-4 h-4 rounded border-gray-600 bg-dark-300 text-blue-500 focus:ring-blue-500/20">
+                            <span class="text-sm text-gray-300 group-hover:text-white">Update PFL Academy pricing deck</span>
+                        </label>
+                        <label class="flex items-center gap-3 p-2 rounded-lg hover:bg-dark-300/30 cursor-pointer group">
+                            <input type="checkbox" class="w-4 h-4 rounded border-gray-600 bg-dark-300 text-blue-500 focus:ring-blue-500/20">
+                            <span class="text-sm text-gray-300 group-hover:text-white">Reply to Texas district inquiry</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ═══════════════════════════════════════════════════════════════ -->
+        <!-- BUSINESS PANELS - Two Column Grid -->
+        <!-- ═══════════════════════════════════════════════════════════════ -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8">
+            
+            <!-- STARTUP SMARTUP PANEL -->
+            <section>
+                <h2 class="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-4 flex items-center gap-2">
+                    <i class="fas fa-rocket text-purple-400"></i> Startup Smartup
+                </h2>
+                
+                <div class="space-y-4">
+                    <!-- Coalinga-Huron Deal Status -->
+                    <div class="glass rounded-2xl p-5 card-hover glow-emerald">
+                        <div class="flex items-center justify-between mb-3">
+                            <h3 class="font-semibold text-white flex items-center gap-2">
+                                <i class="fas fa-handshake text-emerald-400"></i> Coalinga-Huron USD
+                            </h3>
+                            <span class="text-xs px-3 py-1 bg-emerald-500/20 text-emerald-400 rounded-full font-medium">
+                                HOT DEAL
+                            </span>
+                        </div>
+                        <div class="flex items-baseline gap-2 mb-3">
+                            <span class="text-3xl font-bold text-emerald-400">$41,500</span>
+                            <span class="text-gray-400">pending</span>
+                        </div>
+                        <div class="space-y-2">
+                            <div class="flex justify-between text-sm">
+                                <span class="text-gray-400">Contract Status</span>
+                                <span class="text-amber-400">Awaiting Signature</span>
+                            </div>
+                            <div class="w-full bg-dark-300 rounded-full h-2">
+                                <div class="progress-bar h-2 rounded-full" style="width: 75%"></div>
+                            </div>
+                            <p class="text-xs text-gray-500">Last contact: Yesterday • Follow-up scheduled today</p>
+                        </div>
+                    </div>
+
+                    <!-- Project Explore Production Queue -->
+                    <div class="glass rounded-2xl p-5 card-hover">
+                        <div class="flex items-center justify-between mb-4">
+                            <h3 class="font-semibold text-white flex items-center gap-2">
+                                <i class="fas fa-book text-blue-400"></i> Project Explore Queue
+                            </h3>
+                            <span class="text-xs text-gray-500">Books 2-4</span>
+                        </div>
+                        <div class="space-y-3">
+                            <div class="flex items-center justify-between p-3 rounded-xl bg-dark-300/50">
+                                <div class="flex items-center gap-3">
+                                    <div class="w-8 h-8 rounded-lg bg-emerald-500/20 flex items-center justify-center text-emerald-400 text-sm font-bold">2</div>
+                                    <div>
+                                        <p class="text-sm font-medium text-white">Book 2: Budgeting Basics</p>
+                                        <p class="text-xs text-gray-500">Final review phase</p>
+                                    </div>
+                                </div>
+                                <span class="text-xs px-2 py-1 bg-emerald-500/20 text-emerald-400 rounded">95%</span>
+                            </div>
+                            <div class="flex items-center justify-between p-3 rounded-xl bg-dark-300/50">
+                                <div class="flex items-center gap-3">
+                                    <div class="w-8 h-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-blue-400 text-sm font-bold">3</div>
+                                    <div>
+                                        <p class="text-sm font-medium text-white">Book 3: Saving & Investing</p>
+                                        <p class="text-xs text-gray-500">Content development</p>
+                                    </div>
+                                </div>
+                                <span class="text-xs px-2 py-1 bg-blue-500/20 text-blue-400 rounded">60%</span>
+                            </div>
+                            <div class="flex items-center justify-between p-3 rounded-xl bg-dark-300/50">
+                                <div class="flex items-center gap-3">
+                                    <div class="w-8 h-8 rounded-lg bg-gray-500/20 flex items-center justify-center text-gray-400 text-sm font-bold">4</div>
+                                    <div>
+                                        <p class="text-sm font-medium text-white">Book 4: Credit & Debt</p>
+                                        <p class="text-xs text-gray-500">Outline stage</p>
+                                    </div>
+                                </div>
+                                <span class="text-xs px-2 py-1 bg-gray-500/20 text-gray-400 rounded">15%</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Pipeline / Prospects -->
+                    <div class="glass rounded-2xl p-5 card-hover">
+                        <div class="flex items-center justify-between mb-4">
+                            <h3 class="font-semibold text-white flex items-center gap-2">
+                                <i class="fas fa-funnel-dollar text-amber-400"></i> Active Pipeline
+                            </h3>
+                            <span class="text-lg font-bold text-white">$127K</span>
+                        </div>
+                        <div class="grid grid-cols-3 gap-3 text-center">
+                            <div class="p-3 rounded-xl bg-dark-300/50">
+                                <p class="text-2xl font-bold text-blue-400">8</p>
+                                <p class="text-xs text-gray-400">Prospects</p>
+                            </div>
+                            <div class="p-3 rounded-xl bg-dark-300/50">
+                                <p class="text-2xl font-bold text-amber-400">3</p>
+                                <p class="text-xs text-gray-400">Proposals</p>
+                            </div>
+                            <div class="p-3 rounded-xl bg-dark-300/50">
+                                <p class="text-2xl font-bold text-emerald-400">1</p>
+                                <p class="text-xs text-gray-400">Closing</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- PFL ACADEMY PANEL -->
+            <section>
+                <h2 class="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-4 flex items-center gap-2">
+                    <i class="fas fa-graduation-cap text-blue-400"></i> PFL Academy
+                </h2>
+                
+                <div class="space-y-4">
+                    <!-- Active Deals / Pipeline -->
+                    <div class="glass rounded-2xl p-5 card-hover glow-blue">
+                        <div class="flex items-center justify-between mb-4">
+                            <h3 class="font-semibold text-white flex items-center gap-2">
+                                <i class="fas fa-chart-line text-blue-400"></i> Sales Pipeline
+                            </h3>
+                            <span class="text-lg font-bold text-blue-400">$285K</span>
+                        </div>
+                        <div class="space-y-3">
+                            <div class="flex items-center justify-between">
+                                <div class="flex items-center gap-2">
+                                    <div class="w-2 h-2 rounded-full bg-emerald-400"></div>
+                                    <span class="text-sm text-gray-300">Colorado (3 districts)</span>
+                                </div>
+                                <span class="text-sm font-medium text-emerald-400">$95,000</span>
+                            </div>
+                            <div class="flex items-center justify-between">
+                                <div class="flex items-center gap-2">
+                                    <div class="w-2 h-2 rounded-full bg-blue-400"></div>
+                                    <span class="text-sm text-gray-300">Texas (5 districts)</span>
+                                </div>
+                                <span class="text-sm font-medium text-blue-400">$125,000</span>
+                            </div>
+                            <div class="flex items-center justify-between">
+                                <div class="flex items-center gap-2">
+                                    <div class="w-2 h-2 rounded-full bg-amber-400"></div>
+                                    <span class="text-sm text-gray-300">Florida (2 districts)</span>
+                                </div>
+                                <span class="text-sm font-medium text-amber-400">$65,000</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- State Mandate Intel -->
+                    <div class="glass rounded-2xl p-5 card-hover">
+                        <div class="flex items-center justify-between mb-4">
+                            <h3 class="font-semibold text-white flex items-center gap-2">
+                                <i class="fas fa-landmark text-purple-400"></i> State Mandate Intel
+                            </h3>
+                            <span class="text-xs px-2 py-1 bg-purple-500/20 text-purple-400 rounded-full">Live Tracking</span>
+                        </div>
+                        <div class="space-y-3">
+                            <div class="p-3 rounded-xl bg-emerald-500/10 border border-emerald-500/30">
+                                <div class="flex items-center justify-between mb-1">
+                                    <span class="text-sm font-medium text-emerald-400">🟢 Florida</span>
+                                    <span class="text-xs text-gray-400">Mandate Active</span>
+                                </div>
+                                <p class="text-xs text-gray-400">Req'd for graduation starting 2027. High urgency.</p>
+                            </div>
+                            <div class="p-3 rounded-xl bg-amber-500/10 border border-amber-500/30">
+                                <div class="flex items-center justify-between mb-1">
+                                    <span class="text-sm font-medium text-amber-400">🟡 Texas</span>
+                                    <span class="text-xs text-gray-400">Bill Pending</span>
+                                </div>
+                                <p class="text-xs text-gray-400">HB 1234 in committee. Expected Q1 2025 vote.</p>
+                            </div>
+                            <div class="p-3 rounded-xl bg-blue-500/10 border border-blue-500/30">
+                                <div class="flex items-center justify-between mb-1">
+                                    <span class="text-sm font-medium text-blue-400">🔵 Colorado</span>
+                                    <span class="text-xs text-gray-400">Implementation</span>
+                                </div>
+                                <p class="text-xs text-gray-400">Standards finalized. Districts seeking curriculum.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Conversion Metrics -->
+                    <div class="glass rounded-2xl p-5 card-hover">
+                        <div class="flex items-center justify-between mb-4">
+                            <h3 class="font-semibold text-white flex items-center gap-2">
+                                <i class="fas fa-chart-pie text-rose-400"></i> Conversion Metrics
+                            </h3>
+                            <span class="text-xs text-gray-500">Last 30 days</span>
+                        </div>
+                        <div class="grid grid-cols-2 gap-4">
+                            <div class="text-center">
+                                <p class="text-3xl font-bold text-white">24%</p>
+                                <p class="text-xs text-gray-400">Demo → Proposal</p>
+                                <p class="text-xs text-emerald-400">↑ 5% vs last month</p>
+                            </div>
+                            <div class="text-center">
+                                <p class="text-3xl font-bold text-white">42%</p>
+                                <p class="text-xs text-gray-400">Proposal → Close</p>
+                                <p class="text-xs text-emerald-400">↑ 8% vs last month</p>
+                            </div>
+                            <div class="text-center">
+                                <p class="text-3xl font-bold text-white">18</p>
+                                <p class="text-xs text-gray-400">Demos This Month</p>
+                            </div>
+                            <div class="text-center">
+                                <p class="text-3xl font-bold text-white">$32K</p>
+                                <p class="text-xs text-gray-400">Avg Deal Size</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <!-- ═══════════════════════════════════════════════════════════════ -->
+        <!-- NEWS FEED SECTION -->
+        <!-- ═══════════════════════════════════════════════════════════════ -->
+        <section class="mb-8">
+            <h2 class="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-4 flex items-center gap-2">
+                <i class="fas fa-newspaper text-gray-400"></i> News & Intel
+            </h2>
+            
+            <!-- Tab Navigation -->
+            <div class="flex gap-2 mb-4">
+                <button onclick="showTab('tech')" id="tab-tech" class="news-tab active px-4 py-2 rounded-lg text-sm font-medium transition-all">
+                    <i class="fas fa-microchip mr-2"></i>Tech to Leverage
+                </button>
+                <button onclick="showTab('education')" id="tab-education" class="news-tab px-4 py-2 rounded-lg text-sm font-medium bg-dark-200 text-gray-400 hover:text-white transition-all">
+                    <i class="fas fa-school mr-2"></i>After-School Education
+                </button>
+                <button onclick="showTab('finlit')" id="tab-finlit" class="news-tab px-4 py-2 rounded-lg text-sm font-medium bg-dark-200 text-gray-400 hover:text-white transition-all">
+                    <i class="fas fa-piggy-bank mr-2"></i>Financial Literacy
+                </button>
+            </div>
+
+            <!-- News Content Panels -->
+            <div class="glass rounded-2xl p-5">
+                <!-- Tech News -->
+                <div id="news-tech" class="news-panel">
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                        <article class="p-4 rounded-xl bg-dark-300/50 hover:bg-dark-300/70 transition-all cursor-pointer">
+                            <span class="text-xs text-blue-400 font-medium">AI / TOOLS</span>
+                            <h4 class="text-white font-medium mt-2 mb-2">Claude's new computer use feature could automate curriculum development workflows</h4>
+                            <p class="text-xs text-gray-400 mb-3">Anthropic releases tool-use capabilities that could transform content creation...</p>
+                            <div class="flex items-center justify-between text-xs text-gray-500">
+                                <span>TechCrunch</span>
+                                <span>2h ago</span>
+                            </div>
+                        </article>
+                        <article class="p-4 rounded-xl bg-dark-300/50 hover:bg-dark-300/70 transition-all cursor-pointer">
+                            <span class="text-xs text-purple-400 font-medium">EDTECH</span>
+                            <h4 class="text-white font-medium mt-2 mb-2">Duolingo's gamification secrets: What education startups can learn</h4>
+                            <p class="text-xs text-gray-400 mb-3">Breaking down the engagement mechanics that drive daily active users...</p>
+                            <div class="flex items-center justify-between text-xs text-gray-500">
+                                <span>EdSurge</span>
+                                <span>5h ago</span>
+                            </div>
+                        </article>
+                        <article class="p-4 rounded-xl bg-dark-300/50 hover:bg-dark-300/70 transition-all cursor-pointer">
+                            <span class="text-xs text-emerald-400 font-medium">AUTOMATION</span>
+                            <h4 class="text-white font-medium mt-2 mb-2">No-code platforms see 200% growth in education sector adoption</h4>
+                            <p class="text-xs text-gray-400 mb-3">Schools are building custom solutions without developer resources...</p>
+                            <div class="flex items-center justify-between text-xs text-gray-500">
+                                <span>The Verge</span>
+                                <span>8h ago</span>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+
+                <!-- Education News -->
+                <div id="news-education" class="news-panel hidden">
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                        <article class="p-4 rounded-xl bg-dark-300/50 hover:bg-dark-300/70 transition-all cursor-pointer">
+                            <span class="text-xs text-amber-400 font-medium">FUNDING</span>
+                            <h4 class="text-white font-medium mt-2 mb-2">21st Century Learning Centers grant applications open for 2025</h4>
+                            <p class="text-xs text-gray-400 mb-3">$1.3B in federal funding available for after-school programs nationwide...</p>
+                            <div class="flex items-center justify-between text-xs text-gray-500">
+                                <span>Education Week</span>
+                                <span>1h ago</span>
+                            </div>
+                        </article>
+                        <article class="p-4 rounded-xl bg-dark-300/50 hover:bg-dark-300/70 transition-all cursor-pointer">
+                            <span class="text-xs text-blue-400 font-medium">TRENDS</span>
+                            <h4 class="text-white font-medium mt-2 mb-2">After-school STEM programs show 40% improvement in math scores</h4>
+                            <p class="text-xs text-gray-400 mb-3">New study from Johns Hopkins highlights the impact of structured programs...</p>
+                            <div class="flex items-center justify-between text-xs text-gray-500">
+                                <span>EdWeek</span>
+                                <span>4h ago</span>
+                            </div>
+                        </article>
+                        <article class="p-4 rounded-xl bg-dark-300/50 hover:bg-dark-300/70 transition-all cursor-pointer">
+                            <span class="text-xs text-rose-400 font-medium">POLICY</span>
+                            <h4 class="text-white font-medium mt-2 mb-2">California expands extended learning time requirements</h4>
+                            <p class="text-xs text-gray-400 mb-3">New bill mandates districts offer enrichment activities beyond school hours...</p>
+                            <div class="flex items-center justify-between text-xs text-gray-500">
+                                <span>LA Times</span>
+                                <span>6h ago</span>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+
+                <!-- Financial Literacy News -->
+                <div id="news-finlit" class="news-panel hidden">
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                        <article class="p-4 rounded-xl bg-dark-300/50 hover:bg-dark-300/70 transition-all cursor-pointer border border-emerald-500/30">
+                            <span class="text-xs text-emerald-400 font-medium">🔥 MANDATE ALERT</span>
+                            <h4 class="text-white font-medium mt-2 mb-2">Michigan becomes 26th state to require personal finance education</h4>
+                            <p class="text-xs text-gray-400 mb-3">Governor signs bill mandating financial literacy course for graduation...</p>
+                            <div class="flex items-center justify-between text-xs text-gray-500">
+                                <span>Detroit Free Press</span>
+                                <span>30m ago</span>
+                            </div>
+                        </article>
+                        <article class="p-4 rounded-xl bg-dark-300/50 hover:bg-dark-300/70 transition-all cursor-pointer">
+                            <span class="text-xs text-purple-400 font-medium">RESEARCH</span>
+                            <h4 class="text-white font-medium mt-2 mb-2">Gen Z financial literacy scores drop 15% from previous generation</h4>
+                            <p class="text-xs text-gray-400 mb-3">FINRA study reveals growing knowledge gap despite more resources...</p>
+                            <div class="flex items-center justify-between text-xs text-gray-500">
+                                <span>CNBC</span>
+                                <span>3h ago</span>
+                            </div>
+                        </article>
+                        <article class="p-4 rounded-xl bg-dark-300/50 hover:bg-dark-300/70 transition-all cursor-pointer">
+                            <span class="text-xs text-blue-400 font-medium">ADVOCACY</span>
+                            <h4 class="text-white font-medium mt-2 mb-2">Next Gen Personal Finance reaches 70,000 teachers milestone</h4>
+                            <p class="text-xs text-gray-400 mb-3">Free curriculum provider continues rapid expansion in high schools...</p>
+                            <div class="flex items-center justify-between text-xs text-gray-500">
+                                <span>Forbes</span>
+                                <span>7h ago</span>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ═══════════════════════════════════════════════════════════════ -->
+        <!-- QUICK ACTIONS -->
+        <!-- ═══════════════════════════════════════════════════════════════ -->
+        <section class="mb-8">
+            <h2 class="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-4 flex items-center gap-2">
+                <i class="fas fa-bolt text-amber-400"></i> Quick Actions
+            </h2>
+            
+            <div class="flex flex-wrap gap-3">
+                <button class="flex items-center gap-2 px-5 py-3 bg-gradient-to-r from-blue-600 to-blue-500 rounded-xl text-white font-medium hover:from-blue-500 hover:to-blue-400 transition-all shadow-lg shadow-blue-500/25">
+                    <i class="fas fa-envelope"></i>
+                    Check Email
+                </button>
+                <button class="flex items-center gap-2 px-5 py-3 bg-gradient-to-r from-purple-600 to-purple-500 rounded-xl text-white font-medium hover:from-purple-500 hover:to-purple-400 transition-all shadow-lg shadow-purple-500/25">
+                    <i class="fas fa-robot"></i>
+                    Ask Clawd
+                </button>
+                <button class="flex items-center gap-2 px-5 py-3 glass rounded-xl text-gray-300 font-medium hover:text-white hover:bg-dark-200 transition-all">
+                    <i class="fas fa-calendar-plus"></i>
+                    Schedule Meeting
+                </button>
+                <button class="flex items-center gap-2 px-5 py-3 glass rounded-xl text-gray-300 font-medium hover:text-white hover:bg-dark-200 transition-all">
+                    <i class="fas fa-file-invoice-dollar"></i>
+                    Create Proposal
+                </button>
+                <button class="flex items-center gap-2 px-5 py-3 glass rounded-xl text-gray-300 font-medium hover:text-white hover:bg-dark-200 transition-all">
+                    <i class="fas fa-search"></i>
+                    Research District
+                </button>
+                <button class="flex items-center gap-2 px-5 py-3 glass rounded-xl text-gray-300 font-medium hover:text-white hover:bg-dark-200 transition-all">
+                    <i class="fas fa-chart-bar"></i>
+                    View Analytics
+                </button>
+                <button class="flex items-center gap-2 px-5 py-3 glass rounded-xl text-emerald-400 font-medium hover:bg-emerald-500/20 transition-all border border-emerald-500/30">
+                    <i class="fas fa-phone"></i>
+                    Call Coalinga
+                </button>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="text-center text-gray-500 text-sm py-6 border-t border-gray-800">
+            <p>Command Center v0.1 • Built with ❤️ by Clawd</p>
+            <p class="text-xs mt-1">Prototype for review — Data is placeholder</p>
+        </footer>
+    </div>
+
+    <script>
+        // Update time
+        function updateTime() {
+            const now = new Date();
+            const timeOptions = { hour: '2-digit', minute: '2-digit', hour12: true };
+            const dateOptions = { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' };
+            
+            document.getElementById('current-time').textContent = now.toLocaleTimeString('en-US', timeOptions);
+            document.getElementById('current-date').textContent = now.toLocaleDateString('en-US', dateOptions);
+        }
+        
+        updateTime();
+        setInterval(updateTime, 1000);
+
+        // Tab switching
+        function showTab(tabName) {
+            // Hide all panels
+            document.querySelectorAll('.news-panel').forEach(panel => {
+                panel.classList.add('hidden');
+            });
+            
+            // Remove active from all tabs
+            document.querySelectorAll('.news-tab').forEach(tab => {
+                tab.classList.remove('active');
+                tab.classList.add('bg-dark-200', 'text-gray-400');
+            });
+            
+            // Show selected panel
+            document.getElementById('news-' + tabName).classList.remove('hidden');
+            
+            // Activate selected tab
+            const activeTab = document.getElementById('tab-' + tabName);
+            activeTab.classList.add('active');
+            activeTab.classList.remove('bg-dark-200', 'text-gray-400');
+        }
+    </script>
+</body>
+</html>
