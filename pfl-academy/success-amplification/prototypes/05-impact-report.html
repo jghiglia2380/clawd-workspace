@@ -202,14 +202,14 @@
       border-bottom: 2px solid var(--accent);
     }
     
-    .curriculum-checklist {
+    .curriculum-grid {
       display: grid;
       grid-template-columns: repeat(2, 1fr);
-      gap: 0.5rem;
+      gap: 0.75rem;
     }
     
     @media (max-width: 640px) {
-      .curriculum-checklist {
+      .curriculum-grid {
         grid-template-columns: 1fr;
       }
     }
@@ -217,14 +217,29 @@
     .curriculum-item {
       display: flex;
       align-items: center;
+      justify-content: space-between;
+      padding: 0.75rem;
+      background: var(--bg-light);
+      border-radius: var(--radius-md);
+    }
+    
+    .curriculum-name {
+      display: flex;
+      align-items: center;
       gap: 0.5rem;
       font-size: 0.9375rem;
       color: var(--text-secondary);
     }
     
-    .curriculum-item .check {
+    .curriculum-name .check {
       color: var(--accent);
       font-weight: bold;
+    }
+    
+    .curriculum-progress {
+      font-size: 0.875rem;
+      font-weight: 600;
+      color: var(--accent);
     }
     
     .standards-note {
@@ -234,6 +249,44 @@
       font-size: 0.8125rem;
       color: var(--text-muted);
       margin-top: 1rem;
+    }
+    
+    .skills-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1rem;
+    }
+    
+    @media (max-width: 640px) {
+      .skills-grid { grid-template-columns: 1fr; }
+    }
+    
+    .skill-box {
+      background: var(--bg-accent-light);
+      border-radius: var(--radius-md);
+      padding: 1rem;
+      text-align: center;
+    }
+    
+    .skill-box-icon {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+    
+    .skill-box-title {
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+    }
+    
+    .skill-box-value {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--accent);
+    }
+    
+    .skill-box-label {
+      font-size: 0.75rem;
+      color: var(--text-muted);
     }
     
     .outcomes-list {
@@ -255,56 +308,33 @@
       flex-shrink: 0;
     }
     
-    .featured-work {
-      background: var(--bg-accent-light);
-      padding: 1.25rem;
-      border-radius: var(--radius-md);
+    .comparison-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9375rem;
     }
     
-    .featured-work-header {
-      display: flex;
-      align-items: center;
-      gap: 1rem;
-      margin-bottom: 0.75rem;
+    .comparison-table th {
+      text-align: left;
+      padding: 0.75rem;
+      background: var(--bg-light);
+      color: var(--text-secondary);
+      font-weight: 600;
     }
     
-    .featured-work-icon {
-      width: 48px;
-      height: 48px;
-      background: #fff;
-      border-radius: var(--radius-md);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 1.5rem;
-      box-shadow: var(--shadow-sm);
+    .comparison-table td {
+      padding: 0.75rem;
+      border-bottom: 1px solid var(--border-light);
     }
     
-    .featured-work-title {
-      font-size: 1.125rem;
-      font-weight: 700;
-    }
-    
-    .featured-work-meta {
-      font-size: 0.8125rem;
-      color: var(--text-muted);
-    }
-    
-    .featured-work-stats {
-      display: flex;
-      gap: 1.5rem;
-      margin-top: 0.75rem;
-      font-size: 0.875rem;
-    }
-    
-    .featured-work-stat {
-      display: flex;
-      align-items: center;
-      gap: 0.375rem;
-    }
-    
-    .featured-work-stat strong {
+    .comparison-table .highlight {
       color: var(--accent);
+      font-weight: 600;
+    }
+    
+    .comparison-table .positive {
+      color: #059669;
+      font-weight: 600;
     }
     
     .quote-section {
@@ -418,7 +448,7 @@
           </div>
           <div class="report-meta-item">
             <span class="report-meta-label">Course</span>
-            <span class="report-meta-value">Business & Entrepreneurship</span>
+            <span class="report-meta-value">Personal Finance</span>
           </div>
           <div class="report-meta-item">
             <span class="report-meta-label">Grade Level</span>
@@ -430,57 +460,88 @@
       <!-- Stats -->
       <div class="report-stats">
         <div class="report-stat">
-          <div class="report-stat-value">47</div>
+          <div class="report-stat-value">127</div>
           <div class="report-stat-label">Students Enrolled</div>
-        </div>
-        <div class="report-stat">
-          <div class="report-stat-value">38</div>
-          <div class="report-stat-label">Business Plans</div>
-        </div>
-        <div class="report-stat">
-          <div class="report-stat-value">$412K</div>
-          <div class="report-stat-label">Projected Revenue</div>
         </div>
         <div class="report-stat">
           <div class="report-stat-value">94%</div>
           <div class="report-stat-label">Completion Rate</div>
+        </div>
+        <div class="report-stat">
+          <div class="report-stat-value">87%</div>
+          <div class="report-stat-label">Avg Assessment</div>
+        </div>
+        <div class="report-stat">
+          <div class="report-stat-value">342</div>
+          <div class="report-stat-label">AI Scenarios</div>
         </div>
       </div>
       
       <!-- Body -->
       <div class="report-body">
         
-        <!-- Curriculum Coverage -->
+        <!-- Curriculum Progress -->
         <div class="report-section">
-          <h2>Curriculum Coverage</h2>
-          <div class="curriculum-checklist">
+          <h2>Curriculum Progress</h2>
+          <div class="curriculum-grid">
             <div class="curriculum-item">
-              <span class="check">✓</span>
-              Financial Literacy Fundamentals
+              <span class="curriculum-name"><span class="check">✓</span> Career Readiness</span>
+              <span class="curriculum-progress">96%</span>
             </div>
             <div class="curriculum-item">
-              <span class="check">✓</span>
-              Business Planning & Strategy
+              <span class="curriculum-name"><span class="check">✓</span> Banking & Credit</span>
+              <span class="curriculum-progress">88%</span>
             </div>
             <div class="curriculum-item">
-              <span class="check">✓</span>
-              Market Research & Analysis
+              <span class="curriculum-name"><span class="check">✓</span> Budgeting & Saving</span>
+              <span class="curriculum-progress">92%</span>
             </div>
             <div class="curriculum-item">
-              <span class="check">✓</span>
-              Revenue Modeling & Projections
+              <span class="curriculum-name">◐ Living on Your Own</span>
+              <span class="curriculum-progress">72%</span>
             </div>
             <div class="curriculum-item">
-              <span class="check">✓</span>
-              Pitch Development & Presentation
+              <span class="curriculum-name">◐ Insurance & Protection</span>
+              <span class="curriculum-progress">45%</span>
             </div>
             <div class="curriculum-item">
-              <span class="check">✓</span>
-              Risk Assessment & Mitigation
+              <span class="curriculum-name">○ Taxes & Government</span>
+              <span class="curriculum-progress">—</span>
             </div>
           </div>
           <div class="standards-note">
-            📋 Aligned with California CTE Model Curriculum Standards for Business and Finance, including Financial Services and Entrepreneurship pathways.
+            📋 Aligned with California Personal Finance Standards and Jump$tart Coalition National Standards for K-12 Personal Finance Education.
+          </div>
+        </div>
+        
+        <!-- Skills Practiced -->
+        <div class="report-section">
+          <h2>Skills Practiced</h2>
+          <div class="skills-grid">
+            <div class="skill-box">
+              <div class="skill-box-icon">🎤</div>
+              <div class="skill-box-title">Mock Interviews</div>
+              <div class="skill-box-value">127</div>
+              <div class="skill-box-label">completed • 89% improved</div>
+            </div>
+            <div class="skill-box">
+              <div class="skill-box-icon">📄</div>
+              <div class="skill-box-title">Resumes Built</div>
+              <div class="skill-box-value">124</div>
+              <div class="skill-box-label">portfolio-ready</div>
+            </div>
+            <div class="skill-box">
+              <div class="skill-box-icon">🤝</div>
+              <div class="skill-box-title">Negotiations</div>
+              <div class="skill-box-value">91</div>
+              <div class="skill-box-label">landlord/roommate scenarios</div>
+            </div>
+            <div class="skill-box">
+              <div class="skill-box-icon">💰</div>
+              <div class="skill-box-title">Budgets Created</div>
+              <div class="skill-box-value">127</div>
+              <div class="skill-box-label">personalized plans</div>
+            </div>
           </div>
         </div>
         
@@ -490,60 +551,73 @@
           <ul class="outcomes-list">
             <li>
               <span class="icon">✓</span>
-              <span>Average assessment score: <strong>87%</strong></span>
+              <span>94% of students completed the curriculum (vs. 78% platform average)</span>
             </li>
             <li>
               <span class="icon">✓</span>
-              <span>38 complete, portfolio-ready business plans created</span>
+              <span>Average assessment score: 87% (vs. 81% platform average)</span>
             </li>
             <li>
               <span class="icon">✓</span>
-              <span>12 students presented at district showcase event</span>
+              <span>100% of students completed at least one AI practice scenario</span>
             </li>
             <li>
               <span class="icon">✓</span>
-              <span>2 students launched real businesses (farmers market, online)</span>
+              <span>89% of students who completed mock interviews showed measurable improvement</span>
             </li>
             <li>
               <span class="icon">✓</span>
-              <span>94% of students completed the full curriculum (vs. 78% platform avg)</span>
+              <span>Every student created a portfolio-ready resume and personalized budget</span>
             </li>
           </ul>
         </div>
         
-        <!-- Featured Student Work -->
+        <!-- Comparison to Platform Average -->
         <div class="report-section">
-          <h2>Featured Student Work</h2>
-          <div class="featured-work">
-            <div class="featured-work-header">
-              <div class="featured-work-icon">🍪</div>
-              <div>
-                <div class="featured-work-title">Bright Bites Bakery</div>
-                <div class="featured-work-meta">Jordan M. • Grade 11</div>
-              </div>
-            </div>
-            <p style="font-size: 0.9375rem; color: var(--text-secondary); margin-bottom: 0.75rem;">
-              Healthy baked goods for school events — now selling at local farmers market
-            </p>
-            <div class="featured-work-stats">
-              <div class="featured-work-stat">
-                📈 Projected Revenue: <strong>$12,400</strong>
-              </div>
-              <div class="featured-work-stat">
-                💰 Profit Margin: <strong>67%</strong>
-              </div>
-              <div class="featured-work-stat">
-                🚀 Status: <strong>Now Operating</strong>
-              </div>
-            </div>
-          </div>
+          <h2>Comparison to Platform Average</h2>
+          <table class="comparison-table">
+            <thead>
+              <tr>
+                <th>Metric</th>
+                <th>This Class</th>
+                <th>Platform Avg</th>
+                <th>Difference</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Completion Rate</td>
+                <td class="highlight">94%</td>
+                <td>78%</td>
+                <td class="positive">+16%</td>
+              </tr>
+              <tr>
+                <td>Assessment Score</td>
+                <td class="highlight">87%</td>
+                <td>81%</td>
+                <td class="positive">+6%</td>
+              </tr>
+              <tr>
+                <td>AI Scenarios/Student</td>
+                <td class="highlight">2.7</td>
+                <td>1.8</td>
+                <td class="positive">+50%</td>
+              </tr>
+              <tr>
+                <td>Avg Time on Platform</td>
+                <td class="highlight">14.2 hrs</td>
+                <td>11.8 hrs</td>
+                <td class="positive">+20%</td>
+              </tr>
+            </tbody>
+          </table>
         </div>
         
         <!-- Quote -->
         <div class="report-section">
           <div class="quote-section">
             <p class="quote-text">
-              "PFL Academy transformed how I teach entrepreneurship. My students leave with real skills and tangible work products. The platform does the heavy lifting — my job is just to facilitate and watch them surprise themselves."
+              "PFL Academy lets my students practice real conversations — job interviews, apartment negotiations, even talking to roommates about splitting bills. By the time they graduate, they've already done these things, not just read about them."
             </p>
             <p class="quote-author">— Dianna Martinez</p>
           </div>
@@ -570,12 +644,11 @@
     <div style="background: #fef3c7; padding: 2rem; border-radius: 1rem; border: 2px dashed #d97706;">
       <h3 style="color: #92400e; margin-bottom: 1rem;">📝 Design Notes for Justin</h3>
       <ul style="color: #78350f; line-height: 1.8;">
-        <li><strong>Purpose:</strong> This is the one-pager Dianna hands to her principal. "Look what my class accomplished."</li>
-        <li><strong>Print-Ready:</strong> Click "Print" — it's styled for clean PDF/print output.</li>
-        <li><strong>Data-Driven:</strong> All stats would pull from the platform automatically.</li>
-        <li><strong>Customizable:</strong> Instructor can choose reporting period, featured student, and add their own quote.</li>
-        <li><strong>Standards Alignment:</strong> The footer text adapts based on state (we'd have templates for each).</li>
-        <li><strong>Shareable:</strong> Can be downloaded as PDF or shared via unique link.</li>
+        <li><strong>Reframed:</strong> Now focuses on life skills (interviews, resumes, negotiations, budgets) — NOT business plans.</li>
+        <li><strong>Key Metrics:</strong> Completion rate, assessment scores, AI scenarios completed, skills practiced.</li>
+        <li><strong>Comparison Table:</strong> Shows how this class performs vs. platform average — makes the instructor look good.</li>
+        <li><strong>Print-Ready:</strong> Click Print — it's styled for clean PDF output.</li>
+        <li><strong>For Admins:</strong> This is what Dianna hands to her principal to show what her students accomplished.</li>
       </ul>
     </div>
   </div>

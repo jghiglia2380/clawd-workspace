@@ -54,7 +54,7 @@
     .success-showcase {
       background: linear-gradient(180deg, var(--cover-color-three) 0%, var(--bg-primary) 100%);
       padding: 3rem 0 4rem;
-      margin-top: -1px; /* Seamless connection to hero */
+      margin-top: -1px;
     }
     
     .showcase-header {
@@ -70,6 +70,44 @@
     
     .showcase-header p {
       color: var(--cover-text-secondary);
+    }
+    
+    /* Aggregate stats bar */
+    .aggregate-stats {
+      display: flex;
+      justify-content: center;
+      gap: 3rem;
+      padding: 1.5rem;
+      background: rgba(255,255,255,0.1);
+      border-radius: 1rem;
+      margin-bottom: 2rem;
+    }
+    
+    .aggregate-stat {
+      text-align: center;
+    }
+    
+    .aggregate-stat-value {
+      font-size: 2rem;
+      font-weight: 700;
+      color: #fff;
+    }
+    
+    .aggregate-stat-label {
+      font-size: 0.75rem;
+      color: var(--cover-text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    
+    @media (max-width: 640px) {
+      .aggregate-stats {
+        flex-wrap: wrap;
+        gap: 1.5rem;
+      }
+      .aggregate-stat {
+        flex: 1 1 40%;
+      }
     }
     
     .showcase-tabs {
@@ -127,16 +165,17 @@
     }
     
     .showcase-card-image {
-      height: 120px;
+      height: 100px;
       background: linear-gradient(135deg, #e0e7ff, #c7d2fe);
       display: flex;
       align-items: center;
       justify-content: center;
+      padding: 1rem;
     }
     
-    .showcase-card-icon {
-      width: 64px;
-      height: 64px;
+    .skill-icon {
+      width: 56px;
+      height: 56px;
       background: #fff;
       border-radius: 50%;
       display: flex;
@@ -154,13 +193,14 @@
       font-size: 1.125rem;
       font-weight: 700;
       color: var(--text-primary);
-      margin-bottom: 0.25rem;
+      margin-bottom: 0.5rem;
     }
     
-    .showcase-card-meta {
-      font-size: 0.8125rem;
-      color: var(--text-muted);
+    .showcase-card-desc {
+      font-size: 0.875rem;
+      color: var(--text-secondary);
       margin-bottom: 1rem;
+      line-height: 1.5;
     }
     
     .showcase-card-stats {
@@ -198,44 +238,6 @@
       color: #fff;
     }
     
-    /* Aggregate stats bar */
-    .aggregate-stats {
-      display: flex;
-      justify-content: center;
-      gap: 3rem;
-      padding: 1.5rem;
-      background: rgba(255,255,255,0.1);
-      border-radius: 1rem;
-      margin-bottom: 2rem;
-    }
-    
-    .aggregate-stat {
-      text-align: center;
-    }
-    
-    .aggregate-stat-value {
-      font-size: 2rem;
-      font-weight: 700;
-      color: #fff;
-    }
-    
-    .aggregate-stat-label {
-      font-size: 0.75rem;
-      color: var(--cover-text-secondary);
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-    }
-    
-    @media (max-width: 640px) {
-      .aggregate-stats {
-        flex-wrap: wrap;
-        gap: 1.5rem;
-      }
-      .aggregate-stat {
-        flex: 1 1 40%;
-      }
-    }
-    
     /* Rest of page placeholder */
     .page-section {
       padding: 4rem 0;
@@ -263,11 +265,11 @@
     </div>
   </header>
 
-  <!-- Hero Section (Matches current site) -->
+  <!-- Hero Section -->
   <section class="hero">
     <div class="container">
       <h1>Financial Literacy That Actually Sticks</h1>
-      <p>Standards-aligned curriculum with hands-on simulations, AI-powered tools, and real-world skill builders that prepare students for actual financial decisions.</p>
+      <p>Standards-aligned curriculum with hands-on simulations, AI-powered practice scenarios, and real-world skill builders that prepare students for actual financial decisions.</p>
       <div class="hero-buttons">
         <a href="#" class="btn-hero-primary">Book a Demo</a>
         <a href="#" class="btn-hero-secondary">Explore Curriculum →</a>
@@ -275,27 +277,27 @@
     </div>
   </section>
 
-  <!-- SUCCESS SHOWCASE SECTION - Right below H1 -->
+  <!-- SUCCESS SHOWCASE SECTION -->
   <section class="success-showcase">
     <div class="container">
       <div class="showcase-header">
-        <h2>See What Our Community is Building</h2>
-        <p>Real students. Real business plans. Real financial futures.</p>
+        <h2>Real Skills. Real Practice. Real Results.</h2>
+        <p>See what students are accomplishing across 45 chapters of hands-on financial literacy.</p>
       </div>
       
       <!-- Aggregate Stats -->
       <div class="aggregate-stats">
         <div class="aggregate-stat">
-          <div class="aggregate-stat-value">2,847</div>
-          <div class="aggregate-stat-label">Business Plans Created</div>
+          <div class="aggregate-stat-value">12,400+</div>
+          <div class="aggregate-stat-label">Students Enrolled</div>
         </div>
         <div class="aggregate-stat">
-          <div class="aggregate-stat-value">$14.2M</div>
-          <div class="aggregate-stat-label">Projected Revenue</div>
+          <div class="aggregate-stat-value">8,200+</div>
+          <div class="aggregate-stat-label">Mock Interviews</div>
         </div>
         <div class="aggregate-stat">
-          <div class="aggregate-stat-value">127</div>
-          <div class="aggregate-stat-label">Schools</div>
+          <div class="aggregate-stat-value">45</div>
+          <div class="aggregate-stat-label">Life Skill Chapters</div>
         </div>
         <div class="aggregate-stat">
           <div class="aggregate-stat-value">94%</div>
@@ -305,79 +307,81 @@
       
       <!-- Tabs -->
       <div class="showcase-tabs">
-        <button class="showcase-tab active">Student Projects</button>
+        <button class="showcase-tab active">Skills in Action</button>
         <button class="showcase-tab">Instructor Spotlights</button>
         <button class="showcase-tab">School Success</button>
       </div>
       
-      <!-- Cards Grid -->
+      <!-- Skills Cards Grid -->
       <div class="showcase-grid">
-        <!-- Student Project Card 1 -->
-        <div class="showcase-card">
-          <div class="showcase-card-image">
-            <div class="showcase-card-icon">🍪</div>
-          </div>
-          <div class="showcase-card-body">
-            <div class="showcase-card-title">Bright Bites Bakery</div>
-            <div class="showcase-card-meta">Jordan M. • Grade 11 • California</div>
-            <div class="showcase-card-stats">
-              <div class="showcase-stat">
-                <div class="showcase-stat-value">$12.4K</div>
-                <div class="showcase-stat-label">Projected</div>
-              </div>
-              <div class="showcase-stat">
-                <div class="showcase-stat-value">67%</div>
-                <div class="showcase-stat-label">Margin</div>
-              </div>
-            </div>
-          </div>
-        </div>
         
-        <!-- Student Project Card 2 -->
+        <!-- Skill Card 1: Interviews -->
         <div class="showcase-card">
           <div class="showcase-card-image" style="background: linear-gradient(135deg, #dbeafe, #bfdbfe);">
-            <div class="showcase-card-icon">📱</div>
+            <div class="skill-icon">🎤</div>
           </div>
           <div class="showcase-card-body">
-            <div class="showcase-card-title">Pet Pal App</div>
-            <div class="showcase-card-meta">Alex T. • Grade 10 • Texas</div>
+            <div class="showcase-card-title">Mock Interview Practice</div>
+            <div class="showcase-card-desc">Students practice job interviews with AI, get real-time feedback, and review recordings to improve.</div>
             <div class="showcase-card-stats">
               <div class="showcase-stat">
-                <div class="showcase-stat-value">$45K</div>
-                <div class="showcase-stat-label">Projected</div>
+                <div class="showcase-stat-value">8,247</div>
+                <div class="showcase-stat-label">Interviews</div>
               </div>
               <div class="showcase-stat">
-                <div class="showcase-stat-value">82%</div>
-                <div class="showcase-stat-label">Margin</div>
+                <div class="showcase-stat-value">89%</div>
+                <div class="showcase-stat-label">Improved</div>
               </div>
             </div>
           </div>
         </div>
         
-        <!-- Student Project Card 3 -->
+        <!-- Skill Card 2: Resume Building -->
         <div class="showcase-card">
           <div class="showcase-card-image" style="background: linear-gradient(135deg, #d1fae5, #a7f3d0);">
-            <div class="showcase-card-icon">🌿</div>
+            <div class="skill-icon">📄</div>
           </div>
           <div class="showcase-card-body">
-            <div class="showcase-card-title">Green Clean Co.</div>
-            <div class="showcase-card-meta">Sam K. • Grade 12 • New York</div>
+            <div class="showcase-card-title">Resume Building</div>
+            <div class="showcase-card-desc">Students create professional resumes with guided templates, ready for their first job applications.</div>
             <div class="showcase-card-stats">
               <div class="showcase-stat">
-                <div class="showcase-stat-value">$8.2K</div>
-                <div class="showcase-stat-label">Projected</div>
+                <div class="showcase-stat-value">6,842</div>
+                <div class="showcase-stat-label">Resumes</div>
               </div>
               <div class="showcase-stat">
-                <div class="showcase-stat-value">54%</div>
-                <div class="showcase-stat-label">Margin</div>
+                <div class="showcase-stat-value">100%</div>
+                <div class="showcase-stat-label">Portfolio-Ready</div>
               </div>
             </div>
           </div>
         </div>
+        
+        <!-- Skill Card 3: Negotiation -->
+        <div class="showcase-card">
+          <div class="showcase-card-image" style="background: linear-gradient(135deg, #fef3c7, #fde68a);">
+            <div class="skill-icon">🤝</div>
+          </div>
+          <div class="showcase-card-body">
+            <div class="showcase-card-title">Real-World Negotiations</div>
+            <div class="showcase-card-desc">Practice negotiating with landlords, roommates, and employers through AI-simulated scenarios.</div>
+            <div class="showcase-card-stats">
+              <div class="showcase-stat">
+                <div class="showcase-stat-value">4,128</div>
+                <div class="showcase-stat-label">Scenarios</div>
+              </div>
+              <div class="showcase-stat">
+                <div class="showcase-stat-value">92%</div>
+                <div class="showcase-stat-label">Confidence</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
       </div>
       
       <div class="showcase-cta">
-        <a href="02-student-showcase-gallery.html" class="btn">View All Student Projects →</a>
+        <a href="02-skills-showcase.html" class="btn">Explore All 45 Chapters →</a>
       </div>
     </div>
   </section>
@@ -396,11 +400,11 @@
   <div style="background: #fef3c7; padding: 2rem; margin: 2rem; border-radius: 1rem; border: 2px dashed #d97706;">
     <h3 style="color: #92400e; margin-bottom: 1rem;">📝 Design Notes for Justin</h3>
     <ul style="color: #78350f; line-height: 1.8;">
-      <li><strong>Placement:</strong> The Success Showcase sits immediately below the hero H1, creating a seamless gradient transition.</li>
-      <li><strong>Tabs:</strong> Three views — Student Projects, Instructor Spotlights, School Success — each with their own card format.</li>
-      <li><strong>Aggregate Stats:</strong> Big numbers at the top for immediate social proof (adjust as real data becomes available).</li>
-      <li><strong>Cards:</strong> Clickable, leading to individual portfolio pages (see 03-student-portfolio.html).</li>
-      <li><strong>The Loop:</strong> This drives organic discovery → visitors see success → want to join → create their own success → gets featured.</li>
+      <li><strong>Reframed:</strong> Now focuses on life skills (interviews, resumes, negotiations) — NOT business plans.</li>
+      <li><strong>Aggregate Stats:</strong> Emphasizes skills practiced, not revenue projections.</li>
+      <li><strong>Privacy-First:</strong> Shows skill categories and aggregate numbers, not individual student work.</li>
+      <li><strong>The Loop:</strong> Prospective schools see what skills students gain → want to adopt → their students practice → stats grow.</li>
+      <li><strong>Three Tabs:</strong> Skills in Action / Instructor Spotlights / School Success</li>
     </ul>
   </div>
 </body>

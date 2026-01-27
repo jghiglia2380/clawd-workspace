@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Skills Showcase | PFL Academy</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    .page-hero {
+      background: linear-gradient(135deg, var(--cover-color-one), var(--cover-color-two));
+      padding: 4rem 0;
+      color: #fff;
+      text-align: center;
+    }
+    
+    .page-hero h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+    }
+    
+    .page-hero p {
+      color: var(--cover-text-secondary);
+      font-size: 1.125rem;
+    }
+    
+    .stats-bar {
+      display: flex;
+      justify-content: center;
+      gap: 3rem;
+      margin-top: 2rem;
+      padding: 1.5rem;
+      background: rgba(255,255,255,0.1);
+      border-radius: 1rem;
+      max-width: 900px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    
+    .stats-bar-item {
+      text-align: center;
+    }
+    
+    .stats-bar-value {
+      font-size: 1.75rem;
+      font-weight: 700;
+    }
+    
+    .stats-bar-label {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      opacity: 0.8;
+    }
+    
+    @media (max-width: 768px) {
+      .stats-bar {
+        flex-wrap: wrap;
+        gap: 1.5rem;
+      }
+      .stats-bar-item {
+        flex: 1 1 40%;
+      }
+    }
+    
+    .content-section {
+      padding: 3rem 0;
+      background: var(--bg-primary);
+    }
+    
+    .section-header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    
+    .section-header h2 {
+      font-size: 1.75rem;
+      margin-bottom: 0.5rem;
+    }
+    
+    .section-header p {
+      color: var(--text-secondary);
+    }
+    
+    /* Skill Category Cards */
+    .category-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.5rem;
+      margin-bottom: 3rem;
+    }
+    
+    @media (max-width: 1024px) {
+      .category-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+    
+    @media (max-width: 640px) {
+      .category-grid { grid-template-columns: 1fr; }
+    }
+    
+    .category-card {
+      background: #fff;
+      border-radius: 1rem;
+      overflow: hidden;
+      box-shadow: var(--shadow-md);
+      transition: all 0.2s;
+      cursor: pointer;
+      text-decoration: none;
+      color: inherit;
+    }
+    
+    .category-card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--shadow-xl);
+    }
+    
+    .category-header {
+      padding: 1.5rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+    
+    .category-icon {
+      width: 56px;
+      height: 56px;
+      border-radius: 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.75rem;
+    }
+    
+    .category-title {
+      font-size: 1.25rem;
+      font-weight: 700;
+    }
+    
+    .category-subtitle {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+    }
+    
+    .category-body {
+      padding: 0 1.5rem 1.5rem;
+    }
+    
+    .category-desc {
+      font-size: 0.9375rem;
+      color: var(--text-secondary);
+      line-height: 1.6;
+      margin-bottom: 1rem;
+    }
+    
+    .category-chapters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+    }
+    
+    .chapter-tag {
+      font-size: 0.75rem;
+      padding: 0.25rem 0.625rem;
+      background: var(--bg-light);
+      border-radius: 9999px;
+      color: var(--text-muted);
+    }
+    
+    .category-stats {
+      display: flex;
+      gap: 1.5rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--border-light);
+    }
+    
+    .category-stat {
+      text-align: center;
+      flex: 1;
+    }
+    
+    .category-stat-value {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--accent);
+    }
+    
+    .category-stat-label {
+      font-size: 0.6875rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+    }
+    
+    /* Sample Work Section */
+    .sample-work-section {
+      background: #fff;
+      padding: 3rem 0;
+      border-top: 1px solid var(--border-light);
+      border-bottom: 1px solid var(--border-light);
+    }
+    
+    .sample-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 2rem;
+    }
+    
+    @media (max-width: 768px) {
+      .sample-grid { grid-template-columns: 1fr; }
+    }
+    
+    .sample-card {
+      background: var(--bg-light);
+      border-radius: 1rem;
+      overflow: hidden;
+    }
+    
+    .sample-card-header {
+      background: linear-gradient(135deg, var(--cover-color-one), var(--cover-color-two));
+      color: #fff;
+      padding: 1rem 1.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    
+    .sample-card-title {
+      font-weight: 600;
+    }
+    
+    .sample-badge {
+      font-size: 0.75rem;
+      background: rgba(255,255,255,0.2);
+      padding: 0.25rem 0.5rem;
+      border-radius: 9999px;
+    }
+    
+    .sample-card-body {
+      padding: 1.5rem;
+    }
+    
+    .sample-preview {
+      background: #fff;
+      border: 1px solid var(--border-light);
+      border-radius: 0.5rem;
+      padding: 1rem;
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+      margin-bottom: 1rem;
+    }
+    
+    .sample-preview h4 {
+      font-size: 0.9375rem;
+      color: var(--text-primary);
+      margin-bottom: 0.5rem;
+    }
+    
+    .sample-preview ul {
+      margin-left: 1rem;
+      margin-top: 0.5rem;
+    }
+    
+    .sample-preview li {
+      margin-bottom: 0.25rem;
+    }
+    
+    .redacted {
+      background: var(--text-muted);
+      color: var(--text-muted);
+      border-radius: 2px;
+      user-select: none;
+    }
+    
+    .sample-note {
+      font-size: 0.8125rem;
+      color: var(--text-muted);
+      font-style: italic;
+    }
+    
+    /* AI Scenarios Section */
+    .scenarios-section {
+      padding: 3rem 0;
+      background: var(--bg-primary);
+    }
+    
+    .scenario-card {
+      background: #fff;
+      border-radius: 1rem;
+      padding: 2rem;
+      box-shadow: var(--shadow-md);
+      margin-bottom: 1.5rem;
+    }
+    
+    .scenario-header {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+    }
+    
+    .scenario-icon {
+      width: 48px;
+      height: 48px;
+      background: var(--bg-accent-light);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+    }
+    
+    .scenario-title {
+      font-size: 1.25rem;
+      font-weight: 700;
+    }
+    
+    .scenario-subtitle {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+    }
+    
+    .scenario-conversation {
+      background: var(--bg-light);
+      border-radius: 0.75rem;
+      padding: 1.25rem;
+      margin-bottom: 1rem;
+    }
+    
+    .message {
+      display: flex;
+      gap: 0.75rem;
+      margin-bottom: 1rem;
+    }
+    
+    .message:last-child {
+      margin-bottom: 0;
+    }
+    
+    .message-avatar {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.875rem;
+      flex-shrink: 0;
+    }
+    
+    .message-avatar.ai {
+      background: var(--accent);
+      color: #fff;
+    }
+    
+    .message-avatar.student {
+      background: var(--bg-accent-light);
+      color: var(--accent);
+    }
+    
+    .message-content {
+      background: #fff;
+      padding: 0.75rem 1rem;
+      border-radius: 0.5rem;
+      font-size: 0.9375rem;
+      color: var(--text-secondary);
+      max-width: 85%;
+    }
+    
+    .message-label {
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      margin-bottom: 0.25rem;
+    }
+    
+    .scenario-stats {
+      display: flex;
+      gap: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--border-light);
+    }
+    
+    .scenario-stat {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.875rem;
+      color: var(--text-muted);
+    }
+    
+    .scenario-stat strong {
+      color: var(--accent);
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="container header-content">
+      <a href="01-landing-with-showcase.html" class="logo">PFL Academy</a>
+      <nav class="nav-links">
+        <a href="#" class="nav-link">Curriculum</a>
+        <a href="04-instructor-profile.html" class="nav-link">Educators</a>
+        <a href="#" class="nav-link" style="color: var(--accent);">Skills Showcase</a>
+        <a href="#" class="btn btn-primary btn-sm">Sign In</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Page Hero -->
+  <section class="page-hero">
+    <div class="container">
+      <h1>Skills Showcase</h1>
+      <p>45 chapters of hands-on financial literacy — skills students actually use</p>
+      
+      <div class="stats-bar">
+        <div class="stats-bar-item">
+          <div class="stats-bar-value">45</div>
+          <div class="stats-bar-label">Skill Chapters</div>
+        </div>
+        <div class="stats-bar-item">
+          <div class="stats-bar-value">12,400+</div>
+          <div class="stats-bar-label">Students</div>
+        </div>
+        <div class="stats-bar-item">
+          <div class="stats-bar-value">8,200+</div>
+          <div class="stats-bar-label">AI Scenarios Completed</div>
+        </div>
+        <div class="stats-bar-item">
+          <div class="stats-bar-value">94%</div>
+          <div class="stats-bar-label">Completion Rate</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Skill Categories -->
+  <section class="content-section">
+    <div class="container">
+      <div class="section-header">
+        <h2>Skill Categories</h2>
+        <p>Every chapter builds real-world competency students will use for life</p>
+      </div>
+      
+      <div class="category-grid">
+        
+        <!-- Career Readiness -->
+        <div class="category-card">
+          <div class="category-header">
+            <div class="category-icon" style="background: linear-gradient(135deg, #dbeafe, #bfdbfe);">💼</div>
+            <div>
+              <div class="category-title">Career Readiness</div>
+              <div class="category-subtitle">8 Chapters</div>
+            </div>
+          </div>
+          <div class="category-body">
+            <p class="category-desc">From resume building to salary negotiation, students practice the skills they'll need to land and succeed in their first job.</p>
+            <div class="category-chapters">
+              <span class="chapter-tag">Resumes</span>
+              <span class="chapter-tag">Cover Letters</span>
+              <span class="chapter-tag">Interviews</span>
+              <span class="chapter-tag">Networking</span>
+              <span class="chapter-tag">+4 more</span>
+            </div>
+            <div class="category-stats">
+              <div class="category-stat">
+                <div class="category-stat-value">6,842</div>
+                <div class="category-stat-label">Resumes Built</div>
+              </div>
+              <div class="category-stat">
+                <div class="category-stat-value">8,247</div>
+                <div class="category-stat-label">Mock Interviews</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Living on Your Own -->
+        <div class="category-card">
+          <div class="category-header">
+            <div class="category-icon" style="background: linear-gradient(135deg, #fef3c7, #fde68a);">🏠</div>
+            <div>
+              <div class="category-title">Living on Your Own</div>
+              <div class="category-subtitle">7 Chapters</div>
+            </div>
+          </div>
+          <div class="category-body">
+            <p class="category-desc">Apartment hunting, lease negotiation, roommate agreements, and utility management — adulting skills made practical.</p>
+            <div class="category-chapters">
+              <span class="chapter-tag">Renting</span>
+              <span class="chapter-tag">Leases</span>
+              <span class="chapter-tag">Roommates</span>
+              <span class="chapter-tag">Utilities</span>
+              <span class="chapter-tag">+3 more</span>
+            </div>
+            <div class="category-stats">
+              <div class="category-stat">
+                <div class="category-stat-value">4,128</div>
+                <div class="category-stat-label">Negotiations</div>
+              </div>
+              <div class="category-stat">
+                <div class="category-stat-value">92%</div>
+                <div class="category-stat-label">Confidence</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Budgeting & Saving -->
+        <div class="category-card">
+          <div class="category-header">
+            <div class="category-icon" style="background: linear-gradient(135deg, #d1fae5, #a7f3d0);">💰</div>
+            <div>
+              <div class="category-title">Budgeting & Saving</div>
+              <div class="category-subtitle">6 Chapters</div>
+            </div>
+          </div>
+          <div class="category-body">
+            <p class="category-desc">Students create personalized budgets, set savings goals, and learn to manage money before they're on their own.</p>
+            <div class="category-chapters">
+              <span class="chapter-tag">Budgets</span>
+              <span class="chapter-tag">Emergency Funds</span>
+              <span class="chapter-tag">Goals</span>
+              <span class="chapter-tag">Tracking</span>
+              <span class="chapter-tag">+2 more</span>
+            </div>
+            <div class="category-stats">
+              <div class="category-stat">
+                <div class="category-stat-value">9,450</div>
+                <div class="category-stat-label">Budgets Created</div>
+              </div>
+              <div class="category-stat">
+                <div class="category-stat-value">97%</div>
+                <div class="category-stat-label">Completion</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Banking & Credit -->
+        <div class="category-card">
+          <div class="category-header">
+            <div class="category-icon" style="background: linear-gradient(135deg, #e0e7ff, #c7d2fe);">🏦</div>
+            <div>
+              <div class="category-title">Banking & Credit</div>
+              <div class="category-subtitle">6 Chapters</div>
+            </div>
+          </div>
+          <div class="category-body">
+            <p class="category-desc">Checking accounts, credit scores, avoiding debt traps — the banking fundamentals every young adult needs.</p>
+            <div class="category-chapters">
+              <span class="chapter-tag">Accounts</span>
+              <span class="chapter-tag">Credit Scores</span>
+              <span class="chapter-tag">Loans</span>
+              <span class="chapter-tag">Debt</span>
+              <span class="chapter-tag">+2 more</span>
+            </div>
+            <div class="category-stats">
+              <div class="category-stat">
+                <div class="category-stat-value">85%</div>
+                <div class="category-stat-label">Avg Score</div>
+              </div>
+              <div class="category-stat">
+                <div class="category-stat-value">11,200</div>
+                <div class="category-stat-label">Simulations</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Insurance & Protection -->
+        <div class="category-card">
+          <div class="category-header">
+            <div class="category-icon" style="background: linear-gradient(135deg, #fce7f3, #fbcfe8);">🛡️</div>
+            <div>
+              <div class="category-title">Insurance & Protection</div>
+              <div class="category-subtitle">5 Chapters</div>
+            </div>
+          </div>
+          <div class="category-body">
+            <p class="category-desc">Health, auto, renter's insurance — understanding coverage before students need to make real decisions.</p>
+            <div class="category-chapters">
+              <span class="chapter-tag">Health</span>
+              <span class="chapter-tag">Auto</span>
+              <span class="chapter-tag">Renter's</span>
+              <span class="chapter-tag">Claims</span>
+              <span class="chapter-tag">+1 more</span>
+            </div>
+            <div class="category-stats">
+              <div class="category-stat">
+                <div class="category-stat-value">88%</div>
+                <div class="category-stat-label">Comprehension</div>
+              </div>
+              <div class="category-stat">
+                <div class="category-stat-value">5,400</div>
+                <div class="category-stat-label">Comparisons</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Taxes & Government -->
+        <div class="category-card">
+          <div class="category-header">
+            <div class="category-icon" style="background: linear-gradient(135deg, #fed7aa, #fdba74);">📋</div>
+            <div>
+              <div class="category-title">Taxes & Government</div>
+              <div class="category-subtitle">4 Chapters</div>
+            </div>
+          </div>
+          <div class="category-body">
+            <p class="category-desc">W-4s, tax returns, understanding paystubs — demystifying the paperwork of adult life.</p>
+            <div class="category-chapters">
+              <span class="chapter-tag">W-4s</span>
+              <span class="chapter-tag">Filing Taxes</span>
+              <span class="chapter-tag">Paystubs</span>
+              <span class="chapter-tag">Benefits</span>
+            </div>
+            <div class="category-stats">
+              <div class="category-stat">
+                <div class="category-stat-value">7,800</div>
+                <div class="category-stat-label">Forms Practiced</div>
+              </div>
+              <div class="category-stat">
+                <div class="category-stat-value">91%</div>
+                <div class="category-stat-label">Confidence</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </section>
+
+  <!-- Sample Work Section -->
+  <section class="sample-work-section">
+    <div class="container">
+      <div class="section-header">
+        <h2>Sample Student Work</h2>
+        <p>Anonymized examples of what students create in PFL Academy</p>
+      </div>
+      
+      <div class="sample-grid">
+        <!-- Sample Resume -->
+        <div class="sample-card">
+          <div class="sample-card-header">
+            <span class="sample-card-title">📄 Sample Resume</span>
+            <span class="sample-badge">Chapter 12</span>
+          </div>
+          <div class="sample-card-body">
+            <div class="sample-preview">
+              <h4><span class="redacted">Student Name</span></h4>
+              <p><span class="redacted">email@school.edu</span> • <span class="redacted">(555) 123-4567</span></p>
+              <p style="margin-top: 0.75rem;"><strong>Objective:</strong> Seeking a part-time position where I can apply my customer service skills and contribute to a positive team environment.</p>
+              <p style="margin-top: 0.75rem;"><strong>Experience:</strong></p>
+              <ul>
+                <li>Volunteer, Local Food Bank (2024-Present)</li>
+                <li>Babysitter, Private Families (2023-Present)</li>
+              </ul>
+              <p style="margin-top: 0.75rem;"><strong>Skills:</strong> Communication, Time Management, Microsoft Office, Spanish (conversational)</p>
+            </div>
+            <p class="sample-note">Personal information redacted for privacy. Students download their actual resumes for personal use.</p>
+          </div>
+        </div>
+        
+        <!-- Sample Budget -->
+        <div class="sample-card">
+          <div class="sample-card-header">
+            <span class="sample-card-title">💰 Sample Monthly Budget</span>
+            <span class="sample-badge">Chapter 18</span>
+          </div>
+          <div class="sample-card-body">
+            <div class="sample-preview">
+              <h4>Monthly Budget Plan</h4>
+              <p><strong>Scenario:</strong> First apartment after graduation</p>
+              <p style="margin-top: 0.75rem;"><strong>Income:</strong> $2,400/month (entry-level job)</p>
+              <p style="margin-top: 0.5rem;"><strong>Expenses:</strong></p>
+              <ul>
+                <li>Rent: $800 (33%)</li>
+                <li>Utilities: $120 (5%)</li>
+                <li>Food: $350 (15%)</li>
+                <li>Transportation: $280 (12%)</li>
+                <li>Savings: $240 (10%)</li>
+                <li>Personal: $310 (13%)</li>
+                <li>Emergency Fund: $300 (12%)</li>
+              </ul>
+            </div>
+            <p class="sample-note">Students create personalized budgets based on their own goals and local cost of living.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- AI Practice Scenarios -->
+  <section class="scenarios-section">
+    <div class="container">
+      <div class="section-header">
+        <h2>AI Practice Scenarios</h2>
+        <p>Students practice real conversations with AI — then review recordings with their teachers</p>
+      </div>
+      
+      <!-- Interview Scenario -->
+      <div class="scenario-card">
+        <div class="scenario-header">
+          <div class="scenario-icon">🎤</div>
+          <div>
+            <div class="scenario-title">Mock Job Interview</div>
+            <div class="scenario-subtitle">Career Readiness • Chapter 14</div>
+          </div>
+        </div>
+        
+        <div class="scenario-conversation">
+          <div class="message">
+            <div class="message-avatar ai">AI</div>
+            <div class="message-content">
+              <div class="message-label">Hiring Manager</div>
+              "Thanks for coming in today. Can you tell me about a time you had to work with a difficult team member?"
+            </div>
+          </div>
+          <div class="message">
+            <div class="message-avatar student">S</div>
+            <div class="message-content">
+              <div class="message-label">Student Response</div>
+              "In my group project last semester, one member wasn't contributing. Instead of complaining, I scheduled a one-on-one to understand their situation. It turned out they were struggling with the material, so I helped them catch up..."
+            </div>
+          </div>
+          <div class="message">
+            <div class="message-avatar ai">AI</div>
+            <div class="message-content">
+              <div class="message-label">Hiring Manager</div>
+              "That's a great example of problem-solving. What would you say is your biggest weakness?"
+            </div>
+          </div>
+        </div>
+        
+        <div class="scenario-stats">
+          <div class="scenario-stat">
+            🎯 <strong>8,247</strong> interviews completed
+          </div>
+          <div class="scenario-stat">
+            📈 <strong>89%</strong> improved after review
+          </div>
+          <div class="scenario-stat">
+            ⏱️ <strong>12 min</strong> avg duration
+          </div>
+        </div>
+      </div>
+      
+      <!-- Landlord Scenario -->
+      <div class="scenario-card">
+        <div class="scenario-header">
+          <div class="scenario-icon">🏠</div>
+          <div>
+            <div class="scenario-title">Negotiating with a Landlord</div>
+            <div class="scenario-subtitle">Living on Your Own • Chapter 22</div>
+          </div>
+        </div>
+        
+        <div class="scenario-conversation">
+          <div class="message">
+            <div class="message-avatar ai">AI</div>
+            <div class="message-content">
+              <div class="message-label">Landlord</div>
+              "The rent is $1,200 per month, first and last month due at signing, plus a $500 security deposit."
+            </div>
+          </div>
+          <div class="message">
+            <div class="message-avatar student">S</div>
+            <div class="message-content">
+              <div class="message-label">Student Response</div>
+              "I noticed similar units in this area are listed around $1,100. Given that I have strong references and can sign a 12-month lease, would you consider $1,150?"
+            </div>
+          </div>
+          <div class="message">
+            <div class="message-avatar ai">AI</div>
+            <div class="message-content">
+              <div class="message-label">Landlord</div>
+              "I appreciate you doing your research. I could do $1,175 if you can move in by the first of the month."
+            </div>
+          </div>
+        </div>
+        
+        <div class="scenario-stats">
+          <div class="scenario-stat">
+            🤝 <strong>4,128</strong> negotiations practiced
+          </div>
+          <div class="scenario-stat">
+            💪 <strong>92%</strong> feel more confident
+          </div>
+          <div class="scenario-stat">
+            💵 <strong>$180</strong> avg "savings" negotiated
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section style="background: linear-gradient(135deg, var(--cover-color-one), var(--cover-color-two)); padding: 4rem 0; text-align: center; color: #fff;">
+    <div class="container">
+      <h2 style="margin-bottom: 1rem;">Prepare Your Students for Real Life</h2>
+      <p style="opacity: 0.9; margin-bottom: 2rem; max-width: 600px; margin-left: auto; margin-right: auto;">45 chapters of hands-on, AI-powered financial literacy curriculum. Standards-aligned. Gradebook-ready.</p>
+      <a href="#" class="btn" style="background: #fff; color: var(--accent);">Book a Demo →</a>
+    </div>
+  </section>
+</body>
+</html>
