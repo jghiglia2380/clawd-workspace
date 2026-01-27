@@ -2,34 +2,37 @@
 
 Skills define *how* tools work. This file is for *your* specifics — the stuff that's unique to your setup.
 
-## What Goes Here
+## Design Resources
 
-Things like:
-- Camera names and locations
-- SSH hosts and aliases  
-- Preferred voices for TTS
-- Speaker/room names
-- Device nicknames
-- Anything environment-specific
+### UI Layout Inspiration
+- **@rasmic** (Ras Mic) — youtube.com/@rasmic
+  - Friend of Greg Isenberg podcast
+  - UI layout toolkits, bento box designs
+  - Source of PFL Academy layout inspiration
+  - Key concept: Bento box grid layouts for showcases
 
-## Examples
+### AI Video Generation
+- **HeyGen** — For placeholder testimonial clips
+  - Use for fake student testimonials until real ones exist
+  - Format: "Maria M. from Colorado" style
 
-```markdown
-### Cameras
-- living-room → Main area, 180° wide angle
-- front-door → Entrance, motion-triggered
+## Platform Credentials
 
-### SSH
-- home-server → 192.168.1.100, user: admin
+### PFL Academy (pflacademy.co)
+- Student: Student@pflacademy.co / Student1234!
+- Teacher: Teacher@pflacademy.co / Teacher1234!
+- Admin: Admin@pflacademy.co / Admin1234!
 
-### TTS
-- Preferred voice: "Nova" (warm, slightly British)
-- Default speaker: Kitchen HomePod
-```
+## Repositories
 
-## Why Separate?
+### Bitbucket (PFL Academy codebase)
+- Repo: sebastian_lucaciu/pfl-academy
+- Helper script: /home/ubuntu/clawd/scripts/bitbucket-helper.sh
 
-Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
+### GitHub (Workspace)
+- Repo: jghiglia2380/clawd-workspace
+- Status: Public (for GitHub Pages)
+- Live prototypes: jghiglia2380.github.io/clawd-workspace/
 
 ---
 
