@@ -23,11 +23,22 @@ Skills define *how* tools work. This file is for *your* specifics — the stuff 
 - Teacher: Teacher@pflacademy.co / Teacher1234!
 - Admin: Admin@pflacademy.co / Admin1234!
 
+## API Keys (Environment Variables)
+Keys stored in `~/.bashrc` — NOT in workspace files.
+
+| Service | Env Variable | Status |
+|---------|--------------|--------|
+| HubSpot | `$HUBSPOT_API_KEY` | ✅ Active |
+| Strapi | `$STRAPI_API_KEY` | ✅ Active |
+| GitHub | `$GITHUB_TOKEN` | ✅ Active |
+
+Access via: `echo $HUBSPOT_API_KEY` or in scripts.
+
 ## Repositories
 
 ### Bitbucket (PFL Academy codebase)
 - Repo: sebastian_lucaciu/pfl-academy
-- Helper script: /home/ubuntu/clawd/scripts/bitbucket-helper.sh
+- Access: Revoked (Seb changed password)
 
 ### GitHub (Workspace)
 - Repo: jghiglia2380/clawd-workspace
