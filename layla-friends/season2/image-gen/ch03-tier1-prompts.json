@@ -1,0 +1,137 @@
+{
+  "chapter": 3,
+  "tier": 1,
+  "title": "THE BUSY SATURDAY",
+  "style_prefix": "Children's book illustration, warm painterly style with soft brush strokes. NO TEXT IN IMAGE. ",
+  "character_refs": {
+    "layla": "Layla - girl with curly dark brown hair, yellow bow on top, teal hoodie with golden sun design",
+    "riley": "Riley - girl with straight dark hair, pink bow, purple dress with white stars",
+    "ellis": "Ellis - boy with blonde hair, blue eyes, orange and blue soccer jersey",
+    "benny": "Benny - friendly brown teddy bear character wearing green plaid scarf",
+    "mrs_patterson": "Mrs. Patterson - friendly older Black woman with warm smile",
+    "frances": "Frances - elderly Latina woman with silver hair, gardening apron",
+    "mr_johnson": "Mr. Johnson - older man with friendly expression"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "script": "The friends met on Saturday morning. They did not know what to do yet. Then some neighbors came over. The neighbors needed help with things.",
+      "prompt": "Four friends gathered on a porch on Saturday morning. Neighbors approaching - Mrs. Patterson, Frances, and Mr. Johnson. Morning light, suburban setting. Friends look curious.",
+      "characters": ["layla", "riley", "ellis", "benny", "mrs_patterson", "frances", "mr_johnson"]
+    },
+    {
+      "scene": 2,
+      "script": "Mrs. Patterson said, 'My garage is messy. Can you help?' Frances said, 'My garden has weeds.' Mr. Johnson said, 'Can you give out these papers?'",
+      "prompt": "Three neighbors talking to the four friends. Mrs. Patterson gesturing toward her house, Frances with gardening gloves, Mr. Johnson holding a stack of papers. Friends listening.",
+      "characters": ["layla", "riley", "ellis", "benny", "mrs_patterson", "frances", "mr_johnson"]
+    },
+    {
+      "scene": 3,
+      "script": "'Let's help everyone!' said Layla. They went to the garage first. 'We can all work on it together,' she said. The garage was very messy.",
+      "prompt": "Four friends entering a very messy garage. Boxes stacked haphazardly, tools scattered, items everywhere. Layla leading the way enthusiastically. Overwhelming clutter visible.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 4,
+      "script": "Everyone started working. But it was hard! Benny moved a box. Ellis was using it. Riley and Layla grabbed the same lamp. They kept bumping into each other.",
+      "prompt": "Chaotic scene in garage. Benny pulling a box Ellis needs, Riley and Layla both reaching for the same lamp, friends bumping into each other. Confused expressions.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 5,
+      "script": "Time went by slowly. The garage still looked messy. Mrs. Patterson came to look. 'How is it going?' she asked. Layla sighed.",
+      "prompt": "Mrs. Patterson at garage doorway looking in. Garage still messy despite effort. Layla sighing with tired expression. Friends looking frustrated. Not much progress visible.",
+      "characters": ["layla", "riley", "ellis", "benny", "mrs_patterson"]
+    },
+    {
+      "scene": 6,
+      "script": "Ellis had an idea. 'We keep getting in each other's way,' he said. 'What if each person did ONE job?' The friends stopped to think.",
+      "prompt": "Ellis with finger raised having an idea. Other three friends stopped working, looking at Ellis with interest. Light bulb moment. Messy garage in background.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 7,
+      "script": "They gave each person a job. Benny would carry heavy boxes. He was strong. Ellis would sort things. He was neat. Riley would make things look nice. Layla would be the leader.",
+      "prompt": "Four friends in a huddle, each gesturing to indicate their role. Benny flexing muscles, Ellis pointing to organized area, Riley gesturing artistically, Layla in leader pose.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 8,
+      "script": "Now everyone had their own job. They started working again. This time was different. No more bumping. Everyone knew what to do. It felt much better!",
+      "prompt": "Organized teamwork in garage. Benny carrying boxes to one spot, Ellis sorting items, Riley arranging nicely, Layla directing. Smooth operation, happy expressions.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 9,
+      "script": "The garage looked amazing! Boxes were in neat piles. Tools hung on the wall. There was room to walk. 'We did it!' said Riley.",
+      "prompt": "Beautifully organized garage. Boxes in neat labeled piles, tools hanging on wall hooks, clean floor with walking space. Four proud friends admiring their work.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 10,
+      "script": "Mrs. Patterson came back. 'Wow!' she said. 'This is great!' She smiled at them. 'When each person does what they are good at, the team works better.'",
+      "prompt": "Mrs. Patterson standing in clean garage doorway looking amazed and delighted. Four friends beaming with pride. Transformed organized garage visible.",
+      "characters": ["layla", "riley", "ellis", "benny", "mrs_patterson"]
+    },
+    {
+      "scene": 11,
+      "script": "Now they went to the garden. This time they had a plan. 'Let's pick jobs before we start,' said Layla. Everyone agreed.",
+      "prompt": "Four friends arriving at Frances's garden, hudding briefly to plan before starting. Garden with weeds visible. Layla speaking, others nodding. Strategic approach.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 12,
+      "script": "In the garden, everyone worked on their job. Benny pulled big weeds. Riley planted flowers. Ellis kept track of the work. Layla helped everyone. Frances watched them work.",
+      "prompt": "Garden scene with organized teamwork. Benny pulling large weeds, Riley planting colorful flowers, Ellis with clipboard, Layla moving between helpers. Frances watching approvingly.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 13,
+      "script": "The garden was done in one hour! It looked so pretty now. The friends gave high-fives. 'That was so fast!' said Benny.",
+      "prompt": "Beautiful finished garden with flowers planted. Four friends giving high-fives, celebrating. Weeds gone, garden looks lovely. Fast work completed. Joy on faces.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 14,
+      "script": "Next, they gave out the papers. Ellis made a plan for where to go. Everyone took a part of the neighborhood. Benny ran to the far houses.",
+      "prompt": "Ellis holding a simple map, pointing to different areas. Friends splitting up with stacks of papers. Benny running toward distant houses. Organized delivery plan.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 15,
+      "script": "They met back where they started. All the papers were gone. 'All done!' said Layla. 'And it's not even lunch time!'",
+      "prompt": "Four friends meeting back at starting point, empty hands showing papers delivered. Looking at sky/sun showing it's still morning. Triumphant expressions.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 16,
+      "script": "The friends sat on a porch. They ate snacks. 'That was a good day,' said Riley. 'I liked having my own job.' Ellis nodded.",
+      "prompt": "Four friends relaxing on porch steps, eating snacks. Content, satisfied expressions. Riley talking, Ellis nodding in agreement. Well-earned rest after good work.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 17,
+      "script": "They talked about their strengths. Benny was strong. Ellis was organized. Riley was creative. Layla was a good leader. 'We are a good team because we are different!'",
+      "prompt": "Four friends on porch in animated discussion about their strengths. Each friend with expression matching their strength - Benny proud, Ellis thoughtful, Riley artistic, Layla confident.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 18,
+      "script": "Layla thought about their market idea. 'We should not all bring the same thing to our market,' she said. 'We should each bring something different!'",
+      "prompt": "Layla with thoughtful then excited expression, connecting today's lesson to market idea. Other friends listening with growing understanding. Idea forming.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 19,
+      "script": "The friends imagined their market. 'I could make crafts,' said Riley. 'I could count things,' said Ellis. 'I could carry stuff,' said Benny. 'I could run it,' said Layla.",
+      "prompt": "Four friends on porch, each imagining their role. Dream bubble or thoughtful expressions. Riley with craft supplies, Ellis with numbers, Benny carrying, Layla leading.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 20,
+      "script": "'We work so well together,' said Layla. 'What if we made a REAL market?' The friends got excited. The idea was growing.",
+      "prompt": "Four friends leaning in together excitedly on porch. Layla speaking with big gestures, others looking thrilled. Golden afternoon light. Big plans forming.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    }
+  ]
+}

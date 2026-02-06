@@ -1,0 +1,137 @@
+{
+  "chapter": 9,
+  "tier": 1,
+  "title": "LA VECINA'S GARDEN",
+  "style_prefix": "Children's book illustration, warm painterly style with soft brush strokes. NO TEXT IN IMAGE. ",
+  "character_refs": {
+    "layla": "Layla - girl with curly dark brown hair, yellow bow on top, teal hoodie with golden sun design",
+    "riley": "Riley - girl with straight dark hair, pink bow, purple dress with white stars",
+    "ellis": "Ellis - boy with blonde hair, blue eyes, orange and blue soccer jersey",
+    "benny": "Benny - friendly brown teddy bear character wearing green plaid scarf",
+    "frances": "Frances - elderly Latina woman with silver hair, gardening apron, warm kind face",
+    "young_frances": "Young Frances - little Latina girl around 8 years old, simple dress, dark hair in braids",
+    "dona_carmen": "Doña Carmen - elderly Latina woman with white hair in bun, apron, gentle weathered face"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "script": "The friends walked down a sunny street. They were going to see Frances. 'Frances might have stories too,' said Layla. 'She has lived here a long time.'",
+      "prompt": "Four friends walking down sunny suburban street heading somewhere. Layla speaking with anticipation. Pleasant neighborhood setting.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 2,
+      "script": "They found Frances in her garden. She had dirt on her hands. Tomatoes and peppers grew all around her. She looked up and smiled. 'Hello! Come help me dig!'",
+      "prompt": "Frances in her flourishing garden, kneeling with dirt on hands. Tomatoes and peppers growing. Looking up warmly at arriving friends. Welcoming gesture.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 3,
+      "script": "Frances showed them the seeds from before. The tiny seeds were now small plants! 'Remember when these were so tiny?' she asked.",
+      "prompt": "Frances showing friends small growing plants in garden bed. Reference to seeds they planted before. Plants growing nicely. Proud moment.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 4,
+      "script": "The friends told Frances about their Community Market. They told her about Mr. Mason's stories. 'Do you have stories about markets too?' they asked.",
+      "prompt": "Friends gathered in garden talking animatedly to Frances. Telling her about their market plans. Frances listening with interest.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 5,
+      "script": "Frances got a special look in her eyes. It was the look people get when they remember something nice. 'I do have a story. Let me tell you about Doña Carmen.'",
+      "prompt": "Frances with distant remembering expression, touched by memory. Friends watching expectantly. Story about to begin.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 6,
+      "script": "The garden seemed to shimmer. Colors changed. Now they saw an old neighborhood. The houses looked different. The cars looked old. This was from a long time ago.",
+      "prompt": "Magical transition - Frances's garden fading into old neighborhood from decades ago. Older cars, different style houses. Warm nostalgic colors.",
+      "characters": []
+    },
+    {
+      "scene": 7,
+      "script": "A little girl walked down the street. It was young Frances! She had coins in her pocket. Her mama had sent her to buy tomatoes.",
+      "prompt": "Young Frances walking down old neighborhood street with coins in hand. Little girl on errand. Vintage neighborhood setting.",
+      "characters": ["young_frances"]
+    },
+    {
+      "scene": 8,
+      "script": "Young Frances came to a house. A small table sat in the front yard. Tomatoes, peppers, and herbs lay on the table. An old woman stood there. Her name was Doña Carmen.",
+      "prompt": "Young Frances arriving at Doña Carmen's yard stand. Simple table with fresh tomatoes, peppers, herbs. Doña Carmen standing behind table with warm smile.",
+      "characters": ["young_frances", "dona_carmen"]
+    },
+    {
+      "scene": 9,
+      "script": "'Hola, Francesita!' said Doña Carmen with a warm smile. She knew everyone in the neighborhood. 'How is your mama? How is school?'",
+      "prompt": "Doña Carmen greeting young Frances warmly by name. Neighborly personal connection. Caring expression, asking about family.",
+      "characters": ["young_frances", "dona_carmen"]
+    },
+    {
+      "scene": 10,
+      "script": "Doña Carmen helped young Frances pick the best tomatoes. 'Feel this one,' she said. 'See how it gives a little? That means it is ready.'",
+      "prompt": "Doña Carmen guiding young Frances's hand to feel tomato ripeness. Teaching moment. Gentle instruction about choosing produce.",
+      "characters": ["young_frances", "dona_carmen"]
+    },
+    {
+      "scene": 11,
+      "script": "Young Frances paid for the tomatoes. But Doña Carmen added extra peppers to the bag! 'For your mama,' she said. 'We are neighbors. This is how it works.'",
+      "prompt": "Doña Carmen adding extra peppers to young Frances's bag as a gift. Generous neighborly gesture. Young Frances looking grateful.",
+      "characters": ["young_frances", "dona_carmen"]
+    },
+    {
+      "scene": 12,
+      "script": "Young Frances walked home. She could see Doña Carmen's garden from the street. She knew exactly where her tomatoes grew. She knew who planted them.",
+      "prompt": "Young Frances walking home holding bag, looking back at Doña Carmen's garden visible from street. Personal connection to food source.",
+      "characters": ["young_frances"]
+    },
+    {
+      "scene": 13,
+      "script": "This was different from a big store. At the store, you do not know anyone. At Doña Carmen's, you are like family. Mama trusted Doña Carmen.",
+      "prompt": "Split visual or warm scene showing the personal connection - young Frances at Doña Carmen's vs impersonal store concept. Trust and community.",
+      "characters": ["young_frances", "dona_carmen"]
+    },
+    {
+      "scene": 14,
+      "script": "The old neighborhood faded away. Colors shifted back to now. Frances sat in her garden. The friends were listening. The memory was over.",
+      "prompt": "Magical transition back - old neighborhood fading. Present-day Frances in her garden with friends listening. Memory complete.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 15,
+      "script": "'Doña Carmen taught me about growing and sharing,' said Frances. 'I try to do the same with my seed library. Now I am teaching you.'",
+      "prompt": "Frances speaking emotionally about passing on Doña Carmen's legacy. Friends listening respectfully. Generational wisdom transfer.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 16,
+      "script": "'What made her stand special?' asked Ellis. Frances smiled. 'You knew her. You trusted her. She cared about what she sold because she cared about YOU.'",
+      "prompt": "Ellis asking thoughtful question. Frances answering warmly about trust and caring. Key lesson about personal connection in commerce.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 17,
+      "script": "The friends thought about their Community Market. 'Our market should feel like this,' said Layla. 'Like a neighborhood. Like neighbors helping neighbors.'",
+      "prompt": "Layla speaking with growing vision. Friends nodding. Connecting Frances's story to their market plans. Community feeling.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 18,
+      "script": "Frances had an idea. 'What would YOU sell at a stand?' she asked. 'What would you make or grow or share?'",
+      "prompt": "Frances asking friends to imagine their own contributions. Friends thinking about what they could offer. Personal reflection.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 19,
+      "script": "The friends got excited. 'I would do art!' said Riley. 'I could help organize!' said Ellis. 'I am good at carrying heavy things!' said Benny. Layla was not sure yet.",
+      "prompt": "Riley, Ellis, Benny each excited about their contribution. Layla looking thoughtful, uncertain about her role. Finding their places.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 20,
+      "script": "'I have more stories to tell,' said Frances. 'But one at a time. Like good tomatoes ripening.' The friends smiled.",
+      "prompt": "Frances with warm smile promising more stories. Friends smiling, anticipating more. Garden setting, afternoon light.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "chapter": 7,
+  "tier": 1,
+  "title": "THE FAMILY BAKERY",
+  "style_prefix": "Children's book illustration, warm painterly style with soft brush strokes. NO TEXT IN IMAGE. ",
+  "character_refs": {
+    "layla": "Layla - girl with curly dark brown hair, yellow bow on top, teal hoodie with golden sun design",
+    "riley": "Riley - girl with straight dark hair, pink bow, purple dress with white stars",
+    "ellis": "Ellis - boy with blonde hair, blue eyes, orange and blue soccer jersey",
+    "benny": "Benny - friendly brown teddy bear character wearing green plaid scarf",
+    "mr_mason": "Mr. Mason - elderly African American man with gray hair, glasses, blue cardigan",
+    "young_mr_mason": "Young Mr. Mason - young African American man in his 20s with dark hair, simple traveling clothes",
+    "nonno": "Nonno - elderly Italian grandfather with white hair, flour-dusted apron, gentle weathered hands",
+    "paolo": "Paolo - middle-aged Italian man, strong arms, baker's apron",
+    "marco": "Marco - teenage Italian boy, friendly smile, flour on his clothes"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "script": "Mr. Mason picked up a wooden stamp. It had a pretty pattern. 'This came from Italy,' he said. 'From a tiny village. A bakery had been there for one hundred years.'",
+      "prompt": "Mr. Mason in attic holding up ornate wooden bread stamp with carved pattern. Friends leaning in to see. Warm light on the carved details.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 2,
+      "script": "The attic faded away. Stone houses appeared. A narrow street with bumpy stones. Morning light came through. The air smelled like baking bread.",
+      "prompt": "Magical transition - attic fading into Italian village. Cobblestone streets, stone buildings, warm morning light. Cozy European village atmosphere.",
+      "characters": []
+    },
+    {
+      "scene": 3,
+      "script": "Young Mr. Mason followed the smell. He walked through the small streets. He found a little bakery. A wooden sign said 'Rossi' in old letters.",
+      "prompt": "Young Mr. Mason walking through narrow Italian streets, following bread smell. Small bakery with old wooden 'Rossi' sign visible. Warm light from doorway.",
+      "characters": ["young_mr_mason"]
+    },
+    {
+      "scene": 4,
+      "script": "Inside the bakery, he saw three people. An old grandfather was making dough. His son was at the oven. A teenage boy was wrapping bread.",
+      "prompt": "Inside warm bakery. Three generations working: elderly Nonno with dough, Paolo at stone oven with paddle, young Marco wrapping loaves. Family teamwork.",
+      "characters": ["nonno", "paolo", "marco"]
+    },
+    {
+      "scene": 5,
+      "script": "The grandfather's name was Nonno. He had made bread for sixty years. His hands moved in the dough slowly. They knew just what to do.",
+      "prompt": "Close view of Nonno's weathered hands kneading dough with practiced expertise. Calm, content expression. Flour dust in morning light. Master at work.",
+      "characters": ["nonno"]
+    },
+    {
+      "scene": 6,
+      "script": "The father's name was Paolo. He used a long paddle. He put bread in the oven. He took bread out. The bread was golden and perfect.",
+      "prompt": "Paolo using long wooden paddle at traditional brick oven. Golden perfect loaves visible. Warm orange glow from oven. Skilled craftsman.",
+      "characters": ["paolo"]
+    },
+    {
+      "scene": 7,
+      "script": "The grandson's name was Marco. He was young like Mr. Mason. Marco wrapped the bread in paper. He talked to customers. He gave them change.",
+      "prompt": "Marco at counter wrapping bread in paper, interacting with customers. Learning the business side. Friendly, engaged. Young apprentice.",
+      "characters": ["marco"]
+    },
+    {
+      "scene": 8,
+      "script": "Marco saw young Mr. Mason watching. 'You want to try?' Marco asked with a smile. 'Come, I will show you!'",
+      "prompt": "Marco noticing young Mr. Mason at doorway, gesturing welcomingly to come in. Friendly invitation. Young Mr. Mason looking surprised but pleased.",
+      "characters": ["young_mr_mason", "marco"]
+    },
+    {
+      "scene": 9,
+      "script": "The grandfather taught young Mr. Mason to knead. He put his hands in the dough. It was hard! The old man helped him. 'Not so hard. Be gentle.'",
+      "prompt": "Nonno guiding young Mr. Mason's hands in dough. Patient teaching moment. Young Mr. Mason concentrating, learning. Flour on hands. Mentorship.",
+      "characters": ["young_mr_mason", "nonno"]
+    },
+    {
+      "scene": 10,
+      "script": "Young Mr. Mason tried to go fast. The grandfather stopped him. 'Bread cannot be rushed,' he said. 'Good things take time.'",
+      "prompt": "Nonno gently stopping young Mr. Mason's hurried hands. Wise expression, teaching patience. Young Mr. Mason listening and slowing down.",
+      "characters": ["young_mr_mason", "nonno"]
+    },
+    {
+      "scene": 11,
+      "script": "Young Mr. Mason asked Paolo, 'Why do you all make bread?' Paolo smiled. 'My father taught me. I teach my son. We are keeping something alive.'",
+      "prompt": "Young Mr. Mason talking with Paolo near the oven. Paolo gesturing to his father and son, explaining family tradition. Pride visible.",
+      "characters": ["young_mr_mason", "paolo"]
+    },
+    {
+      "scene": 12,
+      "script": "Marco showed him the wooden stamp. They pressed it into every loaf. 'This stamp is older than my grandfather. Every loaf carries our name.'",
+      "prompt": "Marco showing young Mr. Mason the wooden stamp being pressed into bread dough. Rossi pattern visible in the dough. Family legacy.",
+      "characters": ["young_mr_mason", "marco"]
+    },
+    {
+      "scene": 13,
+      "script": "When young Mr. Mason left, the family gave him a gift. It was a bread stamp they had carved. 'Remember us. Making things with your hands matters.'",
+      "prompt": "Three generations presenting young Mr. Mason with a carved wooden stamp gift. Heartfelt goodbye moment. Connection between strangers.",
+      "characters": ["young_mr_mason", "nonno", "paolo", "marco"]
+    },
+    {
+      "scene": 14,
+      "script": "The bakery faded away. Flour dust became attic dust. They were back. Mr. Mason held the stamp. It was the same one from the story.",
+      "prompt": "Magical transition - bakery fading, flour becoming dust motes. Attic returning. Old Mr. Mason holding the same bread stamp. Memory preserved.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 15,
+      "script": "'Three generations,' said Mr. Mason. 'Same bakery. Same love.' He held the stamp close. The friends were quiet. They felt something warm.",
+      "prompt": "Mr. Mason holding stamp close to heart, emotional moment. Friends sitting quietly, moved by the story. Warmth and connection.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 16,
+      "script": "The friends thought about their own families. 'My grandma paints,' said Riley. 'Maybe that is why I like art.' Benny added, 'My dad fixes things.'",
+      "prompt": "Friends reflecting on their own families. Riley speaking about her grandmother, Benny talking about his dad. Personal connections forming.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 17,
+      "script": "Ellis had an idea. 'We should ask our families about their jobs!' he said. 'Like an interview. What do they do? How did they learn?'",
+      "prompt": "Ellis excited with an idea, suggesting family interviews. Other friends looking interested and enthusiastic. Planning forming.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 18,
+      "script": "Layla connected it to their market. 'At our Community Market, people could teach things. Not just sell things. They could share what they know!'",
+      "prompt": "Layla having breakthrough idea, gesturing excitedly. Other friends nodding, seeing the vision. Market becoming about more than selling.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 19,
+      "script": "Mr. Mason smiled proudly. 'Now you are thinking well,' he said. 'A market is not just about stuff. It is about knowledge. It is about people helping each other.'",
+      "prompt": "Mr. Mason smiling proudly at the friends. Approving of their growth. Wisdom being passed to new generation. Full circle moment.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 20,
+      "script": "The friends felt excited. More stories waited in the trunk. Their Community Market was becoming something bigger. 'What else is in there?'",
+      "prompt": "Four friends gathered around trunk with Mr. Mason, anticipating more stories. Excitement building. Market plans growing. Journey continuing.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    }
+  ]
+}

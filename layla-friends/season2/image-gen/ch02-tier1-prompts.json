@@ -1,0 +1,134 @@
+{
+  "chapter": 2,
+  "tier": 1,
+  "title": "THE LEMONADE PROBLEM",
+  "style_prefix": "Children's book illustration, warm painterly style with soft brush strokes. NO TEXT IN IMAGE. ",
+  "character_refs": {
+    "layla": "Layla - girl with curly dark brown hair, yellow bow on top, teal hoodie with golden sun design",
+    "riley": "Riley - girl with straight dark hair, pink bow, purple dress with white stars",
+    "ellis": "Ellis - boy with blonde hair, blue eyes, orange and blue soccer jersey",
+    "benny": "Benny - friendly brown teddy bear character wearing green plaid scarf"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "script": "It was a very hot day. Layla sat by her window. She was so warm! 'Everyone must be thirsty,' she thought. 'I should sell lemonade!' That was a good idea.",
+      "prompt": "Layla sitting by a window inside her house on a very hot summer day. Bright sunlight streaming in, she looks warm and thoughtful with an idea forming. Heat shimmer visible outside.",
+      "characters": ["layla"]
+    },
+    {
+      "scene": 2,
+      "script": "Layla went to the kitchen. She squeezed lemons into a pitcher. She added sugar and water. She stirred and stirred. The lemonade looked yummy.",
+      "prompt": "Layla in a sunny kitchen, squeezing lemons into a glass pitcher. Lemons, sugar bowl, and water pitcher on counter. She stirs with a wooden spoon, looking happy.",
+      "characters": ["layla"]
+    },
+    {
+      "scene": 3,
+      "script": "Layla set up a table in her yard. She put out cups. She made a sign. It said: 'LEMONADE 50¢.' Everything looked nice.",
+      "prompt": "Layla setting up a small lemonade stand table in her front yard. Cups arranged neatly, pitcher of lemonade, hand-painted sign visible. Sunny day, suburban yard.",
+      "characters": ["layla"]
+    },
+    {
+      "scene": 4,
+      "script": "Layla looked down the street. She saw another lemonade stand! It was Riley's stand! 'Wait,' said Layla. 'Riley had the same idea?'",
+      "prompt": "Layla at her lemonade stand, looking surprised down the street. In the distance, another lemonade stand is visible with Riley standing behind it. Sunny suburban street.",
+      "characters": ["layla", "riley"]
+    },
+    {
+      "scene": 5,
+      "script": "Layla walked down the street. She counted more stands. Riley had one. Ellis had one. Benny had one. Other kids had them too! 'Six lemonade stands!'",
+      "prompt": "Wide view of neighborhood street showing multiple lemonade stands. Layla walking and counting, looking overwhelmed. Six different stands visible along the sidewalk, each with a different kid.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 6,
+      "script": "Layla went back to her stand. She waited a long time. People walked by. But nobody stopped. Nobody wanted lemonade. Layla felt sad.",
+      "prompt": "Layla sitting alone behind her lemonade stand looking sad and disappointed. People walking past in background without stopping. Untouched cups and full pitcher. Hot sunny day.",
+      "characters": ["layla"]
+    },
+    {
+      "scene": 7,
+      "script": "Layla walked to Riley's stand. 'Did you sell any?' Layla asked. Riley shook her head. 'Not one cup,' said Riley. They both looked confused.",
+      "prompt": "Layla and Riley standing together at Riley's lemonade stand. Both look confused and disappointed. Full pitcher between them, no customers. Hot day but no sales.",
+      "characters": ["layla", "riley"]
+    },
+    {
+      "scene": 8,
+      "script": "Ellis and Benny came over. Nobody had sold anything. 'I don't get it,' said Benny. Ellis looked at all the stands. He started thinking very hard.",
+      "prompt": "All four friends gathered together, looking puzzled. Ellis has a thoughtful expression, hand on chin, looking down the street at multiple lemonade stands. Benny looks confused.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 9,
+      "script": "Ellis counted the stands again. 'Six stands,' he said. 'But not many people walking by. There's too much lemonade!'",
+      "prompt": "Close-up of Ellis counting on his fingers, looking analytical. In background, multiple lemonade stands visible with few pedestrians. Light bulb moment expression on Ellis's face.",
+      "characters": ["ellis"]
+    },
+    {
+      "scene": 10,
+      "script": "'We're all trying to sell to the same people,' said Ellis. 'But there aren't enough people for all of us.' The friends nodded.",
+      "prompt": "Ellis explaining to the group, gesturing with hands. Layla, Riley, and Benny listening and nodding in understanding. Multiple stands visible in background, sparse pedestrians.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 11,
+      "script": "Another kid changed their sign. The price went down to 25 cents. 'Look!' said Layla. 'They made it cheaper!'",
+      "prompt": "Layla pointing at another kid's lemonade stand where the kid is changing a price sign from 50¢ to 25¢. Friends watching with interest.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 12,
+      "script": "Soon everyone lowered their prices. 25 cents. 20 cents. 15 cents. The signs kept changing. Everyone wanted to be the cheapest.",
+      "prompt": "Multiple lemonade stands visible, kids frantically changing price signs. Signs showing increasingly lower prices. Competitive atmosphere, kids looking at each other's prices.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 13,
+      "script": "'This is bad,' said Benny. 'Now lemonade costs almost nothing. And still no one is buying!' Riley agreed. 'We need a different plan.'",
+      "prompt": "Benny looking distressed, Riley looking thoughtful. Signs showing very low prices in background. Full pitchers everywhere, no customers buying. Frustrated expressions.",
+      "characters": ["riley", "benny"]
+    },
+    {
+      "scene": 14,
+      "script": "Layla had a new idea. 'What if we work together?' she said. 'One big stand instead of six small ones!' Her friends looked at each other.",
+      "prompt": "Layla with an excited expression, arms spread wide with an idea. Friends looking at each other with dawning realization and hope. Their separate stands in background.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 15,
+      "script": "The friends put all their things together. More lemons. More cups. One big table. 'We have so much now!' said Benny.",
+      "prompt": "Four friends carrying supplies - lemons, cups, pitchers, tables - toward one central location. Teamwork in action. Excited, purposeful expressions. Combining resources.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 16,
+      "script": "Riley made a pretty new sign. Ellis put the cups in rows. Benny set up the table. Layla added lemon slices to the pitcher. Everyone helped.",
+      "prompt": "Four friends working together at one big lemonade stand. Riley painting a sign, Ellis organizing cups in neat rows, Benny adjusting table, Layla adding lemon slices. Teamwork.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 17,
+      "script": "The new stand was beautiful. People walking by stopped to look. 'Fresh lemonade!' the friends called out. 'Made by friends!'",
+      "prompt": "Beautiful big lemonade stand with all four friends behind it calling out to passersby. People stopping to look with interest. Attractive decorated stand. Sunny day.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 18,
+      "script": "People started buying lemonade! The friends worked as a team. One poured. One took money. It was fun! 'This is so much better!'",
+      "prompt": "Busy lemonade stand with customers! One friend pouring lemonade, another handling coins. Happy customers receiving cups. All four friends working together smoothly. Joyful scene.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 19,
+      "script": "The sun went down. The friends counted their coins. They made more money together than alone. Ellis smiled. 'When there's too much of something, it doesn't sell.'",
+      "prompt": "Golden sunset light. Four friends sitting together counting coins on the table. Empty pitchers showing successful sales. Happy satisfied expressions. Ellis looking particularly proud.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 20,
+      "script": "'For our market, we shouldn't all sell the same thing,' said Layla. 'We need different things!' The friends agreed.",
+      "prompt": "Four friends sitting together in golden evening light, engaged in excited planning conversation. Layla gesturing as she speaks, others nodding enthusiastically. Seeds of bigger idea.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    }
+  ]
+}

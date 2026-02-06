@@ -1,0 +1,135 @@
+{
+  "chapter": 4,
+  "tier": 1,
+  "title": "MR. MASON'S TRUNK",
+  "style_prefix": "Children's book illustration, warm painterly style with soft brush strokes. NO TEXT IN IMAGE. ",
+  "character_refs": {
+    "layla": "Layla - girl with curly dark brown hair, yellow bow on top, teal hoodie with golden sun design",
+    "riley": "Riley - girl with straight dark hair, pink bow, purple dress with white stars",
+    "ellis": "Ellis - boy with blonde hair, blue eyes, orange and blue soccer jersey",
+    "benny": "Benny - friendly brown teddy bear character wearing green plaid scarf",
+    "mr_mason": "Mr. Mason - elderly African American man with gray hair, glasses, blue cardigan, wise gentle expression, walks with cane"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "script": "The friends went to Mr. Mason's house. He was sitting on his porch. 'Hello!' he said. 'I need help in my attic. Can you help me reach high things?'",
+      "prompt": "Four friends arriving at Mr. Mason's cozy house. Mr. Mason sitting on porch in rocking chair, waving hello. Warm welcoming scene, well-kept house with character.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 2,
+      "script": "They went inside his house. It was cozy and warm. There were photos on the walls. There were maps and little things from far away.",
+      "prompt": "Inside Mr. Mason's living room. Walls covered with framed photos, old maps, travel mementos. Cozy warm lighting. Friends looking around with wonder. Rich with history.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 3,
+      "script": "Mr. Mason took them to a ladder. It went up to the attic. Dust floated in the light. 'I haven't been up here in a long time,' he said.",
+      "prompt": "Mr. Mason pointing to attic ladder. Dusty light streaming down from above. Friends looking up curiously. Anticipation of discovery. Dust motes visible in light beam.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 4,
+      "script": "The attic was full of boxes. Old things were everywhere. Sunlight came through a little window. 'Wow!' said Layla. 'It's like a museum!'",
+      "prompt": "Attic filled with boxes, old furniture, mysterious covered shapes. Golden sunlight through small window. Four friends looking around in awe. Dust and wonder.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 5,
+      "script": "They helped Mr. Mason clean. He told them what to keep and what to throw away. 'That can stay. That can go.' It was normal work.",
+      "prompt": "Friends helping Mr. Mason sort boxes in attic. Mr. Mason directing, pointing to items. Normal organizing work. Boxes being moved and sorted.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 6,
+      "script": "Ellis found something in the corner. It was a big old trunk! It had stickers from all over the world. 'Mr. Mason!' said Ellis. 'What is this big thing?'",
+      "prompt": "Ellis discovering a large vintage trunk in corner of attic. Trunk covered with travel stickers from many countries. Ellis calling out, pointing excitedly at the trunk.",
+      "characters": ["ellis"]
+    },
+    {
+      "scene": 7,
+      "script": "Everyone came to look. Mr. Mason's face got soft and happy. He touched the trunk gently. 'My old traveling trunk,' he said.",
+      "prompt": "All four friends and Mr. Mason gathered around the old trunk. Mr. Mason touching it with gentle nostalgia, soft expression. Friends watching his reaction with curiosity.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 8,
+      "script": "Mr. Mason opened the trunk slowly. Inside were wrapped objects. There were old photos too. 'Every object in here is a memory,' he said.",
+      "prompt": "Mr. Mason opening the trunk, friends leaning in to see. Inside visible: wrapped objects, old photographs, treasures. Magical moment of discovery. Warm attic light.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 9,
+      "script": "Mr. Mason took out a small bag. It had spices inside. He smelled them and smiled. 'This is from Morocco,' he said.",
+      "prompt": "Mr. Mason holding a small cloth bag of spices, smelling it with eyes closed and nostalgic smile. Friends watching intently. Warm colors suggesting spice aromas.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 10,
+      "script": "Mr. Mason's eyes looked far away. He was remembering. 'There were stalls everywhere,' he said. 'Spices in every color. Men selling things and calling out.'",
+      "prompt": "Mr. Mason with distant remembering expression, still holding spices. Subtle visual suggestion of Moroccan market colors swirling faintly in background. Friends listening raptly.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 11,
+      "script": "'You can look inside,' said Mr. Mason. 'But be careful. These things are special.' The friends looked in the trunk.",
+      "prompt": "Four friends carefully reaching into the trunk, examining wrapped objects. Mr. Mason watching with gentle approval. Reverent handling of treasured items.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 12,
+      "script": "Riley found a little wooden fish. 'That's from Japan,' said Mr. Mason. 'I saw a fish sale there. I learned about prices.'",
+      "prompt": "Riley holding a small carved wooden fish, examining it with wonder. Mr. Mason explaining its origin. Delicate Japanese fish carving in her hands.",
+      "characters": ["riley", "mr_mason"]
+    },
+    {
+      "scene": 13,
+      "script": "Benny found a wooden stamp with pretty patterns. 'That's for making bread,' said Mr. Mason. 'It's from Italy. A family bakery.'",
+      "prompt": "Benny holding an ornate wooden bread stamp with decorative patterns. Turning it over to see the carved design. Mr. Mason smiling at the memory.",
+      "characters": ["benny", "mr_mason"]
+    },
+    {
+      "scene": 14,
+      "script": "Ellis found a tiny net. 'That's from a fishing village,' said Mr. Mason. 'I helped sell fish there one morning.'",
+      "prompt": "Ellis examining a small decorative fishing net. Delicate handmade netting. Mr. Mason explaining with animated gestures about the fishing village.",
+      "characters": ["ellis", "mr_mason"]
+    },
+    {
+      "scene": 15,
+      "script": "Layla found a wooden star. It was very pretty. 'That's from Germany,' said Mr. Mason. 'From a Christmas market. Snow and lights and handmade gifts.'",
+      "prompt": "Layla holding up a beautiful carved wooden star ornament. Light catching its details. Mr. Mason describing German Christmas market. Magical feeling.",
+      "characters": ["layla", "mr_mason"]
+    },
+    {
+      "scene": 16,
+      "script": "Mr. Mason looked at the friends. 'These are not just old things,' he said. 'They have lessons inside. I was waiting to share them with the right people.'",
+      "prompt": "Mr. Mason sitting with the open trunk, looking warmly at the four friends. Meaningful moment. Friends looking honored and eager. Connection between generations.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 17,
+      "script": "The friends got excited. 'Will you tell us the stories?' asked Layla. 'Please!' said Benny. They all wanted to hear about the things in the trunk.",
+      "prompt": "Four friends leaning forward eagerly, excited expressions. Layla and Benny asking, pleading to hear stories. Mr. Mason looking pleased at their enthusiasm.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 18,
+      "script": "Mr. Mason smiled. 'One story at a time,' he said. He held up the spice bag. 'Let's start with Morocco. That's where our journey begins.'",
+      "prompt": "Mr. Mason holding up the spice bag, beginning his story. Friends settling in to listen. Attic transformed into cozy storytelling space. Anticipation.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 19,
+      "script": "Mr. Mason started to talk about Morocco. Something magical seemed to happen. The attic felt different. Colors and sounds seemed to appear.",
+      "prompt": "Magical transition moment. Mr. Mason speaking, Moroccan colors and patterns starting to swirl subtly around the attic. Warm oranges, reds, golds appearing. Friends mesmerized.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 20,
+      "script": "The friends sat around the trunk. They were ready to learn. Mr. Mason would teach them about markets around the world.",
+      "prompt": "Friends seated in circle around the open trunk with Mr. Mason. Warm golden light. Ready to embark on journey of stories. Moroccan colors beginning to shimmer.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "chapter": 5,
+  "tier": 1,
+  "title": "THE SPICE MARKET",
+  "style_prefix": "Children's book illustration, warm painterly style with soft brush strokes. NO TEXT IN IMAGE. ",
+  "character_refs": {
+    "layla": "Layla - girl with curly dark brown hair, yellow bow on top, teal hoodie with golden sun design",
+    "riley": "Riley - girl with straight dark hair, pink bow, purple dress with white stars",
+    "ellis": "Ellis - boy with blonde hair, blue eyes, orange and blue soccer jersey",
+    "benny": "Benny - friendly brown teddy bear character wearing green plaid scarf",
+    "mr_mason": "Mr. Mason - elderly African American man with gray hair, glasses, blue cardigan, wise gentle expression",
+    "young_mr_mason": "Young Mr. Mason - young African American man in his 20s with dark hair, simple traveling clothes",
+    "hassan": "Hassan - elderly Moroccan man with weathered kind face, white beard, traditional djellaba robe"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "script": "The friends sat in the attic. Mr. Mason held a small pouch. It smelled like spices. 'Let me take you to Morocco,' he said.",
+      "prompt": "Attic scene. Friends sitting around Mr. Mason who holds a small cloth spice pouch. Warm golden light. Everyone quiet and attentive, ready for a story.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 2,
+      "script": "The attic started to fade. Colors got brighter. They could see a big market. There were stalls everywhere. People walked and talked.",
+      "prompt": "Magical transition - attic fading into vibrant Moroccan souk. Colorful market stalls appearing. Warm oranges, reds, golds. Bustling atmosphere emerging.",
+      "characters": []
+    },
+    {
+      "scene": 3,
+      "script": "A young man walked into the market. It was Mr. Mason! He was young. He had dark hair. His eyes were wide.",
+      "prompt": "Young Mr. Mason entering the Moroccan souk, eyes wide with wonder. Colorful market surrounds him. Spice stalls, fabrics, crowds. First time amazement.",
+      "characters": ["young_mr_mason"]
+    },
+    {
+      "scene": 4,
+      "script": "Young Mr. Mason had a job. He needed to find saffron. His mama asked for it. 'Get the good stuff,' she said.",
+      "prompt": "Young Mr. Mason walking through market with purpose. Looking at stalls searching for something. Determined expression. Spice vendors visible.",
+      "characters": ["young_mr_mason"]
+    },
+    {
+      "scene": 5,
+      "script": "He found the spice stalls. There were piles of spices. Red ones. Gold ones. Orange ones. They looked like little mountains.",
+      "prompt": "Young Mr. Mason at spice stall area. Beautiful cone-shaped piles of colorful spices - red, gold, orange, brown. Mountains of spices. Vibrant colors.",
+      "characters": ["young_mr_mason"]
+    },
+    {
+      "scene": 6,
+      "script": "A man ran up to him. 'You buy! Best price!' the man yelled. He was too close. Young Mr. Mason stepped back.",
+      "prompt": "Pushy merchant getting too close to young Mr. Mason, gesturing aggressively. Young Mr. Mason stepping back uncomfortable. Crowded market scene.",
+      "characters": ["young_mr_mason"]
+    },
+    {
+      "scene": 7,
+      "script": "Young Mr. Mason walked away. He felt bad. He wanted to buy. But he did not like being rushed.",
+      "prompt": "Young Mr. Mason walking away from pushy merchant, looking uncertain and uncomfortable. Moving through crowded market. Searching for something better.",
+      "characters": ["young_mr_mason"]
+    },
+    {
+      "scene": 8,
+      "script": "Then he saw a quiet stall. An old man sat there. His name was Hassan. He smiled. He did not yell. 'Take your time,' Hassan said.",
+      "prompt": "Hassan sitting calmly at his spice stall. Quiet dignified presence amid busy market. Welcoming smile, peaceful demeanor. Young Mr. Mason approaching curiously.",
+      "characters": ["young_mr_mason", "hassan"]
+    },
+    {
+      "scene": 9,
+      "script": "Young Mr. Mason stopped. 'I need saffron,' he said. 'It is for my mama.' Hassan nodded. 'What will she make?'",
+      "prompt": "Young Mr. Mason at Hassan's stall, having respectful conversation. Hassan listening attentively. Spices arranged neatly. Calm exchange between them.",
+      "characters": ["young_mr_mason", "hassan"]
+    },
+    {
+      "scene": 10,
+      "script": "Hassan showed him three kinds of saffron. 'This one is good. This one is better. And this one is the best.' He held up the red threads.",
+      "prompt": "Hassan holding up three different containers of saffron, showing quality differences. Deep red threads visible. Young Mr. Mason examining with interest. Teaching moment.",
+      "characters": ["young_mr_mason", "hassan"]
+    },
+    {
+      "scene": 11,
+      "script": "Hassan said the price. It was more than Mr. Mason thought. He felt worried. 'That is a lot,' he said softly.",
+      "prompt": "Young Mr. Mason looking worried at the price, reaching for his money pouch hesitantly. Hassan watching patiently. Moment of concern.",
+      "characters": ["young_mr_mason", "hassan"]
+    },
+    {
+      "scene": 12,
+      "script": "'A deal is not a fight,' Hassan said. 'It is a talk. You say what you can pay. I say what I need. We find the middle.'",
+      "prompt": "Hassan speaking wisely, gesturing with open hands. Young Mr. Mason listening intently. Wisdom being shared. Respectful negotiation lesson.",
+      "characters": ["young_mr_mason", "hassan"]
+    },
+    {
+      "scene": 13,
+      "script": "They talked more. Young Mr. Mason said a lower price. Hassan came down a little. They found a price they both liked. They shook hands.",
+      "prompt": "Young Mr. Mason and Hassan shaking hands with mutual smiles. Both satisfied with the deal. Fair exchange. Respectful agreement.",
+      "characters": ["young_mr_mason", "hassan"]
+    },
+    {
+      "scene": 14,
+      "script": "Hassan wrapped the saffron in paper. He put it in a small pouch. He gave it to Mr. Mason. 'Take this to your mama,' he said.",
+      "prompt": "Hassan carefully wrapping saffron in paper, placing it in small cloth pouch. Handing it to young Mr. Mason with care. Precious package.",
+      "characters": ["young_mr_mason", "hassan"]
+    },
+    {
+      "scene": 15,
+      "script": "'One more thing,' Hassan said. 'Never rush a good thing. Patience shows you care.' Young Mr. Mason nodded.",
+      "prompt": "Hassan sharing final wisdom, finger raised gently. Young Mr. Mason nodding respectfully, holding the precious pouch. Important lesson moment.",
+      "characters": ["young_mr_mason", "hassan"]
+    },
+    {
+      "scene": 16,
+      "script": "Young Mr. Mason walked through the market. But now he walked slowly. He looked at things. He smiled. He held the pouch tight.",
+      "prompt": "Young Mr. Mason walking peacefully through market, unhurried now. Holding pouch close. Relaxed smile. Seeing the market with new appreciation.",
+      "characters": ["young_mr_mason"]
+    },
+    {
+      "scene": 17,
+      "script": "The market started to fade. The colors got soft. They were back in the attic. Mr. Mason was old again. He still held the pouch.",
+      "prompt": "Magical transition back - Moroccan colors fading softly. Attic reappearing. Old Mr. Mason now, still holding the same pouch. Past and present connected.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 18,
+      "script": "The friends looked at Mr. Mason. Their eyes were big. 'Wow,' said Riley. 'I want to see a market like that!'",
+      "prompt": "Friends with amazed expressions looking at Mr. Mason. Riley speaking excitedly. Mr. Mason placing pouch back in trunk with gentle reverence.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 19,
+      "script": "Layla was quiet. She was thinking. She always wanted to do things fast. Maybe that was not good. 'I rush too much,' she said softly.",
+      "prompt": "Layla with thoughtful introspective expression. Quiet moment of self-reflection. Other friends and Mr. Mason watching her gently. Personal growth moment.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 20,
+      "script": "The friends looked at each other. They would have their own market soon. 'We need fair prices,' said Ellis. 'Prices that make everyone happy.'",
+      "prompt": "Four friends in discussion, applying the lesson. Ellis speaking, others nodding. Mr. Mason watching approvingly. Planning for their future market.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    }
+  ]
+}

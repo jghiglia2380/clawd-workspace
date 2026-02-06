@@ -1,0 +1,137 @@
+{
+  "chapter": 10,
+  "tier": 1,
+  "title": "THE CHRISTMAS MARKET",
+  "style_prefix": "Children's book illustration, warm painterly style with soft brush strokes. NO TEXT IN IMAGE. ",
+  "character_refs": {
+    "layla": "Layla - girl with curly dark brown hair, yellow bow on top, teal hoodie with golden sun design",
+    "riley": "Riley - girl with straight dark hair, pink bow, purple dress with white stars",
+    "ellis": "Ellis - boy with blonde hair, blue eyes, orange and blue soccer jersey",
+    "benny": "Benny - friendly brown teddy bear character wearing green plaid scarf",
+    "mr_mason": "Mr. Mason - elderly African American man with gray hair, glasses, blue cardigan",
+    "young_mr_mason": "Young Mr. Mason - young African American man in his 20s with dark hair, warm winter clothes",
+    "klaus": "Klaus - elderly German craftsman with white hair, wire spectacles, wood shavings on apron"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "script": "Mr. Mason reached deep into his trunk. He pulled out a beautiful wooden star. It had tiny carvings all over it. 'This one is very special,' he said softly.",
+      "prompt": "Mr. Mason in attic pulling beautiful carved wooden star from trunk. Intricate carvings visible. Reverential handling. Friends watching in wonder.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 2,
+      "script": "The attic began to change. Snow appeared. Tiny lights twinkled everywhere. Now they saw a magical winter market. Little wooden houses stood in rows.",
+      "prompt": "Magical transition - attic becoming snowy German Christmas market. Twinkling lights, small wooden stall houses in rows, snow falling gently. Magical winter scene.",
+      "characters": []
+    },
+    {
+      "scene": 3,
+      "script": "Young Mr. Mason walked through the market. Small shops sold wooden toys and ornaments. Steam rose from cups of warm cocoa. The air smelled like cinnamon and pine.",
+      "prompt": "Young Mr. Mason walking enchanted through German Christmas market. Wooden toy shops, people with steaming cups, decorated evergreens. Wonder on his face.",
+      "characters": ["young_mr_mason"]
+    },
+    {
+      "scene": 4,
+      "script": "Each little shop sold one special thing. One shop had only nutcrackers. One had only candles. One had only glass balls. Each seller was very good at making one thing.",
+      "prompt": "View of different specialized market stalls - nutcrackers at one, candles at another, glass ornaments at third. Each artisan with their specialty.",
+      "characters": ["young_mr_mason"]
+    },
+    {
+      "scene": 5,
+      "script": "Young Mr. Mason stopped at a wooden toy shop. An old man sat at a tiny table. He was carving a piece of wood. His hands moved very carefully.",
+      "prompt": "Young Mr. Mason watching Klaus at small workbench carving wood. Concentrated, careful hand movements. Wood shavings around. Craft in action.",
+      "characters": ["young_mr_mason", "klaus"]
+    },
+    {
+      "scene": 6,
+      "script": "The man's name was Klaus. He did not look up. He kept carving. A simple block of wood became a beautiful star right before their eyes. It was like magic!",
+      "prompt": "Klaus carving, transforming plain wood block into beautiful star ornament. Magical transformation visible. Mastery of craft. Young Mr. Mason amazed.",
+      "characters": ["young_mr_mason", "klaus"]
+    },
+    {
+      "scene": 7,
+      "script": "Klaus finally looked up at young Mr. Mason. 'My grandfather made stars,' Klaus said. 'My father made stars. I make stars. My son will make stars too.'",
+      "prompt": "Klaus looking up, speaking about family tradition. Pride in generational craft. Carved stars displayed around him. Young Mr. Mason listening intently.",
+      "characters": ["young_mr_mason", "klaus"]
+    },
+    {
+      "scene": 8,
+      "script": "'Why only stars?' asked young Mr. Mason. Klaus smiled a warm smile. 'Do one thing really well. That is how people remember you. Do one thing with your heart.'",
+      "prompt": "Klaus explaining his philosophy with warm smile. Gesturing to his stars. Teaching about specialization and heart. Young Mr. Mason understanding.",
+      "characters": ["young_mr_mason", "klaus"]
+    },
+    {
+      "scene": 9,
+      "script": "Klaus explained something important. A machine can make many stars. But they all look the same. Klaus made each star by hand. Each one was a little bit different.",
+      "prompt": "Klaus holding up handmade star, pointing out unique details. Each one special and different. Handmade versus machine-made concept.",
+      "characters": ["young_mr_mason", "klaus"]
+    },
+    {
+      "scene": 10,
+      "script": "Young Mr. Mason understood. When you buy something handmade, you get more than a thing. You get someone's time. You get someone's care. You get their love.",
+      "prompt": "Young Mr. Mason having moment of understanding. Looking at carved star with new appreciation. Light bulb moment about handmade value.",
+      "characters": ["young_mr_mason"]
+    },
+    {
+      "scene": 11,
+      "script": "Young Mr. Mason picked out a wooden star. Klaus wrapped it in paper. He placed it gently in the boy's hand. 'Remember. Someone's hands made this for you.'",
+      "prompt": "Klaus wrapping star carefully in paper, placing gently in young Mr. Mason's hands. Meaningful transfer. Care and reverence.",
+      "characters": ["young_mr_mason", "klaus"]
+    },
+    {
+      "scene": 12,
+      "script": "Young Mr. Mason walked through the market with new eyes. He saw the candle maker. He saw the cookie baker. He saw the toy carver. Each one did their thing perfectly.",
+      "prompt": "Young Mr. Mason walking through market seeing all artisans differently now. Candle maker, baker, carvers all doing their specialty. New appreciation.",
+      "characters": ["young_mr_mason"]
+    },
+    {
+      "scene": 13,
+      "script": "All together, these people made something magical. No one could make the whole market alone. But together, each doing their one special thing, they created something wonderful.",
+      "prompt": "Wide view of Christmas market as unified magical whole. All specialists contributing together. Greater than sum of parts. Magical community.",
+      "characters": ["young_mr_mason"]
+    },
+    {
+      "scene": 14,
+      "script": "The snow faded away. The lights grew dim. The attic came back. Mr. Mason was old again. But he still held the wooden star.",
+      "prompt": "Magical transition back - snow and lights fading. Attic returning. Old Mr. Mason holding the same wooden star from the memory.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 15,
+      "script": "Mr. Mason handed the star to Riley. 'Hold it,' he said. 'Feel the carving. Someone's hands made every tiny line. This star is sixty years old. It is still beautiful.'",
+      "prompt": "Mr. Mason gently handing wooden star to Riley. Riley holding it reverently, feeling the carvings. Special moment of connection.",
+      "characters": ["riley", "mr_mason"]
+    },
+    {
+      "scene": 16,
+      "script": "Riley looked at the star. She felt something new inside her heart. She made art with her hands too! She made things with care. Maybe her art mattered.",
+      "prompt": "Riley looking at star with dawning realization. Connecting Klaus's work to her own art. Personal breakthrough moment. Emotion visible.",
+      "characters": ["riley"]
+    },
+    {
+      "scene": 17,
+      "script": "'Your art is like this,' said Layla kindly. 'You make things by hand.' 'It's special because YOU made it,' added Ellis. The friends saw how much Riley's art was worth.",
+      "prompt": "Layla and Ellis encouraging Riley, validating her art. Friends supporting her realization. Riley looking moved and grateful.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 18,
+      "script": "The friends got excited. Their market needed people who do one thing really well! Not everyone selling the same stuff. Each person bringing their best thing.",
+      "prompt": "All four friends excited, connecting lesson to their market. Each person with a specialty. Excited planning energy.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 19,
+      "script": "Riley felt brave now. 'I'll make handmade art for our market,' she said. 'Something special. Something made with love. Like Klaus made his stars.' Her friends cheered.",
+      "prompt": "Riley declaring her commitment to make art for market. Friends cheering for her. Riley standing confident. Growth moment.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 20,
+      "script": "Mr. Mason smiled. 'You are asking the right questions now,' he said. 'What makes YOUR market special? What will each of you bring?'",
+      "prompt": "Mr. Mason smiling approvingly at the friends. Wisdom passed on. Friends thinking about their unique contributions. Planning forming.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    }
+  ]
+}

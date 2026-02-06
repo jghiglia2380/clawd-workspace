@@ -1,0 +1,137 @@
+{
+  "chapter": 8,
+  "tier": 1,
+  "title": "THE MORNING MARKET",
+  "style_prefix": "Children's book illustration, warm painterly style with soft brush strokes. NO TEXT IN IMAGE. ",
+  "character_refs": {
+    "layla": "Layla - girl with curly dark brown hair, yellow bow on top, teal hoodie with golden sun design",
+    "riley": "Riley - girl with straight dark hair, pink bow, purple dress with white stars",
+    "ellis": "Ellis - boy with blonde hair, blue eyes, orange and blue soccer jersey",
+    "benny": "Benny - friendly brown teddy bear character wearing green plaid scarf",
+    "mr_mason": "Mr. Mason - elderly African American man with gray hair, glasses, blue cardigan",
+    "young_mr_mason": "Young Mr. Mason - young African American man in his 20s with dark hair, simple traveling clothes",
+    "costa": "Costa - elderly Greek fisherman with weathered tan face, white hair, simple fishing clothes"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "script": "Mr. Mason picked up a small fishing net. It was pretty, with blue thread. 'This came from a fishing village by the sea,' he said.",
+      "prompt": "Mr. Mason in attic holding up small decorative fishing net with blue thread. Friends watching with interest. Warm attic light.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 2,
+      "script": "The attic faded away. Blue sky appeared. White buildings sparkled in the sun. The sea was bright and shiny. Small boats sat in a little harbor.",
+      "prompt": "Magical transition - attic fading into Mediterranean fishing village. White-washed buildings, bright blue sea, small colorful boats in harbor. Greek island feeling.",
+      "characters": []
+    },
+    {
+      "scene": 3,
+      "script": "Fishing boats came back to shore very early. The sun was just coming up. Men jumped off the boats. They moved very fast. They carried baskets of fish.",
+      "prompt": "Dawn at harbor. Fishing boats arriving. Fishermen jumping off boats with baskets of fish, moving quickly. Golden sunrise light. Urgent energy.",
+      "characters": []
+    },
+    {
+      "scene": 4,
+      "script": "An old fisherman waved at young Mr. Mason. His name was Costa. 'You want to help?' Costa called. 'Then move fast! Fish wait for no one!'",
+      "prompt": "Costa waving to young Mr. Mason, calling him over urgently. Already moving fast with fish basket. Energetic elderly fisherman.",
+      "characters": ["young_mr_mason", "costa"]
+    },
+    {
+      "scene": 5,
+      "script": "Young Mr. Mason helped carry fish baskets. They walked up steep stone steps. Costa moved fast even though he was old. 'Every minute matters!'",
+      "prompt": "Young Mr. Mason and Costa carrying fish baskets up steep stone steps. Costa leading despite age. Urgency visible. Morning light.",
+      "characters": ["young_mr_mason", "costa"]
+    },
+    {
+      "scene": 6,
+      "script": "They set up a stall at the market. They put ice on the table. They put fish on top of the ice. It looked beautiful.",
+      "prompt": "Costa and young Mr. Mason setting up market stall. Fresh fish arranged beautifully on ice. Other fishermen setting up nearby. Morning market forming.",
+      "characters": ["young_mr_mason", "costa"]
+    },
+    {
+      "scene": 7,
+      "script": "The first customers came right away. They wanted the freshest fish. Costa sold to them quickly. They paid full price.",
+      "prompt": "Eager customers at Costa's stall buying fresh fish. Costa making sales quickly. Customers happy to pay. Busy morning rush.",
+      "characters": ["young_mr_mason", "costa"]
+    },
+    {
+      "scene": 8,
+      "script": "For two hours, they were very busy. Young Mr. Mason learned to weigh fish. He learned to wrap fish in paper. He made change.",
+      "prompt": "Young Mr. Mason busy at stall - weighing fish on scale, wrapping in paper. Costa working alongside. Learning the trade. Active scene.",
+      "characters": ["young_mr_mason", "costa"]
+    },
+    {
+      "scene": 9,
+      "script": "By noon, things slowed down. The sun was high and hot. The ice was melting. Fewer people came. Costa looked at the fish that was left.",
+      "prompt": "Midday at the stall. Sun high overhead, ice melting. Fewer customers. Costa looking concerned at remaining unsold fish. Time pressure visible.",
+      "characters": ["young_mr_mason", "costa"]
+    },
+    {
+      "scene": 10,
+      "script": "A late customer came by. Costa sold the last fish for half price. 'Better to sell cheap than throw away,' he said.",
+      "prompt": "Costa selling last fish to late customer at reduced price. Pragmatic expression. Better some money than none. Market reality.",
+      "characters": ["young_mr_mason", "costa"]
+    },
+    {
+      "scene": 11,
+      "script": "Costa explained while they cleaned up. 'Some things don't wait,' he said. 'Fish goes bad. You must know when to move fast.'",
+      "prompt": "Costa and young Mr. Mason cleaning up empty stall. Costa explaining wisdom while working. Teaching about timing. End of market day.",
+      "characters": ["young_mr_mason", "costa"]
+    },
+    {
+      "scene": 12,
+      "script": "Costa gave young Mr. Mason a small net as a gift. 'Remember this. Timing is everything. Not too early. Not too late.'",
+      "prompt": "Costa presenting small decorative net to young Mr. Mason as gift. Meaningful gesture. Passing on wisdom about timing.",
+      "characters": ["young_mr_mason", "costa"]
+    },
+    {
+      "scene": 13,
+      "script": "The seaside village faded away. The attic came back. Mr. Mason was old again. He held the same little net.",
+      "prompt": "Magical transition - fishing village fading. Attic returning. Old Mr. Mason now, holding the same small net. Memory preserved.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 14,
+      "script": "The friends were quiet. They were thinking. 'So patience is not always right?' one asked. Mr. Mason nodded.",
+      "prompt": "Friends looking thoughtful, processing the lesson. Someone asking question. Mr. Mason nodding wisely. Complex lesson about balance.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 15,
+      "script": "Benny spoke up. 'So sometimes I SHOULD move fast?' he asked. 'And sometimes I should wait?' Mr. Mason smiled. 'Now you are learning.'",
+      "prompt": "Benny having breakthrough realization. Mr. Mason smiling approvingly. Benny learning about when speed vs patience matters. Growth moment.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 16,
+      "script": "Ellis helped explain. 'Fish goes bad quickly. So Costa had to sell fast. But other things can wait. You have to read the situation.'",
+      "prompt": "Ellis explaining the concept to the group. Analytical thinking. Other friends nodding in understanding. Teaching each other.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 17,
+      "script": "The friends thought about their Community Market. 'Food has to be fresh,' said Riley. 'But crafts don't spoil.' 'Art can wait. Cookies cannot.'",
+      "prompt": "Friends discussing what this means for their market. Riley and Layla talking about fresh vs lasting goods. Applying the lesson.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 18,
+      "script": "Benny nodded slowly. 'I am good at moving fast,' he said. 'That can help sometimes. But I will try to slow down when I need to.'",
+      "prompt": "Benny with thoughtful expression, having personal growth moment. Finding value in his natural speed while learning balance. Self-awareness.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 19,
+      "script": "Mr. Mason smiled at them. 'You have heard many stories. Morocco. Japan. Italy. The sea. But there are more treasures in this trunk. And Frances has stories too.'",
+      "prompt": "Mr. Mason gesturing to trunk, mentioning more stories to come. Friends excited. Journey continues. Teasing Frances's stories.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 20,
+      "script": "The friends were excited. They had learned about patience, competition, family work and timing. Their Community Market would be amazing!",
+      "prompt": "Four friends gathered around trunk, excited and engaged. All their learnings building up. Market plans growing. Ready for more.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    }
+  ]
+}

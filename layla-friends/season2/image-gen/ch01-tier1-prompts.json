@@ -1,0 +1,137 @@
+{
+  "chapter": 1,
+  "tier": 1,
+  "title": "THE SWAP MEET",
+  "style_prefix": "Children's book illustration, warm painterly style with soft brush strokes. NO TEXT IN IMAGE. ",
+  "character_refs": {
+    "layla": "Layla - girl with curly dark brown hair, yellow bow on top, teal hoodie with golden sun design",
+    "riley": "Riley - girl with straight dark hair, pink bow, purple dress with white stars",
+    "ellis": "Ellis - boy with blonde hair, blue eyes, orange and blue soccer jersey",
+    "benny": "Benny - friendly brown teddy bear character wearing green plaid scarf",
+    "mrs_patterson": "Mrs. Patterson - friendly older Black woman with warm smile, community organizer",
+    "elderly_neighbor": "Elderly white-haired woman with kind smile and glasses"
+  },
+  "tier_evolution_notes": "For Tiers 2-4: vary angles, settings, and scenery. Each tier should feel like a fresh visual interpretation, not just refined art of the same frame. Different camera angles, evolved environments, new visual details that match the expanded narration.",
+  "scenes": [
+    {
+      "scene": 1,
+      "script": "Layla walked down the street. It was a sunny day. She saw a colorful sign on a pole. The sign had big letters. Layla stopped to read it.",
+      "prompt": "Layla walking on a sunny neighborhood sidewalk, pausing to look up at a colorful hand-painted sign on a wooden telephone pole. Bright morning light, friendly suburban street with houses and trees.",
+      "characters": ["layla"]
+    },
+    {
+      "scene": 2,
+      "script": "The sign said 'Swap Meet Today!' Layla read the words. You bring things you don't need. You find things you want! 'That sounds like our Trading Post!' said Layla happily.",
+      "prompt": "Close-up of Layla's face lighting up with excitement as she reads the colorful swap meet sign. Her expression shows recognition and joy. Sunny background.",
+      "characters": ["layla"]
+    },
+    {
+      "scene": 3,
+      "script": "Layla ran to Riley's house. She knocked on the door. Riley opened it. 'Come with me!' said Layla. 'There's a swap meet today. We can trade things!' Riley smiled.",
+      "prompt": "Layla at Riley's front porch, knocking excitedly. Riley opening the door in casual clothes, listening with growing interest. Cozy house entrance with potted plants. Morning light.",
+      "characters": ["layla", "riley"]
+    },
+    {
+      "scene": 4,
+      "script": "They found Ellis and Benny at the park. 'A swap meet is happening!' said Layla. 'We should bring stuff to trade.' Ellis nodded. 'What should we bring?' asked Benny. Everyone started thinking.",
+      "prompt": "All four friends gathered at a sunny park playground. Layla explaining excitedly while Ellis, Riley, and Benny listen. Everyone has thoughtful expressions, brainstorming what to bring. Playground equipment in background.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 5,
+      "script": "Layla went home. She looked in her closet. She found an old puzzle. She had done it many times. 'Someone else might like this puzzle,' she thought. She picked it up.",
+      "prompt": "Layla kneeling on her bedroom floor, looking through her closet. She holds up a colorful puzzle box, examining it thoughtfully. Warm bedroom with toys and books visible.",
+      "characters": ["layla"]
+    },
+    {
+      "scene": 6,
+      "script": "Riley looked at her art things. She found short colored pencils. She also found old stickers. 'These still work,' Riley said. 'Someone might want them.' She put them in a bag.",
+      "prompt": "Riley at her art desk surrounded by creative supplies. She examines short colored pencils and sticker sheets, placing them into a small bag. Colorful, creative bedroom with artwork on walls.",
+      "characters": ["riley"]
+    },
+    {
+      "scene": 7,
+      "script": "Ellis chose a book he had read twice. He also picked a toy car. He was too big for it now. 'Time for someone new to have these,' he said to himself.",
+      "prompt": "Ellis in his neat, organized bedroom. He holds a chapter book and small toy car, looking at them with a thoughtful expression. Clean shelves with books and trophies in background.",
+      "characters": ["ellis"]
+    },
+    {
+      "scene": 8,
+      "script": "Benny found a bouncy ball and a toy drum. He forgot he had them! 'I haven't played with these in so long,' said Benny. He added them to his pile.",
+      "prompt": "Benny in his cozy, slightly messy room, surprised and happy to rediscover a colorful bouncy ball and small toy drum. He holds both items up with delight.",
+      "characters": ["benny"]
+    },
+    {
+      "scene": 9,
+      "script": "The four friends walked to the community center. They carried their swap items. The sun was warm. They talked about what they might find. The building was just ahead.",
+      "prompt": "Four friends walking together on a neighborhood sidewalk toward a community center building visible ahead. Each carries a bag or box of items. Warm sunny day, chatting happily as they walk.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 10,
+      "script": "Inside, tables filled the big room. Neighbors put things on the tables. So many items! Books, toys, games, and more. Mrs. Patterson smiled at them. 'Welcome to the swap meet!' she said.",
+      "prompt": "Interior of community center filled with folding tables covered in items. Neighbors of all ages browsing. Mrs. Patterson greeting the four friends warmly at the entrance. Colorful, busy, welcoming atmosphere.",
+      "characters": ["layla", "riley", "ellis", "benny", "mrs_patterson"]
+    },
+    {
+      "scene": 11,
+      "script": "'The rule is simple,' said Mrs. Patterson. 'Fair trades. Both people should be happy.' She pointed to a table. 'Put your items there.' The friends walked over with their things.",
+      "prompt": "Mrs. Patterson explaining the rules to the four friends, gesturing toward an empty spot at a table. Friends listening attentively, holding their items. Swap meet activity in background.",
+      "characters": ["layla", "riley", "ellis", "benny", "mrs_patterson"]
+    },
+    {
+      "scene": 12,
+      "script": "They put their items on the table. The puzzle. The pencils. The book. The car. The ball. The drum. 'Let's look around!' said Layla. She wanted to see what others had brought.",
+      "prompt": "Four friends arranging their items on a folding table: puzzle box, colored pencils, book, toy car, bouncy ball, small drum. Layla gesturing excitedly to explore. Items neatly displayed.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 13,
+      "script": "The friends walked around the room. They saw old toys. They saw books. They saw games. So many things to look at! People of all ages were there. Everyone looked happy.",
+      "prompt": "Wide shot of the bustling swap meet. Four friends browsing different tables. Diverse neighbors of all ages examining items. Tables full of toys, books, games. Warm, community atmosphere.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 14,
+      "script": "Riley saw something she liked. Watercolor paints! An old woman sat behind them. 'Do you want to trade?' the woman asked. Riley nodded. Her heart beat fast. She really wanted them.",
+      "prompt": "Riley at a craft table, eyes wide with excitement at a watercolor paint set. Elderly white-haired woman behind the table smiling kindly. Riley's hopeful, eager expression.",
+      "characters": ["riley", "elderly_neighbor"]
+    },
+    {
+      "scene": 15,
+      "script": "'What do you have?' asked the woman. Riley showed her pencils. The woman smiled. 'My grandkids love to color!' They traded. Riley held the paints. She was so happy!",
+      "prompt": "Riley and the elderly woman completing their trade. Riley hands over colored pencils while receiving watercolor paints. Both smiling warmly. Successful, happy exchange.",
+      "characters": ["riley", "elderly_neighbor"]
+    },
+    {
+      "scene": 16,
+      "script": "The friends showed each other what they got. Riley had paints. Ellis had a magnifying glass. A boy walked by with Benny's drum. He was banging it and smiling. Benny laughed.",
+      "prompt": "Four friends gathered together showing off their trades. Riley holds paints, Ellis has magnifying glass. In background, a young boy walks by happily banging Benny's old drum. Benny watching and laughing.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 17,
+      "script": "'I forgot about that drum,' said Benny. 'But look how happy he is!' The boy banged the drum loudly. He loved it. Benny felt good inside. His old toy made someone happy.",
+      "prompt": "Benny watching with a warm, satisfied smile as the young boy in background joyfully plays the drum. Benny's expression shows the good feeling of making someone else happy.",
+      "characters": ["benny"]
+    },
+    {
+      "scene": 18,
+      "script": "A little boy saw Layla's puzzle. 'I want that one!' he said. Layla smiled. She had done that puzzle so many times. But for him, it was new! They made a trade.",
+      "prompt": "Layla at their table with an excited little boy pointing at her puzzle box. The boy's parent stands nearby. Layla smiling, happy to pass on something she loved. Trading moment.",
+      "characters": ["layla"]
+    },
+    {
+      "scene": 19,
+      "script": "The swap meet ended. The friends sat on a bench outside. They looked at their new things. 'We didn't spend any money,' said Layla. 'But we all got something good!'",
+      "prompt": "Four friends sitting together on a bench outside the community center in golden afternoon light. Each examining their new treasures. Peaceful, satisfied moment. Swap meet winding down behind them.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 20,
+      "script": "'Our Trading Post was just us,' said Layla. 'This was the whole neighborhood!' She looked at her friends. 'What if we made something even bigger?' An idea was starting to grow.",
+      "prompt": "Four friends on the bench, Layla gesturing with excitement as she shares a new idea. Other friends leaning in with curious, intrigued expressions. Golden sunset light. Seeds of bigger plans.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "chapter": 11,
+  "tier": 1,
+  "title": "EL MERCADO DE LOS MUERTOS",
+  "style_prefix": "Children's book illustration, warm painterly style with soft brush strokes. NO TEXT IN IMAGE. ",
+  "character_refs": {
+    "layla": "Layla - girl with curly dark brown hair, yellow bow on top, teal hoodie with golden sun design",
+    "riley": "Riley - girl with straight dark hair, pink bow, purple dress with white stars",
+    "ellis": "Ellis - boy with blonde hair, blue eyes, orange and blue soccer jersey",
+    "benny": "Benny - friendly brown teddy bear character wearing green plaid scarf",
+    "frances": "Frances - elderly Latina woman with silver hair, warm shawl",
+    "young_frances": "Young Frances - little Latina girl around 9 years old, simple dress, dark hair in braids",
+    "abuelita": "Abuelita - elderly Mexican grandmother with silver hair in bun, traditional embroidered shawl, kind weathered face"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "script": "The friends visited Frances on her front porch. The afternoon sun was warm and golden. 'We have learned a lot about markets,' said Layla. 'But something still feels missing.'",
+      "prompt": "Four friends visiting Frances on her cozy front porch. Golden afternoon light. Layla speaking thoughtfully. Warm welcoming scene.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 2,
+      "script": "Frances nodded with understanding. 'You have learned how markets work,' she said. 'Now you need to learn why they matter.' She settled back in her rocking chair.",
+      "prompt": "Frances in rocking chair, nodding wisely. About to share important story. Friends listening attentively. Afternoon porch setting.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 3,
+      "script": "Frances's eyes got soft and far away. 'When I was nine, my abuelita took me to Mexico,' she began. 'Close your eyes. Smell the flowers.'",
+      "prompt": "Frances with distant remembering expression. Friends closing eyes imaginatively. Memory about to begin. Soft warm light.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 4,
+      "script": "The porch faded away. Bright colors appeared everywhere. Orange and purple and gold! They were in a Mexican town square. This was the market before Día de los Muertos.",
+      "prompt": "Magical transition - porch fading into vibrant Mexican plaza. Explosions of orange marigolds, purple, gold. Día de los Muertos market atmosphere.",
+      "characters": []
+    },
+    {
+      "scene": 5,
+      "script": "Young Frances held her grandmother's hand. Her eyes were wide with wonder. 'Abuelita, why is everything so orange?' she asked.",
+      "prompt": "Young Frances holding Abuelita's hand, looking around in wonder at all the orange marigolds. Child's amazement at vibrant scene.",
+      "characters": ["young_frances", "abuelita"]
+    },
+    {
+      "scene": 6,
+      "script": "They walked to a flower stall. Mountains of orange marigolds filled the air with sweet smell. The vendor smiled at Abuelita. 'Doña Elena! Your flowers are waiting!'",
+      "prompt": "Flower stall piled high with orange marigolds. Friendly vendor greeting Abuelita by name. Sweet fragrant atmosphere. Personal connection.",
+      "characters": ["young_frances", "abuelita"]
+    },
+    {
+      "scene": 7,
+      "script": "Young Frances asked why they needed so many flowers. Abuelita explained gently. 'The bright color and sweet smell guide the spirits home. These are not just pretty. They are a path.'",
+      "prompt": "Abuelita explaining meaning of marigolds to young Frances. Gentle teaching moment. Spiritual significance of flowers. Love and tradition.",
+      "characters": ["young_frances", "abuelita"]
+    },
+    {
+      "scene": 8,
+      "script": "They visited a woman making sugar skulls. She decorated each one with a name. 'Tell me their names,' she said. 'I write them here so they know we remember.'",
+      "prompt": "Sugar skull vendor decorating skulls with names. Colorful calaveras with icing details. Abuelita telling names. Young Frances watching.",
+      "characters": ["young_frances", "abuelita"]
+    },
+    {
+      "scene": 9,
+      "script": "Young Frances realized these were not just candy. They were tributes. Each skull was for someone who had died. Someone loved. She touched one very gently.",
+      "prompt": "Young Frances gently touching a sugar skull with new understanding. Reverent moment. Realizing the meaning behind the tradition.",
+      "characters": ["young_frances"]
+    },
+    {
+      "scene": 10,
+      "script": "They bought candles for the ofrenda at home. 'Each flame is a prayer,' the vendor said. 'Your prayer is the light that guides them through the dark night.'",
+      "prompt": "Candle vendor explaining meaning to young Frances and Abuelita. Many candles glowing. Spiritual significance. Light and remembrance.",
+      "characters": ["young_frances", "abuelita"]
+    },
+    {
+      "scene": 11,
+      "script": "They bought pan de muerto from the bakery. Special bread shaped like bones. The baker gave young Frances a taste. It was sweet.",
+      "prompt": "Bakery with pan de muerto displays. Baker giving young Frances a taste of the special bread. Sweet moment. Traditional shapes.",
+      "characters": ["young_frances", "abuelita"]
+    },
+    {
+      "scene": 12,
+      "script": "As they walked, Abuelita shared something important. 'Everything here was made by hand with love,' she said. 'That is what gives these things power.'",
+      "prompt": "Abuelita and young Frances walking through market. Abuelita sharing wisdom. Handmade crafts all around. Love in every creation.",
+      "characters": ["young_frances", "abuelita"]
+    },
+    {
+      "scene": 13,
+      "script": "Young Frances helped pick papel picado and fabric. She chose purple and gold. 'These were Abuelo's favorite colors,' she said. 'I want him to see them.'",
+      "prompt": "Young Frances choosing purple and gold papel picado and fabric. Making personal choices to honor her grandfather. Meaningful selection.",
+      "characters": ["young_frances", "abuelita"]
+    },
+    {
+      "scene": 14,
+      "script": "Later, the family built their ofrenda together. They placed flowers, candles, photos, skulls, and bread. Everyone helped. It was for love.",
+      "prompt": "Family building ofrenda altar together. Photos, candles, marigolds, sugar skulls, pan de muerto arranged lovingly. Community of family. Love visible.",
+      "characters": ["young_frances", "abuelita"]
+    },
+    {
+      "scene": 15,
+      "script": "The memory faded softly. Frances was back on her porch. The friends were quiet. Some things are not made to be sold. They are made to mean something.",
+      "prompt": "Magical transition back - Mexico fading. Frances on porch again with quiet, moved friends. Profound lesson absorbed. Soft light.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 16,
+      "script": "Benny sat very still. This was not like him. His eyes were wet. 'I never thought about who we remember,' he said quietly. 'It is important.'",
+      "prompt": "Benny sitting unusually still, emotional. Moved by the story. Eyes wet. Deep feelings. Growth moment for usually energetic character.",
+      "characters": ["benny"]
+    },
+    {
+      "scene": 17,
+      "script": "Riley had been drawing while she listened. She looked up with excitement. 'What if our market had something like that?' she asked. 'We could make things that mean something.'",
+      "prompt": "Riley looking up from sketchpad with excited idea. Sharing vision with friends. Connecting story to their market. Creative spark.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 18,
+      "script": "The friends encouraged her. Riley showed her sketch. Paper marigolds. Memory cards. A place where people could honor someone special. 'You should lead this part,' said Layla.",
+      "prompt": "Riley showing sketchpad with paper marigold and memory card designs. Friends looking impressed. Layla encouraging her to lead. Support.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 19,
+      "script": "Riley smiled with new confidence. She had shared her idea, and people liked it! She could lead the memory station at their Community Market.",
+      "prompt": "Riley smiling with newfound confidence. Friends celebrating her idea. Leadership moment. Her creativity valued and recognized.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 20,
+      "script": "Frances watched them with warm eyes. 'Now you understand,' she said. 'The market is not just about trading things. It is about sharing what matters most.'",
+      "prompt": "Frances watching friends with warm proud expression. Key lesson delivered. Friends finally understanding deeper purpose of markets. Golden light.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    }
+  ]
+}

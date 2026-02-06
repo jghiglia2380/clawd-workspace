@@ -1,0 +1,136 @@
+{
+  "chapter": 1,
+  "tier": 1,
+  "title": "THE SWAP MEET",
+  "style_prefix": "Simple flat vector illustration for young children. Bold clean outlines, flat solid colors, NO gradients, NO texture, NO shading. Minimalistic background with simple shapes. Cartoon style with big round eyes with white sclera and black pupils. Like a children's educational cartoon. NO TEXT IN IMAGE.",
+  "character_refs": {
+    "layla": "Layla - young girl with dark brown curly puffy hair, big yellow bow on top with yellow headband, brown skin, teal hoodie with happy yellow sun design, teal pants, white shoes, big round eyes with white sclera",
+    "riley": "Riley - young girl with straight dark brown hair, pink bow in hair, brown/Indian skin tone, purple dress with yellow stars, pink shoes, big round eyes with white sclera",
+    "ellis": "Ellis - young boy with short blonde hair, fair skin with rosy cheeks, red-orange shirt with soccer ball design, blue shorts, big round eyes with white sclera",
+    "benny": "Benny - friendly brown teddy bear character, green plaid scarf, tan snout, big round eyes with WHITE sclera and black pupils, always smiling",
+    "mrs_patterson": "Mrs. Patterson - friendly older Black woman, gray hair, warm smile, simple dress",
+    "elderly_neighbor": "Elderly woman with white hair, glasses, kind smile, simple cardigan"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "script": "Layla walked down the street. It was a sunny day. She saw a colorful sign on a pole. The sign had big letters. Layla stopped to read it.",
+      "prompt": "Layla walking on a simple sidewalk, looking at a colorful sign on a wooden pole. Simple flat background with blue sky, green grass, brown fence. Minimalistic.",
+      "characters": ["layla"]
+    },
+    {
+      "scene": 2,
+      "script": "The sign said 'Swap Meet Today!' Layla read the words. You bring things you don't need. You find things you want! 'That sounds like our Trading Post!' said Layla happily.",
+      "prompt": "Close-up of Layla looking excited, happy expression with big smile. Simple colorful background. Flat vector style.",
+      "characters": ["layla"]
+    },
+    {
+      "scene": 3,
+      "script": "Layla ran to Riley's house. She knocked on the door. Riley opened it. 'Come with me!' said Layla. 'There's a swap meet today. We can trade things!' Riley smiled.",
+      "prompt": "Layla and Riley at a simple door. Layla excited, Riley listening. Simple house entrance, flat colors, minimal details.",
+      "characters": ["layla", "riley"]
+    },
+    {
+      "scene": 4,
+      "script": "They found Ellis and Benny at the park. 'A swap meet is happening!' said Layla. 'We should bring stuff to trade.' Ellis nodded. 'What should we bring?' asked Benny. Everyone started thinking.",
+      "prompt": "All four friends standing together in a simple park setting. Green grass, simple trees, blue sky with clouds. Everyone thinking. Flat vector style.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 5,
+      "script": "Layla went home. She looked in her closet. She found an old puzzle. She had done it many times. 'Someone else might like this puzzle,' she thought. She picked it up.",
+      "prompt": "Layla in a simple room holding a puzzle box. Minimal furniture, flat colors, simple background.",
+      "characters": ["layla"]
+    },
+    {
+      "scene": 6,
+      "script": "Riley looked at her art things. She found short colored pencils. She also found old stickers. 'These still work,' Riley said. 'Someone might want them.' She put them in a bag.",
+      "prompt": "Riley holding colored pencils and stickers. Simple room background, flat colors, minimal details.",
+      "characters": ["riley"]
+    },
+    {
+      "scene": 7,
+      "script": "Ellis chose a book he had read twice. He also picked a toy car. He was too big for it now. 'Time for someone new to have these,' he said to himself.",
+      "prompt": "Ellis holding a book and small toy car. Simple room, flat colors, minimal background.",
+      "characters": ["ellis"]
+    },
+    {
+      "scene": 8,
+      "script": "Benny found a bouncy ball and a toy drum. He forgot he had them! 'I haven't played with these in so long,' said Benny. He added them to his pile.",
+      "prompt": "Benny holding a colorful bouncy ball and small drum. Happy expression. Simple room background, flat colors.",
+      "characters": ["benny"]
+    },
+    {
+      "scene": 9,
+      "script": "The four friends walked to the community center. They carried their swap items. The sun was warm. They talked about what they might find. The building was just ahead.",
+      "prompt": "Four friends walking together on a simple path. Each carrying items. Simple building ahead, blue sky, green grass. Flat vector style.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 10,
+      "script": "Inside, tables filled the big room. Neighbors put things on the tables. So many items! Books, toys, games, and more. Mrs. Patterson smiled at them. 'Welcome to the swap meet!' she said.",
+      "prompt": "Interior with simple tables. Mrs. Patterson greeting the four friends. Simple items on tables. Flat colors, minimal details, clean lines.",
+      "characters": ["layla", "riley", "ellis", "benny", "mrs_patterson"]
+    },
+    {
+      "scene": 11,
+      "script": "'The rule is simple,' said Mrs. Patterson. 'Fair trades. Both people should be happy.' She pointed to a table. 'Put your items there.' The friends walked over with their things.",
+      "prompt": "Mrs. Patterson talking to the four friends, pointing to a table. Simple interior, flat colors.",
+      "characters": ["layla", "riley", "ellis", "benny", "mrs_patterson"]
+    },
+    {
+      "scene": 12,
+      "script": "They put their items on the table. The puzzle. The pencils. The book. The car. The ball. The drum. 'Let's look around!' said Layla. She wanted to see what others had brought.",
+      "prompt": "Four friends at a table with their items displayed: puzzle, pencils, book, toy car, ball, drum. Simple flat style.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 13,
+      "script": "The friends walked around the room. They saw old toys. They saw books. They saw games. So many things to look at! People of all ages were there. Everyone looked happy.",
+      "prompt": "Wide view of simple swap meet room. Four friends browsing. Simple tables with items. Flat colors, minimal details.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 14,
+      "script": "Riley saw something she liked. Watercolor paints! An old woman sat behind them. 'Do you want to trade?' the woman asked. Riley nodded. Her heart beat fast. She really wanted them.",
+      "prompt": "Riley looking excited at watercolor paints on a table. Elderly woman with white hair behind table. Simple flat style.",
+      "characters": ["riley", "elderly_neighbor"]
+    },
+    {
+      "scene": 15,
+      "script": "'What do you have?' asked the woman. Riley showed her pencils. The woman smiled. 'My grandkids love to color!' They traded. Riley held the paints. She was so happy!",
+      "prompt": "Riley and elderly woman trading items. Riley holds paints, woman holds pencils. Both smiling. Simple flat style.",
+      "characters": ["riley", "elderly_neighbor"]
+    },
+    {
+      "scene": 16,
+      "script": "The friends showed each other what they got. Riley had paints. Ellis had a magnifying glass. A boy walked by with Benny's drum. He was banging it and smiling. Benny laughed.",
+      "prompt": "Four friends together showing their new items. In background, small boy with drum. Simple flat style, minimal details.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 17,
+      "script": "'I forgot about that drum,' said Benny. 'But look how happy he is!' The boy banged the drum loudly. He loved it. Benny felt good inside. His old toy made someone happy.",
+      "prompt": "Benny smiling warmly watching a happy boy with drum in background. Simple flat style.",
+      "characters": ["benny"]
+    },
+    {
+      "scene": 18,
+      "script": "A little boy saw Layla's puzzle. 'I want that one!' he said. Layla smiled. She had done that puzzle so many times. But for him, it was new! They made a trade.",
+      "prompt": "Layla at table with excited little boy pointing at puzzle. Simple flat style, minimal background.",
+      "characters": ["layla"]
+    },
+    {
+      "scene": 19,
+      "script": "The swap meet ended. The friends sat on a bench outside. They looked at their new things. 'We didn't spend any money,' said Layla. 'But we all got something good!'",
+      "prompt": "Four friends sitting on simple bench outside. Each holding new items. Blue sky, simple background. Flat vector style.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 20,
+      "script": "'Our Trading Post was just us,' said Layla. 'This was the whole neighborhood!' She looked at her friends. 'What if we made something even bigger?' An idea was starting to grow.",
+      "prompt": "Four friends on bench, Layla gesturing excitedly sharing an idea. Others listening with interest. Simple sunset colors, flat style.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    }
+  ]
+}

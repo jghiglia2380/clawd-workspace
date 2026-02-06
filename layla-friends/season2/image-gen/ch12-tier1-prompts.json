@@ -1,0 +1,137 @@
+{
+  "chapter": 12,
+  "tier": 1,
+  "title": "LA TAMALADA & THE COMMUNITY MARKET",
+  "style_prefix": "Children's book illustration, warm painterly style with soft brush strokes. NO TEXT IN IMAGE. ",
+  "character_refs": {
+    "layla": "Layla - girl with curly dark brown hair, yellow bow on top, teal hoodie with golden sun design",
+    "riley": "Riley - girl with straight dark hair, pink bow, purple dress with white stars",
+    "ellis": "Ellis - boy with blonde hair, blue eyes, orange and blue soccer jersey",
+    "benny": "Benny - friendly brown teddy bear character wearing green plaid scarf",
+    "frances": "Frances - elderly Latina woman with silver hair, apron for cooking",
+    "mr_mason": "Mr. Mason - elderly African American man with gray hair, glasses, blue cardigan, walking with cane",
+    "mrs_patterson": "Mrs. Patterson - friendly older Black woman with warm smile"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "script": "It was the morning of the big day. The friends went to Frances's kitchen early. The counter was covered with things to make tamales. Frances smiled at them warmly.",
+      "prompt": "Early morning in Frances's warm kitchen. Counter covered with tamale ingredients - masa, corn husks, filling. Four friends arriving. Frances welcoming them with apron on.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 2,
+      "script": "'Before your market opens, I want to teach you something,' said Frances. 'A tamalada is not just making food. It is a family working together as one.'",
+      "prompt": "Frances explaining tamalada tradition to attentive friends. Kitchen setting with ingredients ready. Meaningful teaching moment before cooking begins.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 3,
+      "script": "Frances got a faraway look. She remembered her own childhood tamalada. Many hands working. Laughter filling the kitchen. Then she looked at the friends. 'Today, you are my family.'",
+      "prompt": "Frances with nostalgic expression remembering. Then looking at friends with warmth. Welcoming them as family. Emotional connection moment.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 4,
+      "script": "Frances gave each friend a job. Riley would spread the masa dough. Ellis would add the filling. Benny would wrap them up tight. Layla would check each one. Assembly line!",
+      "prompt": "Friends arranged at stations along counter. Riley with masa, Ellis with filling, Benny wrapping, Layla inspecting. Frances assigning roles. Teamwork setup.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 5,
+      "script": "At first, it was hard. Riley's masa was bumpy. Benny wrapped too loose. Ellis put in too much filling. But Frances did not get upset. 'Wrong is how you learn.'",
+      "prompt": "Messy first attempts. Riley's uneven masa, Benny's loose wrap, Ellis's overfilled tamale. Frances encouraging despite mistakes. Learning through doing.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 6,
+      "script": "They kept trying. Soon they found their rhythm. Riley's masa got smooth. Ellis used just the right amount. Benny's wraps got tight. They were working together beautifully!",
+      "prompt": "Friends now working smoothly in rhythm. Perfect tamales forming. Each person doing their part expertly. Harmony in the kitchen. Joy visible.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 7,
+      "script": "Frances stopped them to look. 'See? None of you could make these alone,' she said proudly. 'But together, look what you made!' Dozens of perfect tamales were ready.",
+      "prompt": "Frances gesturing proudly at dozens of beautiful finished tamales. Friends looking at their collective work with amazement. Accomplishment together.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 8,
+      "script": "The tamales went into a big pot to steam. While they waited, Frances said, 'This is what collaboration means. Each person matters. Together you make something wonderful.'",
+      "prompt": "Large pot steaming with tamales. Frances sharing wisdom while friends rest and listen. Steam rising. Final lesson about collaboration.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 9,
+      "script": "The friends talked about their market plan. They had a swap area. An auction corner. Riley's craft station. A memory corner. Frances added helpful ideas. They were ready!",
+      "prompt": "Friends excitedly discussing market plans. Frances contributing ideas. Kitchen planning session. Energy building for the big event.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 10,
+      "script": "Frances opened the pot. Steam rose up. The tamales were perfect! 'These carry everything you learned this season. Share them wisely today. Now go make your market beautiful.'",
+      "prompt": "Frances opening steaming pot, revealing perfect tamales. Steam rising dramatically. Sending friends off with blessing. Exciting moment.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 11,
+      "script": "At the park, they set up their Community Market. Neighbors came to help carry tables. Everyone brought something. Layla smiled. 'This is really happening!' Mrs. Patterson waved.",
+      "prompt": "Park transforming into Community Market. Neighbors helping set up tables. Mrs. Patterson waving. Layla beaming. Community coming together.",
+      "characters": ["layla", "riley", "ellis", "benny", "mrs_patterson"]
+    },
+    {
+      "scene": 12,
+      "script": "The market had different areas. A place to swap things. A corner for auctions. Riley's craft station with paper marigolds. A special memory corner. Everything they learned was here!",
+      "prompt": "Wide view of completed market with different zones visible. Swap area, auction corner, craft station with paper marigolds, memory corner. All lessons represented.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 13,
+      "script": "Two neighbors could not agree on a trade. Layla stepped in calmly. She listened to both. She helped them see each other's side. They made a fair trade. Layla had learned patience.",
+      "prompt": "Layla mediating between two neighbors, calm and patient. Listening carefully. Both parties then shaking hands on fair trade. Layla's growth visible.",
+      "characters": ["layla"]
+    },
+    {
+      "scene": 14,
+      "script": "Ellis ran the auction corner. He explained the rules clearly. He kept track of all the bids. He made sure everything was fair. His careful thinking made it work. He felt proud.",
+      "prompt": "Ellis confidently running auction corner with clipboard. Explaining rules to bidders. Organized and competent. Pride in his analytical skills.",
+      "characters": ["ellis"]
+    },
+    {
+      "scene": 15,
+      "script": "Riley led the memory station. Families made paper flowers and cards. 'Can I make one for my grandpa?' asked a child. 'Of course,' said Riley with a smile.",
+      "prompt": "Riley at memory station surrounded by families making paper marigolds. Child asking to make one for grandpa. Riley warmly helping. Creative leadership.",
+      "characters": ["riley"]
+    },
+    {
+      "scene": 16,
+      "script": "A shy little kid stood near the memory corner. Benny saw him. He walked over quietly and knelt down. 'It's okay to miss people,' Benny said gently. 'Sit with me.'",
+      "prompt": "Benny kneeling down to shy child near memory corner. Gentle, understanding expression. Offering comfort and companionship. Tender moment.",
+      "characters": ["benny"]
+    },
+    {
+      "scene": 17,
+      "script": "Frances and the friends shared the tamales. Not sold — shared freely. Neighbors tasted and smiled. 'These are wonderful!' Frances smiled. 'We made them together. As a family.'",
+      "prompt": "Frances and friends sharing tamales freely with happy neighbors. Community gathered, tasting and smiling. Generosity and sharing. Family feeling.",
+      "characters": ["layla", "riley", "ellis", "benny", "frances"]
+    },
+    {
+      "scene": 18,
+      "script": "Mr. Mason arrived, leaning on his cane. He looked at everything. The auction. The crafts. The memory corner. His eyes got wet. 'You listened. You learned. You made it your own. I am so proud.'",
+      "prompt": "Mr. Mason arriving with cane, surveying the market. Emotional, eyes wet with pride. Seeing all his lessons come to life. Proud mentor moment.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 19,
+      "script": "A young kid came up to the friends. 'That was so cool!' he said. 'Can you teach me how to do this next year?' The friends looked at each other and smiled.",
+      "prompt": "Young child approaching friends excitedly, asking to learn. Friends exchanging knowing smiles. Cycle continuing. They are now the teachers.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 20,
+      "script": "The sun was setting golden. People went home happy. Layla said, 'We did not just have a market. We shared everything we learned.' They were no longer just learners. They were teachers.",
+      "prompt": "Golden sunset over park. Market winding down, happy people leaving. Four friends together looking at their creation. Transformation complete. Teachers now.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    }
+  ]
+}

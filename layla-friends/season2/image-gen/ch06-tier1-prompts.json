@@ -1,0 +1,138 @@
+{
+  "chapter": 6,
+  "tier": 1,
+  "title": "THE FISH AUCTION",
+  "style_prefix": "Children's book illustration, warm painterly style with soft brush strokes. NO TEXT IN IMAGE. ",
+  "character_refs": {
+    "layla": "Layla - girl with curly dark brown hair, yellow bow on top, teal hoodie with golden sun design",
+    "riley": "Riley - girl with straight dark hair, pink bow, purple dress with white stars",
+    "ellis": "Ellis - boy with blonde hair, blue eyes, orange and blue soccer jersey",
+    "benny": "Benny - friendly brown teddy bear character wearing green plaid scarf",
+    "mr_mason": "Mr. Mason - elderly African American man with gray hair, glasses, blue cardigan",
+    "young_mr_mason": "Young Mr. Mason - young African American man in his 20s with dark hair, simple traveling clothes",
+    "auctioneer": "Japanese auctioneer - man in traditional work clothes with cap",
+    "buyer": "Japanese fish buyer - man in rubber boots and work apron"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "script": "Mr. Mason looked in the trunk. He found a small wooden fish. It was pretty. 'This is from Japan,' he said. 'Have you ever heard of an auction?'",
+      "prompt": "Mr. Mason in attic holding up a small carved wooden fish from the trunk. Friends watching with curiosity. Warm attic light.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 2,
+      "script": "The attic started to fade. Now they could see a big building. It was a fish market. It was very early in the morning. The sky was still dark outside.",
+      "prompt": "Magical transition - attic fading into enormous Japanese fish market building. Pre-dawn darkness outside, bright lights inside. Industrial maritime setting.",
+      "characters": []
+    },
+    {
+      "scene": 3,
+      "script": "Young Mr. Mason walked into the market. He saw huge fish on the floor. They were giant tuna! Some were bigger than him.",
+      "prompt": "Young Mr. Mason entering Tsukiji-style fish market. Giant bluefin tuna laid out on floor. Enormous fish, some bigger than a person. Wide-eyed amazement.",
+      "characters": ["young_mr_mason"]
+    },
+    {
+      "scene": 4,
+      "script": "He found a special area. Many people stood around the fish. They wore special hats. A bell rang. Everyone got quiet.",
+      "prompt": "Auction area in fish market. Buyers in work clothes and special numbered hats gathered around premium tuna. Bell visible. Anticipation.",
+      "characters": ["young_mr_mason"]
+    },
+    {
+      "scene": 5,
+      "script": "A man stood up front. He was the auctioneer. He talked very fast in Japanese. Young Mr. Mason did not know the words. But he watched the buyers.",
+      "prompt": "Auctioneer at front speaking rapidly with hand gestures. Young Mr. Mason watching intently, trying to understand. Buyers focused on auctioneer.",
+      "characters": ["young_mr_mason", "auctioneer"]
+    },
+    {
+      "scene": 6,
+      "script": "Hands went up. Fingers showed numbers. The buyers were bidding. They all wanted the same fish! They were trying to win.",
+      "prompt": "Buyers raising hands with finger signals for bids. Competitive energy. Multiple people bidding on same fish. Intense auction action.",
+      "characters": ["young_mr_mason"]
+    },
+    {
+      "scene": 7,
+      "script": "Two buyers really wanted one fish. They kept bidding higher. The price went up and up. Young Mr. Mason was amazed.",
+      "prompt": "Two determined buyers in bidding war, going back and forth. Young Mr. Mason watching with amazement. Tension building. Price climbing.",
+      "characters": ["young_mr_mason"]
+    },
+    {
+      "scene": 8,
+      "script": "One buyer finally won. The other one stopped. A bell rang. The winner bowed. The fish got a special mark.",
+      "prompt": "Winning buyer bowing as bell rings. Other buyer stepping back graciously. Worker marking the sold tuna. Moment of victory.",
+      "characters": ["young_mr_mason", "buyer"]
+    },
+    {
+      "scene": 9,
+      "script": "Young Mr. Mason talked to a buyer. 'Who decides the price?' he asked. The man laughed. 'We do!' he said. 'The buyers decide.'",
+      "prompt": "Young Mr. Mason in conversation with friendly Japanese buyer. Buyer gesturing and explaining with a smile. Learning moment.",
+      "characters": ["young_mr_mason", "buyer"]
+    },
+    {
+      "scene": 10,
+      "script": "The buyer explained more. 'In an auction, buyers fight with prices. Whoever wants it most pays the most.'",
+      "prompt": "Buyer continuing to explain auction concept to young Mr. Mason. Both near giant tuna. Educational exchange.",
+      "characters": ["young_mr_mason", "buyer"]
+    },
+    {
+      "scene": 11,
+      "script": "Young Mr. Mason looked around the market. He saw it now. When many people want something, the price goes up.",
+      "prompt": "Young Mr. Mason surveying the busy fish market with new understanding. Light bulb moment. Seeing the economics in action.",
+      "characters": ["young_mr_mason"]
+    },
+    {
+      "scene": 12,
+      "script": "He found a small shop. They sold little carved fish. He bought a wooden fish to remember today.",
+      "prompt": "Young Mr. Mason at small souvenir shop with carved wooden fish displayed. Selecting one special carved fish to buy. Keepsake moment.",
+      "characters": ["young_mr_mason"]
+    },
+    {
+      "scene": 13,
+      "script": "The fish market started to fade. The colors got soft. They were back in the attic. Mr. Mason still held the wooden fish.",
+      "prompt": "Magical transition back - fish market fading. Attic returning. Old Mr. Mason now, holding the same wooden fish from the memory.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 14,
+      "script": "The friends were amazed. 'So when lots of people want something, the price goes up?' asked Benny. 'Exactly!' said Mr. Mason.",
+      "prompt": "Friends looking amazed, Benny asking question with curious expression. Mr. Mason nodding approvingly, placing wooden fish back in trunk.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 15,
+      "script": "Ellis spoke up. 'Wait! That's the opposite of the lemonade!' Everyone looked at him. 'We had too many sellers. At the auction, there were too many buyers.'",
+      "prompt": "Ellis having realization moment, connecting ideas. Other friends and Mr. Mason turning to look at him with interest. Breakthrough moment.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 16,
+      "script": "The friends stared at Ellis. 'That's so smart,' said Layla. 'You are good at figuring things out.' Ellis smiled. He felt proud.",
+      "prompt": "Ellis beaming with pride as friends compliment his thinking. Layla speaking admiringly. Ellis gaining confidence. Warm moment.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 17,
+      "script": "'Could we have an auction?' asked Riley. 'At our market?' The friends got excited. 'People could bid on special things!'",
+      "prompt": "Riley suggesting idea with excitement. All four friends animated and excited about auction idea for their market. Brainstorming energy.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 18,
+      "script": "Ellis took out a small notebook. He wrote down the idea. 'An auction,' he said. 'And fair prices.' He was keeping track.",
+      "prompt": "Ellis with small notebook, writing down ideas. Organized and methodical. Other friends watching approvingly. Taking notes on learnings.",
+      "characters": ["layla", "riley", "ellis", "benny"]
+    },
+    {
+      "scene": 19,
+      "script": "Mr. Mason smiled at them. 'There are more things in this trunk,' he said. 'More stories from markets around the world. Italy. Germany.'",
+      "prompt": "Mr. Mason gesturing to the trunk with more treasures inside. Friends leaning in eagerly. Promise of more stories. Anticipation.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    },
+    {
+      "scene": 20,
+      "script": "The friends could not wait. Every story was teaching them something. They would use these lessons for their Community Market.",
+      "prompt": "Four friends gathered around trunk with Mr. Mason, excited and engaged. Ready to learn more. Building toward their own market.",
+      "characters": ["layla", "riley", "ellis", "benny", "mr_mason"]
+    }
+  ]
+}
