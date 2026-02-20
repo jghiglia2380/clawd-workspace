@@ -1,9 +1,9 @@
 # CHAPTER 1: GOING SOLO - TIER 2 (2ND GRADE)
 
-**Reading Levels:** J-M
+**Reading Levels:** J
 **Target Narration Speed:** 112 WPM
-**Target Word Count:** 1,050 words
-**Episode Duration:** ~9 minutes
+**Target Word Count:** 900 words
+**Episode Duration:** ~8 minutes
 **Character Focus:** Ensemble — all four friends
 **FL Integration:** Medium (entrepreneurship, opportunity cost, division of labor)
 **Setting:** Secret fort and neighborhood
@@ -12,77 +12,82 @@
 
 ## GOING SOLO
 
-### Scene 1 (53 words)
-Three weeks had passed since the Makers' Faire. The friends gathered in their fort on Saturday morning. They wanted to discuss what to do next. Ellis opened his notebook and showed them a list of every request. "Fourteen people want us to make things or fix things," he said. Everyone felt excited but a little nervous.
+### Scene 1 (45 words)
+Three weeks had passed since the big Makers' Faire. The friends gathered at their fort on Saturday morning to figure out what to do next. Ellis opened his notebook and read them a long list. "Fourteen people want us to make or fix things," he said.
 
-### Scene 2 (52 words)
-"That's a lot of work," said Layla. She looked at the long list with concern. Riley nodded. She suggested they should split up the work. Each person could do what they did best. "I can take the pottery orders. Ellis can do repairs. Layla can make journals. Benny can run errands," she said. Everyone agreed.
+### Scene 2 (45 words)
+"We should split the work up," Riley suggested. She said she would take the pottery orders, Ellis could handle repairs, Layla could sell her handmade journals, and Benny could run errands for neighbors. Everyone liked the plan and felt sure they could handle it alone.
 
-### Scene 3 (53 words)
-Riley visited Mrs. Patterson to start her pottery commissions. "I'd like six matching mugs," Mrs. Patterson said with a warm smile. Riley said yes right away. But as she walked home, she realized she forgot to ask what "matching" meant. Did Mrs. Patterson want the same color, size, or pattern? Riley wished she had asked more questions.
+### Scene 3 (45 words)
+Riley went to see Mrs. Patterson on Monday morning. "I want six matching mugs for my kitchen," Mrs. Patterson said with a warm smile. Riley agreed right away, but on the walk home she realized something. She never asked what "matching" meant.
 
-### Scene 4 (52 words)
-Ellis went to fix Mr. Chen's broken gate on Monday. He brought his toolbox. He felt confident about the job. He got to work and made good progress. But halfway through, he discovered a problem. He needed a different type of saw blade. "I don't have that one with me," he told Mr. Chen apologetically. He had to come back the next day.
+### Scene 4 (46 words)
+Ellis went to fix a broken gate at Mr. Chen's house on Monday afternoon. He brought his tools and started working right away. But halfway through the job, he discovered he needed a different saw blade. He told Mr. Chen he would have to come back tomorrow.
 
-### Scene 5 (53 words)
-Layla set up at the park on Tuesday with her handmade journals. She arranged them on a colorful blanket. People walked by and looked at them with interest. Some picked them up to examine the stitching. They smiled. But after sitting there for two hours, nobody had bought anything. Layla packed up feeling disappointed.
+### Scene 5 (45 words)
+Layla set up at the park on Tuesday with her handmade journals spread out on a colorful blanket. People walked by and smiled at her beautiful work. Some even picked them up and looked at the pages. But after two hours, nobody bought a single one.
 
-### Scene 6 (52 words)
-Benny started running errands for neighbors on Wednesday. He wanted to help everyone in the community. Mrs. Williams needed groceries. Mr. Patel wanted a package mailed. Mrs. Chen asked him to return library books. Benny felt helpful and busy all day. But when evening came, he couldn't remember who had paid him what. He forgot to write anything down.
+### Scene 6 (45 words)
+Benny spent all day Wednesday running errands around the neighborhood. He picked up groceries for Mrs. Williams, mailed a package for Mr. Patel, and returned library books for Mrs. Chen. He felt busy and helpful the whole time, but he forgot to write down any of the payments.
 
-### Scene 7 (53 words)
-The friends met at the fort Thursday evening for a check-in. "How's it going?" asked Layla hopefully. Everyone said "fine." But they all looked exhausted. Riley's hands were covered in dried clay. Ellis had sawdust in his hair. Layla kept yawning. Benny's scarf hung crooked around his neck. Nobody admitted they were struggling yet.
+### Scene 7 (45 words)
+The friends met at the fort on Thursday evening to check in. "How is everything going?" Layla asked hopefully. Everyone said they were doing fine, but they all looked tired and worn out. Riley had clay on her hands and Ellis had sawdust in his hair.
 
-### Scene 8 (52 words)
-Riley's customer problem got worse as the week went on. Mrs. Patterson didn't like the first set of mugs. She asked Riley to make them taller. Riley made them again with new dimensions. Then Mrs. Patterson wanted different-shaped handles. That meant Riley had to make them a third time. "I just want her to be happy," Riley told Benny with frustration.
+### Scene 8 (46 words)
+Riley's trouble with the mugs kept getting worse. Mrs. Patterson wanted them taller, so Riley made them again. Then Mrs. Patterson decided she wanted different handles, and Riley had to start over a third time. "I just want her to be happy with them," Riley told Benny sadly.
 
-### Scene 9 (53 words)
-Ellis realized he was wasting time traveling between jobs. He would fix a door on Maple Street. Then he walked across town to repair a shelf. Then he returned to Maple Street for another repair. "I'm spending more time walking than working," he told his dad at dinner. His dad nodded knowingly.
+### Scene 9 (45 words)
+Ellis realized he was wasting a lot of time walking between jobs. He fixed a door on one street, then walked all the way across town for another repair, then walked right back again. "I spend more time walking than working," he told his dad at dinner.
 
-### Scene 10 (52 words)
-On Friday, Layla finally made her first sale. A teacher bought one of her journals for eight dollars. Layla felt proud. But then she calculated the economics at home. The journal had taken four hours to create. Eight dollars divided by four hours meant she had earned only two dollars per hour. That didn't seem like much.
+### Scene 10 (45 words)
+Layla finally sold a journal on Friday afternoon when a teacher bought one for eight dollars. She felt proud at first, but then she did the math at home. The journal took four hours to make, so she only earned two dollars for each hour of work.
 
-### Scene 11 (53 words)
-Benny's biggest mistake happened Friday afternoon. His disorganized system fell apart. He collected payment from Mrs. Chen for delivering her groceries. But then he got confused. He accidentally gave that money to Mr. Patel for a different errand. When Mrs. Chen asked for her change later, Benny didn't have it. He had to use his own money.
+### Scene 11 (46 words)
+Benny made his biggest mistake on Friday afternoon. He collected payment from Mrs. Chen for her groceries, but then he got mixed up and gave that same money to Mr. Patel for a different errand. He had to use his own allowance money to fix the mess.
 
-### Scene 12 (52 words)
-That evening, Layla visited Frances in her garden. She needed time to think about her sales. Frances was picking tomatoes from her vines. "You look tired," Frances said kindly. Layla explained about trying to sell journals. Frances smiled with understanding. "One tomato plant gives you some tomatoes, but a whole garden feeds the neighborhood," she said.
+### Scene 12 (45 words)
+That evening, Layla visited Frances in her garden because she needed time to think. Frances was picking tomatoes and noticed that Layla looked tired. Layla told her about the journals. Frances smiled. "One tomato plant gives you some tomatoes," she said. "A whole garden feeds everyone."
 
-### Scene 13 (53 words)
-By Thursday, Ellis found himself in a difficult position. He had to turn down two repair requests from neighbors. "I'm sorry, but I'm too busy right now," he told Mr. Rodriguez apologetically. Ellis felt bad about saying no to people who needed help. But he was already working on four projects. He couldn't do more by himself.
+### Scene 13 (45 words)
+By Thursday, Ellis had to turn down two new repair jobs because he had too much work already. He told Mr. Rodriguez he was sorry but he was too busy right now. He felt bad about saying no, but there were only so many hours in one day.
 
-### Scene 14 (52 words)
-Riley's breaking point came on Friday. She brought Mrs. Patterson the mugs for the fourth time. She hoped they would finally be right. Mrs. Patterson examined them carefully. Then she frowned. "These still aren't quite what I had in mind," she said apologetically. Riley felt like crying with frustration. "I don't want to do commissions anymore," she told Ellis later.
+### Scene 14 (46 words)
+Riley hit her breaking point on Friday afternoon. She brought the mugs to Mrs. Patterson one more time, hoping they were finally right. Mrs. Patterson looked at them carefully and shook her head. "These still aren't what I wanted," she said. Riley felt like she wanted to cry.
 
-### Scene 15 (53 words)
-Friday night, each friend counted their week's earnings alone in their room. They reflected on their hard work. Riley had earned twenty-two dollars from pottery. Ellis had made nineteen dollars from repairs. Layla had earned twelve dollars from one journal sale. Benny had only five dollars left after fixing his payment mistake. They all felt disappointed.
+### Scene 15 (45 words)
+On Friday night, each friend sat alone and counted the money they had earned that week. Riley made twenty-two dollars from pottery. Ellis earned nineteen from repairs. Layla had twelve from her one journal sale. Benny had only five dollars left after fixing his payment mistake.
 
-### Scene 16 (52 words)
-Saturday morning, they met at the fort for their weekly meeting. Nobody wanted to share their disappointing results first. Finally, Riley gathered her courage and placed her money on the wooden table. "Twenty-two dollars," she said quietly. Then the others added their earnings one by one. Together they had fifty-eight dollars. "That seems like a lot," said Benny hopefully.
+### Scene 16 (45 words)
+Saturday morning, they all met at the fort again. Nobody wanted to share their numbers first. Finally, Riley placed her money on the table and said, "Twenty-two dollars." The others added theirs one by one until fifty-eight dollars sat in a small pile between them.
 
-### Scene 17 (53 words)
-Then Layla asked an important question. "How many hours did we each work this week?" She pulled out paper to calculate the numbers. Riley had worked about twelve hours on pottery. Ellis had worked ten hours on repairs. Layla had worked seven hours making and selling journals. Benny had worked six hours running errands. That was thirty-five hours total.
+### Scene 17 (45 words)
+"How many hours did we work this week?" Layla asked. They figured it out together. Riley worked twelve hours, Ellis worked ten, Layla worked seven, and Benny worked six. That added up to thirty-five hours of work total. "Fifty-eight dollars for thirty-five hours?" Ellis said slowly.
 
-### Scene 18 (52 words)
-"Fifty-eight dollars for thirty-five hours of work," Ellis said slowly. Mr. Mason stopped by the fort to return a borrowed tool and noticed the pile of money and exhausted expressions. "How did your entrepreneurial week go?" he asked gently. Ellis explained their earnings. "That works out to less than two dollars per hour," Mr. Mason observed quietly.
+### Scene 18 (45 words)
+Mr. Mason stopped by the fort just then and noticed the small pile of money and their tired faces. "How did your week go?" he asked gently. Ellis told him the numbers. Mr. Mason thought for a moment. "That's less than two dollars an hour," he said quietly.
 
-### Scene 19 (53 words)
-Layla looked at each of her friends and noticed all the signs of struggle. She saw Riley's frustrated expression and clay-stained hands, Ellis's tired eyes, Benny's crooked scarf, and the small pile of money on the table. "What if these aren't four separate problems?" she said thoughtfully. "What if it's really one problem? We're all trying to do everything completely alone."
+### Scene 19 (45 words)
+Layla looked at her friends and saw how tired everyone was. She thought about it for a long moment. "What if these aren't four different problems?" she said slowly. "What if it's one problem? We're each trying to do everything by ourselves. Maybe we should work together instead."
 
-### Scene 20 (52 words)
-"What if we worked together as one business?" Layla proposed. Her confidence was growing. "We could support each other and share the workload instead of struggling separately." Riley's eyes lit up with hope. "You mean like a real team?" Ellis nodded slowly. "That might work better." Benny grinned. "Let's try it for one week!" They all agreed.
-
----
-
-**Total Word Count: 1,053 words** ✅
-
-**Estimated MSL:** ~8.8 words ✅ (Target: 7-10)
+### Scene 20 (45 words)
+Riley's eyes lit up right away. "You mean like a real team?" she asked. Ellis nodded and said that might work much better than going solo. Benny grinned and said, "Let's try it for one week!" They all agreed. They didn't feel tired anymore.
 
 ---
 
-## FL VOCABULARY
+**Total Word Count: ~903 words**
 
-- **request** — when someone asks you to do something for them
-- **commission** — when someone pays you to make something specific for them
-- **errand** — a short trip to do a task or favor
-- **opportunity** — a chance to do something or earn something
+---
+
+## FL VOCABULARY INTRODUCED
+
+1. **errand** (Scenes 2, 6) — A short trip to do a job for someone
+2. **commission** (Scene 3) — When someone pays you to make something specific for them
+3. **per hour** (Scene 18) — How much you earn for each hour of work
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 112 (moderate pace)
+- **Pause:** 1.5 seconds between sentences
+- **Tone:** Warm, builds empathy for each kid's struggle, ends hopeful
