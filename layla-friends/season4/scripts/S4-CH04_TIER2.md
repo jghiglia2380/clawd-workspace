@@ -1,85 +1,95 @@
 # CHAPTER 4: THE UNHAPPY CUSTOMER - TIER 2 (2ND GRADE)
 
-**Reading Levels:** J-M
+**Reading Levels:** J
 **Target Narration Speed:** 112 WPM
-**Target Word Count:** 1,050 words
-**Episode Duration:** ~9 minutes
-**Character Focus:** Riley — learning customer expectations
-**FL Integration:** Medium (satisfaction, quality, rework costs)
-**Setting:** Fort, pottery studio, customer homes
+**Target Word Count:** 900 words
+**Episode Duration:** ~8 minutes
+**Character Focus:** Riley (spotlight)
+**FL Integration:** Medium (customer satisfaction, rework cost, reputation, sketch rule)
+**Setting:** Fort, customer homes, Mr. Mason's workshop
 
 ---
 
 ## THE UNHAPPY CUSTOMER
 
-### Scene 1 (53 words)
-A woman from the café approached Riley Tuesday morning. "I heard you make beautiful pottery," she said with interest. "I'd like a decorative platter for my dining room wall." Riley's eyes lit up. This was her specialty—decorative pieces. "I'd love to make that for you," she said eagerly. Custom art projects were her favorite kind of work.
+### Scene 1 (45 words)
+A woman at the neighborhood café asked Benny about Maplewood Makers. She wanted a decorative platter as a gift. Benny brought the order back to the fort, and Riley's eyes lit up right away. "I love making platters!" she said. "This is going to be great."
 
-### Scene 2 (52 words)
-"What would you like on it?" Riley asked while pulling out her sketchbook. The woman thought for a moment. "Something with flowers. You choose the design—you're the artist!" she said warmly. Riley heard creative freedom in those words. "I'll make something beautiful," Riley promised confidently. The woman agreed to pay eighteen dollars for the finished piece.
+### Scene 2 (45 words)
+Riley called the woman to talk about the order. "I want something with flowers on it," the woman said. "You choose the design. I trust you!" Riley hung up and smiled. She loved when customers let her pick the design. It felt like real art.
 
-### Scene 3 (53 words)
-Riley spent hours designing the perfect platter in her studio. She chose blue morning glories winding around the rim in an elegant pattern. The glaze turned out perfectly—deep blue against cream background. She worked carefully on every detail with intense focus. "This is my best work yet," she whispered while examining the finished piece under bright light.
+### Scene 3 (45 words)
+Riley spent the whole next day on the platter. She painted blue morning glories with green vines curling around the edges. She used her best glaze and fired it twice for extra shine. When it came out of the kiln, she held it up and grinned.
 
-### Scene 4 (52 words)
-Delivery day arrived on Friday. Benny carefully carried the wrapped platter to the customer's house while Riley waited at the fort. She felt proud and confident about her work. Minutes felt like hours as she waited for Benny to return with feedback. She imagined the woman's delighted reaction when seeing the beautiful blue flowers she'd created.
+### Scene 4 (45 words)
+On delivery day, Benny wrapped the platter in cloth and carried it to the customer's house. Riley stayed at the fort, too nervous to go along. She sat by the money jars and waited. "She is going to love it," Riley told Layla. "It is my best work."
 
-### Scene 5 (53 words)
-Benny returned to the fort looking somber and uncomfortable. "She said it's beautiful work," he began slowly, avoiding Riley's eyes. Riley's smile started to fade at his tone. "But it's not what she wanted," Benny finished quietly. Riley's heart sank like a stone. "What do you mean?" she asked, feeling confused and defensive.
+### Scene 5 (45 words)
+Benny came back with the platter still in his hands. His face was serious. "She said it is beautiful work," he told Riley slowly. "But it is not what she had in mind." Riley stared at the platter and felt her stomach drop. How could it not be right?
 
-### Scene 6 (52 words)
-"She wanted roses, not morning glories," Benny explained carefully while unwrapping the returned platter. "And warm colors like red or pink, not blue." Riley stared at the platter in shock. "But she said I could choose!" Riley protested, feeling hurt. "She thought you'd somehow know what she liked," Benny said with sympathy for Riley's disappointment.
+### Scene 6 (45 words)
+Benny explained that the woman wanted roses, not morning glories. She wanted warm colors like red and orange, not blue. She had said "flowers" and thought Riley would know. But Riley had imagined something different. It was a misunderstanding, and now the platter could not be used.
 
-### Scene 7 (53 words)
-"But it IS beautiful!" Riley insisted, feeling defensive about her careful work. Layla spoke gently but firmly. "It is beautiful, Riley. But beautiful isn't enough if it's not what the customer asked for." Riley felt tears threatening. She'd worked so hard and done her best. "We have to make what they want, not just what we want," Layla explained.
+### Scene 7 (45 words)
+"But it IS beautiful!" Riley said, holding the platter tightly. "I worked so hard on this!" Layla put a hand on Riley's shoulder. "It is beautiful," Layla said gently. "But we are not making art for us. We are making what the customer wants. That is different."
 
-### Scene 8 (52 words)
-They discussed options at the fort table. "Do we give her money back?" asked Benny uncertainly. Layla checked their records. "We already spent eight dollars on materials. If we refund, we lose that money." Ellis thought carefully. "We should redo it the way she wants," he suggested. "That keeps the customer happy and protects our reputation."
+### Scene 8 (45 words)
+Layla pulled out her notebook and showed Riley the numbers. The first platter used eight dollars of materials. If Riley made a new one, that would be another eight dollars. The customer was paying eighteen dollars total. Eighteen minus sixteen left only two dollars of profit. Almost nothing.
 
-### Scene 9 (53 words)
-The rework decision meant Riley needed more clay and more glaze for a second platter. Layla calculated the new costs sadly. "The second platter costs another eight dollars in materials. That's sixteen dollars total for one eighteen dollar order." Riley watched as Layla moved money from the PROFIT jar back to the COSTS jar. The profit was almost gone.
+### Scene 9 (45 words)
+The team talked about what to do. They could give the money back, or they could make a new platter. Ellis spoke up. "Our reputation matters more than profit on one job," he said. "If we fix this, she will tell people we are trustworthy."
 
-### Scene 10 (52 words)
-Riley visited Mr. Mason's workshop feeling discouraged about the failed project. "Every woodworker has a piece rejected at some point," Mr. Mason said kindly while pouring her juice. "It's painful, but it teaches you to ask more questions upfront before starting work." His understanding made Riley feel slightly better about the difficult situation and her mistake.
+### Scene 10 (45 words)
+Riley took a deep breath and nodded. "I will make it again," she said quietly. "The right way this time." She was still upset, but she knew it was the right thing to do. She set the rejected platter on the shelf and got out fresh clay.
 
-### Scene 11 (53 words)
-Back at the fort, Riley started the second platter with a heavy heart. This time she sketched red and pink roses in warm tones exactly as requested. It felt less creative and more like following instructions. But she worked carefully anyway, determined to get it right this time. Customer satisfaction mattered more than her artistic vision.
+### Scene 11 (45 words)
+That evening, Riley went to Mr. Mason's workshop. She told him what happened. Mr. Mason nodded. "A customer once sent back a table I made," he said. "It taught me to always ask more questions before I start building. Every good craftsman learns this lesson sooner or later."
 
-### Scene 12 (52 words)
-While Riley worked on the redo, Ellis discovered a problem with a birdhouse he'd built. It leaned slightly to one side when hung up. The customer hadn't complained yet, but Ellis noticed. "I need to fix this before they see it's wrong," he told Layla firmly. "Our reputation is worth more than the materials cost."
+### Scene 12 (45 words)
+At the next team meeting, Layla held up a new card for the order board. It said: CUSTOM ORDERS OVER TEN DOLLARS — SHOW A SKETCH FIRST. "If we draw it before we make it, the customer can say yes or no before we spend any money."
 
-### Scene 13 (53 words)
-Ellis fixed the birdhouse for free, using his own time and materials. When he delivered the corrected version, the customer was surprised. "I hadn't even noticed!" she admitted gratefully. "But I appreciate you taking such care with your work." She told three neighbors about Ellis's integrity and commitment to quality that same day.
+### Scene 13 (45 words)
+Riley made the second platter with red roses and warm orange tones. She followed the customer's wishes carefully. The roses looked lovely and the colors were rich. But as she painted, it felt different from the first one. She was making what someone else wanted, not what she loved.
 
-### Scene 14 (52 words)
-Riley finished the second platter Wednesday with roses in warm tones. It was beautiful work—just in a different style than she preferred personally. Benny delivered it nervously, carrying it extra carefully after the first attempt. This time he returned with a huge smile. "She loves it!" he announced happily. "She said it's perfect."
+### Scene 14 (45 words)
+Benny delivered the second platter and this time came back smiling. "She loves it!" he said. The woman paid the full eighteen dollars. Riley felt relieved, but also a little hollow inside. The money went into the jars, but only two dollars made it to the PROFIT jar.
 
-### Scene 15 (53 words)
-The team gathered for a fort meeting to discuss what they'd learned this week. "We need a new rule," Layla said seriously while writing on a card. "For custom orders over ten dollars, show a sketch first before starting work." Everyone agreed immediately. Riley felt relieved—sketches would prevent future misunderstandings and protect everyone from costly mistakes.
+### Scene 15 (45 words)
+The rejected morning glory platter sat on the shelf at the fort. Riley looked at it every day. It was still her best work. But no one had asked for it and she could not get the materials back. "What do I do with it now?" she wondered.
 
-### Scene 16 (52 words)
-Layla hung the new rule card on their order board where everyone could see it clearly. "Custom orders $10+ → Sketch First" it read in bold letters. "This rule protects us and our customers," Ellis observed wisely. Riley nodded in agreement, grateful for a system that would prevent repeating her painful experience with assumptions.
+### Scene 16 (45 words)
+Frances stopped by the fort and noticed the platter. "That is lovely," she said, picking it up carefully. "Why not sell it as an artist's choice piece? Some people want to buy what the artist loves, not what they ordered." Riley thought about it. She liked that idea.
 
-### Scene 17 (53 words)
-Riley looked at the rejected blue morning glory platter sitting in her studio. "What should I do with this?" she wondered aloud while studying it. Layla had an idea. "What if you keep making pieces YOU choose, and sell them as 'artist's choice' items?" she suggested. "Some people might want your creative vision without giving instructions."
+### Scene 17 (45 words)
+Meanwhile, a customer stopped Ellis on the street. "That birdhouse you built leans a little to the right," he said. Ellis went to look at it right away. The base was not level. It was a small mistake, but it mattered. He told the man he would fix it.
 
-### Scene 18 (52 words)
-The idea excited Riley immediately. "I could have two types of work," she said with growing enthusiasm. "Custom pieces where customers choose everything, and artist's choice pieces where I create freely." Layla smiled at the solution. "Exactly! That way you can still make art your way, but customers know what they're getting from the start."
+### Scene 18 (45 words)
+Ellis came back the next morning with his tools and fixed the birdhouse for free. The customer watched with surprise. "You did not have to do that," he said. Ellis shrugged. "We stand behind our work," he said. "If something is not right, we make it right."
 
-### Scene 19 (53 words)
-Riley displayed the blue platter at the café with a sign: "Artist's Choice - $15." Within two days, a different customer bought it. "I love that you chose blue!" the woman said enthusiastically. "It matches my kitchen perfectly." Riley learned that the right customer for every piece existed—she just needed clear communication from the beginning.
+### Scene 19 (45 words)
+The birdhouse customer told his neighbors about the free repair. Two of them called Maplewood Makers that same week to place new orders. Doing the right thing brought in more business than one birdhouse was worth. Goodwill, Layla wrote in her notebook, has real value.
 
-### Scene 20 (52 words)
-That night, Layla checked the map. The platter customer's line, which had flickered and dimmed after rejection, now glowed steady and bright after the successful redo. The birdhouse customer's line burned even brighter after Ellis's free repair. The map showed that problems could be fixed, and good recovery actually strengthened relationships and built deeper trust.
+### Scene 20 (45 words)
+Riley looked at both platters sitting side by side on the shelf. The roses and the morning glories. She was learning that being an artist and being a business were two different things. But maybe she could do both. The morning glory platter waited for the right buyer.
 
 ---
 
-**Total Word Count: 1,053 words** ✅
-**Estimated MSL:** ~8.8 words ✅
+**Total Word Count: ~900 words**
 
-## FL VOCABULARY
-- **satisfaction** — feeling happy with what you received
-- **expectations** — what someone hopes or thinks will happen
-- **rew ork** — doing the same job over again to fix it
-- **quality** — how good or well-made something is
-- **reputation** — what people think and say about you
+---
+
+## FL VOCABULARY INTRODUCED
+
+1. **customer satisfaction** (Scene 6, implied) — Making sure the customer gets what they expected
+2. **rework** (Scene 8) — Having to make something again, doubling the cost
+3. **profit** (Scenes 8, 14) — Money left after costs are subtracted
+4. **reputation** (Scene 9) — What people say about your business to others
+5. **goodwill** (Scene 19) — Trust and loyalty earned by doing the right thing
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 112 (moderate pace)
+- **Pause:** 1.5 seconds between sentences
+- **Tone:** Emotional journey — excitement to disappointment to growth

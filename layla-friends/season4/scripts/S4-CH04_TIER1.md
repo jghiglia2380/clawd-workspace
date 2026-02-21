@@ -1,85 +1,92 @@
 # CHAPTER 4: THE UNHAPPY CUSTOMER - TIER 1 (K-1ST GRADE)
 
-**Reading Levels:** A-I
+**Reading Levels:** D
 **Target Narration Speed:** 75 WPM
-**Target Word Count:** 650 words
-**Episode Duration:** ~9 minutes
-**Character Focus:** Riley
-**FL Integration:** Customer satisfaction, quality
-**Setting:** Fort, pottery studio, customer homes
+**Target Word Count:** 600 words
+**Episode Duration:** ~8 minutes
+**Character Focus:** Riley (spotlight)
+**FL Integration:** Medium (customer satisfaction, making things right, rework)
+**Setting:** Fort, customer homes, Mr. Mason's workshop
 
 ---
 
 ## THE UNHAPPY CUSTOMER
 
-### Scene 1 (33 words)
-A woman came to Riley at the cafe. "I heard you make nice pottery," she said. "I want a big plate for my wall." Riley smiled. She loved making pretty plates. This would be fun.
+### Scene 1 (30 words)
+A woman wanted a special platter from Maplewood Makers. Benny told Riley about the order. "I love making platters!" said Riley. She was so excited to start.
 
-### Scene 2 (32 words)
-"What do you want on it?" Riley asked. The woman thought. "Flowers. You pick which ones!" she said. Riley liked that. She could choose! The woman would pay eighteen dollars for the plate.
+### Scene 2 (30 words)
+The woman said she wanted flowers on the platter. "You pick the kind," she said. Riley smiled. She loved choosing the design. She had lots of ideas.
 
-### Scene 3 (33 words)
-Riley spent a long time on the plate. She picked blue flowers called morning glories. The blue paint looked so pretty on the cream plate. "This is my best work," she said to herself quietly.
+### Scene 3 (30 words)
+Riley worked all day. She painted blue flowers on the platter. She used her best paint. When it was done, she held it up. It was so pretty!
 
-### Scene 4 (32 words)
-Friday came. Benny took the plate to the woman's house. Riley waited at the fort. She felt proud. She kept thinking about the woman seeing her pretty blue flowers. It would be great.
+### Scene 4 (30 words)
+Benny took the platter to the customer. Riley waited at the fort. She sat by the money jars. "She is going to love it," Riley said to Layla.
 
-### Scene 5 (33 words)
-Benny came back looking sad. "She said it's nice work," he said slowly. "But it's not what she wanted." Riley's smile went away fast. "What do you mean?" she asked. Her heart felt heavy.
+### Scene 5 (30 words)
+Benny came back. He still had the platter. His face was sad. "She said it is pretty," he told Riley. "But it is not what she wanted."
 
-### Scene 6 (32 words)
-"She wanted roses. Not morning glories," Benny said. "And warm colors. Red or pink. Not blue." Riley stared at the plate. "But she said I could choose!" Riley said. She felt hurt.
+### Scene 6 (30 words)
+The woman wanted red roses, not blue flowers. She wanted warm colors, not cool ones. She said "flowers" but meant something different. Riley and the woman did not understand each other.
 
-### Scene 7 (33 words)
-"It IS pretty!" Riley said. She felt upset. Layla spoke gently. "It is pretty. But pretty is not enough if it's not what she asked for." Riley felt tears coming. She tried so hard.
+### Scene 7 (30 words)
+"But it IS pretty!" said Riley. She felt hurt. Layla gave her a hug. "It is pretty," Layla said softly. "But we need to make what the customer asked for."
 
-### Scene 8 (32 words)
-They talked about what to do. "Do we give her money back?" Benny asked. Layla checked. "We spent eight dollars on supplies. If we pay her back, we lose that money." That was a lot.
+### Scene 8 (30 words)
+Layla showed Riley the numbers. The first platter cost eight dollars to make. A new one would cost eight more. That was sixteen dollars! They would only keep two dollars.
 
-### Scene 9 (33 words)
-Ellis had an idea. "Make it again the right way," he said. But that meant more clay and paint. "That's eight more dollars," Layla said sadly. Sixteen dollars total. Only two dollars profit left for the team.
+### Scene 9 (30 words)
+The friends talked about what to do. "We should make a new one," said Ellis. "If we do the right thing, people will trust us." Everyone agreed.
 
-### Scene 10 (32 words)
-Riley went to see Mr. Mason. She felt bad. "Every builder has work sent back," Mr. Mason said kindly. "It hurts. But it teaches you to ask more questions first." That helped a little.
+### Scene 10 (30 words)
+Riley nodded. "I will make it again," she said. She was sad but knew it was right. She put the old platter on a shelf and got new clay.
 
-### Scene 11 (33 words)
-Riley started the new plate. This time she drew red and pink roses. It felt less fun. More like following rules. But she worked hard anyway. Getting it right for the customer mattered most now.
+### Scene 11 (30 words)
+Riley went to see Mr. Mason. He told her about a table that a customer sent back. "Now I ask lots of questions first," he said. "It helps a lot."
 
-### Scene 12 (32 words)
-While Riley worked, Ellis found a problem. His birdhouse leaned to one side. The customer hadn't seen it yet. "I need to fix this first," Ellis told Layla. He wanted it to be right.
+### Scene 12 (30 words)
+Layla made a new rule. Before making anything special, they would draw a picture first. The customer could say yes or no before they started. That would help a lot.
 
-### Scene 13 (33 words)
-Ellis fixed the birdhouse for free. The customer was surprised. "I didn't even see the problem!" she said. "But thank you for fixing it." She told three neighbors about how careful Ellis was with his work.
+### Scene 13 (30 words)
+Riley made the new platter with red roses. The colors were warm and bright. It looked nice. But it did not feel the same. She was making someone else's idea.
 
-### Scene 14 (32 words)
-Riley finished the new plate on Wednesday. Roses in warm colors. Benny took it to the woman. He came back smiling big. "She loves it!" he said. "She said it's perfect!" Riley felt relieved.
+### Scene 14 (30 words)
+The customer loved the new platter! She paid eighteen dollars. Riley was glad it was over. But only two dollars went into the PROFIT jar. That was not much.
 
-### Scene 15 (33 words)
-The team had a meeting. "We need a new rule," Layla said. She wrote on a card. "For big orders, show a drawing first." Everyone agreed. Drawings would stop mix-ups before they happened.
+### Scene 15 (30 words)
+The blue flower platter sat on the shelf. Riley looked at it every day. It was still her best work. But no one had asked for it. What could she do?
 
-### Scene 16 (32 words)
-Layla put the rule card on their board. It said: "Big orders: Show a drawing first." "This keeps us and our customers happy," Ellis said. Riley nodded. This rule made good sense.
+### Scene 16 (30 words)
+Frances saw the platter. "That is lovely," she said. "Why not sell it as your special art? Some people want to buy what the artist loves." Riley liked that idea.
 
-### Scene 17 (33 words)
-Riley looked at her blue plate. The one the woman sent back. "What do I do with this?" she asked. Layla had an idea. "Sell it as your own art. Some people like surprises!"
+### Scene 17 (30 words)
+A man told Ellis his birdhouse was leaning. Ellis went to look. The base was not level. It was a small problem. "I will fix it," Ellis said.
 
-### Scene 18 (32 words)
-Riley liked that idea a lot. "I can make two kinds of things!" she said. "Ones where customers choose, and ones where I choose." Layla smiled. "Now everyone knows what they're getting."
+### Scene 18 (30 words)
+Ellis fixed the birdhouse for free. The man was surprised. "You did not have to do that," he said. Ellis smiled. "We fix our mistakes," he said.
 
-### Scene 19 (33 words)
-Riley put the blue plate at the cafe with a sign: "Artist's Choice - $15." A different woman bought it in two days. "I love that it's blue!" the woman said. The right buyer found it.
+### Scene 19 (30 words)
+The man told his neighbors about the free fix. Two of them called Maplewood Makers! Doing the right thing brought them more work. Being kind was good for business.
 
-### Scene 20 (32 words)
-That night, Layla checked the map. The plate customer's line glowed steady now. The birdhouse line glowed even brighter. The map showed that fixing problems made people trust you more. Good things came from trying again.
+### Scene 20 (30 words)
+Riley looked at both platters. The red roses and the blue flowers. She was learning something new. She could be an artist and a business person too. Both mattered.
 
 ---
 
-**Total Word Count: 651 words** ✅
+**Total Word Count: ~600 words**
 
-**Estimated MSL:** ~5.3 words ✅ (Target: 4-6)
+---
 
-## FL VOCABULARY
-- **satisfaction** — feeling happy with what you got
-- **quality** — how good something is
-- **rework** — doing the same job over again to fix it
-- **reputation** — what people say about you
+## FL VOCABULARY INTRODUCED
+
+1. **customer** (Scenes 6, 12) — The person who buys something from you
+2. **profit** (Scene 14) — Money left over after paying for supplies
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 75 (slow, clear, expressive)
+- **Pause:** 2.5 seconds between sentences
+- **Tone:** Warm, emotional, shows Riley's feelings clearly
