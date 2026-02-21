@@ -62,6 +62,6 @@ That evening, Layla examined the neighborhood map and noticed something interest
 - **competitive advantage** — the specific, defensible strengths that allow one business to consistently outperform rivals
 - **differentiation** — the strategy of making your product or service distinctly different from competitors in ways customers value
 - **price positioning** — carefully choosing where your price sits relative to competitors to communicate quality and value
-- **quality premium** — the more amount customers willingly pay for superior workmanship, reliability, and durability
+- **quality premium** — the additional amount customers willingly pay for superior workmanship, reliability, and durability
 - **race to the bottom** — a destructive competitive dynamic where businesses repeatedly lower prices until profitability becomes impossible
 - **market segmentation** — recognizing that different customers want different things, and choosing which group to serve

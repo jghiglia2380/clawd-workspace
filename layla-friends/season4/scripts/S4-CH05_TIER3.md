@@ -57,5 +57,5 @@ That evening, Layla examined the neighborhood map with fresh eyes and noticed so
 - **competitive advantage** — the specific strengths that allow one business to outperform another
 - **differentiation** — making your product or service distinctly different from competitors
 - **price positioning** — carefully choosing where your price sits relative to competitors to signal value
-- **quality premium** — the more amount customers willingly pay for superior workmanship and reliability
+- **quality premium** — the additional amount customers willingly pay for superior workmanship and reliability
 - **race to the bottom** — when competitors keep lowering prices until nobody can make a profit

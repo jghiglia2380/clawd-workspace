@@ -66,4 +66,4 @@ Layla looked at each of her friends gathered around the table, noticing all the 
 - **partnership** — a business relationship where people work together
 - **revenue** — the total money earned before subtracting costs
 - **capacity** — the maximum amount of work someone can handle
-- **whether it could work** — whether something can work successfully over time
+- **viability** — whether something can work successfully over time

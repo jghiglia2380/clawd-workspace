@@ -54,6 +54,6 @@ That night, Layla checked the map. The platter customer's line, which had flicke
 ## FL VOCABULARY
 - **satisfaction** — feeling happy with what you received
 - **expectations** — what someone hopes or thinks will happen
-- **rew ork** — doing the same job over again to fix it
+- **rework** — doing the same job over again to fix it
 - **quality** — how good or well-made something is
 - **reputation** — what people think and say about you
