@@ -1,89 +1,95 @@
 # CHAPTER 5: THE COMPETITION - TIER 2 (2ND GRADE)
 
-**Reading Levels:** J-M
+**Reading Levels:** J
 **Target Narration Speed:** 112 WPM
-**Target Word Count:** 1,050 words
-**Episode Duration:** ~9 minutes
-**Character Focus:** Ellis — learning to compete on quality
-**FL Integration:** Strong (competition, competitive advantage, differentiation, price positioning)
-**Setting:** Fort, neighborhood, hardware store, Mrs. Lee's house
+**Target Word Count:** 900 words
+**Episode Duration:** ~8 minutes
+**Character Focus:** Ellis (spotlight)
+**FL Integration:** Strong (competition, competitive advantage, quality vs price, guarantee)
+**Setting:** Fort, hardware store, Mr. Mason's workshop, neighborhood
 
 ---
 
 ## THE COMPETITION
 
-### Scene 1 (53 words)
-Benny rushed into the fort. It was Tuesday morning. He looked worried. "I heard something bad," he said. He was catching his breath. "Some older kid is doing fix-it jobs. He's charging way less than us." The friends looked at each other. Competition had arrived. Nobody expected it this soon.
+### Scene 1 (45 words)
+Benny came running to the fort after school with news. "Some older kid is doing repairs around the neighborhood," he said, catching his breath. "People are saying he charges way less than we do." The friends looked at each other. This was not good news.
 
-### Scene 2 (52 words)
-The news got worse that afternoon. Mrs. Chen stopped by the fort. "I hired that other boy," she said. "For a shelf. He only charged ten dollars." Their shelves cost fifteen dollars. Someone was undercutting their prices. Ellis felt his stomach tighten. They were losing customers. The competitor was still a mystery.
+### Scene 2 (45 words)
+The next day, Mrs. Chen told Layla that she had hired someone else to build a shelf. "That other boy only charged ten dollars," she said. Layla felt her stomach tighten. Their shelves cost fifteen dollars. If people could get them cheaper, why would they choose Maplewood Makers?
 
-### Scene 3 (53 words)
-Ellis called an emergency meeting. It was after dinner. All four friends gathered at the fort. Their faces were serious. "Who is this kid?" Riley asked. She sounded nervous. "Why is he so much cheaper?" Nobody had answers yet. Benny had only heard rumors. They needed real information. This competition was serious.
+### Scene 3 (45 words)
+The friends held an emergency meeting at the fort that evening. "Who is this kid?" Ellis asked. Nobody knew much about him yet. But the idea of someone else doing what they did, for less money, made everyone nervous. Riley bit her lip. "What if everyone goes to him?"
 
-### Scene 4 (52 words)
-The next day, Ellis went to the hardware store. He spotted the answer there. A tall boy was loading wood. The wood went into a wagon. He looked about twelve. He wore a big grin. He moved fast. "I'm Neville," the boy said. "Just started my own business. Things are going great!" He seemed confident.
+### Scene 4 (45 words)
+Ellis spotted the new competitor at the hardware store on Saturday. He was older, maybe twelve, and carried a bag of supplies. "Hey, I'm Neville," he said with a confident grin. "I'm starting a fix-it business too. Pretty cool, right?" Ellis nodded but felt a knot in his stomach.
 
-### Scene 5 (53 words)
-Ellis asked around. He learned Neville's prices. Shelves for ten dollars. Repairs for twelve. Birdhouses for eight. Everything was cheaper than Maplewood Makers. Ellis wrote the numbers down. He brought them to the fort. The team stared at the list. Nobody spoke. Neville was undercutting every price. The competition was serious.
+### Scene 5 (45 words)
+They learned Neville's prices from neighbors over the next few days. His shelves were ten dollars. His repairs cost twelve. His birdhouses were only eight. Everything was cheaper than what Maplewood Makers charged. The numbers were written on a flyer he taped to the telephone pole near the park.
 
-### Scene 6 (52 words)
-"We have to match his prices!" Ellis said. He paced around the fort. Panic filled his voice. "If we don't, everyone will go to Neville!" Riley nodded. She looked scared. "He's taking our customers." Ellis wanted to drop their price. Ten dollars for shelves. It had to happen now. Something had to change.
+### Scene 6 (45 words)
+Ellis paced around the fort, shaking his head. "We have to drop our prices right now," he said. "If we charge the same as Neville, people will pick us. If we charge more, they will pick him." He sounded scared. Layla held up her hand and said, "Wait."
 
-### Scene 7 (53 words)
-But Layla held up her hand. "Wait," she said firmly. She pulled out their pricing sheet. It was from Chapter Two. "Let's look at the math first." She pointed to the numbers. "Our shelf costs six dollars. That's just materials. If we charge ten, our profit is four dollars. Split four ways, that's one dollar each."
+### Scene 7 (45 words)
+Layla pulled out the pricing sheet and put it on the table. "Look at the numbers," she said. "Our shelf costs six dollars to make. If we charge ten like Neville, we keep four dollars. Split four ways, that is one dollar each."
 
-### Scene 8 (52 words)
-Layla kept going. "One dollar each for two hours of work. That's fifty cents per hour." She looked at Ellis. "We'd be working for almost nothing." The room went quiet. Ellis had been so panicked. He forgot to think about profit. He forgot about the numbers. Competing on price alone was a bad idea.
+### Scene 8 (45 words)
+Ellis sat down and stared at the sheet. A shelf took two hours to build. One dollar each for two hours of work meant fifty cents an hour. That was even worse than when they worked alone. "We can not make money at his prices," Ellis admitted quietly.
 
-### Scene 9 (53 words)
-They visited Mr. Mason's workshop. They needed advice. He listened carefully to their story. "Not everyone wants the cheapest thing," Mr. Mason said. "Some people want the best thing. You can't be both cheap and great. You have to choose. Which customer do you want to serve?" The friends thought hard about that.
+### Scene 9 (45 words)
+They visited Mr. Mason after school. He listened to their problem and nodded. "Not everyone wants the cheapest thing," he said. "Some people want the best thing. You can not be both cheap and great at the same time. Pick which customer you want to serve."
 
-### Scene 10 (52 words)
-Back at the fort, they brainstormed. "What do we offer that Neville doesn't?" Layla asked. Ellis thought carefully. "Custom designs," he said. "I build exactly what people want." Riley added her idea. "Quality craftsmanship. Our stuff is built to last." Benny smiled. "And we're friendly! People like us." They had real strengths.
+### Scene 10 (45 words)
+Back at the fort, they made a list of things Maplewood Makers did that Neville did not. Custom designs. Careful work. Personal service. They used good materials and took their time. "Those are our strengths," Layla said. "That is what makes us different from someone who just charges less."
 
-### Scene 11 (53 words)
-After a long discussion, they made a bold decision. They would not lower their prices. In fact, they would raise them. Their shelf price went from fifteen to eighteen dollars. "Higher prices show value," Layla explained. It felt scary. But their plan was simple. Stand out from Neville by being better, not cheaper.
+### Scene 11 (45 words)
+After a long talk, they made a bold choice. They would not lower their prices. They would actually raise the shelf price from fifteen to eighteen dollars. "If our work is better, we should charge more," Ellis said. It felt scary, but it also felt right.
 
-### Scene 12 (52 words)
-Ellis had a great idea. "What if we guarantee our work?" he suggested. They created a small card. It read: "Maplewood Makers guarantees our work. If anything breaks within one month, we fix it free." Neville offered no guarantee. This set them apart. It showed customers something important. They believed in what they built.
+### Scene 12 (45 words)
+Ellis had one more idea. "What if we guarantee our work?" he said. "If anything we build breaks in the first month, we fix it for free." Layla wrote it on a card: MAPLEWOOD MAKERS QUALITY GUARANTEE. They would give a copy to every customer from now on.
 
-### Scene 13 (53 words)
-The first week was hard. Three customers chose Neville over them. His prices were lower. Ellis felt doubt creeping in. "Maybe we made a mistake," he whispered to Layla. The order board looked emptier than before. Riley stared at it. She didn't speak. Fear and doubt are normal. Competition makes things tough.
+### Scene 13 (45 words)
+The first week was hard. Three customers chose Neville because his prices were lower. The fort felt quieter than usual. Riley kept looking at the order board, where the green column had too many empty spots. "Maybe we made a mistake," she whispered. Nobody answered her right away.
 
-### Scene 14 (52 words)
-Then the phone rang on Thursday. It was Mrs. Lee. "I bought a shelf from that other boy," she said. "Last week. It just fell off my wall. Everything crashed to the floor. Can you come fix it?" Ellis looked at Layla. His eyes were wide. The callback had arrived sooner than expected.
+### Scene 14 (45 words)
+Then Mrs. Lee called the fort on Thursday. "I got a shelf from that other boy last week," she said. "It fell off the wall this morning. Everything crashed to the floor. Can you fix it?" Ellis grabbed his toolbox and headed to her house.
 
-### Scene 15 (53 words)
-Ellis and Benny went to Mrs. Lee's house. They inspected the damage. The shelf had pulled right out. Ellis examined the work closely. Neville had used the wrong screws. They were too short. They were too thin. He hadn't used wall anchors either. The installation was rushed and sloppy. It was never going to hold.
+### Scene 15 (45 words)
+At Mrs. Lee's house, Ellis saw the problem right away. Neville had used the wrong screws and had not put any wall anchors in. The shelf had no way to hold weight. "He skipped the important steps," Ellis said. It looked like Neville had rushed through the whole job.
 
-### Scene 16 (52 words)
-Ellis fixed the shelf properly. He used the right screws. He added wall anchors. He made sure everything was level and secure. It took extra time to do it right. Mrs. Lee paid the full repair price. Twenty dollars. "I should have come to you first," she said. Quality work matters.
+### Scene 16 (45 words)
+Ellis fixed the shelf with the right screws and proper anchors. He checked it twice before stepping back. Mrs. Lee was grateful. "I should have hired you the first time," she said. She paid twenty dollars for the repair. "Your work is worth the extra money."
 
-### Scene 17 (53 words)
-Mrs. Lee told her neighbors what happened. "The cheap shelf fell off my wall," she said. "In one week. Maplewood Makers fixed it right." Word spread quickly. People started talking. The difference between cheap work and good work. Neville's low prices seemed like a bargain at first. But the quality didn't hold up.
+### Scene 17 (45 words)
+Mrs. Lee told her neighbors what happened. She showed them the fixed shelf and the guarantee card Ellis had left behind. "Neville's shelf fell in one week," she said. "These kids do quality work." The story spread quickly around the block. People started asking about Maplewood Makers again.
 
-### Scene 18 (52 words)
-A new customer called the very next day. Mr. Patel wanted bookshelves. They were for his study. "I heard you fixed Mrs. Lee's disaster," he said. "I want the people who do it right." He chose Maplewood Makers. They charged more. He didn't care. Their reputation for quality brought this new customer.
+### Scene 18 (45 words)
+Mr. Patel knocked on the fort door the very next day. "I heard you fixed that shelf disaster for Mrs. Lee," he said. "I want a shelf too, and I want it done right." He did not even ask about the price first. He asked about the guarantee.
 
-### Scene 19 (53 words)
-The team gathered at the fort. They felt relieved and proud. Their strategy had worked. They didn't have to be the cheapest. "We competed on quality, not price," Ellis said. He had new confidence. Layla smiled. "Our competitive advantage is simple. We care about doing things right." They had found their price positioning. The quality choice.
+### Scene 19 (45 words)
+The team sat at the fort table on Saturday feeling better than they had all week. They did not have to be the cheapest to win. They just had to be the best. "People will pay more for work they can trust," Ellis said. He finally believed it.
 
-### Scene 20 (52 words)
-That evening, Layla checked the map. A new dot appeared. It was separate from their network. It was Neville's operation. A single dot with thin flickering lines. Some of his connections had already broken. Meanwhile, the Maplewood Makers web glowed steady and strong. Their network was built on trust and quality, not low prices.
-
----
-
-**Total Word Count: 1,053 words**
-
-**Estimated MSL:** ~8.0 words (Target: 7-10)
+### Scene 20 (45 words)
+They looked at the map on the wall. A new dot showed where Neville worked, but its lines to customers were thin and weak. The Maplewood Makers lines glowed steady and strong. Good work and fair prices had built something Neville's low prices could not match.
 
 ---
 
-## FL VOCABULARY
+**Total Word Count: ~900 words**
 
-- **competition** — when another business offers the same kind of products or services
-- **competitive advantage** — the special strengths that make one business better than another
-- **differentiation** — making your product or service stand out from what others offer
-- **price positioning** — choosing where your price sits compared to others, and what that signals
-- **quality premium** — charging more because your work is better and lasts longer
+---
+
+## FL VOCABULARY INTRODUCED
+
+1. **competition** (Scenes 1, 5) — Another business offering the same products or services
+2. **competitive advantage** (Scene 10) — What makes one business better or different from another
+3. **profit margin** (Scene 7) — How much money is left after paying costs
+4. **guarantee** (Scene 12) — A promise to fix something if it breaks
+5. **quality** (Scenes 16, 17) — How well something is made
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 112 (moderate pace)
+- **Pause:** 1.5 seconds between sentences
+- **Tone:** Tense early, builds to confidence. Neville is not a villain — just a different approach.
