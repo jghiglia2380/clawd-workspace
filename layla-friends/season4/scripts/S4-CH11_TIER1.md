@@ -1,75 +1,92 @@
 # CHAPTER 11: THE SLOW SEASON - TIER 1 (K-1ST GRADE)
 
-**Reading Levels:** A-I
+**Reading Levels:** D
 **Target Narration Speed:** 75 WPM
-**Target Word Count:** 650 words
-**Episode Duration:** ~9 minutes
+**Target Word Count:** 600 words
+**Episode Duration:** ~8 minutes
+**Character Focus:** Ellis (spotlight)
+**FL Integration:** Medium (seasonal slowdown, reserves, referral)
+**Setting:** Fort, Frances's garden, Mr. Mason's workshop
 
 ---
 
 ## THE SLOW SEASON
 
-### Scene 1 (33 words)
-It was January. A new year. The team went to the workshop. Layla looked at the order board. Only one order card. "Maybe people are tired from the holidays," she said.
+### Scene 1 (30 words)
+January came. The new year was quiet. The board that had been full in December now had one order on it. Just one. "Where did everyone go?" asked Ellis.
 
-### Scene 2 (32 words)
-Friday came. They counted the money they made that week. Eighteen dollars. That was all. Ellis looked surprised. "Wait," he said. "Is that all we made?"
+### Scene 2 (30 words)
+On Friday, Layla counted the money. Eighteen dollars. That was all they made in one week. In December it was almost one hundred a week. "Is our business over?" asked Benny.
 
-### Scene 3 (33 words)
-"Is our business over?" Ellis asked. He looked worried. Layla shook her head. "No. January is just slow. People spent their money in December. Now they're being careful."
+### Scene 3 (30 words)
+"Did we do something wrong?" asked Ellis. "No," said Layla. "January is just slow. People spent their money in December. They do not need things right now. It is the season."
 
-### Scene 4 (33 words)
-Layla got a different jar from the shelf. The RESERVE jar. It had seventy-three dollars inside. Money they saved in December. "This is why we saved," Layla said. "For slow weeks."
+### Scene 4 (30 words)
+Layla picked up the reserve jar. It had seventy-three dollars in it. "This is why we saved," she said. "We planned for this." The jar Benny had argued against now felt very smart.
 
-### Scene 5 (32 words)
-They went to Frances's garden the next day. Everything looked dead. Brown and dry. "Your garden looks sad," Benny said. Frances smiled. "The roots are growing underground."
+### Scene 5 (30 words)
+They went to Frances's garden. Everything looked bare. No leaves. No flowers. "It looks dead," said Benny. Frances smiled. "The roots are growing under the ground. You just can not see them."
 
-### Scene 6 (34 words)
-Frances showed them where flower bulbs were sleeping in the dirt. "January isn't about growing big," she said. "It's about getting ready. When spring comes, you'll be ready too."
+### Scene 6 (30 words)
+"Your business is like my garden," Frances said. "In winter it rests. It gets stronger. When spring comes, everything grows back." The team felt a little better after hearing that.
 
-### Scene 7 (32 words)
-The team stopped worrying. They started thinking different. What could they build right now? The slow time wasn't bad. It was a chance to get better at things.
+### Scene 7 (30 words)
+Ellis stopped feeling upset. "If we can not make money this week, we can get better," he said. Instead of worrying, they would use the slow time to improve things.
 
-### Scene 8 (33 words)
-Ellis made a project. He built a better workbench in Mr. Mason's workshop. "I'm not making money this week," Ellis said. "But I'm making our workspace better."
+### Scene 8 (30 words)
+Ellis built a new workbench at Mr. Mason's shop. It was wide, level, and strong. Two people could work on it at the same time. Better tools meant better work later.
 
-### Scene 9 (33 words)
-Layla had an idea. Use some reserve money to buy better packaging. Nice boxes. Pretty paper. Cards for thank-you notes. Twelve dollars. Everyone said yes. It would help later.
+### Scene 9 (30 words)
+Layla used some reserve money to buy nice boxes and labels for their products. "When spring comes, our things will look more professional," she said. They were getting ready.
 
-### Scene 10 (32 words)
-Riley made pottery pieces for spring. Mugs with soft colors. Bowls with flowers painted on them. No one was buying them yet. But they would be ready when people wanted them.
+### Scene 10 (30 words)
+Riley made new pottery in spring colors. Soft pinks and light greens. Nobody had ordered them yet, but they would be ready when people wanted them. "I am building inventory," she said.
 
-### Scene 11 (34 words)
-Benny tried to find more customers. He put up signs. He talked to shops. He called people. Some said yes. Some said no. You can't make people buy when they're not ready.
+### Scene 11 (30 words)
+Benny walked around the neighborhood trying to find customers. Nobody wanted to buy. He came back tired and sad. "You can not force people to buy," said Layla gently. "Sometimes they are just not ready."
 
-### Scene 12 (32 words)
-Week two ended. They made twenty-two dollars. A little better. Still slow. But the reserve jar helped. Layla put three order cards on the board. Slow progress was still progress.
+### Scene 12 (30 words)
+Week two brought twenty-two dollars. Still low. But Ellis stayed calm. "We are getting better," he said. "When people start buying again, we will be ready." That thought kept him going.
 
-### Scene 13 (33 words)
-The café still ordered mugs and bowls. Fifteen to twenty dollars every week. Even in January. "This is why relationships matter," Layla said. "They help when things get quiet."
+### Scene 13 (30 words)
+Ellen's café kept selling mugs. Fifteen dollars came in from the café that week. Even in the slow month, the café partnership kept working. "Partnerships help in hard times," said Layla.
 
-### Scene 14 (32 words)
-The phone rang on a Tuesday. Ellis answered. A woman named Ms. Rivera was calling. "Can you make pottery for a wedding?" she asked. Ellis said yes.
+### Scene 14 (30 words)
+Then the phone rang. A woman named Ms. Rivera said, "I need thirty pottery pieces for a wedding." Thirty pieces! That was the biggest order they had ever gotten!
 
-### Scene 15 (33 words)
-Ms. Rivera said her friend Mrs. Torres told her about them. Mrs. Torres said they did great work. So Ms. Rivera called. "She said you're very good and reliable."
+### Scene 15 (30 words)
+Ms. Rivera knew Mrs. Torres from the fall. Mrs. Torres told her about their work. "She said you are the best," said Ms. Rivera. One good review had traveled for months.
 
-### Scene 16 (34 words)
-Ms. Rivera wanted thirty pottery pieces for a wedding. Small dishes with the couple's names. One hundred eighty dollars. Their biggest order ever. Ellis wrote everything down. His hand was shaking.
+### Scene 16 (30 words)
+The wedding order was worth one hundred and eighty dollars. They would get ninety dollars up front. Ellis could not believe it. "One hundred and eighty dollars," he whispered. "From one phone call."
 
-### Scene 17 (32 words)
-After the call, Ellis was quiet. Then he said, "We were nice to Mrs. Torres. She remembered. She told her friend. Now we have this big order."
+### Scene 17 (30 words)
+"We did good work for Mrs. Torres," said Ellis. "She told her friend. Her friend called us." They did not have to knock on doors. Their work spoke for them.
 
-### Scene 18 (33 words)
-They planned the wedding order all week. They had time to do it right. Riley drew pictures. Ellis figured out what they needed. Benny planned how to make it pretty.
+### Scene 18 (30 words)
+They planned the wedding order carefully. No rush. No mistakes. They had time to do it right. The slow week felt like a gift now. They could work with care.
 
-### Scene 19 (33 words)
-January ended. They counted all the money. Fifty-eight dollars for the month. Not much. But Ms. Rivera paid ninety dollars up front. And the café kept ordering. The reserve fund worked.
+### Scene 19 (30 words)
+January ended. They made fifty-eight dollars from regular orders plus a ninety-dollar wedding deposit. The reserve jar still had money in it. They had made it through the slow season.
 
-### Scene 20 (32 words)
-Layla looked at the map. The winter lines looked brighter now. The wedding order showed up as a new line from Mrs. Torres. Frances was right. Spring was coming.
+### Scene 20 (30 words)
+The map was quiet. Most lines were pale blue. But the café line stayed bright. And one new warm line appeared from the wedding customer. Frances was right. The roots were growing.
 
 ---
 
-**Total Word Count: 656 words** ✅
-**Estimated MSL:** ~5.5 words ✅
+**Total Word Count: ~600 words**
+
+---
+
+## FL VOCABULARY INTRODUCED
+
+1. **reserve** (Scene 4) — Money you save for when business is slow
+2. **referral** (Scene 15) — When someone tells a friend about your good work and that friend becomes a customer
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 75 (slow, clear, expressive)
+- **Pause:** 2.5 seconds between sentences
+- **Tone:** Quiet and honest. Ellis learns patience. The wedding order arrives as a surprise reward for past good work.
