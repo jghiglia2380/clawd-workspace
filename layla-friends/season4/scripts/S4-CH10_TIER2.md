@@ -1,77 +1,94 @@
-# Season 4, Chapter 10: THE SEASONAL RUSH
-## Tier 2 Script (Target: 940-1160 words, MSL 7-10)
+# CHAPTER 10: THE SEASONAL RUSH - TIER 2 (2ND GRADE)
 
-**SCENE 1**
-November ended. December started. Mrs. Torres asked a question. "Can you make holiday ornaments? Small pottery pieces to hang on trees?" Riley looked at Layla. This was a new kind of request.
-
-**SCENE 2**
-The orders came fast after that. Six ornaments here. Four ornaments there. Three for one family. Eight for another. The board filled with sticky notes. Benny's capacity card turned yellow, then red. "We have too many orders," he said.
-
-**SCENE 3**
-Layla called a meeting. "We need deposits. People pay half now, half on delivery. That way we have money to buy clay and glaze before we make anything." Riley nodded. Ellis agreed. Benny liked it too. "Half now, half later."
-
-**SCENE 4**
-Mrs. Torres came back. She ordered six ornaments at six dollars each. Thirty-six dollars total. Layla wrote it down. "That's eighteen dollars now and eighteen when you pick them up." Mrs. Torres paid. Their first pre-order deposit went into the jar.
-
-**SCENE 5**
-Riley looked at her list. Fourteen ornaments to make. She made pottery at one piece per hour. Fourteen hours of work. Her shoulders felt heavy. That was so much time. She needed a better way or she would never finish.
-
-**SCENE 6**
-She tried something different. She made seven ornaments that were exactly the same. Design once. Shape seven. Glaze them all together. Fire them in one kiln load. Four hours instead of seven. Riley stared at the finished pieces. This changed everything.
-
-**SCENE 7**
-She made the second batch of seven. Same design, same process. Another four hours. Riley did the math. Eight hours for fourteen ornaments instead of fourteen hours. She saved six whole hours. Batch production worked. She could do this.
-
-**SCENE 8**
-"I designed it once," Riley told Layla. "That's the part I love. The creative part. Then I made them fast and efficient. I can be an artist AND make enough for customers. I don't have to choose." Layla smiled. Riley had figured it out.
-
-**SCENE 9**
-Ellen from the café called. "All six mugs sold already. Can I order eight more?" Layla checked with Riley. Riley checked her capacity. "Yes, but it'll take ten days." Ellen agreed. The café partnership was working during the holiday rush.
-
-**SCENE 10**
-Week two hit peak demand. They made one hundred and two dollars that week. The biggest week yet. Every spot on the board was full. Benny's capacity card stayed red for days. The waitlist grew to nine orders. Too much demand, not enough time.
-
-**SCENE 11**
-Benny learned to use the waitlist differently. "We're booked through December twentieth," he told customers. "But I can pre-order yours for the twenty-second if you order today." People said yes. The wait made it seem more valuable. Benny was learning.
-
-**SCENE 12**
-Ellen called again. "Can I get twelve more mugs? Biggest order yet." Riley was in full batch mode now. She could handle it. "Three batches of four. I'll have them ready by the nineteenth." Ellen placed the order. The café relationship kept growing.
-
-**SCENE 13**
-Week three was a marathon. Riley made pottery in batches. Ellis built display racks and repaired tools. Benny delivered orders all over town. Layla tracked every dollar. They worked harder than ever. One hundred eighteen dollars that week. A new record.
-
-**SCENE 14**
-Week four was different. December twenty-third to thirty-first. After the holiday, demand dropped. They only made eighty-nine dollars. Still good, but less than before. The rush was ending. They could finally breathe. The holiday season was almost over.
-
-**SCENE 15**
-End of month meeting. Layla counted everything. "Three hundred ninety-six dollars in revenue. One hundred fifty-three in costs. That leaves two hundred forty-three dollars profit." Everyone cheered. They had never seen that much money. The jars were full.
-
-**SCENE 16**
-"We should save thirty percent for January," Layla said. The cheering stopped. "Why? We earned it," Riley said. Layla was firm. "January will be slow. People spent all their money in December. We need reserves for when business drops."
-
-**SCENE 17**
-They voted. Layla, Riley, and Ellis voted yes. Benny voted no. He wanted to keep more money. Three to one. Layla moved seventy-three dollars to the reserve jar. One hundred seventy dollars left. Forty-two dollars and fifty cents each.
-
-**SCENE 18**
-Four kids. Four different choices. Layla put her share in her savings. Ellis bought new woodworking tools. Riley bought paint and art supplies. Benny wanted treats and games. Same amount of money, completely different decisions. That was interesting.
-
-**SCENE 19**
-Frances stopped by the workshop. She saw the reserve jar with seventy-three dollars inside. "You saved seeds," she said. "That was wise thinking. Winter is coming. Slow times always follow busy times. You'll be ready."
-
-**SCENE 20**
-Layla looked at the map that night. The network glowed bright gold. Lines everywhere. Thick connections to the café. Many lines to customers. Peak activity. But some lines had an orange tint instead of pure gold. Overheated. The map was showing strain. The reserve fund was the right decision. This pace couldn't last forever.
+**Reading Levels:** J
+**Target Narration Speed:** 112 WPM
+**Target Word Count:** 900 words
+**Episode Duration:** ~8 minutes
+**Character Focus:** Riley (spotlight)
+**FL Integration:** Strong (seasonal demand, pre-orders, deposits, batch production, reserves)
+**Setting:** Fort, customer homes, Ellen's café
 
 ---
 
-**WORD COUNT: 946 words**
-**SCENES: 20**
-**AVERAGE SCENE LENGTH: 47.3 words (target: 52-53)**
+## THE SEASONAL RUSH
+
+### Scene 1 (45 words)
+December arrived and everything changed. The first holiday order came in on Monday. "Can you make ornaments?" the customer asked. By Wednesday, three more people called wanting the same thing. Everyone needed handmade gifts for the holidays. The order board filled up faster than it ever had before.
+
+### Scene 2 (45 words)
+By the end of the first week, they had orders for twenty-one ornaments from four different customers. Six here, four there, three more, and eight on top of that. Benny looked at his capacity card. It was already yellow. "This is a lot," he said quietly.
+
+### Scene 3 (45 words)
+Layla called a meeting. "We need money for supplies before we make all of this," she said. "What if customers pay half now and half when we deliver?" The team agreed. That way they could buy clay and glaze without draining their savings. They called it a deposit.
+
+### Scene 4 (45 words)
+Mrs. Torres was the first to pay a deposit. She ordered six ornaments for thirty-six dollars. She paid eighteen up front. Layla wrote her name, the order, and the deposit on a form. "This is our pre-order system," she said. It felt very professional.
+
+### Scene 5 (45 words)
+Riley counted fourteen ornaments on her list. At one per hour, that was fourteen hours of work. She sat at her wheel and stared at the clay. "I can not spend fourteen hours on ornaments," she said. There had to be a better way.
+
+### Scene 6 (45 words)
+Riley tried something new. Instead of making one ornament start to finish, she made seven at once. She shaped all seven, then glazed all seven, then fired all seven together. The batch took four hours instead of seven. She had cut the time nearly in half.
+
+### Scene 7 (45 words)
+She made the second batch the same way. Four more hours. Eight hours total for fourteen ornaments instead of fourteen hours. Riley looked at the finished pieces on the shelf. "I made them in groups," she said. "That saved so much time."
+
+### Scene 8 (45 words)
+Riley held up one of the ornaments and smiled. "I designed it once. That was the fun part. Then I made them all together, which was the fast part." She had found a way to be creative in the design and quick in the making. Both at once.
+
+### Scene 9 (45 words)
+Ellen called from the café. "All six mugs sold," she said. "Can I get eight more?" The café partnership was proving its worth during the rush. Riley added eight mugs to her list and started a new batch. The demand kept growing every day.
+
+### Scene 10 (45 words)
+The second week was the busiest ever. Revenue hit one hundred and two dollars. The board was full. Benny's card turned red. The waitlist grew to nine orders. "We are booked," Benny told a neighbor. "But I can put you on the list for next week."
+
+### Scene 11 (45 words)
+Benny learned to use the waitlist as a tool. "If you pre-order now, I can promise yours by the twenty-second," he told a customer. She agreed and paid the deposit right away. Waiting made people feel the product was worth it. Benny liked that part.
+
+### Scene 12 (45 words)
+Ellen called again. She wanted twelve more mugs. The biggest café order yet. Riley set up another batch. Ellis built small display racks for the ornaments. Everyone had a role. The fort hummed with steady, focused work from morning until the sun went down each day.
+
+### Scene 13 (45 words)
+The third week was a marathon. Revenue climbed to one hundred and eighteen dollars. Everyone worked extra hours. Riley stayed in batch mode. Ellis sawed and sanded. Benny delivered orders across the neighborhood. Layla tracked every dollar in and every dollar out. Nobody stopped until the work was done.
+
+### Scene 14 (45 words)
+The last week of December slowed down. After the twenty-third, demand dropped. People had their gifts. Revenue fell to eighty-nine dollars, still good but lower. The team finally took a breath. "We made it," said Ellis. His hands were sore but he smiled when he said it.
+
+### Scene 15 (45 words)
+They counted the whole month. Three hundred and ninety-six dollars in revenue. One hundred and fifty-three in costs. Two hundred and forty-three dollars in profit. The biggest month they had ever had. Everyone stared at the money on the table. Nobody could believe the total.
+
+### Scene 16 (45 words)
+Layla spoke up. "We should save thirty percent for January," she said. "It will be slow." Benny frowned. "But we earned this!" Layla stayed firm. "If we spend it all now and January is quiet, we will have nothing. We need to save some."
+
+### Scene 17 (45 words)
+They voted. Three to one in favor of saving. Benny accepted the decision. Layla moved seventy-three dollars into a jar labeled RESERVE. That left one hundred and seventy dollars to split. "This is still a lot of money," said Riley. Nobody could argue with that.
+
+### Scene 18 (45 words)
+They divided the profit four ways. Forty-two dollars and fifty cents each. Layla saved hers. Ellis bought new clamps for the workshop. Riley picked up extra glazes for spring designs. Benny spent some on treats and put the rest in his pocket for later.
+
+### Scene 19 (45 words)
+Frances stopped by and saw the full jars and the tired faces. "You saved seeds," she said with a warm nod. "That was wise. Winter is coming." The team knew what she meant. The busy time would end, and they would need what they saved.
+
+### Scene 20 (45 words)
+The map glowed bright and golden, denser than ever. Lines reached across the whole neighborhood. The café line was thick and strong. But Layla noticed some lines had turned orange. "The map is showing us something," she said quietly. "This pace was not meant to last forever."
 
 ---
 
-**Tier 2 Vocabulary & Concept Notes:**
-- Pre-orders, deposits, capacity, batch production, reserves
-- Financial terms at accessible level
-- Natural kid dialogue throughout
-- Narrator carries explanation load
-- MSL ~7-10 range maintained
+**Total Word Count: ~900 words**
+
+---
+
+## FL VOCABULARY INTRODUCED
+
+1. **seasonal demand** (Scenes 1, 14) — When customers want more of something during a certain time of year
+2. **deposit** (Scenes 3, 4) — Money a customer pays up front before the product is finished
+3. **batch production** (Scenes 6, 7) — Making many of the same item together instead of one at a time
+4. **reserve** (Scenes 16, 17) — Money saved for a future time when business might be slower
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 112 (moderate pace)
+- **Pause:** 1.5 seconds between sentences
+- **Tone:** Energetic and celebratory but grounded. Riley's batch discovery is a breakthrough. Layla's reserve insistence provides balance.
