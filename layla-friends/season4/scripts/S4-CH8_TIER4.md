@@ -51,7 +51,7 @@ During a lunch break later that week, Benny shared a piece of neighborhood news 
 That evening, as amber lamplight filled the fort with warmth, the four friends gathered around the map that had charted their business journey from the very beginning. The transformation was striking and beautiful in its clarity. The thin lines that had once connected their few journal customers had dissolved, faded to nothing like paths abandoned and reclaimed by the surrounding landscape. But the pottery lines pulsed with vivid, confident brightness, and fresh new connections were materializing each week as the customer network expanded organically. Dense clusters of pottery customers had become visibly concentrated near the cafe district, a geographic pattern that hinted at future opportunities none of them could yet fully imagine. Layla traced the glowing lines carefully with her fingertip. "The map reveals what works," she said quietly. "We just needed the courage to follow where it led."
 ---
 **Total Word Count: 2,395 words** ✅
-**Actual MSL:** ~18.2 words ✅ (Target: 16-20)
+**Estimated MSL:** ~18.2 words ✅ (Target: 16-20)
 **Figurative Language Count:** 4 instances
 - "heavy settle in her chest" (physical metaphor for emotional weight)
 - "thick enough that everyone could feel it pressing against their skin" (tactile metaphor for silence)

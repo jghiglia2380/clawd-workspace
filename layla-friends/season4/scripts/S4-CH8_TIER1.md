@@ -50,4 +50,4 @@ Benny told them about Neville. "He quit his shop," Benny said. "He tried to sell
 They looked at the map together. The journal lines had faded away. But the pottery lines glowed bright. New ones were growing near the cafe. "The map shows what works," Layla said. "We followed it."
 ---
 **Total Word Count: 651 words** ✅
-**Actual MSL:** ~5.3 words ✅ (Target: 4-6)
+**Estimated MSL:** ~5.3 words ✅ (Target: 4-6)

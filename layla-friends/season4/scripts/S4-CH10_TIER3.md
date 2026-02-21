@@ -44,6 +44,7 @@ That evening, Layla studied the network map with mixed emotions. The visualizati
 **WORD COUNT: 1,364 words**
 **SCENES: 20**
 **AVERAGE SCENE LENGTH: 68.2 words (target: 65-70)**
+**Estimated MSL:** ~13.5 words (Target: 12-15)
 ---
 **Tier 3 Vocabulary & Concept Notes:**
 - Advanced business terminology (working capital, capacity constraint, lead time)

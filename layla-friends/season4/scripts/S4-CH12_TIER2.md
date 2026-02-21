@@ -42,4 +42,4 @@ Ellis opened a fresh notebook. He drew a clean grid for planning. "Let's make a 
 The map glowed on the fort wall. It showed everything they'd built over six months. Golden threads connected the fort at the center to customers scattered throughout the neighborhood. Each line was a relationship. A transaction. Value exchanged. A thick golden-green thread pulsed between their location and Ellen's café. Their anchor partnership. Warm connections linked them to Mr. Mason's workshop and Frances's garden. more threads reached to wedding venues, the hardware store, homes on every street. The network expanded through reputation and word-of-mouth. The web was complex and beautiful and alive. But dim spots remained at the edges. Streets they hadn't reached. Customers they hadn't met. Connections not yet made. The map didn't say "finished." It said "growing." Layla traced one golden thread with her finger. "We built something real," she said quietly. Riley grinned wide. "And we're just getting started."
 ---
 **Word Count: 1,047 words**
-**MSL: 7-10 range**
+**Estimated MSL:** ~8.5 words (Target: 7-10)

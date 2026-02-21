@@ -9,6 +9,7 @@ import re
 import sys
 from collections import defaultdict
 import json
+import string
 
 try:
     import openpyxl
@@ -17,6 +18,87 @@ try:
 except ImportError:
     HAS_OPENPYXL = False
     print("Warning: openpyxl not installed. Skipping Excel output.")
+
+def count_syllables(word):
+    """Approximate syllable count for a word."""
+    word = word.lower().strip(string.punctuation)
+    if len(word) <= 3:
+        return 1
+
+    vowels = 'aeiouy'
+    syllable_count = 0
+    previous_was_vowel = False
+
+    for char in word:
+        is_vowel = char in vowels
+        if is_vowel and not previous_was_vowel:
+            syllable_count += 1
+        previous_was_vowel = is_vowel
+
+    # Adjust for silent e
+    if word.endswith('e'):
+        syllable_count -= 1
+
+    # Ensure at least 1 syllable
+    if syllable_count == 0:
+        syllable_count = 1
+
+    return syllable_count
+
+def count_sentences(text):
+    """Count sentences in text."""
+    # Remove markdown headers and metadata
+    text = re.sub(r'^#+\s+.*$', '', text, flags=re.MULTILINE)
+    text = re.sub(r'\*\*.*?\*\*', '', text)
+
+    # Count sentence-ending punctuation
+    sentences = re.findall(r'[.!?]+', text)
+    return max(len(sentences), 1)  # At least 1 sentence
+
+def calculate_flesch_kincaid(content):
+    """Calculate Flesch-Kincaid grade level from script content."""
+    # Extract script content (scenes only, ignore metadata)
+    # Try multiple scene formats:
+    # 1. "### Scene \d+" (standard markdown header)
+    # 2. "**SCENE \d+**" (all caps bold)
+    # 3. "**Scene \d+**" (title case bold)
+
+    scene_pattern = r'### Scene \d+.*?\n(.*?)(?=### Scene \d+|---|\Z)'
+    scenes = re.findall(scene_pattern, content, re.DOTALL)
+
+    if not scenes:
+        # Try bold SCENE format
+        scene_pattern = r'\*\*SCENE \d+\*\*\n(.*?)(?=\*\*SCENE \d+\*\*|---|\Z)'
+        scenes = re.findall(scene_pattern, content, re.DOTALL)
+
+    if not scenes:
+        # Try bold Scene format
+        scene_pattern = r'\*\*Scene \d+\*\*\n(.*?)(?=\*\*Scene \d+\*\*|---|\Z)'
+        scenes = re.findall(scene_pattern, content, re.DOTALL)
+
+    if not scenes:
+        return None
+
+    script_text = ' '.join(scenes)
+
+    # Count words
+    words = re.findall(r'\b[a-zA-Z]+\b', script_text)
+    total_words = len(words)
+
+    if total_words == 0:
+        return None
+
+    # Count syllables
+    total_syllables = sum(count_syllables(word) for word in words)
+
+    # Count sentences
+    total_sentences = count_sentences(script_text)
+
+    # Calculate Flesch-Kincaid grade level
+    # F-K = 0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59
+    fk_grade = 0.39 * (total_words / total_sentences) + 11.8 * (total_syllables / total_words) - 15.59
+
+    return round(fk_grade, 2)
 
 def extract_word_count(filepath):
     """Extract target and actual word counts from script."""
@@ -27,12 +109,17 @@ def extract_word_count(filepath):
     target_match = re.search(r'\*\*Target Word Count:\*\* (\d+)', content)
     target_wc = int(target_match.group(1)) if target_match else None
 
-    # Extract actual word count
+    # Extract actual word count - try multiple formats
     actual_match = re.search(r'\*\*Total Word Count:? ([\d,]+) words\*\*', content)
     if actual_match:
         actual_wc = int(actual_match.group(1).replace(',', ''))
     else:
-        actual_wc = None
+        # Try alternate format: "**WORD COUNT: 718 words**" or "**Word Count: 657 words**"
+        actual_match = re.search(r'\*\*(?:WORD COUNT|Word Count):? ([\d,]+) words?\*\*', content, re.IGNORECASE)
+        if actual_match:
+            actual_wc = int(actual_match.group(1).replace(',', ''))
+        else:
+            actual_wc = None
 
     return target_wc, actual_wc
 
@@ -41,10 +128,10 @@ def extract_msl(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Extract estimated MSL
-    msl_match = re.search(r'\*\*Estimated MSL:\*\* ~?([\d.]+)', content)
+    # Try both "Estimated MSL" and "Actual MSL" formats
+    msl_match = re.search(r'\*\*(Estimated|Actual) MSL:\*\* ~?([\d.]+)', content)
     if msl_match:
-        return float(msl_match.group(1))
+        return float(msl_match.group(2))
     return None
 
 def check_tier_progression(scripts_dir):
@@ -71,11 +158,17 @@ def check_tier_progression(scripts_dir):
         target_wc, actual_wc = extract_word_count(filepath)
         msl = extract_msl(filepath)
 
+        # Read content for F-K calculation
+        with open(filepath, 'r', encoding='utf-8') as f:
+            content = f.read()
+        fk_grade = calculate_flesch_kincaid(content)
+
         chapters[chapter][tier] = {
             'filename': filename,
             'target_wc': target_wc,
             'actual_wc': actual_wc,
-            'msl': msl
+            'msl': msl,
+            'fk_grade': fk_grade
         }
 
     # Check each chapter for proper progression
@@ -114,9 +207,10 @@ def check_tier_progression(scripts_dir):
     return issues, chapters
 
 def calculate_tier_averages(chapters):
-    """Calculate average word counts and MSL by tier across all chapters."""
+    """Calculate average word counts, MSL, and F-K by tier across all chapters."""
     tier_stats = {1: [], 2: [], 3: [], 4: []}
     tier_msl = {1: [], 2: [], 3: [], 4: []}
+    tier_fk = {1: [], 2: [], 3: [], 4: []}
 
     for chapter in chapters.values():
         for tier, data in chapter.items():
@@ -124,14 +218,18 @@ def calculate_tier_averages(chapters):
                 tier_stats[tier].append(data['actual_wc'])
             if data['msl']:
                 tier_msl[tier].append(data['msl'])
+            if data['fk_grade']:
+                tier_fk[tier].append(data['fk_grade'])
 
     averages = {}
     for tier in [1, 2, 3, 4]:
         wc_avg = sum(tier_stats[tier]) / len(tier_stats[tier]) if tier_stats[tier] else 0
         msl_avg = sum(tier_msl[tier]) / len(tier_msl[tier]) if tier_msl[tier] else 0
+        fk_avg = sum(tier_fk[tier]) / len(tier_fk[tier]) if tier_fk[tier] else 0
         averages[tier] = {
             'word_count_avg': round(wc_avg, 1),
             'msl_avg': round(msl_avg, 2),
+            'fk_avg': round(fk_avg, 2),
             'num_scripts': len(tier_stats[tier])
         }
 
@@ -155,17 +253,17 @@ def generate_markdown_report(chapters, issues, averages, output_path):
             f.write("- MSL increases across tiers\n\n")
 
         f.write("## Tier Averages Across All Chapters\n\n")
-        f.write("| Tier | Avg Word Count | Avg MSL | Scripts |\n")
-        f.write("|------|----------------|---------|----------|\n")
+        f.write("| Tier | Avg Word Count | Avg MSL | Avg F-K Grade | Scripts |\n")
+        f.write("|------|----------------|---------|---------------|----------|\n")
         for tier in [1, 2, 3, 4]:
             avg = averages[tier]
-            f.write(f"| T{tier}  | {avg['word_count_avg']:>7.1f} | {avg['msl_avg']:>7.2f} | {avg['num_scripts']:>8} |\n")
+            f.write(f"| T{tier}  | {avg['word_count_avg']:>7.1f} | {avg['msl_avg']:>7.2f} | {avg['fk_avg']:>13.2f} | {avg['num_scripts']:>8} |\n")
 
         f.write("\n## Chapter-by-Chapter Breakdown\n\n")
         for chapter in sorted(chapters.keys()):
             f.write(f"### Chapter {chapter:02d}\n\n")
-            f.write("| Tier | Word Count | MSL | Target WC | File |\n")
-            f.write("|------|-----------|-----|-----------|------|\n")
+            f.write("| Tier | Word Count | MSL | F-K Grade | Target WC | File |\n")
+            f.write("|------|-----------|-----|-----------|-----------|------|\n")
 
             tiers = chapters[chapter]
             for tier in [1, 2, 3, 4]:
@@ -173,10 +271,11 @@ def generate_markdown_report(chapters, issues, averages, output_path):
                     data = tiers[tier]
                     wc = data['actual_wc'] or 'N/A'
                     msl = data['msl'] or 'N/A'
+                    fk = data['fk_grade'] or 'N/A'
                     target = data['target_wc'] or 'N/A'
-                    f.write(f"| T{tier} | {wc:>9} | {msl:>7} | {target:>9} | {data['filename']} |\n")
+                    f.write(f"| T{tier} | {wc:>9} | {msl:>7} | {fk:>9} | {target:>9} | {data['filename']} |\n")
                 else:
-                    f.write(f"| T{tier} | MISSING | MISSING | MISSING | - |\n")
+                    f.write(f"| T{tier} | MISSING | MISSING | MISSING | MISSING | - |\n")
             f.write("\n")
 
 def generate_excel_report(chapters, issues, averages, output_path):
@@ -210,9 +309,10 @@ def generate_excel_report(chapters, issues, averages, output_path):
     ws_summary['A6'] = "Tier"
     ws_summary['B6'] = "Avg Word Count"
     ws_summary['C6'] = "Avg MSL"
-    ws_summary['D6'] = "# Scripts"
+    ws_summary['D6'] = "Avg F-K Grade"
+    ws_summary['E6'] = "# Scripts"
 
-    for i, header in enumerate(['A6', 'B6', 'C6', 'D6']):
+    for i, header in enumerate(['A6', 'B6', 'C6', 'D6', 'E6']):
         ws_summary[header].font = Font(bold=True)
         ws_summary[header].fill = PatternFill(start_color="DDDDDD", fill_type="solid")
 
@@ -221,7 +321,8 @@ def generate_excel_report(chapters, issues, averages, output_path):
         ws_summary[f'A{idx}'] = f"T{tier}"
         ws_summary[f'B{idx}'] = avg['word_count_avg']
         ws_summary[f'C{idx}'] = avg['msl_avg']
-        ws_summary[f'D{idx}'] = avg['num_scripts']
+        ws_summary[f'D{idx}'] = avg['fk_avg']
+        ws_summary[f'E{idx}'] = avg['num_scripts']
 
     # Issues sheet if any
     if issues:
@@ -233,7 +334,7 @@ def generate_excel_report(chapters, issues, averages, output_path):
 
     # Detailed data sheet
     ws_detail = wb.create_sheet("All Scripts")
-    headers = ['Chapter', 'Tier', 'Word Count', 'MSL', 'Target WC', 'Filename']
+    headers = ['Chapter', 'Tier', 'Word Count', 'MSL', 'F-K Grade', 'Target WC', 'Filename']
     for idx, header in enumerate(headers, start=1):
         cell = ws_detail.cell(row=1, column=idx, value=header)
         cell.font = Font(bold=True)
@@ -249,8 +350,9 @@ def generate_excel_report(chapters, issues, averages, output_path):
                 ws_detail.cell(row=row, column=2, value=tier)
                 ws_detail.cell(row=row, column=3, value=data['actual_wc'])
                 ws_detail.cell(row=row, column=4, value=data['msl'])
-                ws_detail.cell(row=row, column=5, value=data['target_wc'])
-                ws_detail.cell(row=row, column=6, value=data['filename'])
+                ws_detail.cell(row=row, column=5, value=data['fk_grade'])
+                ws_detail.cell(row=row, column=6, value=data['target_wc'])
+                ws_detail.cell(row=row, column=7, value=data['filename'])
                 row += 1
 
     wb.save(output_path)
@@ -275,14 +377,14 @@ def main():
     averages = calculate_tier_averages(chapters)
 
     # Print console output
-    print("\n" + "="*80)
+    print("\n" + "="*90)
     print("TIER AVERAGES ACROSS ALL CHAPTERS")
-    print("="*80)
-    print(f"{'Tier':<6} {'Avg Word Count':>15} {'Avg MSL':>10} {'Scripts':>10}")
-    print("-"*80)
+    print("="*90)
+    print(f"{'Tier':<6} {'Avg Word Count':>15} {'Avg MSL':>10} {'Avg F-K Grade':>15} {'Scripts':>10}")
+    print("-"*90)
     for tier in [1, 2, 3, 4]:
         avg = averages[tier]
-        print(f"T{tier}    {avg['word_count_avg']:>15.1f} {avg['msl_avg']:>10.2f} {avg['num_scripts']:>10}")
+        print(f"T{tier}    {avg['word_count_avg']:>15.1f} {avg['msl_avg']:>10.2f} {avg['fk_avg']:>15.2f} {avg['num_scripts']:>10}")
 
     print("\n" + "="*80)
     print("TIER PROGRESSION ISSUES")

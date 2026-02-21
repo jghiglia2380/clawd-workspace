@@ -50,7 +50,7 @@ Benny mentioned something at lunch. "Did you hear about Neville?" he asked. "He 
 That evening, they studied the map together. The old journal customer lines had faded away. But the pottery lines glowed brighter than ever, and new ones were appearing. Clusters of pottery customers gathered near the cafe area. Layla traced the bright lines with her finger. "The map shows what works. We just had to be brave enough to follow it."
 ---
 **Total Word Count: 1,053 words** ✅
-**Actual MSL:** ~8.7 words ✅ (Target: 7-10)
+**Estimated MSL:** ~8.7 words ✅ (Target: 7-10)
 ---
 ## FL VOCABULARY
 - **pivot** -- changing direction in a business to focus on what works better

@@ -42,4 +42,4 @@ Ellis opened a fresh notebook, drawing a grid for quarterly planning while propo
 The map glowed on the wall—a visualization of everything they'd built over six months. Golden threads connected the fort to customers like stars in a constellation, each representing a relationship. A thick thread pulsed to Ellen's café, their anchor partnership, while warm connections linked them to Mr. Mason's workshop and Frances's garden, and more threads reached to wedding venues, the hardware store, and homes on every street. The web was complex and alive, though dim spots remained in the areas they hadn't reached yet, connections not yet made. The map whispered "growing," not "finished." Layla traced one thread with gentle care. "We built something real," she said softly. Riley grinned wide. "And we're just getting started."
 ---
 **Word Count: 1,111 words**
-**MSL: 12-15 range**
+**Estimated MSL:** ~13.2 words (Target: 12-15)

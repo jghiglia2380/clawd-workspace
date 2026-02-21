@@ -50,4 +50,4 @@ Layla made a special list in her notebook. She called it: "Costs That Are Hard t
 That night, Layla looked at the map. The bright golden lines still glowed. But now she saw gray shadows under them. Hidden costs. They were always there. Now she could see the whole picture.
 ---
 **Total Word Count: 648 words**
-**Actual MSL:** ~5.4 words (Target: 4-6)
+**Estimated MSL:** ~5.4 words (Target: 4-6)

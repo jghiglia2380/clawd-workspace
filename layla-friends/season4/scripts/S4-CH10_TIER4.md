@@ -44,6 +44,7 @@ That evening, alone in the workshop's dimming light, Layla studied the network m
 **WORD COUNT: 2,503 words**
 **SCENES: 20**
 **AVERAGE SCENE LENGTH: 125.15 words (target: 105-120)**
+**Estimated MSL:** ~18.5 words (Target: 16-20)
 ---
 **Tier 4 Vocabulary & Concept Notes:**
 - Sophisticated business terminology (cash conversion cycle, sunk-cost psychology, capacity constraint, working capital, economies of scale)

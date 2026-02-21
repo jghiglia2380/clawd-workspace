@@ -51,7 +51,7 @@ Layla created a new dedicated tracking document in her notebook, physically sepa
 That night, Layla studied the map in her room with eyes freshly sharpened by everything she had learned and confronted over the course of this difficult but ultimately empowering day. The bright golden customer lines still glowed with strong, warm light, each one representing a relationship built through quality work and honest dealing. But now she perceived something she had never noticed before: dim gray shadows running beneath those golden lines like the roots beneath a garden, always present, always necessary, but invisible until you thought to look for them. The hidden costs that sustained every visible success. The shadows didn't diminish the golden lines or make them less real. They completed the picture, adding depth and honesty to what had been a partial view. "It's the whole story now," Layla whispered. And the whole story, she realized, was always better than a beautiful half-truth.
 ---
 **Total Word Count: 2,402 words**
-**Actual MSL:** ~18.4 words (Target: 16-20)
+**Estimated MSL:** ~18.4 words (Target: 16-20)
 **Figurative Language Count:** 4 instances
 - "like a branch cracking in a storm" (simile, Scene 1)
 - "dissolved like morning frost in direct sunlight" (simile, Scene 3)

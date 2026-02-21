@@ -50,7 +50,7 @@ Layla created a new dedicated tracking page in her notebook, separate from their
 That night, Layla studied the map in her room with fresh eyes shaped by everything she had learned today. The bright golden customer lines still glowed strong and warm, representing every relationship they had built through honest work. But now she noticed something new: dim gray shadows running beneath those golden lines like underground streams. Costs that had always existed but remained invisible until today. The shadows didn't diminish the golden lines. They revealed the complete, honest picture at last.
 ---
 **Total Word Count: 1,306 words**
-**Actual MSL:** ~13.1 words (Target: 12-15)
+**Estimated MSL:** ~13.1 words (Target: 12-15)
 ---
 ## FL VOCABULARY
 - **overhead** -- indirect costs of running a business that aren't tied to making one specific product

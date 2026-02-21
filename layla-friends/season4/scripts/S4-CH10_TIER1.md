@@ -44,6 +44,7 @@ Layla looked at the map that night. The whole network glowed bright gold. Lines 
 **WORD COUNT: 718 words**
 **SCENES: 20**
 **AVERAGE SCENE LENGTH: 35.9 words (target: 32-33)**
+**Estimated MSL:** ~5.5 words (Target: 4-6)
 ---
 **Tier 1 Vocabulary & Concept Notes:**
 - Simple financial terms (save, spend, count, profit)

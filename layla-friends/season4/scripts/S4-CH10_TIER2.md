@@ -44,6 +44,7 @@ Layla looked at the map that night. The network glowed bright gold. Lines everyw
 **WORD COUNT: 946 words**
 **SCENES: 20**
 **AVERAGE SCENE LENGTH: 47.3 words (target: 52-53)**
+**Estimated MSL:** ~8.5 words (Target: 7-10)
 ---
 **Tier 2 Vocabulary & Concept Notes:**
 - Pre-orders, deposits, capacity, batch production, reserves

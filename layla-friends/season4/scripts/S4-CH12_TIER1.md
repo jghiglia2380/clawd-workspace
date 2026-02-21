@@ -43,4 +43,4 @@ The map glowed on the wall. Gold lines everywhere. The fort in the middle. Lines
 ---
 **Word Count: 657 words**
 **Scene Average: ~32.9 words**
-**MSL: 4-6 range**
+**Estimated MSL:** ~5.2 words (Target: 4-6)

@@ -50,7 +50,7 @@ Layla made a new tracking page in her notebook. She titled it: "Costs That Don't
 That night, Layla studied the map. The bright golden customer lines still glowed strong. But now she noticed dim gray shadows beneath them. Costs that were always there but invisible until today. The shadows didn't replace the golden lines. They completed the picture. "It's the whole story now," she whispered.
 ---
 **Total Word Count: 1,052 words**
-**Actual MSL:** ~8.8 words (Target: 7-10)
+**Estimated MSL:** ~8.8 words (Target: 7-10)
 ---
 ## FL VOCABULARY
 - **overhead** -- costs of running a business that aren't tied to making one specific product

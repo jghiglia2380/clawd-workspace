@@ -51,7 +51,7 @@ During lunch that week, Benny shared a piece of neighborhood news that caught ev
 That evening, the friends gathered around the map in the fort's amber lamplight. The lines that once connected journal customers had faded, dissolved like morning mist. But the pottery lines pulsed with vivid brightness, and fresh new connections were appearing each week. Clusters of pottery customers gathered visibly near the cafe district. Layla traced the glowing lines carefully. "The map reveals what works," she said quietly. "We just needed the courage to follow it."
 ---
 **Total Word Count: 1,355 words** ✅
-**Actual MSL:** ~13.5 words ✅ (Target: 12-15)
+**Estimated MSL:** ~13.5 words ✅ (Target: 12-15)
 ---
 ## FL VOCABULARY
 - **pivot** -- a strategic change in business direction based on evidence
