@@ -1,68 +1,92 @@
-# Season 4, Chapter 12: THE BOTTOM LINE
-## Tier 1 Script (Target: 580-720 words, MSL 4-6)
+# CHAPTER 12: THE BOTTOM LINE - TIER 1 (K-1ST GRADE)
 
-**Scene 1**
-Six months went by. January, February, March. The business kept going.
-
-**Scene 2**
-Saturday morning. The fort. Layla put paper on the table. "Let's count everything from six months."
-
-**Scene 3**
-Layla read the order book. Riley wrote down numbers. Pottery. Repairs. Birdhouses. Journals. "One thousand, two hundred forty-seven dollars," Layla said.
-
-**Scene 4**
-Ellis had all the receipts. Clay. Glaze. Tools. "We spent three hundred eighty-nine dollars," he said.
-
-**Scene 5**
-Benny did the math. $1,247 minus $389. "Eight hundred fifty-eight dollars profit," he said. His eyes got big.
-
-**Scene 6**
-"Now divide by four," Riley said. Benny pushed the buttons. $214.50. "That's what we each made," Layla said. "Remember when we worked alone? We made fourteen fifty each."
-
-**Scene 7**
-"Which product made the most?" Ellis asked. Layla looked at the list. Pottery: $748. Repairs: $312. Birdhouses: $125. Journals: $62. "Pottery," Riley said.
-
-**Scene 8**
-Ellis counted hours in his log. "About fifty-three hours each. For six months." Benny divided. "Sixteen dollars an hour. That's good for kids."
-
-**Scene 9**
-Layla looked up. "What did we learn? Not just money. What else did we get?"
-
-**Scene 10**
-"I learned about being a leader," Layla said. "I thought I had to control everything. But now I know. You make hard choices. You use good information. Like when we stopped journals."
-
-**Scene 11**
-Riley played with her apron. "I thought selling art meant losing myself. But my artist's choice bowls make the most money. I can make what I want AND sell it."
-
-**Scene 12**
-Ellis touched his tools. "I used to fix stuff alone in my garage. I rushed. I made mistakes. Now I'm part of a team. I like that better."
-
-**Scene 13**
-Benny thought for a minute. "I learned to say no. When I promised too many birdhouses, I almost broke. Now I know. Sometimes 'not this week' is nicer than 'yes.'"
-
-**Scene 14**
-"What should we do?" Riley asked. "Keep going? Get bigger? Or stop?" Layla made three columns. Option A. Option B. Option C.
-
-**Scene 15**
-"Option A: Stop the business. Keep the money. Just be friends." Nobody talked. Then Ellis said, "I don't want that." Riley shook her head.
-
-**Scene 16**
-"Option C: Get really big. Hire friends to help. Rent a real shop. Grow fast." Layla looked around. "That would change us. We'd manage people, not make things. Do we want that?" Benny said, "No. Not yet."
-
-**Scene 17**
-"Option B: Keep going the same size. Do good work. Balance with school and life." Riley smiled. "I like that." They voted. Four hands. Option B won.
-
-**Scene 18**
-Ellis got a new notebook. "Let's make a plan for next year. Not crazy. Just good goals." They wrote it down. Spring: Build inventory. Summer: New spring collection. Fall: Try new stuff. Winter: Get ready for holidays.
-
-**Scene 19**
-"What does the business mean to you?" Layla asked. Riley said, "Connection. My bowls connect me to people." Ellis said, "Purpose. I help people." Benny said, "I know I can do hard things." Layla said, "We made something real."
-
-**Scene 20**
-The map glowed on the wall. Gold lines everywhere. The fort in the middle. Lines to customers. A thick line to Ellen's café. Lines to Mr. Mason's shop and Frances's garden. Lines to the hardware store and wedding places and houses. The web was beautiful. But some spots were still dark. Streets they hadn't explored. The map said "growing," not "done." Layla touched a gold line. "We built something real." Riley grinned. "We're just getting started."
+**Reading Levels:** D
+**Target Narration Speed:** 75 WPM
+**Target Word Count:** 600 words
+**Episode Duration:** ~8 minutes
+**Character Focus:** Ensemble (spotlight)
+**FL Integration:** Strong (profit, revenue)
+**Setting:** Fort
 
 ---
 
-**Word Count: 657 words**
-**Scene Average: ~32.9 words**
-**MSL: 4-6 range**
+## THE BOTTOM LINE
+
+### Scene 1 (30 words)
+Six months had gone by. The business kept running since they started. Layla looked at the calendar. "Six months," she said. "We should count everything we did."
+
+### Scene 2 (30 words)
+On Saturday they met at the fort. Layla put all their papers on the table. Every order. Every receipt. "Today we add it all up," she said.
+
+### Scene 3 (30 words)
+Layla read every sale from six months. Pottery. Repairs. Birdhouses. Café mugs. The big wedding order. She added all the numbers. The total was one thousand two hundred forty-seven dollars. That was their revenue.
+
+### Scene 4 (30 words)
+Then they added up the costs. Clay. Wood. Glue. Glaze. Boxes and labels. Tools. All the things they had to buy. The total cost was three hundred eighty-nine dollars.
+
+### Scene 5 (30 words)
+Layla did the math on the board. They made one thousand two hundred forty-seven dollars. They spent three hundred eighty-nine. That left eight hundred fifty-eight dollars in profit. Everyone stared at the number.
+
+### Scene 6 (30 words)
+They split it four ways. Two hundred fourteen dollars and fifty cents each. When they started, each kid made fourteen dollars alone. Now it was two hundred fourteen. Working together made all the difference.
+
+### Scene 7 (30 words)
+Pottery made the most money. Seven hundred forty-eight dollars. Repairs made three hundred twelve. Birdhouses made one hundred twenty-five. Journals made sixty-two before they stopped. The numbers told the story.
+
+### Scene 8 (30 words)
+Ellis counted the hours they worked. About fifty-three hours each over six months. That was about sixteen dollars per hour. "We worked smart, not just hard," he said.
+
+### Scene 9 (30 words)
+"What did we learn that is not about money?" asked Layla. The room got quiet. They had all changed. They had all grown. Money was not the only thing they gained.
+
+### Scene 10 (30 words)
+"I learned that being the leader means making hard choices," said Layla. "Stopping the journals was hard. But the numbers showed it was right. Good leaders use good information."
+
+### Scene 11 (30 words)
+"I learned that selling art does not mean giving it away," said Riley. "It means making something people love. My favorite pieces earned the most money. That made me happy."
+
+### Scene 12 (30 words)
+"I used to fix things alone," said Ellis. "Now I build things with a team. I like being part of something bigger than just me and my tools."
+
+### Scene 13 (30 words)
+"I learned that saying yes to too much makes everything worse," said Benny. "Now I know that 'not this week' is not mean. It is honest."
+
+### Scene 14 (30 words)
+"What do we do next?" asked Riley. They had three choices. Stop the business. Keep it the same size. Or grow it really big by adding more people and space.
+
+### Scene 15 (30 words)
+Nobody wanted to stop. "We built this," said Benny. "We are not quitting." They all agreed. Stopping would mean losing the skills and friendships they had built.
+
+### Scene 16 (30 words)
+Growing really big sounded fun but scary. More people to manage. Rent to pay. "That changes everything," said Layla. "Do we want that?" They all said no. Not yet.
+
+### Scene 17 (30 words)
+They voted. All four picked the middle choice. Keep the business the same size. Good work. Good quality. Time for school and fun too. "We grow when we are ready," said Layla.
+
+### Scene 18 (30 words)
+They made a plan for next year. Spring: new pottery designs. Summer: more repairs. Fall: get ready for the holidays early. They wrote it all down. Steady and careful.
+
+### Scene 19 (30 words)
+Mr. Mason came by the fort. "You started with a plan," he said. "Now you have a real business." Frances smiled. "You grew what you planted. I am proud."
+
+### Scene 20 (30 words)
+The map on the wall was bright with gold lines. Lines went to every customer, the café, the workshop, and the garden. "We built something real," said Layla. "And we are just getting started."
+
+---
+
+**Total Word Count: ~600 words**
+
+---
+
+## FL VOCABULARY INTRODUCED
+
+1. **profit** (Scene 5) — The money left over after you pay for everything the business needs
+2. **revenue** (Scene 3) — All the money a business takes in from selling things
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 75 (slow, clear, expressive)
+- **Pause:** 2.5 seconds between sentences
+- **Tone:** Warm and proud. The team looks back at what they built. Numbers are presented simply and clearly. Each kid says what they learned. The decision to keep going feels right and earned.

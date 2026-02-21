@@ -1,67 +1,95 @@
-# Season 4, Chapter 12: THE BOTTOM LINE
-## Tier 3 Script (Target: 1200-1600 words, MSL 12-15)
+# CHAPTER 12: THE BOTTOM LINE - TIER 3 (3RD GRADE)
 
-**Scene 1**
-Six months had passed since they'd made the pivotal decision to continue without Neville, reconstituting themselves as a cohesive team of four equal partners. January became February with its snow days, February became March with its promise of spring, and the business had persisted with steady momentum.
-
-**Scene 2**
-Saturday morning arrived cold and clear, and they gathered in the fort with the deliberate sense of purpose that attends important reckonings. Layla spread a large piece of paper across the table, smoothing the corners flat while announcing the moment had come. "It's time," she said. "Let's conduct a comprehensive review of our six-month period."
-
-**Scene 3**
-Layla opened the order notebook, reading through every entry while Riley transcribed the data in her careful handwriting. The record was dense with transactions: pottery sales dominating like a steady heartbeat, repair jobs scattered at irregular intervals, birdhouses in seasonal bursts, and journal orders that had tapered off. "Total revenue is one thousand, two hundred forty-seven dollars," Layla announced after checking the sum.
-
-**Scene 4**
-Ellis retrieved the cost receipts from their organized filing system and sorted them into categories while Benny cross-referenced each entry. Materials from the hardware store formed the largest category, supplemented by clay and glaze, tools for repairs, and packaging supplies. "Total costs are three hundred eighty-nine dollars," Ellis reported with characteristic thoroughness.
-
-**Scene 5**
-Benny entered the calculation with deliberate precision, the moment feeling significant enough to deserve careful attention as he subtracted $389 from $1,247. For a moment they all stared in silence, the number representing months of effort distilled into quantification. "Eight hundred fifty-eight dollars in profit," Benny said, his voice hushed. "Real money we earned through value we created."
-
-**Scene 6**
-"Now divide it evenly," Riley suggested, leaning forward with interest. Benny pressed the division key, then four, and $214.50 per person appeared on the screen. Layla retrieved the Chapter One notes, the early pages appearing quaint in their simplicity. "When we worked independently for one week, we each made fourteen fifty. We've grown our earnings by fourteen point seven times through collaboration, specialized roles, and operational infrastructure."
-
-**Scene 7**
-"Let's break down revenue by product category," Ellis suggested, drawn to analytical decomposition. Layla reorganized the data into a hierarchical breakdown: Pottery $748 at 60%, Repairs $312 at 25%, Birdhouses $125 at 10%, Journals $62 at 5%. "The data tells our story," Riley observed with satisfaction. "Pottery won decisively, journals taught us when to quit."
-
-**Scene 8**
-Ellis flipped through his repair log, estimating total hours across all four team members. "Approximately fifty-three hours per person across twenty-six weeks—barely two hours weekly, sustainable alongside school." Benny ran the calculation. "Sixteen dollars per hour average, which no job for kids matches."
-
-**Scene 9**
-Layla looked up from the metrics, her expression shifting to contemplative as she considered the deeper questions. "But what did we gain that isn't in these measurements? What's our value when you account for intangible returns?"
-
-**Scene 10**
-"I learned what leadership requires," Layla said, choosing words carefully. "I thought management meant controlling every variable, preventing any failure, maintaining oversight at all times. But it means making difficult choices with good information, even when they hurt. Discontinuing the journals because data showed they weren't viable—that was real leadership."
-
-**Scene 11**
-Riley twisted her apron strings, processing thoughts. "I believed selling art meant compromising my vision, making only what customers demanded. But the artist's choice line is our highest-margin product, outperforming even custom orders. I create what I want, people pay premium prices. I can be an artist AND run a profitable business."
-
-**Scene 12**
-Ellis tapped his tools with affection, the worn handles familiar under his fingers. "Remember when I was fixing items alone in my garage, rushing jobs, making mistakes, working in isolation? Now my work is integrated into a larger system. Each repair contributes to revenue, maintains our reputation, supports my partners."
-
-**Scene 13**
-Benny sat quietly, processing thoughts that had developed over months. "I learned that saying yes to everyone means saying no to quality. When I over-promised on birdhouses, I nearly burned us out and compromised standards. Now I understand that 'not this week' is the kindest answer because it protects what we've built."
-
-**Scene 14**
-"We've reached a decision point," Riley said, articulating the question they'd all been contemplating. "Do we continue, scale up, or shut down entirely?" Layla drew three columns on the paper, labeling them Option A, Option B, and Option C.
-
-**Scene 15**
-"Option A is shutdown," Layla explained objectively. "We distribute profits, dissolve the business, return to being friends without obligations." Silence stretched long until Ellis broke it with directness. "I don't want that." Riley's headshake was emphatic. "Neither do I."
-
-**Scene 16**
-"Option C is aggressive scaling," Layla continued with clinical precision. "We'd hire employees, rent workspace, invest in growth, expand rapidly." She looked around the fort, taking in the space that had evolved with them. "But that would transform everything, transitioning us from makers to managers." Benny frowned decisively. "No. Not yet."
-
-**Scene 17**
-"Option B is sustainable continuation," Layla said, and something shifted in the atmosphere. "We maintain current capacity, produce quality work, balance business with school and life." Riley smiled broadly. "That feels right." They voted by raised hands, and four arms extended simultaneously in support of Option B, which won unanimously.
-
-**Scene 18**
-Ellis opened a fresh notebook, drawing a grid for quarterly planning while proposing their next steps. "Let's develop a one-year plan with realistic milestones." They outlined each quarter methodically: Q1 for spring inventory, Q2 for launching Riley's collection, Q3 for experimenting with new products, Q4 for holiday preparation.
-
-**Scene 19**
-"What does this mean to you?" Layla asked, seeking understanding beyond financial metrics. Riley spoke first. "Connection. Every bowl connects me to someone who'll use it for years." Ellis nodded in agreement. "Purpose. I help people extend the life of things they value." Benny smiled. "Competence. I can tackle difficult challenges now." Layla looked at each friend in turn. "For me, it's contribution."
-
-**Scene 20**
-The map glowed on the wall—a visualization of everything they'd built over six months. Golden threads connected the fort to customers like stars in a constellation, each representing a relationship. A thick thread pulsed to Ellen's café, their anchor partnership, while warm connections linked them to Mr. Mason's workshop and Frances's garden, and additional threads reached to wedding venues, the hardware store, and homes on every street. The web was complex and alive, though dim spots remained in the areas they hadn't reached yet, connections not yet made. The map whispered "growing," not "finished." Layla traced one thread with gentle care. "We built something real," she said softly. Riley grinned wide. "And we're just getting started."
+**Reading Levels:** M-N
+**Target Narration Speed:** 125 WPM
+**Target Word Count:** 1,000 words
+**Episode Duration:** ~8 minutes
+**Character Focus:** Ensemble (spotlight)
+**FL Integration:** Strong (profit and loss, revenue, sustainability, retained earnings, return on investment)
+**Setting:** Fort
 
 ---
 
-**Word Count: 1,111 words**
-**MSL: 12-15 range**
+## THE BOTTOM LINE
+
+### Scene 1 (50 words)
+Six months had passed since they started the business without Neville. January came and went. February arrived with cold mornings and quiet streets. Half a year of building, selling, delivering, and learning. Layla looked at the calendar on the fort wall. "Six months," she said. "It is time for a full review."
+
+### Scene 2 (50 words)
+Saturday morning at the fort. The team sat around the table with serious faces. Layla spread every order form, receipt, and delivery record from the past six months across the surface. The papers covered the entire table. "Today we tally everything," she said. "Every dollar in and every dollar out."
+
+### Scene 3 (50 words)
+Layla worked through the records one entry at a time. Every pottery sale, every repair payment, every birdhouse delivery, every café order, and the full wedding project. She added each figure carefully, checking her work twice before writing the final number on the board. One thousand two hundred forty-seven dollars in total revenue.
+
+### Scene 4 (50 words)
+Next came the expenses. Clay, wood, glue, glaze, packaging, printed labels, replacement tools, and kiln supplies. Every cost the business had absorbed over six months of operation. Layla added them with the same careful attention. Three hundred eighty-nine dollars. That was the total cost of keeping the business running.
+
+### Scene 5 (50 words)
+Layla wrote the profit and loss calculation on the board for everyone to see. Revenue: one thousand two hundred forty-seven dollars. Costs: three hundred eighty-nine dollars. Profit: eight hundred fifty-eight dollars. The room went silent. Eight hundred fifty-eight dollars earned by four kids over six months. The number was real and undeniable.
+
+### Scene 6 (50 words)
+"Divide by four," said Riley quietly. Two hundred fourteen dollars and fifty cents each. When they first started working alone, each kid had earned fourteen dollars and fifty cents. Now the number was two hundred fourteen. Almost fifteen times more. The difference between working alone and working as a team was sitting on the board.
+
+### Scene 7 (50 words)
+Layla broke the revenue down by product category. Pottery had earned seven hundred forty-eight dollars, making up sixty percent of all revenue. Repairs brought in three hundred twelve. Birdhouses contributed one hundred twenty-five. Journals had earned sixty-two dollars before the team stopped making them in the fall. The data made the story clear.
+
+### Scene 8 (50 words)
+Ellis estimated the total hours each person had worked across six months. Roughly fifty-three hours each, spread across weekends and afternoons. That worked out to about sixteen dollars per hour. Better than any other job available to a kid in the neighborhood. "We earned that by working smart, not just hard," Ellis said.
+
+### Scene 9 (50 words)
+Layla set her pencil down and looked at the team. "What did we gain that does not show up in these numbers?" she asked. The fort went quiet. The profit was meaningful, but it was only part of the picture. Each person at the table had changed over six months.
+
+### Scene 10 (50 words)
+"I thought being in charge meant controlling every detail," Layla said. "I was wrong. Leading means gathering good information and making the hard calls that nobody else wants to make. Cutting the journals was the hardest decision of the whole year. But the data told me it was right."
+
+### Scene 11 (50 words)
+"I used to think selling my art meant losing a piece of myself," said Riley. "Now I know it means creating something that someone else needs to have. My artist's choice pieces earn the most per piece. I learned that art and business can share the same space."
+
+### Scene 12 (50 words)
+"I started this year fixing broken things alone in a garage," said Ellis. "Now I build things as part of a team that depends on each other. The workbench, the display racks, the delivery shelves. I like being part of something bigger than one person working with a set of tools."
+
+### Scene 13 (50 words)
+"I learned that saying yes to everyone actually means saying no to quality," said Benny. "When I took too many orders at once, everything suffered. The work got worse and the customers noticed. Sometimes the right answer is 'not this week.' That is not unkind. It is honest."
+
+### Scene 14 (50 words)
+"So what happens next?" asked Riley. Three options sat on the table. Option A: Shut down the business and keep the profits. Option B: Keep running at the same steady size with balanced work and school. Option C: Scale up by hiring friends, renting a bigger space, and growing fast.
+
+### Scene 15 (50 words)
+Nobody wanted Option A. "We did not spend six months building this to walk away from it now," said Benny. The others agreed without hesitation. Shutting down would mean losing every system they had built. The skills, the customer relationships, the café partnership. All of it would disappear.
+
+### Scene 16 (50 words)
+Option C was exciting to consider but felt wrong the more they talked about it. Hiring people meant managing them. Renting space meant paying rent whether orders came or not. "Growing fast changes what we are," said Layla. "It adds pressure we are not ready for." They agreed. Not yet.
+
+### Scene 17 (50 words)
+The vote was unanimous. Four hands for Option B. Keep the business running at a sustainable size. Steady work. Consistent quality. Room for school and for life outside the fort. "We keep what works and grow when the time is right," said Layla. Nobody argued. It felt exactly right.
+
+### Scene 18 (50 words)
+They drafted goals for the coming year. Spring: launch Riley's new collection and maintain the café partnership. Summer: expand repair services to neighboring streets. Fall: build holiday inventory ahead of the rush. Winter: run the seasonal operation using every system they had built. Intentional, thoughtful progress. Growth without desperation.
+
+### Scene 19 (50 words)
+Mr. Mason stopped by the fort that afternoon. He studied the numbers on the board and nodded slowly. "You started with hope and a plan," he said. "You built a real business." Frances stood in the doorway with a quiet smile. "The garden grows what you tend. You tended this well."
+
+### Scene 20 (50 words)
+The map glowed brighter and more connected than it ever had. Golden threads stretched from the fort to customers, the café, Mr. Mason's workshop, Frances's garden, and the wedding venue. The web was complex and alive. Dim spots waited at the edges. "We built something real," said Layla. "And we are just getting started."
+
+---
+
+**Total Word Count: ~1,000 words**
+
+---
+
+## FL VOCABULARY INTRODUCED
+
+1. **profit and loss** (Scenes 5, 7) — A full accounting that shows all revenue earned and all costs spent, revealing whether a business made or lost money
+2. **revenue** (Scenes 3, 7) — The total amount of money a business earns from all sales before subtracting any costs
+3. **sustainability** (Scene 17) — Operating a business at a pace and scale that can continue over time without exhausting resources or people
+4. **retained earnings** (Scene 18) — Profit kept in the business for future use rather than distributed to owners
+5. **return on investment** (Scene 8) — The value gained compared to the time, money, or effort put in
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 125 (comfortable pace with expression)
+- **Pause:** 1 second between sentences
+- **Tone:** Reflective and earned. Numbers carry emotional weight. Each kid's reflection is personal and connects to their arc across the season. The unanimous vote for sustainability shows collective wisdom. The map finale is warm, not triumphant.
