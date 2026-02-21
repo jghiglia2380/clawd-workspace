@@ -5,7 +5,7 @@
 Six months had passed since they'd made the pivotal decision to continue without Neville, reconstituting themselves as a cohesive team of four equal partners. January became February with its snow days, February became March with its promise of spring, and the business had persisted with steady momentum.
 
 **Scene 2**
-Saturday morning arrived cold and clear, and they gathered in the fort with the deliberate sense of purpose that attends important reckonings. Layla spread a large piece of paper across the table, smoothing the corners flat while announcing the moment had come. "It's time," she said. "Let's conduct a comprehensive review of our six-month period."
+Saturday morning arrived cold and clear, and they gathered in the fort with the deliberate sense of purpose that attends important reckonings. Layla spread a large piece of paper across the table, smoothing the corners flat while announcing the moment had come. "It's time," she said. "Let's do a review of our six-month period."
 
 **Scene 3**
 Layla opened the order notebook, reading through every entry while Riley transcribed the data in her careful handwriting. The record was dense with transactions: pottery sales dominating like a steady heartbeat, repair jobs scattered at irregular intervals, birdhouses in seasonal bursts, and journal orders that had tapered off. "Total revenue is one thousand, two hundred forty-seven dollars," Layla announced after checking the sum.
@@ -17,7 +17,7 @@ Ellis retrieved the cost receipts from their organized filing system and sorted 
 Benny entered the calculation with deliberate precision, the moment feeling significant enough to deserve careful attention as he subtracted $389 from $1,247. For a moment they all stared in silence, the number representing months of effort distilled into quantification. "Eight hundred fifty-eight dollars in profit," Benny said, his voice hushed. "Real money we earned through value we created."
 
 **Scene 6**
-"Now divide it evenly," Riley suggested, leaning forward with interest. Benny pressed the division key, then four, and $214.50 per person appeared on the screen. Layla retrieved the Chapter One notes, the early pages appearing quaint in their simplicity. "When we worked independently for one week, we each made fourteen fifty. We've grown our earnings by fourteen point seven times through collaboration, specialized roles, and operational infrastructure."
+"Now divide it evenly," Riley suggested, leaning forward with interest. Benny pressed the division key, then four, and $214.50 per person appeared on the screen. Layla retrieved the Chapter One notes, the early pages appearing quaint in their simplicity. "When we worked alone for a week, we each made fourteen fifty. We've made almost fifteen times more by working together, having our own jobs, and getting organized."
 
 **Scene 7**
 "Let's break down revenue by product category," Ellis suggested, drawn to analytical decomposition. Layla reorganized the data into a hierarchical breakdown: Pottery $748 at 60%, Repairs $312 at 25%, Birdhouses $125 at 10%, Journals $62 at 5%. "The data tells our story," Riley observed with satisfaction. "Pottery won decisively, journals taught us when to quit."
@@ -26,19 +26,19 @@ Benny entered the calculation with deliberate precision, the moment feeling sign
 Ellis flipped through his repair log, estimating total hours across all four team members. "Approximately fifty-three hours per person across twenty-six weeks—barely two hours weekly, sustainable alongside school." Benny ran the calculation. "Sixteen dollars per hour average, which no job for kids matches."
 
 **Scene 9**
-Layla looked up from the metrics, her expression shifting to contemplative as she considered the deeper questions. "But what did we gain that isn't in these measurements? What's our value when you account for intangible returns?"
+Layla looked up from the metrics, her expression shifting to contemplative as she considered the deeper questions. "But what did we get besides money? What did we learn that you can't measure?"
 
 **Scene 10**
 "I learned what leadership requires," Layla said, choosing words carefully. "I thought management meant controlling every variable, preventing any failure, maintaining oversight at all times. But it means making difficult choices with good information, even when they hurt. Discontinuing the journals because data showed they weren't viable—that was real leadership."
 
 **Scene 11**
-Riley twisted her apron strings, processing thoughts. "I believed selling art meant compromising my vision, making only what customers demanded. But the artist's choice line is our highest-margin product, outperforming even custom orders. I create what I want, people pay premium prices. I can be an artist AND run a profitable business."
+Riley twisted her apron strings, processing thoughts. "I thought selling art meant I'd have to make only what customers wanted. But you know what? The artist's choice line makes the most money, even more than custom orders. I make what I want and people pay more for it. I can be an artist AND run a good business."
 
 **Scene 12**
-Ellis tapped his tools with affection, the worn handles familiar under his fingers. "Remember when I was fixing items alone in my garage, rushing jobs, making mistakes, working in isolation? Now my work is integrated into a larger system. Each repair contributes to revenue, maintains our reputation, supports my partners."
+Ellis tapped his tools with affection, the worn handles familiar under his fingers. "Remember when I was just fixing stuff alone, rushing through jobs and making mistakes? Now my work is part of something bigger. Each repair helps make money, keeps our reputation good, and helps my friends."
 
 **Scene 13**
-Benny sat quietly, processing thoughts that had developed over months. "I learned that saying yes to everyone means saying no to quality. When I over-promised on birdhouses, I nearly burned us out and compromised standards. Now I understand that 'not this week' is the kindest answer because it protects what we've built."
+Benny sat quietly, processing thoughts that had developed over months. "I learned that saying yes to everyone means saying no to doing good work. When I promised too many birdhouses, I almost burned us out and made our work worse. Now I know that sometimes 'not this week' is the nicest answer 'cause it protects what we made."
 
 **Scene 14**
 "We've reached a decision point," Riley said, articulating the question they'd all been contemplating. "Do we continue, scale up, or shut down entirely?" Layla drew three columns on the paper, labeling them Option A, Option B, and Option C.

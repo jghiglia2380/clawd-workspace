@@ -61,7 +61,7 @@ Friday night, each friend counted their week's earnings alone in their room. The
 Saturday morning, they met at the fort for their weekly meeting. Nobody wanted to share their disappointing results first. Finally, Riley gathered her courage and placed her money on the wooden table. "Twenty-two dollars," she said quietly. Then the others added their earnings one by one. Together they had fifty-eight dollars. "That seems like a lot," said Benny hopefully.
 
 ### Scene 17 (53 words)
-Then Layla asked an important question. "How many hours did we each work this week?" She pulled out paper to calculate the numbers. Riley had worked about twelve hours on pottery. Ellis had worked ten hours on repairs. Layla had worked seven hours making and selling journals. Benny had worked six hours running errands. That was thirty-five hours total.
+Then Layla asked an important question. "How many hours did we each work this week?" She pulled out paper to figure out the numbers. Riley had worked about twelve hours on pottery. Ellis had worked ten hours on repairs. Layla had worked seven hours making and selling journals. Benny had worked six hours running errands. That was thirty-five hours total.
 
 ### Scene 18 (52 words)
 "Fifty-eight dollars for thirty-five hours of work," Ellis said slowly. Mr. Mason stopped by the fort to return a borrowed tool and noticed the pile of money and exhausted expressions. "How did your entrepreneurial week go?" he asked gently. Ellis explained their earnings. "That works out to less than two dollars per hour," Mr. Mason observed quietly.

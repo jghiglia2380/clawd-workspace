@@ -64,7 +64,7 @@ They decided on changes going forward. Layla calculated that overhead added abou
 Riley made a decision about glaze. "I'm ordering the large container," she said. It cost forty-five dollars upfront instead of eighteen. But it lasted three times longer. "That saves thirty percent over time," Layla confirmed after checking the math. Higher cost now meant lower cost later. Riley was learning to think ahead.
 
 ### Scene 18 (52 words)
-They created a new jar: the RESERVE jar. Ten dollars went in specifically for tool replacement. "When Ellis needs a new blade, the money is already set aside," Layla said. Ellis looked relieved. His saw blade breaking wouldn't be a surprise expense anymore. Planning ahead felt better than scrambling.
+They created a new jar: the RESERVE jar. Ten dollars went in for tool replacement. "When Ellis needs a new blade, the money is already set aside," Layla said. Ellis looked relieved. His saw blade breaking wouldn't be a surprise expense anymore. Planning ahead felt better than scrambling.
 
 ### Scene 19 (53 words)
 Layla made a new tracking page in her notebook. She titled it: "Costs That Don't Go in Products." She listed categories: Tools and Equipment, Space and Electricity, Bulk Purchase Savings, Other. "We'll update this every month," she said. Ellis nodded. "I was mad about the saw blade. But Mr. Mason was right. We just have to plan."

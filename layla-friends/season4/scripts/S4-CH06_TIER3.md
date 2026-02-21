@@ -61,10 +61,10 @@ Benny stared at the diminished jar with obvious concern written across his face.
 The team made concrete decisions about moving forward with this new understanding of their complete cost structure. Layla calculated that overhead added approximately fifteen percent to their actual operating costs beyond raw materials. "We need to factor fifteen percent overhead into all our future prices," she explained clearly while showing her calculations. "That covers tools wearing out through normal depreciation, electricity usage, and supply restocking." They updated the pricing sheet together, adjusting each product price upward by the appropriate amount.
 
 ### Scene 17 (66 words)
-Riley made a firm decision about her glaze purchasing strategy going forward, applying the bulk purchasing lesson directly. "I'm ordering the large container this time," she announced with confidence. The forty-five dollar upfront cost felt steep compared to the familiar eighteen dollar small jar. But it would last three times as long, covering significantly more production. "That saves approximately thirty percent over time on a per-unit basis," Layla confirmed after verifying the mathematics. Higher cost now translated directly into lower cost later.
+Riley made a firm decision about her glaze purchasing strategy going forward, applying the bulk purchasing lesson directly. "I'm ordering the large container this time," she announced with confidence. The forty-five dollar upfront cost felt steep compared to the familiar eighteen dollar small jar. But it would last three times as long, covering way more production. "That saves approximately thirty percent over time on a per-unit basis," Layla confirmed after verifying the mathematics. Higher cost now translated directly into lower cost later.
 
 ### Scene 18 (65 words)
-They established a dedicated new jar in their financial system: the RESERVE jar. Ten dollars went in immediately, allocated specifically for inevitable tool replacement and equipment maintenance expenses. "When Ellis needs his next saw blade, the money will already be set aside and waiting," Layla explained with satisfaction at the improved system. Ellis looked visibly relieved by this structural change to their planning. His saw blade breaking would never again represent an unplanned emergency expense.
+They established a dedicated new jar in their financial system: the RESERVE jar. Ten dollars went in immediately, allocated for inevitable tool replacement and equipment maintenance expenses. "When Ellis needs his next saw blade, the money will already be set aside and waiting," Layla explained with satisfaction at the improved system. Ellis looked visibly relieved by this structural change to their planning. His saw blade breaking would never again represent an unplanned emergency expense.
 
 ### Scene 19 (66 words)
 Layla created a new dedicated tracking page in her notebook, separate from their existing product-cost records. She titled it carefully: "Costs That Don't Go in Products." Beneath the heading she established four distinct categories: Tools and Equipment, Space and Electricity, Bulk Purchase Savings, Other. "We'll review and update this systematically every month going forward," she stated. Ellis nodded with genuine acceptance. "I was frustrated about the saw blade breaking. But Mr. Mason was right. Tools wear out. We just have to plan for it."
@@ -84,6 +84,6 @@ That night, Layla studied the map in her room with fresh eyes shaped by everythi
 
 - **overhead** -- indirect costs of running a business that aren't tied to making one specific product
 - **depreciation** -- the gradual loss of value in tools and equipment through normal use over time
-- **true cost accounting** -- calculating the complete cost of business operations including hidden expenses
+- **true cost accounting** -- calculating the complete cost of business work including hidden expenses
 - **bulk purchasing** -- buying larger quantities to reduce the per-unit price of supplies
 - **reserve fund** -- money deliberately set aside for anticipated future expenses

@@ -13,7 +13,7 @@
 ## THE BUSINESS PLAN
 
 ### Scene 1 (33 words)
-The friends met at the fort on Monday. "We need a name," said Riley. They suggested ideas. Benny liked "The Fix-It Four." Ellis said "Maplewood Makers." They voted. "Maplewood Makers" won. Everyone felt official.
+The friends met at the fort on Monday. "We need a name," said Riley. They suggested ideas. Benny liked "The Fix-It Four." Ellis said "Maplewood Makers." They voted. "Maplewood Makers" won. Everyone felt .
 
 ### Scene 2 (32 words)
 "Let's start selling!" said Benny. But Layla shook her head. "We need a plan first," she said. "What if we run out of money?" Riley thought about it. "Okay," she said. "Let's make a plan."

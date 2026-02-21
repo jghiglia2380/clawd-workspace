@@ -46,7 +46,7 @@ Mr. Mason spoke up about one more detail. "What happens to mugs that don't sell?
 "Can we write this down?" Layla asked. She pulled out her notebook. "If it's not written down, it's just a promise. Promises can be forgotten." Ellen looked impressed. "That's very professional," she said with respect. Mr. Mason agreed. "A written agreement protects both sides. Good business partners always put deals in writing."
 
 ### Scene 12 (52 words)
-Layla wrote the agreement on a clean page. She listed the products, the percentage split, and the thirty-day return rule. She wrote it in clear words anyone could understand. When she finished, Ellen read it over and nodded. Then Ellen signed it. All four kids signed it too. The deal was official.
+Layla wrote the agreement on a clean page. She listed the products, the percentage split, and the thirty-day return rule. She wrote it in clear words anyone could understand. When she finished, Ellen read it over and nodded. Then Ellen signed it. All four kids signed it too. The deal was .
 
 ### Scene 13 (53 words)
 Riley spent Monday choosing the best mugs for Ellen's cafe. She picked six of her favorites. Each one had a smooth glaze and a comfortable handle. "Cafe customers drink coffee," Riley said. "These handles need to feel right." She wrapped each mug carefully in cloth. These mugs represented their whole business.

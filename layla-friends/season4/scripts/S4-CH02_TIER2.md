@@ -13,7 +13,7 @@
 ## THE BUSINESS PLAN
 
 ### Scene 1 (53 words)
-The friends gathered at the fort on Monday morning to begin their partnership. "We need a name," said Riley excitedly. Everyone suggested ideas. Benny liked "The Fix-It Four." Riley wanted "Creative Corner." Ellis suggested "Maplewood Makers" because they made things in Maplewood. They voted and "Maplewood Makers" won. Everyone felt official now.
+The friends gathered at the fort on Monday morning to begin their partnership. "We need a name," said Riley excitedly. Everyone suggested ideas. Benny liked "The Fix-It Four." Riley wanted "Creative Corner." Ellis suggested "Maplewood Makers" because they made things in Maplewood. They voted and "Maplewood Makers" won. Everyone felt now.
 
 ### Scene 2 (52 words)
 "Let's start selling things today!" said Benny eagerly. Ellis nodded in agreement. But Layla shook her head firmly. "We need a plan first," she said seriously. Riley looked uncertain. "Why do we need a plan?" Layla explained about her journal sales failure. "We can't just start. What if we run out of money?" Riley nodded slowly.
@@ -67,7 +67,7 @@ Layla suggested creating a money jar system for tracking. They found three clear
 Ellis created the pricing sheet on a large poster board. He made columns: Product, Materials Cost, Time, Price, Profit. He filled in their main products. Shelf: six dollars materials, two hours, fifteen dollars price, nine dollars profit. Mug: two dollars materials, one hour, eight dollars price, six dollars profit. Everything was organized and clear now.
 
 ### Scene 19 (53 words)
-They returned to Mr. Mason's workshop to show him their completed plan. He studied their pricing sheet, roles chart, and order forms carefully. "This is excellent work," he said with genuine pride. "You've got a real plan now. Execute it carefully and track everything you do." Ellis felt proud of the system they had created together.
+They returned to Mr. Mason's workshop to show him their completed plan. He studied their pricing sheet, roles chart, and order forms carefully. "This is excellent work," he said with genuine pride. "You've got a real plan now. Do it carefully and track everything you do." Ellis felt proud of the system they had created together.
 
 ### Scene 20 (52 words)
 That evening, Layla checked the map in her room. The four separate dots had merged into one bright dot at the fort. Thin lines extended toward Mr. Mason's workshop and Frances's garden. The connections were forming. The map seemed to pulse with energy and anticipation. They were ready to begin. Tomorrow, real business would start.
