@@ -1,79 +1,92 @@
 # CHAPTER 2: THE BUSINESS PLAN - TIER 1 (K-1ST GRADE)
 
-**Reading Levels:** A-I
+**Reading Levels:** D
 **Target Narration Speed:** 75 WPM
-**Target Word Count:** 650 words
-**Episode Duration:** ~9 minutes
-**Character Focus:** Ellis — planning
-**FL Integration:** Helping friends, working together, planning
-**Setting:** Fort, Mr. Mason's workshop, garden
+**Target Word Count:** 600 words
+**Episode Duration:** ~8 minutes
+**Character Focus:** Ellis (spotlight)
+**FL Integration:** Strong (business planning, costs, PRICE - COST = PROFIT)
+**Setting:** Fort, Mr. Mason's workshop, Frances's garden
 
 ---
 
 ## THE BUSINESS PLAN
 
-### Scene 1 (33 words)
-The friends met at the fort on Monday. "We need a name," said Riley. They suggested ideas. Benny liked "The Fix-It Four." Ellis said "Maplewood Makers." They voted. "Maplewood Makers" won. Everyone felt official.
+### Scene 1 (30 words)
+The friends needed a name for their team. Benny said "Benny's Bunch." Riley said "Art Kids." Ellis said "Maplewood Makers." They voted. Maplewood Makers won! Everyone clapped.
 
-### Scene 2 (32 words)
-"Let's start selling!" said Benny. But Layla shook her head. "We need a plan first," she said. "What if we run out of money?" Riley thought about it. "Okay," she said. "Let's make a plan."
+### Scene 2 (30 words)
+"Let's go sell stuff!" said Benny. But Layla shook her head. "We need a plan first," she said. "Last time was a mess." Riley agreed with Layla. They needed to think first.
 
-### Scene 3 (33 words)
-They walked to Mr. Mason's workshop. The workshop smelled like sawdust. Mr. Mason smiled at them. "We want to start a business," Ellis said. Mr. Mason asked, "What will it cost to make things?"
+### Scene 3 (30 words)
+They went to see Mr. Mason at his workshop. They told him about their team. He smiled. "Good idea," he said. "But what will it cost you to make things?"
 
-### Scene 4 (32 words)
-Mr. Mason showed them his book of numbers. "Every piece of wood costs money," he explained. "Every hour has value." He showed them what he paid and what he charged. The friends studied the numbers.
+### Scene 4 (30 words)
+Mr. Mason showed them a big book. "This is my ledger," he said. "I write down what I spend." Ellis liked the neat rows. "You keep track of everything!" he said.
 
-### Scene 5 (33 words)
-Mr. Mason wrote on paper: PRICE - COST = PROFIT. "This is very important," he said. "If you charge ten dollars and it cost four dollars, your profit is six dollars." They practiced with examples.
+### Scene 5 (30 words)
+Mr. Mason wrote on a paper. PRICE minus COST equals PROFIT. "The price is what they pay. The cost is what you spend. The profit is what you keep."
 
-### Scene 6 (32 words)
-"What happens when things go wrong?" Mr. Mason asked. He told them about a broken tool. "That's why you need emergency money," he said. "Save some for problems." Ellis wrote this down.
+### Scene 6 (30 words)
+Mr. Mason told them a story. His saw broke one time. He had to buy a new one fast. "Save extra money for when things break," he told them.
 
-### Scene 7 (33 words)
-Back at the fort, they listed what they could make. Ellis could build shelves. Riley could make pottery. Layla could make journals. Benny could help and deliver. They wrote everything down on big paper.
+### Scene 7 (30 words)
+Back at the fort, Ellis got his notebook. "What can we make?" he asked. Riley said mugs. Ellis said shelves. Layla said journals. Benny said deliveries. Ellis wrote it all down.
 
-### Scene 8 (32 words)
-"What does a shelf cost?" Ellis asked. He listed materials. Wood cost four dollars. Screws cost one dollar. Sandpaper and stain cost one dollar. "Six dollars total," he said. "What should we charge?"
+### Scene 8 (30 words)
+Ellis did the math for a shelf. Wood cost four dollars. Screws cost one dollar. Other stuff cost one dollar. "Six dollars to make one shelf," he said.
 
-### Scene 9 (33 words)
-"Eight dollars," said Benny. "Twelve dollars," said Layla. "Fifteen dollars," said Ellis. They talked about what was fair. They talked about their time working. Finally they agreed on fifteen dollars for a shelf.
+### Scene 9 (30 words)
+"How much should we charge?" asked Ellis. Benny said eight dollars. Layla said twelve. Ellis said fifteen. They talked about it. Fifteen dollars was fair because their time mattered too.
 
-### Scene 10 (32 words)
-They visited Frances in her garden. She was picking vegetables. "We're planning our business," Layla said. Frances smiled. "Who are your customers?" she asked. "Who needs what you make?" The friends looked at each other.
+### Scene 10 (30 words)
+They stopped at Frances's garden on the way home. Frances asked, "Who will buy your things?" The friends had not thought about that yet. It was a good question.
 
-### Scene 11 (33 words)
-They sat on the bench and talked. "Maybe kids?" said Benny. "Maybe adults who need repairs?" said Ellis. "People who want art?" said Riley. "Anyone who needs something made or fixed," said Layla. Everyone agreed.
+### Scene 11 (30 words)
+On the walk back, they talked about who their customers would be. "People who need things fixed," said Ellis. "People who want art," said Riley. Layla wrote it down.
 
-### Scene 12 (32 words)
-"We need roles," Layla said at the fort. "Everyone should do what they're good at." Layla was organized. Ellis was good at building. Riley was creative. Benny loved talking to people and delivering things.
+### Scene 12 (30 words)
+They picked jobs for the team. Layla would keep track of money. Ellis would build things. Riley would make art. Benny would talk to customers. Everyone had a job.
 
-### Scene 13 (33 words)
-Ellis made a chart with four columns. Under each name he wrote their jobs. Layla: Manager and planning. Ellis: Building and repairs. Riley: Pottery and design. Benny: Sales and delivery. They hung it on the wall.
+### Scene 13 (30 words)
+Riley drew a chart on big paper. She wrote their names across the top. Under each name she wrote their job. They hung the chart on the wall.
 
-### Scene 14 (32 words)
-"We need to figure out how much money we need," Ellis said. They needed clay, wood, tools, and paper. Ellis added it all up. "Sixty dollars," he said. They checked their savings. They had just enough money.
+### Scene 14 (30 words)
+Ellis added up all the things they needed to buy. Wood, clay, paint, and more. The total was sixty dollars. "We need sixty dollars to start," he said.
 
-### Scene 15 (33 words)
-They put their money together. Riley had fifteen dollars. Ellis had eighteen dollars. Layla had twelve dollars. Benny had fifteen dollars. They counted twice. Exactly sixty dollars. It felt big to combine all their money together.
+### Scene 15 (30 words)
+They put their money together. They had fifty-eight dollars from last week. Everyone added a little more. Now they had sixty dollars. Just enough to start their business!
 
-### Scene 16 (32 words)
-Layla made a money jar system. She found three jars and made labels: COSTS, PROFIT, RESERVE. They put fifty dollars in COSTS. Ten dollars went in RESERVE. The PROFIT jar was empty. Not yet.
+### Scene 16 (30 words)
+Layla brought three jars the next day. She put a label on each one. COSTS. PROFIT. RESERVE. They put fifty dollars in COSTS and ten dollars in RESERVE.
 
-### Scene 17 (33 words)
-"We need an order form," Layla said. She made a simple paper. It had spaces for name, item, price, and deadline. "This way we won't forget or mix up orders," she said. Benny nodded. He remembered his mistakes.
+### Scene 17 (30 words)
+Layla made a form for orders. It had the customer name and what they wanted. It had the price and the date. "Now we will not forget," she said.
 
-### Scene 18 (32 words)
-Ellis made a pricing sheet. He wrote: Product, Cost, Time, Price, Profit. He filled in their products. Shelf: six dollars, two hours, fifteen dollars, nine dollars profit. Everything was clear and organized now.
+### Scene 18 (30 words)
+Ellis wrote down each thing they could make and how much it would cost. He wrote the price too. The last part showed profit. Ellis smiled at the numbers.
 
-### Scene 19 (33 words)
-They showed Mr. Mason their plan. He looked at their pricing sheet and charts. "This is excellent," he said proudly. "You have a real plan. Now do it carefully and track everything." Ellis felt very proud.
+### Scene 19 (30 words)
+Mr. Mason came to see their work. He looked at the chart, the jars, and the pricing page. He nodded. "Good plan," he said. "Now do the work."
 
-### Scene 20 (32 words)
-That night, Layla looked at the map. The four dots had become one bright dot. Lines reached to Mr. Mason and Frances. The map seemed to glow. They were ready. Tomorrow they would start for real.
+### Scene 20 (30 words)
+The friends looked at everything they made. The chart was on the wall. The jars were on the shelf. They were ready. "Let's do this!" said Benny.
 
 ---
 
-**Total Word Count: 651 words** ✅
+**Total Word Count: ~600 words**
 
-**Estimated MSL:** ~5.4 words ✅ (Target: 4-6)
+---
+
+## FL VOCABULARY INTRODUCED
+
+1. **cost** (Scenes 5, 8) — How much money you spend to make something
+2. **profit** (Scene 5) — Money you keep after paying for what you spent
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 75 (slow, clear, expressive)
+- **Pause:** 2.5 seconds between sentences
+- **Tone:** Warm, simple, Ellis excited about numbers

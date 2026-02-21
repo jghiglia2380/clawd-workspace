@@ -1,99 +1,96 @@
 # CHAPTER 2: THE BUSINESS PLAN - TIER 4 (4TH GRADE)
 
-**Reading Levels:** P-S
+**Reading Levels:** O-P
 **Target Narration Speed:** 146 WPM
-**Target Word Count:** 2,000 words
-**Episode Duration:** ~14 minutes
-**Character Focus:** Ellis — analytical thinking and organizational leadership emerge
-**FL Integration:** Strong (business planning, pricing strategy, profit margins, capital allocation)
-**Setting:** Secret fort, Mr. Mason's workshop, Frances's garden
-**Season Goal:** Establishing foundational business knowledge through mentorship
+**Target Word Count:** 1,170 words
+**Episode Duration:** ~8 minutes
+**Character Focus:** Ellis (spotlight)
+**FL Integration:** Strong (business planning, startup costs, PRICE - COST = PROFIT, profit margins, emergency reserves)
+**Setting:** Fort, Mr. Mason's workshop, Frances's garden
 
 ---
 
 ## THE BUSINESS PLAN
 
-### Scene 1 (105 words)
-The friends gathered at the fort on Monday morning to formally begin their partnership, feeling a mixture of excitement about the possibilities and nervousness about the responsibility of working together toward shared goals. "We need an official name for our business," said Riley while bouncing with barely contained excitement about this important first step. Everyone suggested ideas enthusiastically, each proposal reflecting different aspects of what they hoped to accomplish. Benny liked "The Fix-It Four" because it rhymed pleasantly and emphasized repairs. Riley wanted "Creative Corner" because it sounded artistic and welcoming. Ellis suggested "Maplewood Makers" because it accurately described what they did—making things—and where they operated—Maplewood. They voted democratically and "Maplewood Makers" won by a clear majority. Everyone felt official and professional now, ready to operate as a legitimate business entity.
+### Scene 1 (58 words)
+The friends gathered at the fort on Sunday morning, ready to turn their team idea into a working business. First order of business: picking a name. Benny lobbied hard for "Benny's Bunch," which drew groans from everyone. Riley offered "Art Kids." Then Ellis suggested "Maplewood Makers," since they all lived on Maplewood Lane and all built things with their hands. The vote was unanimous.
 
-### Scene 2 (103 words)
-"Let's start selling things today!" said Benny eagerly, already imagining an enthusiastic line of customers waiting to purchase their products. Ellis nodded in immediate agreement, ready to begin the actual work of entrepreneurship without delay. But Layla shook her head firmly, her expression serious as she remembered the painful lessons from her journal sales failure in Chapter 1. "We need a comprehensive plan first," she said with conviction born from experience. Riley looked uncertain about the delay, wanting to create immediately. "Why do we need a plan when we could just start?" Layla explained in detail about her disappointing sales experience, when she sat for hours without results. "We can't just start selling randomly without preparation. What if we run out of money halfway through a project?" Riley nodded slowly, beginning to understand the wisdom of careful planning before action.
+### Scene 2 (58 words)
+Benny was on his feet before the name was even written down. "Let's go knock on doors and find customers!" he said. But Layla raised her hand to slow him down. "We need a real plan first," she said, her voice steady and sure. "We tried winging it last time, and we earned less than two dollars an hour."
 
-### Scene 3 (110 words)
-They walked to Mr. Mason's workshop to ask for guidance in their business planning, hoping his years of carpentry experience could illuminate the path forward. The workshop smelled like fresh sawdust and machine oil, familiar scents that created a sense of craftsmanship and serious work. Mr. Mason looked up from his workbench with a warm, welcoming smile, his wire-rimmed glasses reflecting the afternoon light streaming through the windows. "We want to start a business together as equal partners," Ellis explained with unmistakable pride in his voice. Mr. Mason set down his tools deliberately and gave them his complete, undivided attention, recognizing the significance of their request. "That's wonderful to hear from young entrepreneurs," he said kindly. "But tell me something important—what will it cost you in actual money to make these things you want to sell to customers?"
+### Scene 3 (58 words)
+They walked together to Mr. Mason's workshop, where the familiar scent of sawdust and wood stain met them at the open door. Mr. Mason was sanding a cabinet when they explained their plan to operate as a team called Maplewood Makers. He set down his sandpaper and listened with quiet attention. "What does it cost you to make these things?" he asked.
 
-### Scene 4 (105 words)
-Mr. Mason opened his workshop ledger, a thick book filled with years of meticulous financial records, and showed them pages covered with careful numbers written in his distinctive handwriting. "Every single piece of wood has a cost that I must account for in my pricing," he explained while pointing to detailed entries that tracked purchases over months. "Every hour of work has tangible value that deserves fair compensation." He showed them what he paid wholesale suppliers for materials like lumber, hardware, and finishing supplies. He showed them what he charged customers for finished projects like custom shelves and repaired furniture. The friends studied the numbers with growing understanding and appreciation, beginning to see how real businesses tracked money systematically to ensure profitability rather than relying on guesswork or intuition.
+### Scene 4 (58 words)
+Mr. Mason reached above his workbench and pulled down a thick leather-bound book. "This is my ledger," he said, opening it to a page covered in precise columns. "Every board of lumber, every can of stain, every handful of screws — it all gets recorded here." Ellis studied the organized rows of numbers, his eyes brightening with recognition. "You track every single expense."
 
-### Scene 5 (108 words)
-Mr. Mason wrote on a piece of paper in large, clear letters that everyone could read easily: PRICE - COST = PROFIT. "This is the single most important formula in business," he said with particular emphasis, his tone indicating this was foundational knowledge they needed to internalize. "If you charge a customer ten dollars for a finished product and it cost you four dollars in materials and supplies to make, your profit—the money you actually keep—is six dollars." They practiced with different examples, testing various combinations of prices and costs until everyone understood the formula clearly and could calculate profit margins independently without help or prompting. Ellis appreciated the mathematical precision, while Benny struggled slightly with the arithmetic but eventually grasped the concept through repeated practice.
+### Scene 5 (58 words)
+Mr. Mason picked up a carpenter's pencil and wrote in large, clear letters: PRICE minus COST equals PROFIT. "The price is what your customer agrees to pay," he explained. "The cost is everything you spent to make the product. The profit is whatever remains after you subtract one from the other. That is the money your business actually earns."
 
-### Scene 6 (106 words)
-"But what happens when things go wrong unexpectedly?" Mr. Mason asked with a thoughtful, serious expression that suggested he was drawing on difficult personal experience. He told them a detailed story about a broken saw blade that stopped his work one winter, leaving him unable to complete projects. He couldn't finish two important jobs on schedule, disappointing loyal customers who had trusted him with deadlines. "That's why you need an emergency fund set aside separately," he explained with emphasis. "Save some portion of your profits for problems you don't expect to happen but inevitably will." Ellis wrote this crucial advice down in his organized notebook with careful attention, recognizing its fundamental importance and mentally calculating what percentage of their earnings should go toward this protective reserve.
+### Scene 6 (58 words)
+Then Mr. Mason shared the story of a winter afternoon when his best saw snapped in half during a large commission. He needed a replacement immediately, and the emergency purchase consumed the profit from two separate projects. "Surprises will happen," he warned them. "The businesses that survive are the ones that have set money aside before the surprise arrives."
 
-### Scene 7 (109 words)
-Back at the fort, they began the systematic process of listing products they could realistically make and sell to customers in their community. Ellis could build sturdy shelves and fix broken furniture with skill developed from helping his carpenter father. Riley could make beautiful pottery mugs and decorative bowls using techniques learned during her valley apprenticeship. Layla could create handmade journals and decorated storage boxes that showcased her artistic sensibility. Benny could help everyone with various tasks and deliver finished products to customers, leveraging his natural enthusiasm and community connections. They wrote everything down on a large piece of paper, creating a comprehensive product catalog to guide their manufacturing decisions and help them remember their diverse capabilities when responding to customer requests.
+### Scene 7 (58 words)
+Back at the fort, Ellis cracked open his notebook to a fresh page, his pencil already moving. "We need a full product list before we do anything else," he said with energy that the others had rarely seen from him. Riley named pottery and mugs. Ellis added shelves and repairs. Layla said journals. Benny contributed deliveries. The list took shape quickly.
 
-### Scene 8 (105 words)
-"Let's figure out exactly what a shelf costs to make," Ellis suggested while pulling out his calculator, ready to perform precise mathematical analysis of their first product. He listed all materials needed for proper construction of a basic wall-mounted shelf. Wood cost four dollars at the lumber yard on Maple Street. Screws cost one dollar at the hardware store downtown. Sandpaper cost fifty cents for the grade needed for smooth finishing. Wood stain cost fifty cents for the small amount required. "That's six dollars total in direct materials," he announced with satisfaction at the precision. "Now we need to decide what price to charge customers for our work and expertise, factoring in not just materials but also our time investment."
+### Scene 8 (58 words)
+Ellis selected the wooden shelf as their first pricing exercise. He wrote each material cost on its own line, reading them aloud as he went. "Lumber runs four dollars. A box of screws costs one dollar. Sandpaper is fifty cents. A can of stain is another fifty cents." He drew a careful line and totaled the column. "Six dollars in direct material costs."
 
-### Scene 9 (108 words)
-"We should charge eight dollars for a shelf," said Benny quickly, making an intuitive guess without much analytical thought or calculation. Layla shook her head in immediate disagreement with his low estimate. "That's only two dollars profit, which isn't nearly enough to justify our time and effort. We should charge twelve dollars instead to make the work worthwhile." Ellis thought carefully about the question, considering both material expenses and labor value with his characteristic analytical approach. "What about fifteen dollars? That covers our time spent working too, not just the raw materials we purchase." They discussed at length what felt fair to potential customers while also making the business worth their sustained effort and attention. Finally, after considerable debate, they agreed on fifteen dollars as a reasonable, defensible price point.
+### Scene 9 (58 words)
+The pricing discussion that followed was their first real debate as a business team. Benny proposed eight dollars because it seemed fair to customers. Layla pushed for twelve, arguing they deserved more than two dollars of profit on each item. Ellis crunched the numbers and advocated for fifteen, pointing out that their labor hours had value beyond just materials. They agreed on fifteen.
 
-### Scene 10 (106 words)
-They decided to visit Frances in her flourishing garden for additional wisdom about their business venture, knowing her years of experience growing and selling produce at the farmers' market could provide valuable perspective. She was picking ripe vegetables systematically when they arrived at her property behind the community center. "We're planning our business carefully before we start selling," Layla explained with excitement about their methodical progress and comprehensive preparation. Frances smiled warmly while placing red tomatoes in her woven basket with practiced efficiency. "That's wonderful, planning ahead before acting impulsively," she said approvingly. "But who are your customers exactly? Who in this community needs what you make?" The friends looked at each other with dawning realization, understanding they hadn't adequately considered this fundamental question about target market identification.
+### Scene 10 (58 words)
+On their walk home, they detoured through Frances's garden. She was tending a row of sunflowers that stretched well above their heads when they eagerly described Maplewood Makers. Frances listened with her hands resting on her garden gloves, then posed a question that caught them off guard. "Who are your customers? A garden flourishes when you understand what the soil can support."
 
-### Scene 11 (109 words)
-They sat on the weathered garden bench and discussed Frances's penetrating question with serious consideration, recognizing it revealed a gap in their planning. "Maybe kids who need toys or decorations for their rooms?" suggested Benny thoughtfully, thinking of his younger cousins. "Or adults who need repairs done on furniture or household items?" said Ellis, thinking of practical needs in the community. "People who want handmade art for their homes instead of mass-produced items?" added Riley hopefully, imagining customers who valued craftsmanship. They debated the question for several minutes, weighing different possibilities and considering the implications of focusing too narrowly on one customer segment. Finally Layla said with clarity, "Anyone who needs something made well or fixed properly." Everyone agreed that inclusive definition made the most strategic sense for their diverse skills and product offerings.
+### Scene 11 (58 words)
+Frances's question lingered as they walked back to the fort, each of them turning it over in their minds. "Homeowners who need repairs done," Ellis said after a long silence. "People who want something handmade that they cannot find in a store," Riley added thoughtfully. Layla pulled out her notebook and captured every idea, organizing them into a rough customer profile.
 
-### Scene 12 (105 words)
-"We need to assign specific, clearly defined roles," Layla said back at the fort, recognizing that organizational structure would prevent the confusion and overlap that had plagued their individual efforts in Chapter 1. "Everyone should do what they do best naturally, leveraging our individual strengths." They discussed each person's unique capabilities with refreshing honesty, avoiding false modesty or unrealistic self-assessment. Layla was organized and skilled at planning details systematically. Ellis was talented at building and fixing things with precision and patience. Riley was creative with pottery and artistic design, bringing aesthetic sensibility to their products. Benny loved talking to people and making deliveries around the neighborhood, his natural enthusiasm making him perfect for customer-facing roles. The natural division of labor was becoming crystal clear to everyone.
+### Scene 12 (58 words)
+Assigning roles turned out to be the simplest decision of the entire afternoon. Each person's natural strengths pointed clearly toward a specific position. Layla's organized thinking made her the obvious choice for manager and financial tracker. Ellis would lead construction and repairs. Riley would handle pottery, design, and all creative work. Benny's outgoing personality made him their natural salesperson and delivery coordinator.
 
-### Scene 13 (108 words)
-Ellis made a detailed roles chart on large paper with four clearly labeled columns, creating a visual reference they could consult when questions arose. Under Layla's name he wrote in careful letters: Manager, money tracker, business planning. Under his own name: Building, repairs, quality control. Under Riley's name: Pottery, design work, custom creations. Under Benny's name: Sales, delivery, customer contact. They hung it prominently on the fort wall where everyone could see it clearly and reference it when questions arose about who was responsible for what tasks, creating accountability for each distinct role. Ellis felt satisfaction seeing the organizational structure visualized so clearly, transforming their informal agreement into something concrete and official that would prevent future conflicts about responsibilities.
+### Scene 13 (58 words)
+Riley laid a large sheet of paper across the table and drew four columns with careful strokes of her marker. She wrote each person's name at the top and listed their responsibilities underneath in her neatest handwriting. When the chart was complete, she taped it to the wall right beside the door where everyone would see it when they walked in.
 
-### Scene 14 (106 words)
-"Now let's figure out exactly how much money we need to start," Ellis said while making a new, detailed list on fresh paper, determined to account for every expense. They needed clay for Riley's pottery creations, wood for Ellis's shelves and furniture, basic tools for construction and assembly, paper for Layla's journals, and various supplies like glue, paint, and finishing materials. Ellis added up every single item with mathematical precision, checking his arithmetic twice to avoid errors that could throw off their budget. "Sixty dollars total to start operations," he announced. Everyone checked their savings from allowances and Chapter 1 earnings with some anxiety. They had just enough money pooled together to begin, but no margin for error or unexpected expenses.
+### Scene 14 (58 words)
+Ellis then took on the job of calculating their total startup costs. He worked through every material they would need to begin operations: planks of wood, bags of pottery clay, bottles of acrylic paint, sheets of sandpaper, boxes of screws, and cans of wood stain. The numbers climbed steadily, and when he circled the final total, the room went quiet. Sixty dollars.
 
-### Scene 15 (109 words)
-They pooled their money together on the fort table, creating their initial capital through collective investment. Riley contributed fifteen dollars from her allowance savings accumulated over months. Ellis added eighteen dollars he'd earned from odd jobs around the neighborhood. Layla put in twelve dollars from her careful, disciplined savings habits. Benny added fifteen dollars he'd saved from birthday gifts and small jobs. They counted it twice to make sure, touching each bill carefully as if the physical handling made their commitment more real. Exactly sixty dollars total—their complete startup fund. "This is our official startup capital," Layla said with seriousness befitting the moment. Everyone felt the significant weight of combining their individual savings into one shared investment, understanding that success or failure would now be collective rather than individual.
+### Scene 15 (58 words)
+Layla reminded everyone that they still had fifty-eight dollars pooled from the previous week's solo efforts. That left a gap of only two dollars, which they covered by each contributing from their allowances. When every bill and coin had been counted and stacked on the table, the total reached exactly sixty dollars — enough to fund the launch of Maplewood Makers.
 
-### Scene 16 (105 words)
-Layla suggested creating a money jar system for tracking funds carefully and making their financial situation visually transparent to all partners. They found three clear glass jars at her house, containers that would make the money visible and the accounting concrete. She made neat labels on index cards using her best handwriting: COSTS, PROFIT, RESERVE. "Fifty dollars goes to the costs jar for buying materials and supplies," she explained while sorting the bills methodically into appropriate containers. "Ten dollars goes to the reserve jar for unexpected emergencies, following Mr. Mason's advice." The PROFIT jar stayed empty for now, waiting patiently for their first sales to generate actual earnings that they could distribute or reinvest.
+### Scene 16 (58 words)
+Layla arrived at the fort the next morning carrying three clear glass jars, each one carefully labeled in her neat handwriting: COSTS, PROFIT, and RESERVE. The friends counted the money together and divided it with purpose. Fifty dollars went into the costs jar to cover their initial material purchases. Ten dollars went into the reserve jar as their emergency fund.
 
-### Scene 17 (108 words)
-"We need an order system to stay organized and professional," Layla said with practical thinking informed by her own disorganized journal-selling experience. She designed a simple form on lined paper, creating a template they could copy for each customer. It had clear, labeled spaces for customer name, item requested with specifications, price agreed upon in advance, and deadline promised with specific dates. "This way we won't forget anything important or mix up different orders like Benny did last week with his errand money." Benny nodded sheepishly, remembering with acute embarrassment his confused money situation from Chapter 1 when he couldn't track who paid what amount for which specific errand, ultimately requiring him to use his own savings to correct his accounting errors.
+### Scene 17 (58 words)
+That afternoon, Layla unveiled the order form she had designed the night before. Each form contained blank fields for the customer's name, a description of the requested item, the agreed price, and the completion deadline. She stacked the forms beside the money jars. "Every job gets documented from start to finish," she said. Ellis nodded with approval. "No more lost payments."
 
-### Scene 18 (106 words)
-Ellis created the comprehensive pricing sheet on a large white poster board, organizing all their products systematically. He made clearly labeled columns with professional headers: Product, Materials Cost, Time Required, Price, Profit Margin. He carefully filled in their main products with detailed calculations based on their earlier costing work. Shelf: six dollars materials, two hours work, fifteen dollars price, nine dollars profit. Pottery mug: two dollars materials, one hour work, eight dollars price, six dollars profit. Everything was organized and crystal clear now, eliminating any possible confusion about what to charge customers or what profit to expect. The pricing sheet represented the transformation from their chaotic individual efforts in Chapter 1 to this systematic, well-planned business approach.
+### Scene 18 (58 words)
+Ellis completed the pricing sheet by creating a row for every product Maplewood Makers planned to offer. Each row listed the product name, the cost of raw materials, the estimated labor time, and the final selling price. The last column calculated the projected profit per unit. Ellis reviewed the finished sheet with visible satisfaction. "These margins could actually work," he said.
 
-### Scene 19 (109 words)
-They returned to Mr. Mason's workshop to show him their completed business plan with unmistakable pride in their comprehensive preparation. He studied their pricing sheet, roles chart, and order forms with careful attention, reading every detail with the same methodical approach he brought to his carpentry work. "This is excellent, professional work," he said with genuine pride evident in his voice and expression. "You've created a real, functioning business plan now, not just good intentions. Execute it carefully and systematically, and track everything you do with the same precision you used in planning." Ellis felt immense pride in the comprehensive system they had created together through collaborative effort, knowing the detailed planning would prevent the confusion, waste, and frustration they had all experienced working separately.
+### Scene 19 (58 words)
+Mr. Mason returned to the fort that afternoon, curious to see their progress. The friends walked him through every element — the pricing sheet mounted on the wall, the roles chart beside the door, and the three labeled jars lined up on the shelf. Mr. Mason examined each piece carefully, then looked at them and nodded. "Execute the plan. Track every dollar."
 
-### Scene 20 (105 words)
-That evening, Layla checked the map in her room with curiosity about any changes that might reflect their progress toward partnership. The four separate dots that had represented their individual efforts had merged into one bright, pulsing dot centered at the fort, symbolizing their unified business venture. Thin lines extended outward like delicate threads toward Mr. Mason's workshop, which glowed warmly, and Frances's garden, which showed a soft green luminescence. The network was just beginning to take shape, connections forming between their business and their mentors. The map seemed to pulse with energy and anticipation, as if it too recognized the significance of their preparation. They were ready to begin real business operations. Tomorrow, actual work would start.
-
----
-
-**Total Word Count: 2,146 words** ✅
-
-**Estimated MSL:** ~18.5 words ✅ (Target: 16-20)
-
-**Figurative Language Count:** 4 instances
-- "delicate threads" (metaphor for emerging connections)
-- "pulsing dot" (imagery for unified effort)
-- "soft green luminescence" (sensory imagery)
-- "like fresh sawdust and machine oil" (sensory comparison)
+### Scene 20 (58 words)
+After Mr. Mason left, the four friends stood together in the middle of the fort, surrounded by the framework of a real business. The pricing sheet mapped their revenue potential. The jars held their allocated capital. The roles chart assigned clear accountability. Layla reached for the map on the shelf, and its center glowed with a warm, steady pulse of light.
 
 ---
 
-## FL VOCABULARY
+**Total Word Count: ~1,160 words**
 
-- **business** — an organization that makes or sells products to earn money
-- **profit** — the money remaining after subtracting all costs from revenue
-- **cost** — the total amount paid for materials and resources to make something
-- **startup** — the beginning phase when launching a new business venture
-- **emergency fund** — money reserved specifically for unexpected problems or expenses
-- **capital** — money invested to start or grow a business
-- **revenue** — the total money earned from sales before subtracting costs
-- **margin** — the difference between cost and price, usually expressed as profit
+---
+
+## FL VOCABULARY INTRODUCED
+
+1. **cost / expense** (Scenes 3, 5, 8, 14) — Money spent to produce a product
+2. **price** (Scenes 5, 9, 17) — The amount a customer agrees to pay
+3. **profit / margins** (Scenes 5, 9, 18) — Revenue remaining after costs are subtracted
+4. **ledger** (Scene 4) — A formal record of all business transactions
+5. **startup cost** (Scene 14) — Initial capital required to launch a business
+6. **reserve / emergency fund** (Scenes 6, 16) — Money set aside for unexpected expenses
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 146 (comfortable pace with expression)
+- **Pause:** 1 second between sentences
+- **Tone:** Warm, literary narrator carries complexity; kids remain natural and age-appropriate
