@@ -1,89 +1,94 @@
 # CHAPTER 3: OPEN FOR BUSINESS - TIER 2 (2ND GRADE)
 
-**Reading Levels:** J-M
+**Reading Levels:** J
 **Target Narration Speed:** 112 WPM
-**Target Word Count:** 1,050 words
-**Episode Duration:** ~9 minutes
-**Character Focus:** Benny — discovering his sales gift
-**FL Integration:** Strong (revenue, profit, customer relationships)
+**Target Word Count:** 900 words
+**Episode Duration:** ~8 minutes
+**Character Focus:** Benny (spotlight)
+**FL Integration:** Strong (revenue, profit, tips, tracking, revenue concentration)
 **Setting:** Fort, neighborhood, customer homes
 
 ---
 
 ## OPEN FOR BUSINESS
 
-### Scene 1 (53 words)
-Monday morning, they opened for business. The fort felt different now with their pricing sheet and order board hanging on the wall. Benny checked the board eagerly. Four orders were ready to work on. "Let's get started!" he said with excitement. Layla reminded everyone to track their time and save receipts like Mr. Mason taught them. Real business was beginning.
+### Scene 1 (45 words)
+Monday morning, the friends met at the fort. Four order cards hung on the board that Layla had made. Green meant ready, yellow meant working on it. All four cards were in the yellow column. "We are a real business now," Benny said with a big grin.
 
-### Scene 2 (52 words)
-Their first big job was installing a shelf for Mrs. Torres. Ellis and Benny arrived at her house carrying tools and the wooden shelf Ellis had built. "This is exactly what I wanted," Mrs. Torres said happily when she saw it. Ellis measured carefully and installed it on the wall. The shelf was sturdy and level. Mrs. Torres was thrilled.
+### Scene 2 (45 words)
+Their first job was a shelf for Mrs. Torres. Ellis measured the wall while Riley held the other end of the tape. They worked carefully and did not rush. Mrs. Torres watched from her kitchen doorway. "Take your time," she said kindly. "I want it done right."
 
-### Scene 3 (53 words)
-"How much do I owe you?" Mrs. Torres asked when Ellis finished. "Fifteen dollars," Benny said confidently, remembering their pricing sheet. Mrs. Torres paid them with a smile. Walking home, Benny felt proud holding the money they'd earned. Their first real sale felt important. Ellis had done good work, and Mrs. Torres was happy. That's what business meant.
+### Scene 3 (45 words)
+The shelf looked great on the wall. Mrs. Torres stepped back and smiled. "That is exactly what I needed," she said. She handed Ellis fifteen dollars in cash. It was their very first payment as Maplewood Makers. They thanked her and walked out feeling proud.
 
-### Scene 4 (52 words)
-Back at the fort, they performed the money jar ceremony. Layla calculated the profit carefully. Materials had cost four dollars and fifty cents. "That means our profit is ten dollars and fifty cents," she announced. They moved the profit money into the PROFIT jar. It was the first time that jar had money in it. Everyone cheered.
+### Scene 4 (45 words)
+Back at the fort, they sat around the money jars. Ellis did the math out loud. "The shelf cost four dollars and fifty cents to make. We charged fifteen dollars." Layla moved the cost money to one jar and the profit to another. Ten dollars and fifty cents of profit!
 
-### Scene 5 (53 words)
-"Mrs. Torres told her sister about us!" Benny reported Tuesday morning with excitement. He had just gotten a call about fixing a gate on Elm Street. "See? That's how it works," Layla said wisely. "Good work brings more work because people tell their friends." Ellis nodded with understanding. Word of mouth was already helping their business grow.
+### Scene 5 (45 words)
+That afternoon, Benny went to Mr. Patel's house to try to sell him a birdhouse. "You really need a birdhouse," Benny said. "It would look great in your yard." Mr. Patel shook his head. "I don't need a birdhouse," he said. Benny walked away feeling bad.
 
-### Scene 6 (52 words)
-Ellis fixed the gate on Elm Street that afternoon. The customer watched him work with interest. "You're very skilled for someone your age," the man said with genuine admiration. When Ellis finished, the customer paid twenty dollars plus a five dollar tip. "You earned it with good work," the customer explained. Ellis had never received a tip before.
+### Scene 6 (45 words)
+Benny sat on the curb and thought about what went wrong. Then he walked to the fort and talked to Layla. "I was trying to make him want something," he said. "I should have asked what he needed." Layla nodded. "That is a better idea."
 
-### Scene 7 (53 words)
-"What do we do with tips?" Ellis asked back at the fort while showing the extra five dollars. They hadn't planned for tips in their system. Layla thought carefully. "Tips are extra money for good work, so they should go straight to profit," she decided. Everyone agreed that made sense. They added it to the PROFIT jar happily.
+### Scene 7 (45 words)
+On Tuesday, Ellis went to Elm Street to fix a broken gate. The latch had come loose and the gate would not close. Ellis looked at it, found the problem, and fixed it in thirty minutes. The customer was happy to have a working gate again.
 
-### Scene 8 (52 words)
-Riley finished the custom mug set Wednesday morning. Six matching mugs in beautiful blue glaze. She had worked hard to make them perfect. "These are my best work yet," she said with quiet pride while examining each one carefully. Benny would deliver them that afternoon. The customer had ordered them two weeks ago and paid forty-eight dollars in advance.
+### Scene 8 (45 words)
+The customer handed Ellis twenty dollars, which was the price they agreed on. Then she pulled out five more dollars. "You saved me from calling a repair service," she said. "Keep the extra." It was their first tip! Ellis ran back to the fort to share the good news.
 
-### Scene 9 (53 words)
-Benny carried the mug set carefully to the customer's house in a padded box. The woman opened the package and gasped with delight. "These are absolutely beautiful!" she exclaimed happily while holding each mug up to the light. "Thank you so much." Benny felt warm seeing her genuine joy. Making customers happy felt as good as earning money.
+### Scene 9 (45 words)
+Benny tried again on Wednesday, but this time he did things differently. He knocked on a door and said, "Hi, I'm from Maplewood Makers. Is there anything around your house that needs fixing or making?" The woman thought for a moment. "My mailbox post is wobbly," she said.
 
-### Scene 10 (52 words)
-Thursday brought three small jobs. Ellis repaired a wobbly chair for eight dollars. Riley made two small bowls for six dollars each. Benny delivered some packages for neighbors and earned four dollars. "Lots of little jobs add up," Layla observed while writing everything in her tracking notebook. The business was staying busy with work constantly coming in.
+### Scene 10 (45 words)
+By Wednesday evening, they had finished three jobs and had two more in progress. The money jars were starting to fill up. Layla counted the money carefully and wrote the numbers in her notebook. "We are doing better than I thought we would," she said happily.
 
-### Scene 11 (53 words)
-Friday afternoon, a nervous customer visited the fort. "I need help but I don't have much money," she admitted quietly. Benny listened carefully to her problem. She needed a small repair done. "We can do it for five dollars," Benny offered after thinking. The woman looked relieved and grateful. Sometimes helping people mattered more than big profits.
+### Scene 11 (45 words)
+A woman came to the fort on Thursday morning with a special request. She wanted six matching mugs for her sister's birthday gift. Riley's eyes grew wide. "I can do that," she said. They agreed on a price of forty-eight dollars for all six mugs.
 
-### Scene 12 (52 words)
-Saturday morning, they counted their week's earnings together. Layla had tracked every dollar in her notebook with careful detail. "Let's add it all up," she said seriously while pulling out paper. They listed each job and its payment. Mrs. Torres's shelf, the gate repair with tip, the mug set, and all the smaller jobs. The total was impressive.
+### Scene 12 (45 words)
+Riley worked on the mugs all Thursday afternoon and into Friday. She used the same glaze on every mug so they would all match. She checked each one against the others. "They have to look like a set," she told herself, turning each mug slowly in her hands.
 
-### Scene 13 (53 words)
-"Ninety-three dollars total!" Layla announced after adding carefully. Everyone cheered at the big number. But then Layla got serious. "Now we subtract costs for materials," she explained. They had spent twenty-two dollars on wood, clay, and supplies throughout the week. "That means our profit is seventy-one dollars," she calculated. The PROFIT jar was growing nicely.
+### Scene 13 (45 words)
+The woman came to pick up the mugs on Friday afternoon. She opened the box and looked inside. "Oh, these are beautiful!" she said. She paid the forty-eight dollars right away. It was their biggest single payment yet. Riley could not stop smiling the rest of the day.
 
-### Scene 14 (52 words)
-They celebrated their success with snacks in the fort. Seventy-one dollars felt like a fortune. "We're really good at this!" Benny said with pride and happiness. Ellis agreed while looking at their money jars. Riley smiled at their accomplishment. They had worked hard all week. Every job had been done well. Customers were happy. The business was working.
+### Scene 14 (45 words)
+Thursday evening, the friends gathered to count how much money had come in during the week so far. Layla added up the numbers from her notebook. "We have over eighty dollars in revenue," she said. The word sounded big and important. They looked at each other with excitement.
 
-### Scene 15 (53 words)
-But Layla was studying her notebook with a worried expression. "I see something," she said slowly while checking her numbers again. Everyone stopped celebrating and looked at her with concern. "The shelf and the mug set together were sixty-three dollars," she explained. "That's most of our money from just two jobs." Her voice sounded troubled.
+### Scene 15 (45 words)
+Smaller jobs kept coming in too. Ellis fixed a squeaky door hinge. Benny delivered a repaired shelf to a neighbor two streets over. Layla even sold one of her journals, which surprised her. Every job added a little more money to the jars, and the total kept growing.
 
-### Scene 16 (52 words)
-"Why is that bad?" Benny asked with confusion. Big jobs seemed good to him. Layla tried to explain her concern. "What if next week we don't get any big jobs?" she asked seriously. "What if we only get small jobs that pay five or eight dollars?" The business needed big customers to make good profit regularly.
+### Scene 16 (45 words)
+Saturday morning, they sat at the fort for their first weekly wrap-up. Layla pulled out a fresh piece of paper and drew three columns. She labeled them REVENUE, COSTS, and PROFIT. "Time to see how we did," she said. Everyone leaned forward to watch her write the numbers.
 
-### Scene 17 (53 words)
-Ellis understood Layla's point. "It's like only having one friend," he said thoughtfully. "If that friend moves away, you're alone." Layla nodded with approval. "Exactly! We need more big customers, not just one or two," she explained with emphasis. Riley looked concerned now too. Depending on big orders felt risky when she thought about it carefully.
+### Scene 17 (45 words)
+Layla wrote the final revenue number on the paper. Ninety-three dollars. The friends looked at the number and then at each other. "Ninety-three dollars in one week!" Benny shouted. They all high-fived across the table. It was more than they had expected for their very first week.
 
-### Scene 18 (52 words)
-"So what should we do?" Riley asked, wanting to solve the problem. Benny thought hard. "Maybe we should tell more people about Maplewood Makers?" he suggested hopefully. "Get more customers who might order big things?" Layla wrote that down. "Good idea. More customers means less risk," she agreed. They needed to spread the word further.
+### Scene 18 (45 words)
+Then Layla subtracted the cost of all the materials they used. Wood, screws, clay, glaze, and stain added up to twenty-two dollars. She wrote the answer next to the word PROFIT. Seventy-one dollars. They stared at the number. Seventy-one dollars of real profit from one week of work.
 
-### Scene 19 (53 words)
-"But seventy-one dollars is still great!" Benny insisted, not wanting to lose their happy feeling completely. Layla smiled and agreed. "You're right. We should celebrate what we did well this week," she admitted. Ellis raised his juice box. "To our first week!" he said. They all clinked their drinks together. The celebration felt good despite the small worry.
+### Scene 19 (45 words)
+But Layla had a worried look on her face. She pointed at the numbers. "The gate job and the mugs gave us most of our money," she said. "That is sixty percent from just two jobs. What if we do not get big orders like that next week?"
 
-### Scene 20 (52 words)
-That night, Layla checked the map in her room. Six golden lines extended from the fort to customer houses around the neighborhood. Each line glowed warmly where they had done good work. The network was small but growing. Mrs. Torres's line was brightest because she had told her sister. Word was spreading slowly but surely through the community.
-
----
-
-**Total Word Count: 1,053 words** ✅
-
-**Estimated MSL:** ~8.8 words ✅ (Target: 7-10)
+### Scene 20 (45 words)
+The friends sat quietly for a moment and thought about what Layla said. Then they looked at the map on the wall. Golden lines now stretched from the fort to several homes across the neighborhood. But large parts of the map were still dark. There was more work to do.
 
 ---
 
-## FL VOCABULARY
+**Total Word Count: ~900 words**
 
-- **revenue** — the total money earned from customers before subtracting costs
-- **profit** — the money left over after paying for materials and supplies
-- **customer** — a person who pays for products or services
-- **tip** — extra money given for especially good work
-- **word of mouth** — when satisfied customers tell others about your business
+---
+
+## FL VOCABULARY INTRODUCED
+
+1. **revenue** (Scenes 14, 16, 17) — All the money that comes in from sales
+2. **profit** (Scenes 4, 18) — Money left after paying for materials and costs
+3. **tip** (Scene 8) — Extra money a happy customer gives beyond the price
+4. **cost** (Scenes 4, 18) — Money spent on materials to make things
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 112 (moderate pace)
+- **Pause:** 1.5 seconds between sentences
+- **Tone:** Energetic, builds excitement through the week, ends with thoughtful concern
