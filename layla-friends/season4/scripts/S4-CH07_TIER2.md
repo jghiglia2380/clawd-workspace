@@ -1,89 +1,94 @@
 # CHAPTER 7: THE BIG MISTAKE - TIER 2 (2ND GRADE)
 
-**Reading Levels:** J-M
+**Reading Levels:** J
 **Target Narration Speed:** 112 WPM
-**Target Word Count:** 1,050 words
-**Episode Duration:** ~9 minutes
+**Target Word Count:** 900 words
+**Episode Duration:** ~8 minutes
 **Character Focus:** Benny (spotlight)
-**FL Integration:** Medium (capacity limits, overcommitting, rushing costs, profit per hour)
-**Setting:** Secret fort and neighborhood
+**FL Integration:** Medium (capacity limits, overcommitting, profit per hour, demand management)
+**Setting:** Fort, neighborhood, customer homes
 
 ---
 
 ## THE BIG MISTAKE
 
-### Scene 1 (52 words)
-Monday morning started calm. Layla's order board showed four yellow cards, one for each job they were working on. "Good week ahead," said Ellis, checking his tools. Riley was sketching a platter design for Mrs. Davis. Benny straightened his scarf and headed out to talk to neighbors. Everything felt normal and manageable.
+### Scene 1 (45 words)
+Monday morning started like a normal week. The order board showed four jobs in progress. Layla checked the money jars and wrote the numbers in her notebook. "This is a good pace," she said. Everyone felt calm and ready. They had no idea what was coming.
 
-### Scene 2 (53 words)
-Benny ran into Mrs. Garcia at the mailbox. "My kitchen shelves are wobbly," she said. "Can you fix them?" Benny grinned. "We can do two new shelves by Friday!" Mrs. Garcia smiled wide. Benny loved making people happy. He didn't check the board first. He didn't ask the team. He just said yes.
+### Scene 2 (45 words)
+That afternoon, Benny ran into Mrs. Garcia at the park. She needed two new shelves for her hallway by Friday. Benny grinned. "We can do that!" he said. He did not check with the team first. He just wanted to help and did not think twice about it.
 
-### Scene 3 (52 words)
-Tuesday morning before school, Benny talked to three more neighbors. Mr. Rodriguez wanted a birdhouse. Mrs. Kim needed a garden box. Mr. Torres asked for a small bench. Benny promised each one they could finish by the weekend. Three more orders in one morning. His teammates had no idea what was coming.
+### Scene 3 (45 words)
+Tuesday morning, Benny talked to three more neighbors at school drop-off. Each one needed something made or fixed. Benny said yes to all of them. He wrote orders on scraps of paper and stuffed them in his pocket. He felt proud for bringing in so much work.
 
-### Scene 4 (53 words)
-Wednesday afternoon, Benny walked into the fort looking proud. "Great news!" he announced. "I got us seven new orders this week!" He waited for cheers. Instead, the room went silent. Layla stared at the board. Riley put down her pencil. Ellis stopped sharpening his chisel. "Seven?" Layla said quietly. "On top of our four?"
+### Scene 4 (45 words)
+At the Wednesday meeting, Benny pulled out the scraps and read the names out loud. Seven new orders on top of the four they already had. Eleven total. The smiles disappeared from every face in the room except his. "We can not do eleven," said Layla.
 
-### Scene 5 (52 words)
-Layla grabbed her notebook and started counting. "Four current orders plus seven new ones equals eleven." She tapped her pencil on the table. "We can handle about six orders in a week. Eleven is almost double that." She looked at Benny. "We can't do all of this." Benny's smile disappeared.
+### Scene 5 (45 words)
+Layla pointed at the order board. "We can handle about six orders in a week," she said. "You promised eleven. That is almost double what we can do." Benny's smile faded. He had not thought about the numbers. He had just wanted everyone to be happy.
 
-### Scene 6 (53 words)
-"But I already promised everyone," Benny said. His voice got small. "Mrs. Garcia is counting on those shelves. Mr. Rodriguez told his wife about the birdhouse." He looked around at his friends. "I can't go back and say no now. That would make us look bad." Nobody knew what to say.
+### Scene 6 (45 words)
+"But I already told them yes!" Benny said, looking panicked. "I can not go back and say no now. They are counting on us." The room went quiet. Ellis crossed his arms. Nobody wanted to break a promise, but nobody knew how to keep all of them.
 
-### Scene 7 (52 words)
-Ellis rubbed his forehead. "He's right about one thing. If we break promises, people won't trust us." Layla nodded slowly. "So we have to try. But this is going to be really hard." Riley looked at her platter sketch for Mrs. Davis. She needed eight hours for that piece. She wouldn't get them.
+### Scene 7 (45 words)
+They decided to try. Canceling would hurt their reputation, and they could not do that. So they would work extra hours and move as fast as they could. "It is going to be a long week," Ellis said. He did not know how right he was.
 
-### Scene 8 (53 words)
-Thursday became a blur. Ellis started cutting wood at sunrise. Riley threw clay on her wheel before breakfast. Layla tracked orders so fast her handwriting got messy. Benny ran deliveries between jobs. Nobody stopped for lunch. Nobody laughed or joked. The fort that usually felt fun now felt like a factory running too hot.
+### Scene 8 (45 words)
+Thursday and Friday became a blur of sawing, painting, and firing clay. The fort was loud and messy. Sawdust covered the floor and wet glaze dripped from the workbench. Nobody took a real break. They ate sandwiches while working and kept going until the sun went down.
 
-### Scene 9 (52 words)
-Riley stared at Mrs. Davis's platter Friday morning. She had only three hours left before pickup. This design needed eight hours to do right. She rushed the edges. She skipped the detail work she loved. When she finished, she held it up. It was fine. Just fine. Not her best. Not even close.
+### Scene 9 (45 words)
+Riley had a platter to make for Mrs. Davis. She usually spent eight hours on a piece like that. This time she only had three. The platter came out fine but not great. "It is okay," Riley said quietly. But her face said she was not proud of it.
 
-### Scene 10 (53 words)
-Ellis was building shelves and a birdhouse at the same time. He measured a board, got distracted by another order, and cut it two inches too short. "No!" he groaned. The wood was ruined. He had to start over with a new board. That mistake cost them four dollars in wasted material.
+### Scene 10 (45 words)
+Ellis was working on two things at once when he measured a shelf board wrong. He cut it too short. The wood was wasted. He had to start over. "I was going too fast," he said, staring at the ruined board on the floor.
 
-### Scene 11 (52 words)
-Friday afternoon hit hard. Two orders were due by five o'clock. One was finished. The other wasn't close. Benny had to call the customer. His hands shook as he picked up the phone. "Could we deliver tomorrow morning instead?" The customer paused. "I suppose," she said flatly. Benny hung up feeling sick.
+### Scene 11 (45 words)
+On Friday afternoon, two orders were due. One was not done. The customer called asking where it was. Benny had to tell her the truth. "We need one more day," he said. "Can we bring it tomorrow morning?" The customer sounded disappointed but said okay. Benny felt terrible.
 
-### Scene 12 (53 words)
-Saturday was a marathon. All four friends worked from seven in the morning until five in the afternoon. Ten straight hours. Ellis dropped a finished birdhouse and cracked the roof. More waste. Riley's hands cramped from rushing. Layla's eyes burned from tracking numbers all day. Benny delivered orders with his scarf dragging in the dirt.
+### Scene 12 (45 words)
+Saturday was a marathon. All four friends worked from seven in the morning until five in the afternoon. Ten straight hours. By the end, their hands were sore and their eyes were heavy. They delivered the last order just as the sun started to set over the neighborhood.
 
-### Scene 13 (52 words)
-Sunday morning, Benny delivered the last order. The customer frowned. "This was supposed to be here yesterday." Benny apologized twice. The customer took the shelf but didn't smile. Walking home, Benny kicked a rock down the sidewalk. He had wanted to make everyone happy. Instead, he had let people down.
+### Scene 13 (45 words)
+The one late delivery went out on Sunday morning instead of Saturday. The customer accepted it but was clearly annoyed. "I expected it yesterday," she said. Benny apologized and handed her the finished work. Walking away, he felt a knot in his chest that would not go away.
 
-### Scene 14 (53 words)
-Back at the fort, they counted the money. One hundred thirty-two dollars. The most they had ever made. "Record week!" said Benny, trying to smile. But nobody cheered. Riley was rubbing her sore hands. Ellis had his head on the table. Layla yawned so wide her jaw cracked. The money sat there untouched.
+### Scene 14 (45 words)
+Back at the fort, they counted the money. One hundred and thirty-two dollars in revenue. A new record! But nobody cheered. They were too tired to feel excited. Riley sat with her head on the table. Ellis rubbed his eyes. Even Benny, who usually celebrated everything, stayed quiet.
 
-### Scene 15 (52 words)
-Layla opened her notebook. "Let's figure out how much we actually earned per hour." She added up the time. Thirteen hours each, times four kids. Fifty-two hours total. Revenue was one hundred thirty-two dollars minus forty-three in costs, including twelve dollars of wasted materials. Eighty-nine dollars profit. Divided by fifty-two hours. One dollar seventy-one cents per hour.
+### Scene 15 (45 words)
+Layla opened her notebook and added up the hours they had worked. Thirteen hours each, times four kids. Fifty-two hours total. She divided the profit by the hours. "We made one dollar and seventy-one cents per hour," she said. That was less than before, even though the total was higher.
 
-### Scene 16 (53 words)
-"Last month we averaged two-fifty to three dollars per hour," Layla said. "This week we made less, even though we earned more total money." Ellis lifted his head. "So working harder didn't mean earning better?" Layla shook her head. "The rushing caused waste. The waste ate our profit. We actually went backward."
+### Scene 16 (45 words)
+Mr. Mason stopped by the fort on Sunday afternoon and saw the exhausted faces. He sat down next to Benny. "When you promise more than you can deliver," he said gently, "you have made two mistakes. The promise that can not be kept, and the delivery that suffers."
 
-### Scene 17 (52 words)
-Mr. Mason visited the fort Sunday afternoon. He saw four exhausted kids and a pile of money. "Rough week?" he asked gently. Benny nodded. "I promised too much." Mr. Mason sat down. "If you promise more than you can deliver, you've made two mistakes," he said. "The promise and the delivery."
+### Scene 17 (45 words)
+Layla had an idea. She made a card with three sides: green, yellow, and red. Green meant they could take more orders. Yellow meant they were almost full. Red meant they were booked for the week. "Benny carries this card when he talks to customers," she said.
 
-### Scene 18 (53 words)
-Layla had an idea. "What if Benny carried a card that showed our workload?" She grabbed an index card. One side was green, meaning they could take more orders. Flip it over for yellow, meaning almost full. Flip again for red, meaning fully booked. "Before you promise anything, check the card," she told Benny.
+### Scene 18 (45 words)
+They tested the system right away. Layla set the card to yellow because they had six orders lined up. Benny practiced what to say. "We are at capacity this week," he said to an imaginary customer. "But I can put you on the list for next week."
 
-### Scene 19 (52 words)
-They practiced. Layla set the card to yellow. Benny pretended a neighbor asked for a shelf. He looked at the card, took a breath, and said: "We're at capacity this week, but I can put you on the list for next week." It felt hard to say. But it felt honest.
+### Scene 19 (45 words)
+Benny held the card in his hands and looked at it for a long time. "I just wanted to make everyone happy," he said. "Instead I made everyone tired and stressed." He looked at his friends. "I am sorry. Next time I will check the card first."
 
-### Scene 20 (53 words)
-Benny picked up the capacity card and tucked it in his pocket. "I wanted everyone to be happy," he said quietly. "Instead I made everyone stressed." Riley put a hand on his shoulder. "We love that you want to help everyone. The card helps you do it without breaking us." Benny nodded. "Green means go. Red means grow first."
-
----
-
-**Total Word Count: 1,053 words**
-
-**Estimated MSL:** ~8.8 words (Target: 7-10)
+### Scene 20 (45 words)
+The map on the wall had been flickering all week, its lines pulsing too fast. Now the glow calmed down and returned to a steady warm light. Benny set the capacity card on the table. "Green means go," he said. "Red means we need to grow first."
 
 ---
 
-## FL VOCABULARY
+**Total Word Count: ~900 words**
 
-- **capacity** -- the most work you can handle at one time
-- **overcommitting** -- promising to do more than you can actually finish
-- **waste** -- materials or time lost because of mistakes or rushing
-- **profit per hour** -- how much money you earn for each hour you work
-- **waitlist** -- a list of people who will get their turn next
+---
+
+## FL VOCABULARY INTRODUCED
+
+1. **capacity** (Scenes 5, 17, 18) — The most work a team can handle in a set time
+2. **overcommitting** (Scene 5, implied) — Promising more work than you can finish
+3. **profit per hour** (Scene 15) — How much money you earn for each hour of work
+4. **waitlist** (Scene 18) — A list of customers who will be served when space opens up
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 112 (moderate pace)
+- **Pause:** 1.5 seconds between sentences
+- **Tone:** Builds from calm to chaotic to exhausted to reflective. Benny's good heart causes the problem.
