@@ -1,97 +1,96 @@
 # CHAPTER 6: HIDDEN COSTS - TIER 4 (4TH GRADE)
 
-**Reading Levels:** P-S
+**Reading Levels:** O-P
 **Target Narration Speed:** 146 WPM
-**Target Word Count:** 2,400 words
-**Episode Duration:** ~16 minutes
-**Character Focus:** Layla -- analytical strength reveals uncomfortable truth
-**FL Integration:** Strong (overhead costs, tool depreciation, true cost accounting, bulk purchasing)
-**Setting:** Fort, Mr. Mason's workshop, hardware store
-**Figurative Language:** 4 instances
+**Target Word Count:** 1,170 words
+**Episode Duration:** ~8 minutes
+**Character Focus:** Layla (spotlight)
+**FL Integration:** Strong (overhead, true cost accounting, bulk purchasing, tool depreciation, adjusted profit margins)
+**Setting:** Fort, Mr. Mason's workshop, hardware store, craft supply store
 
 ---
 
 ## HIDDEN COSTS
 
-### Scene 1 (120 words)
-Ellis was halfway through cutting a shelf plank, the saw moving back and forth in a steady rhythm he had perfected over weeks of practice, when a sharp metallic snap broke through the workshop like a branch cracking in a storm. His saw blade had fractured clean in half. The two jagged pieces sat on the workbench, and Ellis stared at them with frustration tightening his jaw. "I was being careful the entire time!" he insisted, as though carefulness should have been enough to prevent it. Mr. Mason walked over without any urgency, picked up the broken blade, and examined the fracture point with the calm expertise of someone who had seen this happen hundreds of times before. "Tools wear out, Ellis. That's not failure. That's the cost of use."
+### Scene 1 (58 words)
+Ellis was midway through cutting a plank for a custom shelf when his saw blade snapped with a sharp crack that echoed through the fort. The broken halves spun off the workbench and clattered to the floor. Everyone froze. Ellis stared at the useless blade, turning it over in his hand. "I was being careful the whole time. It just gave out."
 
-### Scene 2 (119 words)
-Ellis needed a replacement immediately because the shelf order was due to the customer by Thursday and he couldn't afford to fall behind schedule. They walked to the hardware store together, Ellis scanning the pegboard wall of saw blades until he found the exact match for his model. Twelve dollars. He pulled the money from their portable COSTS jar, but his expression remained troubled during the entire walk back to the workshop. "We didn't budget for this in any of our project cost calculations," he said, turning the receipt over in his hands as if examining it might change the number printed there. Twelve dollars had materialized as an expense that belonged to no specific project, no particular customer order. It was simply the price of doing the work at all.
+### Scene 2 (58 words)
+A replacement blade at the hardware store cost twelve dollars. Ellis counted out the bills from the costs jar with visible frustration. The saw blade had never appeared on their pricing sheet — they had calculated material costs per product but never accounted for tools gradually wearing down through normal use. "This expense came from nowhere," he said, shaking his head.
 
-### Scene 3 (121 words)
-Back at the fort that afternoon, Riley opened her kiln to discover three beautifully finished mugs sitting on the rack inside, radiating the residual warmth of the firing process. The blue glaze had turned out perfectly smooth and consistent across all three pieces, exactly matching the sample the customer had approved two weeks earlier. She felt a genuine surge of pride examining each one, turning them slowly to check for any imperfections in the finish. Then she reached for her glaze jar on the supply shelf and tilted it toward the window light. The jar was nearly empty, barely enough coating left for a single small bowl. Her satisfaction dissolved like morning frost in direct sunlight. "I need more glaze before I can start the next order," she said, the weight of another unplanned expense already settling in.
+### Scene 3 (58 words)
+The following morning, Riley opened her jar of ceramic glaze after pulling a fresh set of mugs from the kiln. The jar was nearly empty — barely enough to coat a single piece, with a full order of four mugs waiting to be glazed. "I go through this faster than I ever estimated," she admitted, staring at the thin layer remaining.
 
-### Scene 4 (120 words)
-Riley and Layla visited the ceramics supply store across town together, walking the aisles until they reached the glaze section. The small jar Riley had always purchased cost eighteen dollars and typically lasted about two weeks of regular production. But sitting right beside it on the shelf was a significantly larger container priced at forty-five dollars. "That large container holds approximately three times the volume of the small one," the shop owner explained when she noticed them comparing labels. Riley had been buying the small jar every two weeks out of pure habit, never pausing to calculate whether the larger container might represent better value over time. The upfront number had always looked too steep, so she had reflexively reached for the familiar smaller option without thinking critically about the true cost per use.
+### Scene 4 (58 words)
+At the craft supply store, Riley stood between two options. A small jar of glaze cost eighteen dollars and lasted roughly two weeks at her current production rate. A large container cost forty-five dollars but would cover six weeks or more of steady output. She had always chosen the small jar without questioning the math. Layla studied both price tags with growing interest.
 
-### Scene 5 (119 words)
-At the fort meeting that afternoon, the atmosphere carried a seriousness that hadn't been present in their gatherings for weeks. The business had been running smoothly, orders were flowing in, and profits had felt comfortable and predictable. Now two unexpected expenses had arrived in the same week like uninvited guests. Ellis placed his twelve dollar hardware store receipt on the table. Riley set her eighteen dollar glaze receipt beside it. Layla studied both receipts alongside her open notebook, her analytical mind already working through implications that extended far beyond this single week. "That's thirty dollars in costs we didn't plan for or anticipate in any of our pricing calculations," she said, her voice carrying a gravity the others immediately recognized. "Where exactly does this money come from in our budget structure?" The question had no comfortable answer.
+### Scene 5 (58 words)
+That evening at the fort, the team gathered around the money jars with troubled expressions. Between the saw blade and the glaze, thirty unplanned dollars had drained from their budget in two days. "We counted every cost so carefully when we started," Benny said, clearly confused by the gap. "Where are these expenses coming from?" Layla was already reaching for her notebook.
 
-### Scene 6 (120 words)
-Layla pulled out their carefully constructed pricing sheet, the document they had built with such pride earlier in the season, and examined every single line with the focused precision that made her the team's natural analyst. Materials for each specific product were listed accurately: the wood cost for shelves, the clay cost for mugs, the hardware for repairs. But saw blades appeared nowhere on any product's cost breakdown. Glaze refills weren't allocated to individual items either. These costs existed in a gap between projects, belonging to the business itself rather than to any particular order. "We priced the materials that go directly into each thing we make," Layla said slowly, the uncomfortable realization gaining definition as she spoke. "But what about tools that gradually wear out through normal use? Supplies that need constant restocking regardless of which project we're working on?"
+### Scene 6 (58 words)
+Layla pulled the pricing sheet from the wall and laid it flat on the table, running her finger down each column. "We calculated material costs for every product," she said slowly. "Wood, clay, screws, stain — all accounted for. But we never included the cost of tools wearing out over time, or supplies depleting between orders. Those are real expenses we overlooked."
 
-### Scene 7 (121 words)
-They walked to Mr. Mason's workshop together, driven by questions their current system couldn't answer, to consult the one person they trusted to explain the parts of business they hadn't yet encountered. Mr. Mason listened to their concerns with the attentive patience of a teacher who recognizes a student standing at the threshold of an important lesson. Then he opened his desk drawer and extracted a detailed sheet of paper dense with categorized numbers organized in neat monthly columns. "This is my overhead tracking sheet," he said, placing it where all four friends could see it clearly. "Every business has costs beyond the materials that go into products. These are the expenses of operating, of existing as a business at all. I track mine carefully every single month without exception."
+### Scene 7 (58 words)
+They walked to Mr. Mason's workshop that afternoon to ask about business expenses they might have missed. He reached into a cabinet drawer and produced a separate tracking sheet — a document none of them had seen before. It cataloged every cost not tied to a specific project: monthly rent, electricity, insurance, tool replacement estimates, and supply restocking. The list was sobering.
 
-### Scene 8 (120 words)
-Layla leaned forward and scanned Mr. Mason's overhead sheet with widening eyes as she absorbed the scope of what it revealed. Monthly rent for the workshop space. Electricity payments that varied by season. A tool replacement fund calculated as a percentage of equipment value. Sandpaper, adhesives, and other consumable supplies that disappeared steadily regardless of project volume. Workshop insurance premiums paid quarterly. "You have to pay for all of this on top of your material costs?" she asked, startled by the breadth of expenses that existed entirely outside the products themselves. Mr. Mason nodded as though this were the most natural thing in the world. "The lights in this workshop cost money every hour they burn. The heat costs money every winter day. Even the broom I sweep with wears down eventually and requires replacing."
+### Scene 8 (58 words)
+Layla pointed to the electricity line on Mr. Mason's overhead sheet. "What does power cost for the workshop space we use?" she asked. Mr. Mason considered the question carefully. "For the tools and lighting your operation requires, I would estimate twenty to thirty dollars per month." The friends exchanged uneasy glances. They had been using his electricity without paying a cent.
 
-### Scene 9 (121 words)
-An uncomfortable realization was crystallizing in Layla's mind as the full picture of overhead assembled itself from Mr. Mason's examples. "What about us?" she asked carefully, almost reluctantly voicing the thought. "We use your workshop multiple times every week. Your electricity powers our saws and fires our kiln. Your lights illuminate our workspace for hours at a time." Mr. Mason's expression remained warm but honest. "I don't mind sharing my space with your operation. You know that. But yes, the electricity alone runs approximately thirty to forty dollars per month for the portion of the workshop you regularly occupy." He paused, letting the number settle before delivering the broader principle. "Overhead is what it costs to exist as a business, entirely separate from making any specific product. It's the price of keeping the doors open and the lights on."
+### Scene 9 (58 words)
+"What you are looking at is called overhead," Mr. Mason explained, tapping the tracking sheet. "Overhead represents the cost of operating as a business, separate from producing any specific product. Rent, utilities, equipment wear — these expenses exist whether you complete one project or fifty." Benny frowned. "But we never paid for any of that." Mr. Mason nodded with a patient expression.
 
-### Scene 10 (120 words)
-Mr. Mason guided them to his supply cabinet to illustrate one of the most practical overhead lessons with a tangible demonstration they could see and touch. He held up a large bulk box of sandpaper purchased from a wholesale supplier. "Fifty sheets for fifteen dollars from the wholesale catalog. That calculates to thirty cents per individual sheet." Then he picked up a small retail pack from the same shelf, the kind available at any neighborhood hardware store. "Or ten sheets for eight dollars at the local store. That works out to eighty cents per sheet, nearly triple the unit cost for the identical product." The difference was stark and immediately visceral. Buying in larger quantities fundamentally changed the economics of a supply that they consumed steadily and predictably every single week.
+### Scene 10 (58 words)
+Mr. Mason opened his supply cabinet and pulled out a bulk pack of sandpaper to make his next point. "One sheet costs a dollar at the retail counter," he said. "This pack of fifty costs thirty dollars — sixty cents per sheet. Buying in larger quantities reduces unit cost by forty percent. The principle applies to nearly every consumable supply you use."
 
-### Scene 11 (119 words)
-Walking back to the fort through the warm afternoon light filtering between the trees along their familiar route, the friends were uncharacteristically quiet, each processing the implications of what they had just learned in their own way. Benny finally broke the extended thoughtful silence with what struck him as a perfectly reasonable objection. "But we didn't actually spend any of our money on electricity," he pointed out. "We used Mr. Mason's workshop for free. So why would we count that?" Layla shook her head with a firmness rooted in something deeper than opinion. "We didn't pay for it, but someone did. That cost is real whether we see it or not. And if we grow larger and eventually need our own dedicated workspace, we'll be paying those bills ourselves. We need to count these costs honestly starting right now, while we can still adjust."
+### Scene 11 (58 words)
+Back at the fort, Layla sat at the table with her notebook open to a fresh page. "We need to recalculate our actual profit," she said, her tone measured and serious. "Not the number we have been reporting — the real figure, adjusted for every cost we failed to track." The others agreed, though the exercise made each of them uneasy.
 
-### Scene 12 (120 words)
-Back at the fort, Layla proposed what she knew would be the most difficult conversation they had faced since starting Maplewood Makers. She took a steadying breath and spoke with quiet determination. "We need to recalculate our true profit going all the way back over our first four weeks of operation." Nervous silence greeted the suggestion. Their PROFIT jar sat on the shelf displaying two hundred seventeen dollars, a number they had celebrated with genuine pride, a number that represented weeks of early mornings, careful craftsmanship, and satisfied customers. Nobody wanted to watch that number shrink. But Layla understood something the others were only beginning to grasp: a profit number that didn't account for all real costs wasn't actually profit at all. It was a comfortable estimate dressed up as certainty. They needed the truth, even if the truth was smaller.
+### Scene 12 (58 words)
+Layla worked through the adjustments methodically. Tool wear over four weeks, based on the saw blade's replacement cycle, came to roughly six dollars. Riley's glaze overspending from buying small jars instead of bulk containers accounted for twelve dollars in lost efficiency. Their estimated share of Mr. Mason's workshop electricity totaled twenty-two dollars over the same period. She circled the combined adjustment.
 
-### Scene 13 (121 words)
-Layla opened her notebook to a fresh page and methodically catalogued each previously invisible cost, working through the categories Mr. Mason had taught them with careful estimation grounded in the actual data they had available. Estimated saw blade depreciation over four weeks of regular cutting: six dollars, calculated from the blade's expected lifespan and their usage rate. Riley's glaze purchased consistently in small quantities rather than cost-efficient bulk: twelve dollars in avoidable price differential over the same period. Mr. Mason's electricity for the workshop space they occupied across four weeks of steady production: twenty-two dollars, derived from his monthly estimates prorated to their usage. She added the column with the precision that defined her contribution to the team. "Sixty-two dollars in overhead we never accounted for," she announced to the room with quiet gravity. "Costs that were real the entire time, whether we tracked them or not."
+### Scene 13 (58 words)
+Layla wrote the revised number on a clean sheet and held it up for the group. Their reported profit over four weeks had been two hundred and seventeen dollars. After subtracting sixty-two dollars in previously untracked overhead, the adjusted profit stood at one hundred and fifty-five. The fort fell silent. That was a twenty-nine percent correction from the number they had celebrated.
 
-### Scene 14 (120 words)
-Then came the moment everyone had been quietly dreading since Layla first proposed the recalculation. She stood, walked to the shelf, and reached into the PROFIT jar with steady hands that betrayed none of the reluctance she felt internally. One bill at a time, she counted out exactly sixty-two dollars and transferred each one deliberately into the COSTS jar. The process felt ceremonial in its weight, each bill a small acknowledgment of something they should have recognized weeks earlier. Everyone watched in a silence thick enough to fill the room like fog. The PROFIT jar visibly diminished, settling from its proud two hundred seventeen dollars down to one hundred fifty-five dollars. The adjustment represented a twenty-nine percent reduction in their reported earnings. The fort had never felt quite this serious, or quite this honest.
+### Scene 14 (58 words)
+Layla broke the silence with a voice that was calm and firm. "We are still profitable," she said. "One hundred and fifty-five dollars is still solid earnings for four weeks of work. But the old number included money we did not actually keep. Knowing the real figure puts us in a stronger position than believing a number that was never accurate."
 
-### Scene 15 (119 words)
-Benny stared at the reduced jar with an expression caught somewhere between concern and confusion, needing reassurance that their weeks of genuine effort still translated into something meaningful. "Did we actually lose money?" he asked, the question carrying real vulnerability. Layla shook her head with firm and immediate conviction. "No. We are still profitable, and that matters enormously. One hundred fifty-five dollars is real profit, every dollar of it honestly earned and properly accounted for." She tapped her notebook where the complete calculation was laid out in her careful handwriting. "Before today, we believed we had earned two hundred seventeen dollars in profit. But that figure included costs we had already incurred without recognizing them. The money was never ours to count as profit. Now we know the actual number, and knowing is always better than guessing."
+### Scene 15 (58 words)
+They agreed to incorporate a fifteen percent overhead allocation into all future pricing. Layla updated each product line on the pricing sheet, adding the overhead component to the existing material and labor estimates. "From now on, our prices account for tools wearing down, supplies running low, and space we use," she said. "We will not be caught by hidden costs again."
 
-### Scene 16 (121 words)
-With the painful but necessary reconciliation behind them, the team turned their attention to concrete structural changes that would prevent this kind of accounting gap from recurring in future operations. Layla worked through the mathematics of overhead allocation with the group, calculating that indirect costs added approximately fifteen percent to their true operating expenses beyond raw materials for each product. "We need to factor a fifteen percent overhead charge into all of our future pricing," she explained clearly, walking everyone through the calculation on paper so they could see exactly how the number was derived. "That margin covers tool depreciation from normal wear, our share of electricity and facility usage, and the price differential we lose by not purchasing supplies in bulk." They updated the pricing sheet collaboratively, adjusting each product upward by the calculated overhead percentage.
+### Scene 16 (58 words)
+Riley placed an order for the large container of glaze instead of her usual small jar. The initial outlay was higher, but the per-unit cost dropped by nearly a third across a six-week production cycle. "Spending more up front to save over time feels backward at first," she said. "But the numbers are clear. Bulk purchasing is the smarter move."
 
-### Scene 17 (120 words)
-Riley made a decisive commitment about her glaze purchasing strategy, applying the bulk purchasing principle with the conviction of someone who finally understood why the math mattered beyond the initial sticker price. "I'm ordering the large container going forward," she announced firmly. The forty-five dollar upfront investment felt substantially steeper than the familiar eighteen dollar small jar that had become her default purchase. But the large container would sustain approximately three times the production volume, covering six weeks of orders instead of two. "That translates to roughly thirty percent savings on a per-unit basis over time," Layla confirmed after verifying the calculation against actual usage data from her records. The principle was elegant in its simplicity: a higher investment now produced measurably lower costs per unit of production across the full lifecycle of the supply.
+### Scene 17 (58 words)
+They allocated ten additional dollars to the reserve jar and attached a new label to its front: TOOL FUND. When a blade snapped or a brush wore out, replacement money would already be waiting. "No more scrambling to cover expenses we should have planned for," Ellis said, pressing the label flat with obvious satisfaction. The jar now served two purposes.
 
-### Scene 18 (119 words)
-They established a dedicated new component in their financial system that same afternoon: the RESERVE jar. Ten dollars from current funds went in immediately, allocated specifically toward inevitable tool replacement and ongoing equipment maintenance that they now understood would occur on a predictable, if imprecise, schedule. "The next time Ellis needs a saw blade or I need a kiln element replaced, the money will already be set aside and designated for exactly that purpose," Layla explained, placing the jar on the shelf alongside the COSTS, PROFIT, and REINVEST jars that formed their expanding financial infrastructure. Ellis looked visibly relieved by this structural improvement to their planning system. The frustration of his broken saw blade had transformed from an unexpected crisis into the catalyst for better preparation. Planning ahead felt fundamentally different from scrambling to react.
+### Scene 18 (58 words)
+Layla devoted a fresh page in her notebook to overhead tracking. She drew careful columns for tools and equipment, space and utilities, supply efficiency, and miscellaneous indirect costs. Each month, the team would review and update the totals, feeding the numbers back into their profit calculations. "This page captures the costs that do not attach to any single product," she explained.
 
-### Scene 19 (120 words)
-Layla created a new dedicated tracking document in her notebook, physically separate from their existing product-cost records to reinforce the conceptual distinction between direct and indirect costs. She lettered the title carefully across the top of the page: "Costs That Don't Go in Products." Beneath the heading she established four tracking categories that mirrored the structure of Mr. Mason's own overhead sheet: Tools and Equipment, Space and Utilities, Bulk Purchase Savings, and Other. "We'll conduct a formal review and update these figures systematically every month from this point forward," she stated with the organizational clarity that had become her signature contribution to the team's operations. Ellis nodded with genuine acceptance that had replaced his earlier frustration entirely. "I was angry about the saw blade when it happened. But Mr. Mason was right. Tools wear out through honest use. We just have to build that reality into our plans."
+### Scene 19 (58 words)
+Ellis leaned against the fort wall and let out a long breath. "I was frustrated when the blade snapped," he said. "But Mr. Mason is right — tools deteriorate through regular use, and that wear is a legitimate business cost. The only question is whether you plan for it ahead of time or let it blindside you when it happens."
 
-### Scene 20 (121 words)
-That night, Layla studied the map in her room with eyes freshly sharpened by everything she had learned and confronted over the course of this difficult but ultimately empowering day. The bright golden customer lines still glowed with strong, warm light, each one representing a relationship built through quality work and honest dealing. But now she perceived something she had never noticed before: dim gray shadows running beneath those golden lines like the roots beneath a garden, always present, always necessary, but invisible until you thought to look for them. The hidden costs that sustained every visible success. The shadows didn't diminish the golden lines or make them less real. They completed the picture, adding depth and honesty to what had been a partial view. "It's the whole story now," Layla whispered. And the whole story, she realized, was always better than a beautiful half-truth.
-
----
-
-**Total Word Count: 2,402 words**
-
-**Actual MSL:** ~18.4 words (Target: 16-20)
-
-**Figurative Language Count:** 4 instances
-- "like a branch cracking in a storm" (simile, Scene 1)
-- "dissolved like morning frost in direct sunlight" (simile, Scene 3)
-- "silence thick enough to fill the room like fog" (simile, Scene 14)
-- "like the roots beneath a garden" (simile, Scene 20)
+### Scene 20 (58 words)
+The friends studied the map on the wall. The golden customer lines still radiated outward with warm, steady light. But beneath them, faint shadows now appeared — a visual layer representing the overhead costs that had always been running beneath the surface. "The shadows were always there," Riley observed quietly. "We just did not have the eyes to see them yet."
 
 ---
 
-## FL VOCABULARY
+**Total Word Count: ~1,160 words**
 
-- **overhead** -- indirect costs of operating a business that aren't attributable to making any single specific product
-- **depreciation** -- the gradual reduction in value of tools and equipment through normal use over their operational lifespan
-- **true cost accounting** -- calculating the complete cost of business operations by including all expenses, both visible and hidden
-- **bulk purchasing** -- acquiring supplies in larger quantities to achieve a lower per-unit cost
-- **reserve fund** -- capital deliberately set aside to cover anticipated future expenses such as equipment replacement
-- **overhead allocation** -- the process of distributing indirect business costs across products or time periods for accurate profit calculation
+---
+
+## FL VOCABULARY INTRODUCED
+
+1. **overhead** (Scene 9) — Ongoing business costs not tied to any specific product: rent, utilities, equipment wear
+2. **bulk purchasing** (Scenes 10, 16) — Buying supplies in larger quantities to reduce per-unit cost
+3. **depreciation / tool wear** (Scenes 1, 12, 19) — The gradual loss of equipment value through regular use
+4. **adjusted profit** (Scene 13) — Profit recalculated to include previously untracked indirect costs
+5. **true cost accounting** (Scene 6) — The practice of capturing all expenses in business calculations
+6. **overhead allocation** (Scene 15) — Distributing indirect costs across products through percentage-based pricing
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 146 (comfortable pace with expression)
+- **Pause:** 1 second between sentences
+- **Tone:** Serious but empowering. The correction is necessary, not devastating. Layla's analytical strength shines.
