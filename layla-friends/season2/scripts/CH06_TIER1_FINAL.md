@@ -1,119 +1,94 @@
-# CHAPTER 6: THE FISH AUCTION - TIER 1 (K-1ST GRADE)
+# CHAPTER 6: THE TOKYO STREET FOOD VENDOR - TIER 1 (K-1ST GRADE)
 
 **Reading Levels:** A-I
 **Target Narration Speed:** 75 WPM
-**Target Word Count:** 600 words
-**Actual Word Count:** 614 words ✅
-**Episode Duration:** ~8 minutes
-**Character Focus:** Mr. Mason (memory), Ellis (confidence beat)
-**FL Integration:** Auctions, bidding, competition determines price
-**Setting:** Frame: Mr. Mason's attic | Memory: Japanese fish market
+**Target Word Count:** 640 words
+**Episode Duration:** ~8.5 minutes
+**Character Focus:** Benny (learns about location)
+**FL Integration:** Location matters
+**Setting:** Mr. Mason's memory of Tokyo
 
 ---
 
-## THE FISH AUCTION
+## THE TOKYO STREET FOOD VENDOR
 
-### Scene 1 (31 words)
-Mr. Mason looked in the trunk. He found a small wooden fish. It was pretty. "This is from Japan," he said. "Have you ever heard of an auction?" The friends shook their heads.
+### Scene 1
+Mr. Mason found a small paper fan in the trunk. "This is from Tokyo, Japan," he said with a smile. "A street food vendor gave it to me. Her name was Yuki. She taught me that location matters!"
 
-### Scene 2 (30 words)
-The attic started to fade. Now they could see a big building. It was a fish market. It was very early in the morning. The sky was still dark outside.
+### Scene 2
+"Yuki sold takoyaki from a small cart," Mr. Mason began. "Takoyaki are octopus balls. They're yummy Japanese food! Round and crispy outside. Soft inside. So delicious!"
 
-### Scene 3 (31 words)
-Young Mr. Mason walked into the market. He saw huge fish on the floor. They were giant tuna! Some were bigger than him. Workers looked at the fish with flashlights.
+### Scene 3
+"I met Yuki on a quiet street," Mr. Mason said. "She'd been there two hours. Only three people bought food. Just three! She looked sad and worried."
 
-### Scene 4 (30 words)
-He found a special area. Many people stood around the fish. They wore special hats. A bell rang. Everyone got quiet. Something big was about to happen here.
+### Scene 4
+"I asked if her food was good," Mr. Mason said. "She gave me a free sample. It was so delicious! 'Why isn't anyone buying?' I asked. 'Your food is great!'"
 
-### Scene 5 (31 words)
-A man stood up front. He was the auctioneer. He talked very fast in Japanese. Young Mr. Mason did not know the words. But he watched the buyers very closely.
+### Scene 5
+Yuki sighed and looked down the empty street with sad eyes. "My spot is bad," she explained sadly. "This street is too quiet for business. Not enough people walk by here at all. I need more foot traffic. More customers to buy food!"
 
-### Scene 6 (30 words)
-Hands went up. Fingers showed numbers. The buyers were bidding. They all wanted the same fish! They were trying to win. It was like a race, but with money.
+### Scene 6
+"Why not move to busy street?" Young Mr. Mason asked. "She explained the problem to me," old Mr. Mason said. "Busy spots cost more money. She had to pay the city for permission."
 
-### Scene 7 (31 words)
-Two buyers really wanted one fish. They kept bidding higher. The price went up and up. Young Mr. Mason was amazed. One fish could cost so much money! This was exciting.
+### Scene 7
+"The quiet spot cost one thousand yen per day," Mr. Mason explained. "The busy spot cost five thousand yen. That's five times more! But was it worth paying more?"
 
-### Scene 8 (30 words)
-One buyer finally won. The other one stopped. A bell rang. The winner bowed. The fish got a special mark. Everyone clapped. The fish was sold to the winner.
+### Scene 8
+"It depends on customers!" Benny said. "How many more will she get?" Mr. Mason smiled big. "Exactly! That's what I said! Yuki decided to try it. She wanted to find out. We moved her cart together to the busy street."
 
-### Scene 9 (31 words)
-Young Mr. Mason talked to a buyer. "Who decides the price?" he asked. The man laughed. "We do!" he said. "The buyers decide. Not the seller. We make the price."
+### Scene 9
+"The busy street was amazing," Mr. Mason said with excitement. "So many people walking by! Hundreds of people! Office workers on lunch break. Tourists looking around. Students going home from school."
 
-### Scene 10 (30 words)
-The buyer explained more. "In an auction, buyers fight with prices. Whoever wants it most pays the most." Young Mr. Mason nodded. This was different from the spice market. Very different.
+### Scene 10
+"In the first hour on busy street," Mr. Mason said, "Yuki sold thirty servings! Thirty! At three hundred yen each. That's nine thousand yen! In just one hour!"
 
-### Scene 11 (31 words)
-Young Mr. Mason looked around the market. He saw it now. When many people want something, the price goes up. When no one wants it, the price goes down. Smart!
+### Scene 11
+"On quiet street all morning," Mr. Mason said, "she only made nine hundred yen. Big difference! The busy street made ten times more money!"
 
-### Scene 12 (30 words)
-He found a small shop. They sold little carved fish. He bought a wooden fish to remember today. Every time he saw it, he would think about auctions and prices.
+### Scene 12
+Ellis did math in his head fast. "The busy location costs four thousand yen more," he said. "But she made eight thousand yen more in one hour! That's four thousand yen extra profit already! Even in just one hour!"
 
-### Scene 13 (31 words)
-The fish market started to fade. The colors got soft. They were back in the attic. Mr. Mason still held the wooden fish. It was the same one from the story.
+### Scene 13
+"Location isn't just about foot traffic," Mr. Mason explained. "It's about right people. Office workers buy lunch because they're hungry. Tourists buy snacks for fun. Students buy cheap food with pocket money."
 
-### Scene 14 (30 words)
-The friends were amazed. "So when lots of people want something, the price goes up?" asked Benny. "Exactly!" said Mr. Mason. He put the fish back in the trunk.
+### Scene 14
+"By end of the day," Mr. Mason said, "Yuki sold one hundred twenty servings! Can you believe it? Thirty-six thousand yen total. She was so happy!"
 
-### Scene 15 (32 words)
-Ellis spoke up. "Wait! That's the opposite of the lemonade!" Everyone looked at him. "We had too many sellers. At the auction, there were too many buyers. It made prices go different ways!"
+### Scene 15
+"After paying five thousand yen for location," Mr. Mason continued, "she had thirty-one thousand yen profit left. That was a really great day for her small cart!"
 
-### Scene 16 (30 words)
-The friends stared at Ellis. "That's so smart," said Layla. "You are good at figuring things out." Ellis smiled. He felt proud. His thinking helped the group understand.
+### Scene 16
+"On quiet street," Mr. Mason said, "maybe fifteen servings all day. That's four thousand five hundred yen. After paying one thousand, only three thousand five hundred profit. See the difference?"
 
-### Scene 17 (31 words)
-"Could we have an auction?" asked Riley. "At our market?" The friends got excited. "People could bid on special things!" They could use play money. That would be so fun!
+### Scene 17
+Riley's eyes went wide. "The expensive location made nine times more profit!" she said. "Even after paying way more rent! The busy spot was totally worth it!"
 
-### Scene 18 (30 words)
-Ellis took out a small notebook. He wrote down the idea. "An auction," he said. "And fair prices." He was keeping track of all their ideas. He liked being organized.
+### Scene 18
+"Yuki taught me three important rules," Mr. Mason said. "One: visibility. People need to see you easily. Two: foot traffic. More people walking by means more customers. Three: right people for your product!"
 
-### Scene 19 (31 words)
-Mr. Mason smiled at them. "There are more things in this trunk," he said. "More stories from markets around the world. Italy. Germany. Each one teaches something new about buying and selling."
+### Scene 19
+"So where we set up our market matters!" Layla said excitedly. "We need a place where lots of people walk by every day. Where they can see us easy and clear. Like the park near school!"
 
-### Scene 20 (32 words)
-The friends could not wait. Every story was teaching them something. They would use these lessons for their Community Market. "Keep going!" said Layla. "We want to learn everything!" Mr. Mason nodded happily.
-
----
-
-## VOCABULARY ANALYSIS
-
-### FL Vocabulary Introduced:
-1. **auction** (Scenes 1, 12, 17) - Core FL concept
-2. **bid/bidding** (Scenes 6, 7, 17) - Auction mechanics
-3. **price** (Scenes 7, 9, 10, 11, 18) - Core FL concept
-4. **buyers/sellers** (Scenes 5, 9, 10, 15) - Market roles
-5. **competition** (implied through bidding) - Key concept
-
-### General Academic Vocabulary:
-1. auctioneer (Scene 5)
-2. market (Scenes 2, 3, 11)
-3. tuna (Scenes 3, 7)
+### Scene 20
+Mr. Mason held up the small fan. "Yuki gave me this fan to remember her lesson," he said warmly. "Good product needs good location. Best food in whole world won't sell if nobody sees it. Location, location, location!" All the friends understood now.
 
 ---
 
-## A+ ENHANCEMENTS DOCUMENTATION
-
-### 1. SENSORY DETAILS ADDED (3 for Tier 1):
-- Scene 2: Dark sky, early morning
-- Scene 3: Giant tuna, flashlights
-- Scene 8: Bell ringing, clapping
-
-### 2. SIGNATURE TREASURE:
-- The carved wooden fish connecting memory and present
-
-### 3. CHARACTER INTERACTIONS (2 moments):
-- Scene 9: Conversation with the buyer
-- Scene 15-16: Ellis earns recognition from friends
-
-### 4. MINOR TENSION:
-- Scenes 6-7: Bidding competition creates excitement
-
-### 5. ADULT MENTOR PERSONAL DETAIL:
-- Japanese buyer explains simply with a laugh
-
-### 6. CHARACTER ARC BEAT:
-- Scene 15-16: Ellis gains confidence — his analytical thinking is valued
+**Total Word Count: 637 words** ✅
 
 ---
 
-**TIER 1 COMPLETE** ✅
+## FL VOCABULARY
+
+1. **location** — Where something is
+2. **foot traffic** — People walking by
+3. **visible** — Easy to see
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 75 (slow, clear)
+- **Pause:** 2.5 seconds between sentences
+- **Tone:** Warm, practical
+- **Flesch-Kincaid Grade Level:** 2-3

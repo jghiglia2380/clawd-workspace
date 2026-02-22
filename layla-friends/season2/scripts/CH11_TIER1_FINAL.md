@@ -1,114 +1,93 @@
-# CHAPTER 11: EL MERCADO DE LOS MUERTOS - TIER 1 (K-1ST GRADE)
+# CHAPTER 11: THE JAPANESE FISH MARKET - TIER 1 (K-1ST GRADE)
 
 **Reading Levels:** A-I
 **Target Narration Speed:** 75 WPM
-**Target Word Count:** 600 words
-**Actual Word Count:** 610 words ✅
-**Episode Duration:** ~8 minutes
-**Character Focus:** Frances (memory), Riley (creative leadership), Benny (learns reverence)
-**FL Integration:** Value beyond price, craft with purpose, honoring through making
-**Setting:** Frame: Frances's porch | Memory: Día de los Muertos market in Mexico
+**Target Word Count:** 640 words
+**Episode Duration:** ~8.5 minutes
+**Character Focus:** Ellis (learns auctions)
+**FL Integration:** Auctions, bidding
+**Setting:** Mr. Mason's memory of Japan
 
 ---
 
-## EL MERCADO DE LOS MUERTOS
+## THE JAPANESE FISH MARKET
 
-### Scene 1 (30 words)
-The friends visited Frances on her front porch. The afternoon sun was warm and golden. "We have learned a lot about markets," said Layla. "But something still feels missing."
+### Scene 1
+Mr. Mason held carved wooden fish. Details were so perfect. "From Tokyo," he said smiling. "Biggest fish market ever seen! So many fish!" Ellis looked very close. Every scale looked real. "I went once long ago," Mr. Mason said.
 
-### Scene 2 (31 words)
-Frances nodded with understanding. "You have learned how markets work," she said. "Now you need to learn why they matter." She settled back in her rocking chair. "Let me tell you a story."
+### Scene 2
+"Visited at four morning," Mr. Mason began telling. "Tuna auction starts early then. Hundreds frozen tuna everywhere!" "Each one was huge!" Benny said amazed. "Yes, hundreds pounds each fish," Mr. Mason agreed nodding.
 
-### Scene 3 (30 words)
-Frances's eyes got soft and far away. "When I was nine, my abuelita took me to Mexico," she began. "We went to a very special market. Close your eyes. Smell the flowers."
+### Scene 3
+"Restaurant owners came very early," Mr. Mason said. "They checked fish color carefully. Checked fat levels with lights. Each fish worth thousands dollars!" "How they pick winner?" Ellis asked curiously. "Good question!" Mr. Mason smiled big.
 
-### Scene 4 (31 words)
-The porch faded away. Bright colors appeared everywhere. Orange and purple and gold! They were in a Mexican town square. Flowers filled every corner. This was the market before Día de los Muertos.
+### Scene 4
+"They use auction system," Mr. Mason said clearly. "Fish goes highest bidder always." "What's a bidder?" Layla asked confused. "Person offering most money total," Mr. Mason explained patiently. "Makes sense!" Ellis nodded understanding.
 
-### Scene 5 (30 words)
-Young Frances held her grandmother's hand. Her eyes were wide with wonder. "Abuelita, why is everything so orange?" she asked. "That color guides them home, mija," said her grandmother softly.
+### Scene 5
+"Auctioneer stood up very high," Mr. Mason said showing. "Spoke fast Japanese language. Rang loud bell constantly. Pointed at buyers everywhere. Happened so very quick!" "Like fast game?" Riley asked. "Yes, very fast game!" Mr. Mason said.
 
-### Scene 6 (31 words)
-They walked to a flower stall. Mountains of orange marigolds filled the air with sweet smell. The vendor smiled at Abuelita. "Doña Elena! Your flowers are waiting!" They knew each other well.
+### Scene 6
+"One tuna was perfect fish," Mr. Mason said excitedly. "Beautiful red color throughout. Great fat content too. Restaurant owner wanted it badly!" "Did he win it?" Benny asked eagerly. "Wait and see story!" Mr. Mason laughed warmly.
 
-### Scene 7 (30 words)
-Young Frances asked why they needed so many flowers. Abuelita explained gently. "The bright color and sweet smell guide the spirits home. These are not just pretty. They are a path."
+### Scene 7
+"Bidding started quite low," Mr. Mason said. "Ten thousand yen first. About hundred dollars money." "Then went up higher?" Ellis asked. "Yes! Fifteen! Twenty! Climbed very fast!" Mr. Mason showed with hands.
 
-### Scene 8 (31 words)
-They visited a woman making sugar skulls. She decorated each one with a name. "Tell me their names," she said. "I write them here so they know we remember." Abuelita said three names.
+### Scene 8
+"Why not one price?" Layla asked puzzled. "Great question there," Mr. Mason said. "Different people value differently always. Fancy place pays much more!" "Oh!" Layla understood now. "Fish worth more there!"
 
-### Scene 9 (30 words)
-Young Frances realized these were not just candy. They were tributes. Each skull was for someone who had died. Someone's grandmother. Someone's child. Someone loved. She touched one very gently.
+### Scene 9
+"At fifty thousand yen," Mr. Mason said, "most stopped bidding then. Only three people left. They really wanted it badly!" "Getting very expensive!" Benny said worried. "Very expensive!" Mr. Mason agreed. "But worth it them!"
 
-### Scene 10 (31 words)
-They bought candles for the ofrenda at home. "Each flame is a prayer," the vendor said. "Your prayer is the light that guides them through the dark night." Young Frances listened carefully.
+### Scene 10
+"Sixty! Seventy! Eighty!" Mr. Mason acted out excitedly. "Then ninety thousand yen total!" "Who won finally?" Ellis asked eagerly. "One sushi restaurant owner!" Mr. Mason said. "Nine hundred dollars total price!"
 
-### Scene 11 (30 words)
-They bought pan de muerto from the bakery. Special bread shaped like bones. The baker gave young Frances a taste. It was sweet. "We bake with our hands what we carry in our hearts."
+### Scene 11
+"So much money!" Benny gasped loudly. "But owner was smart," Mr. Mason said. "Makes twenty portions from fish. Sells each sixty dollars each!" "How much total?" Ellis asked thinking.
 
-### Scene 12 (31 words)
-As they walked, Abuelita shared something important. "Everything here was made by hand with love," she said. "That is what gives these things power. The hands put the heart inside."
+### Scene 12
+"Twelve hundred dollars total," Mr. Mason said. "Pays nine hundred cost. Makes twelve hundred selling. Profit is three hundred!" "Very smart!" Ellis said impressed. "He knew fish real value!" Mr. Mason agreed proudly.
 
-### Scene 13 (30 words)
-Young Frances helped pick papel picado and fabric. She chose purple and gold. "These were Abuelo's favorite colors," she said. "I want him to see them and know we remember him."
+### Scene 13
+"Why auction though?" Riley asked confused. "Why not just sell?" "Auction finds real fair price," Mr. Mason said. "Person valuing most wins always!" "Fair way!" Ellis said nodding.
 
-### Scene 14 (31 words)
-Later, the family built their ofrenda together. They placed flowers, candles, photos, skulls, and bread. Everyone helped. It was not for money. It was not for praise. It was for love.
+### Scene 14
+"If seller guessed wrong price," Mr. Mason said, "might lose money easily. Too low price? Lose cash! Too high price? No sale!" "Auction solves that problem!" Ellis said. "Exactly right!" Mr. Mason smiled.
 
-### Scene 15 (30 words)
-The memory faded softly. Frances was back on her porch. The friends were quiet. Some things are not made to be sold. They are made to mean something very important.
+### Scene 15
+"Watched many fish sell," Mr. Mason said. "Some twenty thousand yen. Some forty thousand yen. Some ninety thousand yen. Each one different!" "Each buyer different too!" Riley added. "Yes!" Mr. Mason agreed.
 
-### Scene 16 (31 words)
-Benny sat very still. This was not like him. His eyes were wet. "I never thought about who we remember," he said quietly. "It is not silly at all. It is important."
+### Scene 16
+"System is very fair," Mr. Mason said seriously. "Everyone watches everything closely. Highest bid wins always. No secrets at all!" "I like that," Layla said. "Everyone sees it!" "Right!" Mr. Mason nodded.
 
-### Scene 17 (30 words)
-Riley had been drawing while she listened. She looked up with excitement. "What if our market had something like that?" she asked nervously. "We could make things that mean something."
+### Scene 17
+"We could auction things!" Benny said excited. "At our market sale!" "Great idea there!" Mr. Mason said. "Special items only! Things worth different amounts!" "Yes!" Benny agreed happy.
 
-### Scene 18 (31 words)
-The friends encouraged her. Riley showed her sketch. Paper marigolds. Memory cards. A place where people could honor someone special. "You should lead this part," said Layla. "You see it clearly."
+### Scene 18
+"Maybe rare toy," Mr. Mason suggested thinking. "Or special old book. Or Riley's handmade art!" "People decide value themselves!" Riley said. "Exactly right!" Mr. Mason said. "They bid high!"
 
-### Scene 19 (30 words)
-Riley smiled with new confidence. She had shared her idea, and people liked it! She could lead the memory station at their Community Market. Her creativity mattered. Her vision was valued.
+### Scene 19
+"Remember auction important rules," Mr. Mason said teaching. "Start with low price. Take bids in order. Say each bid clear. When stops, name winner!" "Got it!" Ellis said confident.
 
-### Scene 20 (31 words)
-Frances watched them with warm eyes. "Now you understand," she said. "The market is not just about trading things. It is about sharing what matters most." The friends finally understood deeply.
-
----
-
-## VOCABULARY ANALYSIS
-
-### FL Vocabulary Introduced:
-1. **value** (Scene 15) - Worth beyond price
-2. **tribute** (Scene 9) - Honoring someone
-3. **honor** (Scene 18) - Showing respect
-4. **meaning** (Scene 17) - Purpose and importance
-
-### General Academic Vocabulary:
-1. ofrenda (Scenes 10, 14)
-2. marigolds (Scene 6)
-3. spirits (Scene 7)
-4. creativity (Scene 19)
+### Scene 20
+Mr. Mason held fish very high. "Value changes per person always," he said wisely. "Auction finds true worth!" Friends all understood now. Auctions made good sense! Fair for everyone there!
 
 ---
 
-## A+ ENHANCEMENTS DOCUMENTATION
-
-### 1. SENSORY DETAILS ADDED (3 for Tier 1):
-- Scene 4: Orange, purple, and gold colors
-- Scene 6: Sweet smell of marigolds
-- Scene 11: Sweet taste of pan de muerto
-
-### 2. SIGNATURE TREASURE:
-- The ofrenda — made with love, not for sale
-
-### 3. CHARACTER INTERACTIONS (2 moments):
-- Scenes 5-13: Abuelita teaching young Frances
-- Scenes 17-19: Friends supporting Riley's creative vision
-
-### 4. CHARACTER ARC BEATS:
-- Scene 16: Benny learns reverence and when to be serious
-- Scenes 17-19: Riley takes creative leadership
+**Total Word Count: 640 words** ✅
 
 ---
 
-**TIER 1 COMPLETE** ✅
+## FL VOCABULARY
+
+1. **auction** — Selling to highest bidder
+2. **bid** — Offer to pay
+3. **value** — What something is worth
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 75 (slow, clear)
+- **Pause:** 2.5 seconds between sentences
+- **Tone:** Energetic, exciting

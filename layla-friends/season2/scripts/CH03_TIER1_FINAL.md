@@ -1,77 +1,93 @@
-# CHAPTER 3: THE BUSY SATURDAY - TIER 1 (K-1ST GRADE)
+# CHAPTER 3: THE BUSY SATURDAY - TIER 1 (KINDERGARTEN-1ST GRADE)
 
 **Reading Levels:** A-I
 **Target Narration Speed:** 75 WPM
-**Target Word Count:** 600 words
-**Episode Duration:** ~8 minutes
-**Character Focus:** All four friends finding their strengths
-**FL Integration:** Division of labor (simple)
-**Setting:** Neighborhood locations
+**Target Word Count:** 640 words
+**Episode Duration:** ~8.5 minutes
+**Character Focus:** All four friends discovering their strengths
+**FL Integration:** Specialization and division of labor
+**Setting:** Various neighborhood locations
 
 ---
 
 ## THE BUSY SATURDAY
 
-### Scene 1 (30 words)
-The friends met on Saturday morning. They did not know what to do yet. Then some neighbors came over. The neighbors needed help with things. Everyone wanted help today!
+### Scene 1
+Saturday morning arrived bright and sunny. The friends met at the park early. They wanted to play today. They didn't have any plans yet. Then neighbors started walking over. Everyone needed help with something. The friends wanted to help everyone.
 
-### Scene 2 (31 words)
-Mrs. Patterson said, "My garage is messy. Can you help?" Frances said, "My garden has weeds." Mr. Johnson said, "Can you give out these papers?" The friends had a lot to do!
+### Scene 2
+Mrs. Patterson came first. "My garage is very messy," she said sadly. Frances walked over next. "My garden needs help too," she said. Mr. Johnson came as well. "Can you deliver flyers?" he asked nicely. The friends wanted to help everyone. They said yes to everyone.
 
-### Scene 3 (30 words)
-"Let's help everyone!" said Layla. They went to the garage first. "We can all work on it together," she said. The four friends went inside. The garage was very messy.
+### Scene 3
+They all went to the garage together. Everyone tried to help at once. But they bumped into each other! They got in each other's way. Nothing got done right at all. This wasn't working well. It was very confusing.
 
-### Scene 4 (30 words)
-Everyone started working. But it was hard! Benny moved a box. Ellis was using it. Riley and Layla grabbed the same lamp. They kept bumping into each other. Nothing was working well.
+### Scene 4
+Ellis stopped and thought hard. "We keep bumping into each other," he said. "What if we split up jobs?" The others liked that idea. They decided to try something different. Each person could do one thing.
 
-### Scene 5 (31 words)
-Time went by slowly. The garage still looked messy. Mrs. Patterson came to look. "How is it going?" she asked. Layla sighed. "We are trying. But it's hard to work like this."
+### Scene 5
+They gave each person one job. Benny would carry heavy boxes around. Ellis would sort and label things. Riley would make things look pretty. Layla would tell everyone what to do. Each person had just one job now.
 
-### Scene 6 (30 words)
-Ellis had an idea. "We keep getting in each other's way," he said. "What if each person did ONE job?" The friends stopped to think. That might work a lot better!
+### Scene 6
+They started working again now. This time was much better! Benny moved boxes really fast. Ellis sorted everything into neat piles. Riley made the shelves look nice. Layla helped everyone stay focused. No one bumped into anyone!
 
-### Scene 7 (31 words)
-They gave each person a job. Benny would carry heavy boxes. He was strong. Ellis would sort things. He was neat. Riley would make things look nice. Layla would be the leader.
+### Scene 7
+The garage looked great now! Everything was in neat rows. The boxes were stacked up. Mrs. Patterson was so happy. "You learned something important today!" she said. "This is division of labor."
 
-### Scene 8 (30 words)
-Now everyone had their own job. They started working again. This time was different. No more bumping. No more grabbing the same thing. Everyone knew what to do. It felt much better!
+### Scene 8
+Next they went to the garden. They planned their jobs first. Benny pulled big weeds out. Riley planted pretty flowers. Ellis kept track of everything. Layla helped everyone stay on track.
 
-### Scene 9 (30 words)
-The garage looked amazing! Boxes were in neat piles. Tools hung on the wall. There was room to walk. "We did it!" said Riley. The friends were so proud of themselves.
+### Scene 9
+The garden was done fast! It looked beautiful and bright. Frances was very happy. "That was so quick!" Benny said. The friends felt proud.
 
-### Scene 10 (31 words)
-Mrs. Patterson came back. "Wow!" she said. "This is great!" She smiled at them. "When each person does what they are good at, the team works better." The friends nodded happily.
+### Scene 10
+Then they delivered the flyers. Ellis made a good plan. He split up all the streets. Everyone took different areas. They worked really fast. All the flyers got delivered!
 
-### Scene 11 (30 words)
-Now they went to the garden. This time they had a plan. "Let's pick jobs before we start," said Layla. Everyone agreed. They knew what to do now. Planning helped a lot.
+### Scene 11
+They met back together again. Every job was done! The sun was still high. "We finished before lunch!" Layla said. Working smart made things faster.
 
-### Scene 12 (30 words)
-In the garden, everyone worked on their job. Benny pulled big weeds. Riley planted flowers. Ellis kept track of the work. Layla helped everyone. Frances watched them work. "You are very fast!"
+### Scene 12
+They sat down to rest. They talked about their day. "We each did different things," Riley said. "That made us work better!" Everyone agreed.
 
-### Scene 13 (31 words)
-The garden was done in one hour! It looked so pretty now. The friends gave high-fives. "That was so fast!" said Benny. Working with jobs was much better than everyone doing everything together.
+### Scene 13
+They thought about their strengths now. Benny was strong and fast. Ellis was smart and organized. Riley was creative. Layla was a good leader. Everyone was different!
 
-### Scene 14 (30 words)
-Next, they gave out the papers. Ellis made a plan for where to go. Everyone took a part of the neighborhood. Benny ran to the far houses. They worked fast and smart.
+### Scene 14
+"We're good at different things," Benny said. That was really true! Their differences helped the team. The differences didn't hurt the team. They made it stronger!
 
-### Scene 15 (30 words)
-They met back where they started. All the papers were gone. "All done!" said Layla. "And it's not even lunch time!" They had finished three big jobs before noon. That felt great!
+### Scene 15
+Layla thought about their market idea. "We should all bring different things," she said. Different people could do different jobs. That made sense now.
 
-### Scene 16 (31 words)
-The friends sat on a porch. They ate snacks. "That was a good day," said Riley. "I liked having my own job." Ellis nodded. "I could think better when I had one job."
+### Scene 16
+Riley got excited. "I could make crafts to sell!" Ellis said, "I could keep track of things!" Benny said, "I could carry heavy stuff!" Layla said, "I could organize it!" Everyone had a role.
 
-### Scene 17 (30 words)
-They talked about their strengths. Benny was strong. Ellis was organized. Riley was creative. Layla was a good leader. "We are a good team because we are different!" said Benny with a smile.
+### Scene 17
+They felt excited about their team. Each person doing their best thing. That made the team strong. They learned something important today.
 
-### Scene 18 (31 words)
-Layla thought about their market idea. "We should not all bring the same thing to our market," she said. "We should each bring something different!" That is what makes a team work.
+### Scene 18
+"Division of labor works well," Ellis said. Layla agreed with him. "When everyone does what they're good at, things work better!" The friends understood now.
 
-### Scene 19 (30 words)
-The friends imagined their market. "I could make crafts," said Riley. "I could count things," said Ellis. "I could carry stuff," said Benny. "I could run it," said Layla. Everyone had a job!
+### Scene 19
+They talked about their market plan. Everyone would bring different things. Everyone would do different jobs. That way everyone could help. They could succeed together.
 
-### Scene 20 (30 words)
-"We work so well together," said Layla. "What if we made a REAL market?" The friends got excited. The idea was growing. But first, they needed to learn more about markets.
+### Scene 20
+"We work well together!" Layla said. They could do big things! Like a real Community Market! But first they needed to learn more. About how real markets work. That would be next!
 
 ---
 
-**Total Word Count: 607 words** ✅
+**Total Word Count: 640 words** ✅
+
+---
+
+## FL VOCABULARY
+
+1. **specialize** — Focus on doing one thing well
+2. **division of labor** — Splitting work by strengths
+3. **efficient** — Getting things done fast
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 75 (slow, clear)
+- **Pause:** 2.5 seconds between sentences
+- **Tone:** Warm, encouraging

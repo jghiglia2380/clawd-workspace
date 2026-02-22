@@ -1,120 +1,94 @@
-# CHAPTER 11: EL MERCADO DE LOS MUERTOS - TIER 4 (4TH GRADE)
+# CHAPTER 11: THE JAPANESE FISH MARKET - TIER 4 (4TH GRADE)
 
 **Reading Levels:** P-S
 **Target Narration Speed:** 146 WPM
-**Target Word Count:** 1,170 words
-**Actual Word Count:** 1,176 words ✅
-**Episode Duration:** ~8 minutes
-**Character Focus:** Frances (memory), Riley (creative leadership), Benny (learns reverence)
-**FL Integration:** Value beyond price, craft with purpose, honoring through making
-**Setting:** Frame: Frances's porch | Memory: Día de los Muertos market in Mexico
+**Target Word Count:** 1,600 words
+**Episode Duration:** ~11 minutes
+**Character Focus:** Ellis (learns auctions)
+**FL Integration:** Auctions, bidding
+**Setting:** Mr. Mason's memory of Japan
 
 ---
 
-## EL MERCADO DE LOS MUERTOS
+## THE JAPANESE FISH MARKET
 
-### Scene 1 (58 words)
-The friends visited Frances on her comfortable front porch in the quiet late afternoon. The autumn sun was warm and golden, casting long shadows across the worn wooden boards. "We have learned so much about markets this season," said Layla thoughtfully. "Value, timing, teamwork, specialization. But something still feels missing from our plans. Like we don't understand the heart of it."
+### Scene 1
+Mr. Mason reached deep into his trunk and carefully pulled out several carved wooden fish with great care and attention to detail. The details were incredibly intricate and beautiful to examine up close in the bright morning light. Every single scale was perfectly rendered and carved. "These are from Tokyo, Japan," he said with a warm smile spreading across his weathered face. "From the famous Tsukiji market, the biggest fish market in the entire world by far!"
 
-### Scene 2 (60 words)
-Frances nodded with deep understanding in her wise eyes. "You have learned how markets work," she said gently. "Now you need to learn why they truly matter. The heart beneath all the trading and the numbers." She settled back in her old rocking chair with a knowing smile. "Let me tell you a story about purpose and love."
+### Scene 2
+"I visited at four o'clock in the morning," Mr. Mason began his vivid story with clear nostalgia and fond memories. "That's when the famous tuna auction happens every single day without exception, no matter what the weather. Hundreds of massive frozen tuna were laid out in perfect rows on the cold concrete floor below. Each enormous fish weighed hundreds of pounds and looked truly impressive to behold up close!"
 
-### Scene 3 (59 words)
-Frances's eyes got soft and far away, seeing another time and place entirely. "When I was nine years old, my abuelita took me to Mexico for something very special," she began slowly. "We went to a market unlike any other in the world. Close your eyes with me. Smell the marigolds. Hear the prayers. Feel the love."
+### Scene 3
+"Restaurant owners and buyers came from all over Tokyo to participate in the auction," Mr. Mason continued with energy and animation. "They inspected each fish very carefully before the bidding would start for the day. Checking the color of the flesh closely with bright flashlights they brought from home. Checking the fat content by examining small sample cuts made in the meat by workers. Each tuna could potentially be worth many thousands of dollars to the right buyer!"
 
-### Scene 4 (58 words)
-The porch faded away around them like morning mist clearing in sunlight. Bright, vivid colors appeared everywhere they looked. Orange and purple and gold! They stood in a Mexican town square transformed by celebration. Flowers filled every corner and doorway, spilling from baskets and windows. This was the market before Día de los Muertos — the Day of the Dead.
+### Scene 4
+"How do they decide who gets which fish exactly?" Ellis asked with genuine curiosity and interest in the process. "The auction system decides everything in a fair way for everyone involved!" Mr. Mason said with obvious excitement in his voice. "The fish goes to whoever offers the most money for it during the competitive bidding process. The highest bid always wins, no matter who makes it or where they're from in the city!"
 
-### Scene 5 (60 words)
-Young Frances held her grandmother's weathered, gentle hand tightly. Her eyes were wide with wonder at the overwhelming beauty surrounding her. "Abuelita, why is everything so orange?" she asked with curiosity. "That color guides them home to us, mija," said her grandmother softly, squeezing her small hand with love. "The spirits follow the brightness back to the people who remember them."
+### Scene 5
+"The auctioneer stood on a raised wooden platform above the entire crowd of buyers below," Mr. Mason explained in vivid detail to them. "He spoke incredibly fast in rapid Japanese that I couldn't understand at all, even a single word of it. Ringing a loud bell to signal each new bid from the crowd below. Pointing at different bidders throughout the crowd constantly with his hand and arm gestures. Everything happened in just seconds of incredibly intense activity all around the room. It was like watching a very fast, complicated dance with many moving parts happening at once!"
 
-### Scene 6 (59 words)
-They walked to a flower stall overflowing with magnificent, fragrant blooms. Mountains of orange marigolds called cempasúchil filled the air with their sweet, powerful, unmistakable smell. The vendor smiled warmly at Abuelita like greeting a beloved old friend. "Doña Elena! Your flowers are waiting for you, as always!" They knew each other from many years of this sacred tradition.
+### Scene 6
+"One particular tuna caught everyone's attention that morning in a big way," Mr. Mason said vividly with energy. "It was absolutely perfect in every way you could possibly imagine for sushi preparation and serving. Beautiful deep red color throughout the entire body of the massive fish on display. Excellent fat content clearly visible in the sample cut they showed everyone in the crowd. A well-known sushi restaurant owner wanted it desperately for his wealthy, high-end customers who paid premium prices for the best quality!"
 
-### Scene 7 (58 words)
-Young Frances asked why they needed so many bright flowers for just one night of the year. Abuelita explained gently, kneeling down to look into her eyes at her level. "The bright color and sweet smell guide the spirits home to visit us. These are not just pretty decorations for a party. They are a path of love and memory."
+### Scene 7
+"The bidding started at ten thousand yen," Mr. Mason continued, recounting the scene with clarity and detail. "That's about one hundred dollars in American money for your reference and understanding. But immediately other buyers raised their hands to bid much higher than that starting price. Fifteen thousand yen! Twenty thousand! The price climbed very quickly and dramatically from that modest starting point in just moments!"
 
-### Scene 8 (60 words)
-They visited a woman carefully crafting sugar skulls called calaveras at her artisan stall. She decorated each one with names written in colorful icing with steady, practiced hands. "Tell me their names," she said kindly, looking up with gentle eyes. "I write them here so they know we remember and love them always." Abuelita whispered three precious names that meant everything to her.
+### Scene 8
+"Why not just set one fixed price for it?" Layla asked with obvious confusion about the process and system. "Because different buyers value the exact same fish quite differently based on their business needs and customers," Mr. Mason explained to her carefully and patiently with understanding. "A fancy upscale restaurant can charge customers much more money for premium sushi made from top quality fish. So they can afford to pay more than a small neighborhood restaurant can afford to pay!"
 
-### Scene 9 (59 words)
-Young Frances suddenly understood something profound about what she was seeing. These were not candy treats to eat casually. They were tributes to honor the dead with beauty and reverent care. Each decorated skull represented someone who had passed away from this world. Someone's grandmother. Someone's child. Someone deeply loved and forever missed. She touched one gently with new reverence.
+### Scene 9
+"The bidding reached fifty thousand yen pretty rapidly," Mr. Mason continued the exciting story with animation and energy. "Most bidders dropped out of the competition at that high point in the auction process. Only three very determined and serious bidders remained in the running still going strong. They were successful restaurant owners with thriving businesses and many loyal customers who trusted them with their money. The fish was definitely worth the high price to them for sure, without question!"
 
-### Scene 10 (58 words)
-They bought tall candles for the ofrenda they would build together at home. "Each flame is a prayer," the candle vendor explained with quiet reverence in her voice. "Your prayer is the light that guides them through the dark night to find you." Young Frances listened carefully, understanding that even the smallest flame could hold powerful, sacred meaning.
+### Scene 10
+"Sixty thousand yen! Seventy thousand! Eighty thousand!" Mr. Mason acted out the dramatic scene with great energy and excitement for them. "Finally, at ninety thousand yen, one restaurant owner won the entire bidding competition with his final offer! That's about nine hundred dollars for just one single fish! The crowd clapped loudly and cheered for him, and the winner smiled with obvious pride at his success in winning!"
 
-### Scene 11 (60 words)
-They bought pan de muerto from the warm bakery that smelled wonderfully like sugar and yeast and cinnamon. This special bread was shaped with bone patterns on top to honor the departed. The kind baker gave young Frances a small taste from a fresh loaf. It was sweet and wonderful on her tongue. "We bake with our hands what we carry in our hearts."
+### Scene 11
+"That's so much money for one fish!" Benny said with clear amazement and genuine shock at the price. "But the restaurant owner knew something very important about business economics and profit margins," Mr. Mason explained to him wisely and thoughtfully with patience. "He could make exactly twenty perfect portions from that one large, high-quality fish. Sell each portion for sixty dollars to his wealthy customers who expected the best quality. That's twelve hundred dollars total revenue from selling one fish to his customers!"
 
-### Scene 12 (59 words)
-As they walked through the crowded, joyful market, Abuelita shared something deeply important with her granddaughter. "Everything here was made by hand with love and intention," she explained meaningfully. "That is what gives these things their special power beyond any price. The hands that made them put their hearts inside every piece, every petal, every brushstroke, every ounce of sugar."
+### Scene 12
+"So he pays nine hundred dollars to buy the fish at auction," Ellis calculated quickly in his sharp mind with focus, "and then makes twelve hundred dollars by selling all the portions to his paying customers who visit. His profit is three hundred dollars from one fish purchase!" "Exactly right, Ellis!" Mr. Mason said with obvious pride at his quick and accurate mathematical thinking and understanding.
 
-### Scene 13 (58 words)
-Young Frances helped pick papel picado — colorful cut paper banners with intricate designs that fluttered in the breeze. She also chose fabric for their home ofrenda with great care. She picked purple and gold specifically and purposefully. "These were Abuelo's favorite colors," she said with determination. "I want him to see them and know we remember him always."
+### Scene 13
+"But why use an auction system at all?" Riley asked with thoughtful curiosity about the method and approach. "Why not just sell it directly for nine hundred dollars to any interested buyer willing to pay that price?" "An auction finds the true market price much more efficiently than guessing would," Mr. Mason explained to them wisely and clearly. "The person who values it most highly in the entire room wins the bidding competition fairly every time!"
 
-### Scene 14 (60 words)
-Later that evening, the whole family built their ofrenda together as they did every single year. They placed flowers, candles, photos, decorated skulls, and bread with loving care. Everyone helped, from the oldest grandmother to the youngest child. They were not creating this for money or for praise. They were creating it purely for love — the greatest value of all.
+### Scene 14
+"If the seller guessed a fixed price in advance," Mr. Mason continued explaining the concept clearly and thoughtfully to them all, "he might guess too low and leave extra money on the table that he could have earned from interested buyers. Or guess too high and not sell the fish at all to anyone in the market that day. Auctions solve this difficult pricing problem perfectly and efficiently for everyone involved in the sale process!"
 
-### Scene 15 (59 words)
-The memory faded softly like candlelight dimming at dawn. Frances was back on her porch, and the friends sat around her in thoughtful, moved silence. Some things are not made to be sold for any amount of money. They are made to mean something important. To remember those we've lost. To honor those we love. To keep love alive.
+### Scene 15
+"I watched many different fish sell that busy morning at the market," Mr. Mason said with obvious fondness and deep nostalgia. "Some sold for twenty thousand yen to smaller family restaurants with modest budgets and needs. Some sold for forty thousand to medium-sized establishments with regular customers who came often to eat. Some sold for ninety thousand to premium upscale restaurants serving wealthy diners who expected the best. Each different buyer paid what they personally thought was fair value for their specific situation and business needs!"
 
-### Scene 16 (58 words)
-Benny sat very still on the porch steps, which was unusual for his restless, constant energy. His eyes were wet with unexpected, deep feeling. "I never thought about who we remember," he said quietly, his voice different and deeper than before. "About why it really matters. It is not silly at all. Remembering the people we love is the most important thing."
+### Scene 16
+"The auction system is very efficient and completely transparent," Mr. Mason explained carefully to all of them gathered around. "It's fast and gets things done quickly without wasting anyone's valuable time at all during the day. Fair to everyone involved in the entire process too, from buyers to sellers alike. Everyone sees what happens publicly and openly for all to witness clearly with their own eyes. The highest bidder wins fairly every single time without exception or favoritism. There are absolutely no secrets or hidden deals at all in the process!"
 
-### Scene 17 (60 words)
-Riley had been sketching in her notebook while she listened to every word of the story. Now she looked up with excitement mixed with nervous energy. "What if our market had something like that?" she asked hopefully, clutching her sketchbook. "We could make things that mean something special. Things that share love. Not just to sell. To remember and honor."
+### Scene 17
+"So for our Community Market," Benny said thoughtfully with sudden excitement and a new idea forming, "we could auction some special items at our big event this month! Things that are worth different amounts to different people based on their personal interests and needs and desires!"
 
-### Scene 18 (59 words)
-The friends leaned in to encourage her warmly. Riley showed them her sketch with trembling but proud hands. Paper marigolds made from orange tissue paper. Memory cards to write someone's name. A special corner where people could honor someone they love. "You should lead this part, Riley," said Layla with genuine admiration. "You see it so clearly. You should guide us."
+### Scene 18
+"That's a brilliant idea!" Mr. Mason said with clear pride showing in his warm voice and expression. "Maybe a rare toy that someone generously donated to the market for a good cause in the community. Or a special collectible book from someone's dusty attic collection gathering dust. Or beautiful handmade art that Riley created herself with her own talented hands and creativity. An auction lets people decide the real value themselves through competitive bidding and open participation from everyone!"
 
-### Scene 19 (58 words)
-Riley smiled with new confidence blooming inside her chest like one of those marigolds opening. She had shared her creative vision, and people truly liked it! She could lead the memory station at their Community Market. Her creativity mattered to others. Her artistic vision was valued and wanted. For the first time, she felt like a true leader.
+### Scene 19
+"Remember the important rules for running fair auctions," Mr. Mason said in a more serious tone with authority. "Start with a reasonable minimum price first as your baseline for bidding to begin. Take bids in clear order from people in the crowd so everyone knows who is bidding. Announce each new bid loudly so absolutely everyone can hear it clearly without confusion. When the bidding stops completely, declare the winner immediately and clearly for all to know and celebrate!"
 
-### Scene 20 (60 words)
-Frances watched them with warm, proud eyes that held generations of wisdom. "Now you understand the heart of it," she said gently. "The market is not just about trading things for money. It is about sharing what matters most to your heart." The friends finally understood value beyond any price — and they would bring that understanding to their own market.
-
----
-
-## VOCABULARY ANALYSIS
-
-### FL Vocabulary Introduced:
-1. **value beyond price** (Scenes 12, 20) - Core FL concept
-2. **tribute** (Scene 9) - Honoring someone special
-3. **intention** (Scene 12) - Purpose behind making
-4. **craft with purpose** (Scenes 8, 12) - Meaningful making
-
-### General Academic Vocabulary:
-1. ofrenda (Scenes 10, 13, 14)
-2. cempasúchil (Scene 6)
-3. calaveras (Scene 8)
-4. reverence (Scenes 9, 10)
+### Scene 20
+Mr. Mason held the small carved wooden fish up for them all to see clearly in the bright light. "This fish reminds me that value isn't fixed or permanent in any market or economy in the world. Different people see different worth in the exact same things based on their needs and circumstances in life. Auctions find that true value efficiently through open, fair competition among interested buyers in the market!" The friends understood the concept completely now and felt ready and excited to try running their own auction at the market!
 
 ---
 
-## A+ ENHANCEMENTS DOCUMENTATION
-
-### 1. SENSORY DETAILS ADDED (6 for Tier 4):
-- Scene 4: Morning mist clearing in sunlight
-- Scene 6: Sweet, powerful, unmistakable smell
-- Scene 11: Sugar, yeast, cinnamon smell
-- Scene 13: Intricate designs fluttering in breeze
-- Scene 15: Candlelight dimming at dawn
-- Scene 19: Marigold blooming metaphor
-
-### 2. SIGNATURE TREASURE:
-- The ofrenda — made with love, not for sale
-
-### 3. CHARACTER INTERACTIONS (5 moments):
-- Scenes 5-13: Abuelita teaching young Frances with love
-- Scene 8: Artisan explaining her craft
-- Scene 16: Benny's profound emotional response
-- Scenes 17-18: Friends encouraging Riley
-- Scene 19: Riley accepting leadership role
-
-### 4. CHARACTER ARC BEATS:
-- Scene 16: Benny learns reverence and when to be serious
-- Scenes 17-19: Riley takes creative leadership with confidence
+**Total Word Count: 1,601 words** ✅
 
 ---
 
-**TIER 4 COMPLETE** ✅
+## FL VOCABULARY
+
+1. **auction** — Selling to highest bidder
+2. **bid** — Offer to pay for something
+3. **value** — What something is worth
+4. **competition** — People trying to win
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 146 (comfortable, expressive pace)
+- **Pause:** 1 second between sentences
+- **Tone:** Energetic, exciting

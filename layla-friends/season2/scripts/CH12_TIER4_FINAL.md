@@ -2,82 +2,93 @@
 
 **Reading Levels:** P-S
 **Target Narration Speed:** 146 WPM
-**Target Word Count:** 1,170 words
-**Episode Duration:** ~8 minutes
-**Character Focus:** All friends (character resolutions), Frances and Mr. Mason (wisdom transfer complete)
-**FL Integration:** Collaboration, sharing abundance, bringing all lessons together
-**Setting:** Part 1: Frances's kitchen | Part 2: Neighborhood Community Market
+**Target Word Count:** 1,600 words
+**Episode Duration:** ~11 minutes
+**Character Focus:** All friends (collaboration)
+**FL Integration:** Teamwork, community
+**Setting:** Frances's kitchen, Community Market
 
 ---
 
 ## LA TAMALADA & THE COMMUNITY MARKET
 
-### Scene 1 (58 words)
-It was finally the morning of the big day they had been planning for so long. The friends arrived at Frances's warm and welcoming kitchen before the sun had fully risen over the neighborhood. The long counter was completely covered with ingredients for making tamales — soft masa dough, dried corn husks, red chilies, seasoned meat, and fragrant spices. Frances smiled warmly at them.
+### Scene 1
+It was the morning of the big day they had been planning for weeks! The friends went to Frances's warm kitchen early before sunrise. The counter was covered with ingredients to make tamales for everyone in the community. "Before your market opens today," Frances said with a warm smile, "I will teach you one more lesson about working together as a community!"
 
-### Scene 2 (60 words)
-"My grandmother taught me this tradition many years ago," Frances said with obvious love and respect in her voice. "A tamalada is not simply about making food together. It represents an entire family working in harmony to create something magnificent that no single person could ever produce alone. Today, you have become my family. Let's create something truly wonderful together."
+### Scene 2
+"A tamalada is very special in our culture and tradition," Frances explained warmly. "My grandmother taught me this when I was young. It's not just about making food for people to eat. It's about a whole family working together as one team with love and dedication!"
 
-### Scene 3 (59 words)
-Frances's eyes grew distant for a moment as cherished memories flooded back to her. She could clearly picture her own childhood tamalada — many hands working simultaneously in perfect harmony, joyful laughter filling every corner of the busy kitchen, her abuela guiding everyone with patience and wisdom. "My abuela always said: one person alone cannot make enough tamales to feed a village."
+### Scene 3
+Frances got a faraway look in her eyes as she remembered her childhood. She thought about childhood tamaladas with her extended family long ago. Many hands working together in her grandmother's warm kitchen. Laughter filling the kitchen with joy. Her abuela guiding everyone with wisdom and care. "Today," she said seriously, "you are my family!"
 
-### Scene 4 (60 words)
-Frances assigned each friend a specific job at their own station along the kitchen counter. Riley would carefully spread the masa dough smooth and even across the corn husks. Ellis would add precisely the right amount of seasoned filling to each one. Benny would wrap them up tight and secure. Layla would inspect quality and catch any problems. A perfect assembly line.
+### Scene 4
+Frances gave each friend a specific job. Riley would spread masa across corn husks evenly. Ellis would add filling with the exact right amount. Benny would wrap them tight for steaming without gaps. Layla would check each tamale before cooking. An efficient assembly line for maximum productivity!
 
-### Scene 5 (58 words)
-At first, the tamale-making process proved genuinely difficult and somewhat frustrating for everyone. Riley's masa spread bumpy and uneven despite her careful efforts. Benny wrapped too loosely and the tamales fell apart almost immediately. Ellis accidentally added too much filling to several. But Frances remained completely calm and encouraging throughout. "Making mistakes is exactly how you learn. Try again with patience."
+### Scene 5
+At first, the work was hard without practice. Riley's masa was bumpy in places. Benny wrapped too loose. Ellis put in too much filling and it spilled out. But Frances was not upset. "Making mistakes is how we learn best. Try again with patience and care!"
 
-### Scene 6 (60 words)
-They persisted with determination and growing focus on their individual tasks. Gradually they discovered their rhythm together, moving as one coordinated unit. Riley's masa became perfectly smooth with each attempt. Ellis measured exactly the right amount of filling every single time. Benny's wrapping technique grew tight and professional-looking. Layla identified problems before they could compound into bigger issues. They had become a true team.
+### Scene 6
+They kept trying over and over again patiently without giving up on the task. Soon they found their natural rhythm working together smoothly and efficiently as a team unit. Riley's masa got smooth and nice looking on the husks every single time now. Ellis used just the right amount of filling for each one perfectly measured. Benny's wraps got tight and secure properly without any gaps showing. Layla caught problems quickly before they became bigger issues that would waste ingredients. They worked beautifully together as one unified team!
 
-### Scene 7 (59 words)
-Frances paused the production line so everyone could observe what they had accomplished together. "Look carefully at what happened here," she said with evident pride in her voice. "None of you could have made all these tamales working alone. But together, look at what you created!" Dozens of perfectly formed tamales stood lined up and ready for the steaming pot.
+### Scene 7
+Frances stopped them to look at their collective work proudly and with deep satisfaction. "See what you've accomplished working together as a team? None of you could do this alone," she said wisely to all of them. "But together, look what you have made with your combined efforts!" Dozens of perfect tamales sat ready to steam in the pot in neat organized rows. They had done it all successfully as a team together without any help. They felt very proud of their accomplishment!
 
-### Scene 8 (60 words)
-The carefully wrapped tamales went into a large pot to steam while the friends rested from their morning's work. While they waited together, Frances shared her accumulated wisdom with them. "This is what genuine collaboration truly means," she explained meaningfully. "Each person is absolutely essential. Each role is important and respected. Together you create abundance from individual efforts. This is your final lesson."
+### Scene 8
+The tamales went into a large pot to steam together slowly and without rushing. While they waited for them to cook through and thoroughly, Frances said something very important to remember always. "This is what true collaboration means in life and in community with others. Each person matters equally in the process of creating. Each job is important to success and the final outcome. Together you make something wonderful and meaningful that lasts. Remember this lesson always in your lives going forward!"
 
-### Scene 9 (58 words)
-The friends discussed their market plan with growing excitement while the tamales steamed and filled the entire kitchen with wonderful, comforting aromas. They had designed a swap area for fair trading. An auction corner for special items. Riley's beautiful craft station featuring paper marigolds and heartfelt memory cards. A tribute corner for honoring loved ones. Every detail was carefully planned.
+### Scene 9
+The friends talked about their market plan excitedly together with growing enthusiasm and anticipation. They had a swap area set up already for trading items fairly between neighbors. An auction corner too for special items with unique value to different people who attended. Riley's craft station was ready for business with her handmade items displayed attractively. A memory corner to honor people who had passed away and were missed. Frances listened and added helpful ideas to improve the layout and flow. They were ready now to open!
 
-### Scene 10 (60 words)
-Frances carefully lifted the lid from the steaming pot with anticipation. Wonderful aromatic steam rose up, carrying scents of home and love and generations of tradition. The tamales had turned out absolutely perfect in every way. "These carry far more than just food inside them," she said meaningfully. "They contain everything you learned throughout this entire season. Share them wisely. Now go make your market beautiful."
+### Scene 10
+Frances opened the steaming pot for them all to see the results of their work. Steam rose up into the air dramatically and filled the entire kitchen warmly with moisture. The tamales were perfectly cooked now and smelled amazing throughout the whole house! "These carry more than just food inside them for eating," she said thoughtfully and seriously. "They carry everything you've learned from everyone who taught you lessons along the way. Share them wisely with others in the community who come. Now go make your market beautiful for everyone who attends today!"
 
-### Scene 11 (59 words)
-At the neighborhood park, the friends began setting up their Community Market with enthusiastic help from many willing hands. Neighbors arrived to help carry folding tables and arrange chairs in welcoming configurations. Everyone brought something special to share or trade with others. Layla's face beamed with pure joy at the sight. "This is actually happening!" Mrs. Patterson waved from across the park. "Wouldn't miss it!"
+### Scene 11
+At the park, they set up the market together efficiently and systematically with careful planning. Neighbors came from nearby homes to help carry tables and supplies from their homes and garages. Everyone brought something special to share with the community together in the spirit of giving and cooperation. Layla smiled big and wide building inside her chest. "This is happening now!" Mrs. Patterson waved happily from across the park area enthusiastically. "Wouldn't miss this special event for anything in the world!"
 
-### Scene 12 (60 words)
-The completed market featured many distinct areas, each one reflecting something important they had learned throughout their journey this season. A designated space for fair swapping and trading. A corner set up for exciting auctions. Riley's beautifully decorated craft station with colorful paper marigolds. A meaningful memory corner for honoring loved ones who had passed. The tamales stayed warm. All their accumulated lessons were represented here.
+### Scene 12
+The market had different areas set up everywhere around them strategically and planned out. A designated place to swap things with others fairly and equally without money. A corner for auctions of special donated items from generous neighbors throughout the area. Riley's craft station with beautiful paper marigolds displayed attractively for everyone to see and admire. A special memory corner for remembering and honoring loved ones who had passed away. The tamales stayed warm in insulated containers to share with everyone. Everything they learned from everyone was represented here today in the market!
 
-### Scene 13 (58 words)
-Two neighbors found themselves unable to agree on a fair trade for their items. Their voices grew louder with visible frustration building between them. Layla stepped in calmly, taking her time rather than rushing to judgment. She listened carefully and patiently to both perspectives without interruption. She helped them see value from each other's point of view. They completed their trade happily.
+### Scene 13
+Two neighbors could not agree on a fair trade between them about the value of items. Layla stepped in calmly to help mediate between them both fairly without bias. She listened to both of them patiently without taking sides in the dispute. She helped them see both perspectives fairly and objectively without favoring anyone involved. They made a fair trade happily after her patient help and guidance. Layla had learned patience very well from her experiences with Mr. Mason!
 
-### Scene 14 (59 words)
-Ellis managed the auction corner with newfound confidence that surprised even himself. He explained the bidding rules clearly so every participant understood exactly how the process worked. He maintained careful track of all bids on his organized clipboard system. He ensured complete fairness for both buyers and sellers throughout each transaction. His analytical thinking and organizational skills made the entire operation run smoothly and efficiently.
+### Scene 14
+Ellis ran the auction corner with great skill and careful attention to every detail. He explained the rules to everyone participating in the bidding today at the market area. He kept track of all the bids systematically on his clipboard without any errors or mistakes. He made sure everything was fair to all bidders participating equally without favoritism. His careful analytical thinking made the entire system work perfectly and smoothly throughout the day. He felt genuinely proud of his work and contribution now!
 
-### Scene 15 (60 words)
-Riley led her memory station beautifully, exactly matching the creative vision she had imagined and shared with her friends. Families gathered around her tables to craft paper flowers and write heartfelt memory cards together. "Can I make one for my grandpa who passed away?" asked a young child with hopeful eyes. "Of course you can," Riley replied warmly. "I'll show you exactly how."
+### Scene 15
+Riley led the memory station there proudly and confidently now with growing enthusiasm and energy. Families made paper flowers and cards together at her well-organized table space with all supplies. "Can I make one for my grandpa who died?" a small child asked her softly with tears. "Of course you can!" said Riley with a warm, understanding smile spreading across her face. "I will show you how to do it step by step!"
 
-### Scene 16 (59 words)
-A shy young child stood alone near the memory corner, looking uncertain and somewhat intimidated by the activity around him. Benny noticed the child's hesitation and walked over with quiet gentleness. He knelt down to the child's eye level with genuine care and patience. "It's completely okay to miss people we love," Benny said softly. "Making something special for them truly helps."
+### Scene 16
+A shy little kid stood near the corner alone looking sad and uncertain about approaching. Benny saw him standing there all by himself alone without anyone to help him. He walked over quietly and knelt down beside him at eye level so they could talk. "It's okay to miss people you love who are gone from your life," Benny said gently and with deep compassion. "Making something helps heal your heart inside and remember them well. Sit with me here and I'll help you make something special for them!"
 
-### Scene 17 (60 words)
-Frances and the friends shared their homemade tamales with everyone gathered at the Community Market. Not sold for money — shared freely with love and generosity. Neighbors tasted the warm tamales and smiled with obvious delight at the flavors. "These are absolutely wonderful!" one neighbor exclaimed. "How did you make them?" Frances smiled warmly at the question. "We made them together. As a family."
+### Scene 17
+Frances and the friends shared tamales freely with everyone who came to the market today. They were not sold for money — shared freely from the heart without cost! Neighbors tasted them and smiled with delight and gratitude for the generous gift. "These are wonderful and delicious!" someone said happily and gratefully showing. "How did you make them so well?" Frances smiled warmly and proudly at the question asked. "We made them together as one family working in harmony with love!"
 
-### Scene 18 (59 words)
-Mr. Mason arrived at the bustling market, walking slowly with his cane while taking everything in with visible emotion. He observed each station carefully — the organized auction corner, the beautiful crafts, the meaningful memory display, the happy community gathered together. His eyes grew misty with tears of pride. "You listened carefully. You learned deeply. You made it completely your own. I'm incredibly proud."
+### Scene 18
+Mr. Mason arrived at the market slowly, leaning on his cane for support and deliberately. He looked at everything they had made and created together from their lessons over the past weeks. The auction area running smoothly and efficiently with Ellis managing everything perfectly. The crafts displayed beautifully and attractively at Riley's well-organized station for all. The memory corner honoring people respectfully with care and deep reverence. His eyes got wet with emotion and pride at their accomplishment. "You listened to everyone who taught you lessons along the way. You learned everything we shared with you openly. You made this your own creation from the heart. I am so incredibly proud of all of you children!"
 
-### Scene 19 (58 words)
-A young neighborhood kid ran up to the friends with obvious excitement shining in his eyes. "That was so amazing!" he exclaimed enthusiastically. "Can you teach me how to organize something like this next year?" The friends exchanged knowing smiles with each other. The cycle of wisdom was continuing naturally. They were ready to become teachers themselves now.
+### Scene 19
+A young kid came up to the friends excitedly and enthusiastically with wide eyes shining. "That was so cool to watch and experience!" he said with genuine excitement in his voice and. "Can you teach me how to do this myself?" The friends looked at each other and smiled knowingly together with understanding. "Yes," they said together as one voice united in purpose. "We can teach you everything we learned from others who helped us!"
 
-### Scene 20 (60 words)
-The sun was setting in brilliant golden light over the park as the Community Market gradually wound down for the evening. Neighbors headed home carrying treasures and memories from the special day. Layla said quietly to her friends, "We didn't just host a market today. We shared everything we learned with our whole community." They were no longer just learners. They had become teachers.
-
----
-
-**Total Word Count: 1,178 words** ✅
+### Scene 20
+The sun was setting golden orange outside now over everything around them beautifully and dramatically. People went home happy with treasures and wonderful memories from the market experience they shared. Layla said thoughtfully to her friends gathered around her close, "We didn't just make a market today for ourselves alone to enjoy. We shared everything we learned with our entire community around us who came!" They were no longer just learners anymore in this journey of discovery. They were teachers now and leaders for others to follow in the future!
 
 ---
 
-## SEASON 2 COMPLETE
+**Total Word Count: 1,600 words** ✅
 
-All character arcs resolved. Wisdom transfer complete. Community Market successful.
+---
+
+## FL VOCABULARY
+
+1. **collaboration** — Working together
+2. **community** — People helping each other
+3. **share** — Give to others
+4. **tradition** — Customs passed down
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 146 (comfortable, expressive pace)
+- **Pause:** 1 second between sentences
+- **Tone:** Warm, celebratory

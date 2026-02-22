@@ -2,77 +2,92 @@
 
 **Reading Levels:** P-S
 **Target Narration Speed:** 146 WPM
-**Target Word Count:** 1,170 words
-**Episode Duration:** ~8 minutes
+**Target Word Count:** 1,600 words
+**Episode Duration:** ~11 minutes
 **Character Focus:** Mr. Mason as wisdom keeper
-**FL Integration:** Objects carry stories; curiosity opens doors to learning
+**FL Integration:** Objects carry stories and economic lessons
 **Setting:** Mr. Mason's house and attic
-**Key Function:** Bridge chapter — establishes memory chapters
 
 ---
 
 ## MR. MASON'S TRUNK
 
-### Scene 1 (58 words)
-The friends walked up the familiar path to Mr. Mason's cozy house on a pleasant afternoon. He sat comfortably on his front porch, smiling warmly at their approach. "Perfect timing!" he called out with genuine pleasure. "I'm finally tackling that old attic of mine after all these years. Could you possibly help me reach some high shelves?"
+### Scene 1
+The four friends walked together to Mr. Mason's house on a quiet afternoon in late summer. He was sitting comfortably on his front porch enjoying the pleasant weather around him. "Hello there!" he greeted them with a genuinely warm smile spreading across his weathered face. "I was hoping you'd come by today. I need help reaching some items in my attic space. Would you young people be willing to help an old man with this task?"
 
-### Scene 2 (59 words)
-They followed Mr. Mason through his front door into the comfortable living room. The house felt warm and welcoming, filled with fascinating objects at every turn. Photographs covered the walls in neat arrangements. Framed maps hung beside them. Small souvenirs occupied every available shelf space. "You have so many incredible things!" Riley observed with obvious admiration. "Every single one has a story," Mr. Mason replied mysteriously.
+### Scene 2
+They followed Mr. Mason inside his cozy, warmly decorated house with growing curiosity building. The interior was filled with absolutely fascinating items collected from around the entire world. Photographs covered the walls showing distant places he had visited many years ago during his travels. Maps and small objects decorated every available shelf space throughout the rooms everywhere. "You have so many interesting things!" Riley exclaimed with genuine wonder in her voice clearly. Each item seemed to have its own unique story waiting to be told to them.
 
-### Scene 3 (60 words)
-Mr. Mason led them down a narrow hallway to where a folding ladder led up to the attic above. He reached up and pulled the ladder down carefully. Dust particles floated gracefully in the shaft of golden light that streamed from the opening overhead. "I haven't ventured up here in many years," he admitted quietly. "Let's discover what we find together."
+### Scene 3
+Mr. Mason led them to a wooden ladder that reached up into the attic above them. Dust particles floated gracefully through the warm afternoon sunlight streaming in through the windows. "I haven't ventured up here in quite a few years now," he admitted quietly to them. His voice carried a distinct hint of nostalgia for times long past and memories. "Let's go up together and see what treasures we can find hidden away!" The friends climbed up carefully behind him one by one in a line.
 
-### Scene 4 (58 words)
-The friends climbed the ladder one by one and emerged into the dusty attic space above. Boxes and old furniture filled every corner in organized chaos. Sunlight streamed through a small window, making dust particles dance like tiny stars in the air. "Wow," Layla breathed with wonder, looking around at everything. "It's like a secret museum!" Benny agreed enthusiastically.
+### Scene 4
+The attic was completely filled with boxes and old belongings from many decades of collecting. Interesting objects were stacked everywhere they looked around them in the dim natural light. Sunlight streamed through a small round window creating dramatic lighting effects throughout the space. "Wow!" Layla said with wide eyes full of amazement at what she saw. "It's like walking into a real museum of history!" The friends stood there in silence taking in the incredible sight. History surrounded them on all sides.
 
-### Scene 5 (59 words)
-They began helping Mr. Mason organize the accumulated items from years past. He pointed to various boxes and pieces of furniture, deciding what should remain and what could finally be discarded. The friends carefully moved objects around according to his directions. It seemed like fairly routine attic cleaning work initially. "That can go. That stays," Mr. Mason directed. "Be careful with that fragile one."
+### Scene 5
+They helped Mr. Mason sort through items throughout the afternoon hours with care and attention. He instructed them carefully about what to keep and what to discard or donate. "That can stay right here. That can go to the donation pile." The friends moved boxes around very carefully and respectfully without rushing through the work at all. They treated each item with the care it deserved. The work progressed steadily forward through the afternoon.
 
-### Scene 6 (60 words)
-Ellis moved an old wool blanket draped over something in the back corner and stopped suddenly in surprise. Underneath it sat a large leather trunk completely covered with colorful stickers from destinations around the globe. He could identify labels from Paris, Cairo, Tokyo, Morocco, and many other exotic locations among the collection. "Mr. Mason?" Ellis called out with mounting excitement. "What's THIS?"
+### Scene 6
+Ellis discovered something unusual in a dusty corner partially hidden by old blankets and sheets. It was a large old trunk covered completely in colorful travel stickers from around the world! The stickers showed exotic places from all around the world he recognized immediately. "Mr. Mason!" Ellis called out with genuine excitement in his voice to the group. "What is this amazing trunk over here in this corner?" Everyone immediately stopped what they were doing. They gathered around to see what he found.
 
-### Scene 7 (58 words)
-Everyone gathered around the mysterious trunk with curiosity. Mr. Mason's expression transformed visibly when he recognized it. A complex mixture of nostalgia and pure joy spread across his weathered features. He knelt down slowly and touched the worn leather surface with gentle, reverent fingertips. "My old traveling trunk," he said softly. "This faithful companion went everywhere with me when I was young."
+### Scene 7
+The friends all gathered around to examine the trunk more closely together in the light. Mr. Mason's expression softened noticeably with happy memories flooding back to him all at once. He touched the trunk's worn leather surface very gently and lovingly with his weathered hand. "My old traveling trunk," he said with clear emotion filling his voice now. "This faithful companion went everywhere with me for many years of traveling abroad. We traveled the entire world together on countless adventures and journeys."
 
-### Scene 8 (60 words)
-Mr. Mason carefully opened the trunk's heavy lid with anticipation. Inside, they discovered objects wrapped protectively in soft cloth, old photographs preserved in faded frames, and small treasures collected from around the entire world. Each item seemed to hold its own particular secret and history. "Every object in here represents a memory," Mr. Mason explained meaningfully. "A lesson learned. A story waiting patiently to be told."
+### Scene 8
+Mr. Mason carefully opened the heavy trunk lid very slowly and carefully for them. Inside were many wrapped objects packed carefully and protectively together with obvious care. Old faded photographs were tucked between the various items for safekeeping from any damage. "Every single object carries a memory with it," he explained thoughtfully to the group. "Each one has an important story to tell about places and people and experiences." The friends leaned in closer with curiosity and interest. They wanted to see everything.
 
-### Scene 9 (58 words)
-Mr. Mason lifted out a small leather pouch as his first selection. He loosened the drawstring and opened it, releasing the rich scent of exotic spices that immediately filled the dusty attic air around them. He breathed deeply and smiled with evident pleasure. "This is from a market in Morocco," he explained. "The famous spice market... where I first learned the true art of negotiation."
+### Scene 9
+Mr. Mason lifted out a small fabric bag very carefully from inside the trunk. It contained aromatic spices from a distant Middle Eastern land far away across the ocean. He smelled them deeply and smiled with pure joy at the memories flooding back. "This is from Morocco," he said warmly to the fascinated children around him. His eyes sparkled brightly with the vivid memory of that place. "I learned about marketplace economics there many years ago as a young man." The exotic spices filled the attic with their distinctive scent.
 
-### Scene 10 (59 words)
-Mr. Mason's eyes grew distant and unfocused as memories transported him across time and distance. "Stalls stretched as far as the eye could see," he began describing the scene. "Spices displayed in every imaginable color of the rainbow. Merchants calling out enthusiastically to everyone passing by." His rich voice seemed to carry them toward that faraway place. The friends listened with complete attention.
+### Scene 10
+Mr. Mason's eyes seemed to look far into the distance as he remembered it now. He was clearly remembering his travels vividly in his mind's eye at that moment. "There were market stalls everywhere in the most vibrant colors you can imagine," he described. "Spices in every imaginable color filled the air with distinctive scents everywhere. Men calling out their competitive prices loudly to potential customers passing by them." The friends hung on every single word he spoke. They wanted more stories from him.
 
-### Scene 11 (60 words)
-"Go ahead and explore inside," Mr. Mason invited the friends with a welcoming gesture. "But handle everything carefully — these possessions are far more than simple objects. They're teachers with lessons to share." The friends reached into the trunk with gentle, respectful hands, each one discovering something different among the carefully wrapped treasures inside. Every item clearly originated from a different corner of the world.
+### Scene 11
+"You can carefully look through the trunk yourselves now," Mr. Mason offered generously to them. "But please handle everything with care and respect for the memories they hold. These objects are very special to me from my travels around the world." The friends began exploring the trunk's contents carefully and reverently with gentle hands. They discovered many fascinating objects from cultures around the entire world everywhere. Each item felt precious and meaningful to them all. History came alive before them.
 
-### Scene 12 (59 words)
-Riley lifted out a small carved wooden fish with delicate details. Mr. Mason nodded approvingly when he recognized it. "That particular treasure comes from Japan," he explained thoughtfully. "The bustling fish market in Tokyo, to be precise. I observed an auction there that completely transformed how I think about prices and value." Riley held the beautiful fish carefully, imagining that distant market.
+### Scene 12
+Riley found a beautifully carved wooden fish tucked away carefully inside the trunk. "That's from Japan," Mr. Mason explained with a kind, knowing smile on his face. "I visited a fish market auction there once many years ago overseas. I learned about competitive bidding and dynamic market prices that morning at the docks." Riley held the delicate fish gently in both hands with respect. She admired the intricate carving work that went into creating it so long ago.
 
-### Scene 13 (58 words)
-Benny discovered a wooden stamp with beautifully carved intricate patterns. "What was this used for?" he asked curiously, turning it over to examine all sides. "That's a bread stamp from Italy," Mr. Mason said with evident fondness. "From a family bakery that had been operating continuously for three generations. They taught me valuable lessons about tradition and passing knowledge down."
+### Scene 13
+Benny discovered a wooden stamp decorated with elaborate, intricate patterns carved skillfully into it. "That's used for making decorative bread," Mr. Mason said with a warm smile. "It's from Italy many decades ago now. A family bakery that's still operating there successfully today after generations." Benny turned the stamp over carefully in his hands to examine it. He examined the beautiful designs carved into the old, worn wood carefully. The craftsmanship was truly remarkable and showed great skill.
 
-### Scene 14 (59 words)
-Ellis found a tiny decorative fishing net woven with remarkable skill among the treasures. "This particular item came from a Mediterranean fishing village," Mr. Mason explained with a faraway expression in his eyes. "I actually helped a local fisherman sell his morning catch there once. I learned an important lesson that day — timing matters enormously because some things simply cannot wait."
+### Scene 14
+Ellis found a tiny fishing net woven with fine threads by hand long ago. "That's from a small fishing village," Mr. Mason recalled fondly and warmly from his memory. "I helped fishermen sell their morning catch one memorable day there by the water. I learned that fresh goods sell very quickly at premium prices compared to others." Ellis studied the net's construction closely with his analytical mind working. He appreciated the careful craftsmanship that went into making it properly and well.
 
-### Scene 15 (58 words)
-Layla carefully held up a beautiful hand-carved wooden star ornament that caught and reflected the attic light. Mr. Mason's entire face illuminated with joy at the sight of it. "That precious piece comes from a Christmas market in Germany," he said warmly. "Snow falling gently, lights glowing everywhere, and handmade treasures filling every stall. Pure magic in the winter."
+### Scene 15
+Layla found a beautiful wooden star painted in shimmering gold leaf very carefully. It was very pretty and carefully crafted by skilled hands many years ago. "That's from Germany," Mr. Mason remembered with a warm, nostalgic smile on his face. "From a Christmas market covered in fresh snow everywhere you looked around. Lights and music filled the cold air everywhere you turned your head." Layla held the star up high toward the window there. The sunlight streaming through made it shine beautifully.
 
-### Scene 16 (60 words)
-Mr. Mason settled back and regarded the four friends gathered around his precious trunk with a meaningful expression. His face became serious but remained genuinely kind. "These aren't merely old things collecting dust in my attic," he said with significance. "They represent lessons I've been carefully saving for the right people to hear. I believe I've been waiting specifically for you."
+### Scene 16
+Mr. Mason looked at the four friends with genuine kindness in his expression clearly. "These are not just old souvenirs from my travels abroad," he said with seriousness. "They contain important lessons about economics and how the world works together daily. I've been waiting for the right people to share them with properly over the years. I sincerely believe that's you four!" The friends felt deeply honored by his trust.
 
-### Scene 17 (58 words)
-The friends were completely captivated by his words and the treasures before them. They leaned forward eagerly with anticipation. "Will you share all the stories with us?" Layla asked hopefully. "Please tell us absolutely everything!" Benny added with enthusiasm. The treasures in the trunk suddenly felt like precious keys that could unlock adventures and accumulated wisdom from markets around the entire world.
+### Scene 17
+The friends became very excited at this profound revelation about the trunk's true purpose. "Will you tell us all the stories?" Layla asked eagerly with clear interest. "Please!" Benny added with energy clear in his voice to the request. They all wanted to hear every single story he could remember from his travels. Each object represented a special lesson about how markets worked around the world. They were completely ready to learn everything he knew.
 
-### Scene 18 (59 words)
-Mr. Mason smiled warmly at their obvious enthusiasm and genuine interest. "One story at a time," he agreed with a nod. "Each object contains a lesson waiting inside it. Let's begin with the spices." He held up the small leather pouch once again. "The legendary markets of Morocco... that's where our journey together will properly start. Are you prepared to listen and learn?"
+### Scene 18
+Mr. Mason smiled at them warmly and settled in comfortably on an old chair. "One story at a time," he said wisely to the eager group of children. He held up the fragrant spice bag carefully in his weathered hands again. "Let's start with Morocco today and work our way around the globe over time. That's where our educational journey together begins." The friends got comfortable on the dusty floor. They were ready to listen carefully.
 
-### Scene 19 (60 words)
-As Mr. Mason began describing the Moroccan market in greater vivid detail, something genuinely magical seemed to occur in the attic around them. The edges of the dusty space appeared to soften and blur somehow. Colors and sounds from a distant place seemed to shimmer tantalizingly at the corners of their vision. The memory itself was beginning to come alive before their eyes.
+### Scene 19
+Mr. Mason began describing his adventures in Morocco vividly and with rich, colorful detail. Something magical seemed to happen in the dusty, cluttered attic around them. The space felt completely different now to everyone present there in that moment. Colors seemed to materialize around them in the air mysteriously and beautifully. Sounds and scents filled their active imaginations completely and vividly with images. The story was coming alive right there before them! They could almost see the bustling marketplace clearly.
 
-### Scene 20 (59 words)
-The friends settled comfortably around the open trunk, ready to travel through Mr. Mason's remarkable memories together. They were about to learn valuable lessons from markets spanning the entire globe. And in Layla's imaginative mind, their own Community Market concept grew considerably stronger with each passing moment. To build truly great markets, they should learn from the greatest markets the world had ever known.
+### Scene 20
+The friends sat in a circle around the weathered old trunk together in the attic. They were completely ready to learn new things about economics and markets from him. Mr. Mason would teach them about real markets from his personal experiences traveling. Layla thought to herself with growing determination and excitement: "This knowledge will help us make our own Community Market successful and strong!" The lessons were just beginning for all of them now. Their education would start with Morocco today.
 
 ---
 
-**Total Word Count: 1,176 words** ✅
+**Total Word Count: 1,600 words** ✅
+
+---
+
+## FL VOCABULARY
+
+1. **souvenir** — An object from a place
+2. **auction** — Selling to highest bidder
+3. **marketplace** — Place to buy and sell
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 146 (comfortable, expressive pace)
+- **Pause:** 1 second between sentences
+- **Tone:** Warm, nostalgic, wonder

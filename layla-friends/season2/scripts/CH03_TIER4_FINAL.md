@@ -2,77 +2,92 @@
 
 **Reading Levels:** P-S
 **Target Narration Speed:** 146 WPM
-**Target Word Count:** 1,170 words
-**Episode Duration:** ~8 minutes
-**Character Focus:** All four friends discovering their unique strengths
-**FL Integration:** Specialization and division of labor
-**Setting:** Various neighborhood locations
-**Season Goal:** Plants the Community Market idea
+**Target Word Count:** 1,600 words
+**Episode Duration:** ~11 minutes
+**Character Focus:** All four friends
+**FL Integration:** Specialization, division of labor
+**Setting:** Neighborhood locations
 
 ---
 
 ## THE BUSY SATURDAY
 
-### Scene 1 (58 words)
-The four friends gathered outside the community center on a pleasant Saturday morning. They hadn't yet decided how to spend their free day together. Before they could even begin discussing possibilities, several neighbors started approaching them from different directions across the grassy area. It quickly became apparent that everyone in the neighborhood seemed to need assistance with something today.
+### Scene 1
+The four friends gathered outside the community center on a beautiful Saturday morning in late summer. The weather was absolutely perfect for spending time outdoors and getting things done around the neighborhood. They hadn't decided exactly how to spend their free day yet and were discussing different ideas among themselves. Before they could finalize any specific plans, several neighbors started approaching from different directions with requests. It became immediately apparent that everyone needed help with various tasks today.
 
-### Scene 2 (60 words)
-Mrs. Patterson arrived first with a slightly worried expression on her face. "My garage has become absolutely disastrous," she explained. "I desperately need help organizing everything in there." Frances approached next. "My garden beds are completely overrun with weeds." Then Mr. Johnson appeared carrying a large stack of colorful papers. "Could someone possibly help deliver these neighborhood flyers?" The requests kept coming.
+### Scene 2
+Mrs. Patterson arrived first with a worried expression clearly visible on her face. "My garage has become a complete disaster over the past few months," she explained with obvious embarrassment. Frances approached next from across the street with quick, purposeful steps. "My garden beds are completely overrun with stubborn weeds that keep growing back," she said with frustration in her voice. Then Mr. Johnson appeared carrying a thick stack of colorful papers in his arms. "Could someone possibly deliver these flyers for me around the neighborhood?" he asked hopefully with a warm smile. The requests just kept coming rapidly.
 
-### Scene 3 (58 words)
-"We want to help everyone who needs us," Layla said to her friends with determination. "Let's tackle the garage first since Mrs. Patterson asked first." They walked together to Mrs. Patterson's house down the street. "If we all work on this together at the same time, we'll definitely finish quickly," Layla predicted confidently. The four friends crowded eagerly into the cluttered garage.
+### Scene 3
+"We definitely want to help everyone who asked us," Layla said to her friends with determination. "Let's tackle the garage first since Mrs. Patterson asked first and it seems urgent." They all walked together to Mrs. Patterson's house. "If we all work together on this, we'll finish quickly," Layla predicted optimistically. The four friends crowded into the cluttered garage, looking around at the mess. They were ready to work hard and make a difference.
 
-### Scene 4 (59 words)
-Inside the crowded garage, chaos erupted almost immediately. Benny picked up a cardboard box, not realizing Ellis was already sorting items from inside it. Riley and Layla both reached for the same dusty lamp at the exact same moment. Everyone constantly bumped into each other in the tight space. "Wait, I was organizing those!" Ellis said with clear frustration. "Oops, sorry!" Benny responded.
+### Scene 4
+Inside the garage, chaos erupted almost immediately when they began working without any real plan. Benny picked up a heavy box and started moving it across the room. But Ellis was already sorting items from that exact same box, causing confusion. Riley and Layla both reached for the same lamp at exactly the same time. Everyone bumped into each other constantly in the tight, cramped space. "Wait, I was organizing those specific items!" Ellis said with mounting frustration. "Oops, my bad!" Benny responded apologetically, setting the box down.
 
-### Scene 5 (60 words)
-Thirty minutes crawled by slowly in the stuffy garage. Mrs. Patterson returned to check on their progress with hopeful curiosity. The garage looked almost exactly the same as when they had started working. The friends stood there, sweaty and visibly frustrated by their lack of progress. "How's everything going?" she asked gently. Layla sighed deeply. "We're trying hard, but it's difficult with everyone doing everything."
+### Scene 5
+Thirty long minutes crawled by in the hot, stuffy garage without much visible progress being made. Mrs. Patterson returned to check on their work with hopeful expectations. The garage looked almost exactly the same as when they had started working earlier. The friends stood there looking sweaty, tired, and increasingly frustrated with their lack of progress. Boxes remained scattered everywhere in messy, disorganized piles throughout the space. "How's everything going in here?" Mrs. Patterson asked kindly, trying to hide her disappointment. Layla sighed deeply with genuine frustration. "We're trying our best, but it's really difficult when we're all in the way."
 
-### Scene 6 (58 words)
-Ellis stepped back from the confusion to observe what was actually happening. "I think our problem is that we keep getting in each other's way constantly," he said thoughtfully to his friends. "What if each person focused entirely on just ONE specific job instead of all of us attempting to do everything simultaneously?" The others paused to consider his suggestion seriously.
+### Scene 6
+Ellis stepped back carefully to observe the situation more carefully with analytical eyes. He watched the disorganized chaos unfolding around him with careful attention. "I think our main problem is that we keep getting in each other's way constantly," he said thoughtfully, considering the situation. "What if each person focused on doing ONE specific job instead of trying to do everything at once?" he suggested. The others paused their frantic work to consider his thoughtful suggestion carefully. That made perfect sense when they actually thought about it logically.
 
-### Scene 7 (59 words)
-They divided the various tasks based on each person's natural strengths and abilities. Benny would handle carrying the heavy boxes since he possessed the most physical strength. Ellis would sort and carefully label items because organization came naturally to him. Riley would arrange things attractively using her creative eye. Layla would direct the overall operation and make decisions as the team leader.
+### Scene 7
+They decided to divide tasks strategically based on each person's natural strengths. Benny would carry all the heavy boxes since he was clearly strongest in the group. Ellis would sort and label items systematically because organization came naturally to him. Riley would arrange things beautifully using her impressive creative skills. Layla would direct everyone and make final decisions as the natural leader. Each person now had their own specific role. Everyone understood their individual job clearly.
 
-### Scene 8 (60 words)
-With everyone settled into their specifically assigned roles, the work began again with renewed energy. This attempt felt completely different from before. Benny moved heavy boxes efficiently without anyone blocking his path. Ellis sorted items into logical categories without constant interruption. Riley transformed messy shelves into visually pleasing displays. Layla kept everything flowing smoothly between stations. No more bumping. No more confusion whatsoever.
+### Scene 8
+With everyone settled into their assigned roles, the work began flowing much more smoothly than before. This felt completely different from their first chaotic effort. Benny moved heavy boxes efficiently without anyone blocking his path. Ellis sorted items into neat, logical categories without any interruption. Riley made the shelves look absolutely beautiful with her natural artistic touch. Layla kept everything flowing smoothly and resolved any questions that came up. No more bumping into each other. No more confusion.
 
-### Scene 9 (58 words)
-The garage transformed remarkably before their eyes over the next hour. Boxes stood in orderly stacks along the painted walls. Tools hung in neatly organized rows on pegboard panels. Clear pathways now allowed easy movement throughout the entire space. The friends stepped back together to admire their completed work with satisfaction. "Wow!" Riley exclaimed with genuine amazement. "We actually accomplished it!"
+### Scene 9
+The garage transformed dramatically over the next hour of focused work. Boxes stood in neat, organized stacks along the walls. Tools hung in organized rows on pegboards above the workbench. Clear pathways allowed easy movement through the entire space. The friends stepped back together to admire their impressive work. "We actually did it!" Riley exclaimed with genuine amazement. Everyone smiled broadly with pride. The change was truly impressive.
 
-### Scene 10 (59 words)
-Mrs. Patterson returned and gasped with delighted astonishment at the dramatic transformation. "This is absolutely incredible!" she said with obvious appreciation. "You've discovered something genuinely important today. When everyone concentrates on what they personally do best, the entire team benefits tremendously. There's actually a specific term for this concept — economists call it division of labor." The friends committed that phrase to memory.
+### Scene 10
+Mrs. Patterson returned and gasped audibly at the dramatic change in her garage. "This is absolutely incredible!" she said with deep appreciation. She looked around slowly in disbelief at the transformation. "You've discovered something genuinely important about working as a team. When everyone focuses specifically on what they're best at, the entire team succeeds better," she explained wisely. "There's actually a name for this important concept. Economists call it division of labor." The friends committed that important term to memory immediately.
 
-### Scene 11 (60 words)
-Energized by their impressive success with the garage project, the friends headed toward Frances's garden with renewed confidence. This time they planned their individual roles while walking down the shady sidewalk. "Let's determine our specific jobs BEFORE we begin working," Layla suggested wisely. Everyone agreed immediately without hesitation. Benny would handle strength tasks. Ellis would organize. Riley would beautify. Layla would coordinate everything.
+### Scene 11
+Energized by their success, the friends headed to Frances's garden with renewed confidence. This time they planned roles carefully. "Let's determine our jobs BEFORE we start," Layla suggested. Everyone agreed immediately. They had learned their lesson from the garage. Planning first prevented problems later. They had developed a working system.
 
-### Scene 12 (58 words)
-In Frances's overgrown garden, everyone moved directly to their designated stations without confusion. Benny yanked out the large stubborn weeds that required real muscle. Riley planted colorful flowers in beautiful artistic patterns that pleased the eye. Ellis tracked exactly what was completed and what still remained. Layla floated between tasks, helping wherever assistance was needed. Frances observed with visible surprise. "You're remarkably organized!"
+### Scene 12
+In Frances's garden, everyone moved to their assigned stations without hesitation. There was no confusion this time. Benny yanked out large, stubborn weeds. Riley planted colorful flowers in beautiful patterns. Ellis tracked what was completed and what remained. Layla helped wherever needed. Frances watched with surprise. "You're extremely organized today!" she commented.
 
-### Scene 13 (59 words)
-What could have easily consumed an entire day was completed in just one productive hour. The garden rows stood neat and vibrant with color. Fresh flowers now bloomed cheerfully where unsightly weeds had previously dominated the beds. The friends exchanged enthusiastic high-fives all around with genuine satisfaction. "Already finished?" Benny laughed with disbelief. "That would have taken forever if we'd all attempted identical tasks!"
+### Scene 13
+What could have easily taken all day finished in just one hour of coordinated teamwork. The garden rows stood neat and vibrant with many beautiful colors blooming everywhere. New flowers bloomed cheerfully where ugly weeds had once grown wild. The friends exchanged happy high-fives with satisfaction and pride. "Already done?" Benny laughed with disbelief at their impressive speed. "That would have taken forever if we'd all been doing everything like before in the garage!"
 
-### Scene 14 (60 words)
-The flyer delivery job came next on their productive agenda. Ellis carefully studied the neighborhood map and designed the most efficient possible route to cover all the houses. He strategically divided the streets into logical sections. Layla and Riley each claimed nearby areas within easy walking distance. Benny volunteered to run to the houses located farther away since he had abundant energy.
+### Scene 14
+Next came the flyer delivery job for Mr. Johnson around the neighborhood. Ellis studied the detailed neighborhood map carefully and planned the most efficient route possible. He divided the streets logically into sections that made sense geographically. Layla and Riley each claimed nearby areas that were close to the starting point. Benny volunteered enthusiastically to run to farther houses since he had abundant energy. Everyone moved with clear purpose toward their specific destinations, knowing exactly what to do.
 
-### Scene 15 (58 words)
-The friends reconvened at their original starting location after completing their assigned routes. Every single flyer had been successfully delivered to every mailbox and door. Empty messenger bags hung limply from their satisfied arms. The sun remained positioned high in the clear blue sky overhead. "All done!" Layla announced with obvious happiness. "And it's not even noon yet!" Three major jobs completed before lunch.
+### Scene 15
+The friends met back at their original starting point after completing all deliveries. Every single flyer had been delivered successfully to every house on the list. Empty bags hung from their tired arms as concrete proof of their hard work. The sun was still high overhead in the afternoon sky. "All done!" Layla announced happily with satisfaction. She checked her watch with pleasant surprise. "And it's not even noon yet!" Three significant jobs completed before lunch time.
 
-### Scene 16 (59 words)
-They rested comfortably on a shaded front porch, passing around snacks and cold drinks from their backpacks. The morning had proven remarkably productive beyond their expectations. "The work felt completely different once we properly divided up the responsibilities," Riley commented thoughtfully between bites. Ellis nodded in strong agreement. "Having my own designated job meant I could focus completely without getting distracted by everyone else."
+### Scene 16
+They rested comfortably on a shaded porch after all the hard work. They shared snacks and cold drinks from their backpacks, enjoying the break together. The entire morning had proven remarkably productive beyond their initial expectations. "The work felt completely different once we divided responsibilities clearly," Riley commented thoughtfully. Ellis nodded in strong agreement with her observation. "Having my own specific job meant I could focus entirely on that task without getting confused by everyone else working around me."
 
-### Scene 17 (60 words)
-The friends discussed their distinctly different personal strengths with new appreciation. Benny was physically strong and brimming with energy. Ellis was naturally organized and analytically logical. Riley was genuinely creative and artistically talented. Layla was a born leader who kept everyone motivated and moving forward. "We're an effective team precisely BECAUSE we're different," Benny realized aloud. Their individual differences made them collectively stronger.
+### Scene 17
+The friends discussed their different strengths with new appreciation of each other. Benny was strong and full of abundant energy for physical work. Ellis was organized and logical in his thinking and approach. Riley was creative and talented with arrangements and artistic design. Layla was a natural leader who kept everyone motivated and on track. "We're a good team BECAUSE we're all different," Benny realized with sudden clarity. Their differences made them stronger as a group working together.
 
-### Scene 18 (58 words)
-Layla's thoughts returned to their earlier conversations about the swap meet experience. "If we ever create our own market," she said thoughtfully, "we absolutely shouldn't all contribute identical items." Their lemonade lesson combined meaningfully with today's experience. Different strengths naturally meant different valuable contributions. That was precisely how successful teams functioned in the real world outside of school.
+### Scene 18
+Layla's thoughts returned to their swap meet experience and previous market discussions. "If we ever create our own market someday in the future," she said thoughtfully and seriously. "We shouldn't all contribute identical items to sell to customers." Their lemonade stand lesson combined perfectly with today's experience about working as a team. Different strengths meant different valuable contributions to offer. That was exactly how successful teams functioned in the real world.
 
-### Scene 19 (58 words)
-The friends began imagining concrete possibilities for their Community Market concept. "I could create and sell handmade crafts!" Riley suggested with visible enthusiasm. "I could manage inventory and track all the numbers," Ellis offered confidently. "I could handle carrying supplies and setting up displays," Benny added eagerly. "And I could organize and coordinate the entire operation," Layla said. Everyone had a role.
+### Scene 19
+The friends imagined exciting possibilities for their Community Market concept they'd been developing. "I could create and sell beautiful handmade crafts!" Riley suggested with growing excitement. Her eyes sparkled with creative possibilities she was already imagining. "I could manage inventory carefully and track the numbers accurately," Ellis offered confidently. "I could carry supplies and set up displays efficiently," Benny added enthusiastically. "And I could organize and coordinate the entire operation," Layla said with determination. Everyone had a perfect role to play.
 
-### Scene 20 (60 words)
-Layla leaned toward her friends with mounting excitement visible in her expression. "We work together so effectively now," she said earnestly. "What if we actually DID something genuinely big? Like organizing a real Community Market for our entire neighborhood?" The idea suddenly felt achievable and real. But first, they recognized they needed to learn significantly more about how real markets actually operated.
+### Scene 20
+Layla leaned toward her friends with mounting excitement about their future plans. "We work together so well now as a team," she said earnestly and passionately. Her voice was filled with excitement about their potential. "What if we organized a real Community Market for the neighborhood this fall?" The idea felt achievable after today's successful experiences working together. But first, they all recognized they needed to learn more about economics and business. They needed to understand how real markets operated successfully.
 
 ---
 
-**Total Word Count: 1,175 words** ✅
+**Total Word Count: 1,600 words** ✅
+
+---
+
+## FL VOCABULARY
+
+1. **specialize** — Focus on doing one thing well
+2. **division of labor** — Splitting work by strengths
+3. **efficient** — Getting things done well
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 146 (comfortable, expressive pace)
+- **Pause:** 1 second between sentences
+- **Tone:** Warm, descriptive

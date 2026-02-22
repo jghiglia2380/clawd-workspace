@@ -1,120 +1,93 @@
-# CHAPTER 8: THE MORNING MARKET - TIER 2 (2ND GRADE)
+# CHAPTER 8: THE MEDITERRANEAN FISHING VILLAGE - TIER 2 (2ND GRADE)
 
 **Reading Levels:** J-M
 **Target Narration Speed:** 112 WPM
-**Target Word Count:** 900 words
-**Actual Word Count:** 906 words ✅
-**Episode Duration:** ~8 minutes
-**Character Focus:** Mr. Mason (memory), Benny (timing lesson)
-**FL Integration:** Perishables, time-sensitive value, "sell it or lose it"
-**Setting:** Frame: Mr. Mason's attic | Memory: Mediterranean fishing village
+**Target Word Count:** 1,060 words
+**Episode Duration:** ~9.5 minutes
+**Character Focus:** Ellis (learns about timing)
+**FL Integration:** Timing, perishable goods, urgency
+**Setting:** Mr. Mason's memory of Greece
 
 ---
 
-## THE MORNING MARKET
+## THE MEDITERRANEAN FISHING VILLAGE
 
-### Scene 1 (45 words)
-Mr. Mason picked up a small decorative fishing net from the trunk. It was delicate and pretty, woven with blue thread. "This came from a fishing village by the sea," he said thoughtfully. "In Morocco, I learned patience. But in this village, I learned to move FAST."
+### Scene 1
+Mr. Mason lifted a tiny fishing net from his trunk with care. The delicate threads were woven with great skill. "This came from a village in Greece," he said with a warm smile. "A fishing village by the Mediterranean Sea. It taught me that timing matters in business and life."
 
-### Scene 2 (46 words)
-The familiar attic faded away around them. Blue sky appeared overhead. White buildings with bright colored doors sparkled in the early light. The shimmering sea stretched out before them. Small colorful boats bobbed in a little harbor. They had traveled to a Mediterranean fishing village at dawn.
+### Scene 2
+"The village was small and incredibly beautiful," Mr. Mason began his story warmly. "White houses with blue doors covered the hillsides everywhere. Small boats bobbed up and down in the harbor waters all day. Every single morning before sunrise, the fishermen went out to sea together. They came back around eight o'clock with their fresh catch from the night."
 
-### Scene 3 (45 words)
-Fishing boats returned to the harbor very early in the morning. The sun was barely coming up over the water. Fishermen jumped off their boats before they were even tied. They carried heavy baskets of fish and moved with surprising speed. Everyone seemed to be in a hurry!
+### Scene 3
+"I met an old fisherman named Dimitri one morning," Mr. Mason continued his tale happily. "His fishing boat was painted a bright, cheerful blue color that stood out. He had been fishing in these same waters for forty long years successfully. One morning he invited me warmly to help him sell his fish at the dock market."
 
-### Scene 4 (46 words)
-An elderly fisherman waved at young Mr. Mason from the dock. His name was Costa, and his face was weathered from the sun. "You want to learn something?" Costa called out. "Then come help me! But you must move FAST. Fish waits for nobody!" He was already jogging away.
+### Scene 4
+"We spread his entire catch out on ice at the dock," Mr. Mason explained. "Beautiful silver fish gleaming and shining in the early morning sunlight. Dimitri set up his small wooden table right there. 'How much will you charge for these fish?' I asked him with curiosity."
 
-### Scene 5 (45 words)
-Young Mr. Mason helped carry heavy baskets of fish up steep stone steps to the village market. Costa moved surprisingly fast for his age, never slowing down. "Every minute matters," Costa explained as they climbed. "At six in the morning, this fish is worth gold!"
+### Scene 5
+Dimitri looked carefully at his fish spread out before him. "Fresh fish at eight in the morning costs ten euros per kilogram," he explained. Mr. Mason watched as the early customers began to arrive at the stall. They bought the fish very quickly without hesitation. The fish smelled incredibly fresh and looked perfect.
 
-### Scene 6 (46 words)
-They quickly set up a stall at the village market square. Costa placed ice on the table first. Then he arranged the fish beautifully on top of the ice. Other fishermen were doing exactly the same thing all around them. Everyone was racing against time to set up.
+### Scene 6
+By ten o'clock in the morning, half of the fish were already sold. But then customers stopped coming to the stall as frequently as before. "The morning market is ending now," Dimitri explained to his helper. "All the housewives have finished their shopping. They're home cooking lunch for their families now." The busy dock grew quieter.
 
-### Scene 7 (45 words)
-The first customers arrived right away, just as the sun cleared the rooftops. They wanted the freshest fish available. Costa greeted them by name and sold quickly. The early customers paid full price without complaining. They understood that the best and freshest fish always goes first.
+### Scene 7
+Ellis spoke up with a question in his mind. "Does he lower the price at that point?" Mr. Mason nodded his head in agreement. "At eleven o'clock sharp, Dimitri changed the price on his sign. Eight euros per kilogram now instead of ten. The fish were still perfectly fresh. But valuable time was passing by."
 
-### Scene 8 (46 words)
-For the next two hours, they were incredibly busy with a steady stream of customers. Young Mr. Mason learned to weigh fish on a hanging scale. He learned to wrap fish in brown paper. He practiced making change quickly. It was intense and exciting, like a wonderful adventure!
+### Scene 8
+"But why lower the price so soon?" Layla asked with confusion. Mr. Mason explained the situation carefully: "Fish are what we call perishable goods. That means they spoil very quickly in the heat and sun. Dimitri couldn't possibly keep them until tomorrow's market. They would go completely bad overnight." The friends understood now.
 
-### Scene 9 (45 words)
-By noon, everything slowed down noticeably. The sun climbed high and made the air hot. The ice beneath the fish was melting steadily. Fewer customers came by to shop. Costa looked at the remaining fish with a concerned expression. Time was not on their side anymore.
+### Scene 9
+At noon exactly, Dimitri lowered the price once again. Six euros per kilogram was the new price. "The fish are still perfectly good quality to eat," he said to people passing by. "But I absolutely need to sell them today before sunset. Tomorrow they will be completely worthless to me."
 
-### Scene 10 (46 words)
-A late customer wandered over, looking for a bargain. Costa offered the remaining fish at half the morning price. "Better to sell cheap than throw away," he explained practically. "This morning this fish was ten coins. Now it is five. Tonight it would be garbage worth nothing."
+### Scene 10
+By two o'clock in the warm afternoon, even fewer customers came by the stall. Dimitri still had ten whole kilograms of fish left on the ice. "Five euros per kilogram now!" he called out loudly. Some customers who had bought fish in the morning came back again. They had heard the prices were dropping.
 
-### Scene 11 (45 words)
-While they cleaned up the empty stall, Costa shared an important lesson. "Some things cannot wait," he said wisely. "Fish spoils. Opportunities can pass you by. You must learn when to be patient and calm... but also when to RUN with all your energy."
+### Scene 11
+"I asked Dimitri if this situation made him angry or upset," Mr. Mason said. "After all, he was selling for half the morning price by then! But Dimitri just smiled warmly at me. 'It's better to get five euros than zero euros tomorrow,' he explained. 'Tomorrow these fish will just be garbage.'"
 
-### Scene 12 (46 words)
-As the sun set over the water, Costa gave young Mr. Mason a small decorative net from his boat. "Keep this to remember me," Costa said warmly. "Timing is everything in life. Not too early, not too late. Finding the right moment is the real secret."
+### Scene 12
+Riley looked thoughtful as he processed this information. "So Dimitri had to sell fast no matter what?" Mr. Mason nodded firmly. "Yes, exactly right! The clock was his worst enemy every single day. Every hour that passed by, his fish became less valuable. Not because the quality was getting worse yet. But because time was running out."
 
-### Scene 13 (45 words)
-The beautiful seaside village slowly faded away. The blue water turned into the warm browns of the attic. Mr. Mason was old again, but he still held that same little net in his hands. The memory of Costa and his wisdom lived on inside him.
+### Scene 13
+"At four o'clock in the afternoon, Dimitri had five kilograms left," Mr. Mason continued. "He lowered the price down to three euros per kilogram. An old woman in black came by the stall then. She had been waiting patiently all day for this exact moment. 'I knew you would drop the price!' she said."
 
-### Scene 14 (46 words)
-The friends sat quietly, thinking about what they had just learned. "So patience isn't always the right answer?" one of them asked thoughtfully. Mr. Mason nodded with a gentle smile. "Neither is rushing. Real wisdom means knowing the difference and reading each situation you face."
+### Scene 14
+Benny frowned with disapproval at this part. "That doesn't seem fair to Dimitri at all. She should have to pay the same price as everyone else!" Mr. Mason nodded. "I thought exactly the same thing at the time, Benny. But then Dimitri explained something very important to me."
 
-### Scene 15 (47 words)
-Benny spoke up with unusual thoughtfulness. He was always wanting to act fast and get things done. "So sometimes I SHOULD move fast?" he asked with new understanding. "And other times I should wait?" Mr. Mason smiled warmly. "Now you are truly learning, Benny. Context matters."
+### Scene 15
+"She's being smart about business," Dimitri had told young Mr. Mason. "She knows very well that fish are perishable and spoil. She knows that I absolutely must sell everything today. She's using her knowledge cleverly to save money for her family. That's actually clever business thinking."
 
-### Scene 16 (45 words)
-Ellis helped explain the concept further. "Fish goes bad very quickly, so Costa had to sell fast before it spoiled. But other things can afford to wait. A good deal doesn't spoil from waiting an extra minute. You have to understand what you're dealing with."
+### Scene 16
+"By five o'clock in the evening, Dimitri had only two kilograms left," Mr. Mason said. "One euro per kilogram was all he asked for. But even at that low price, no customers came anymore. He gave the remaining fish to his neighbor completely free. It was better someone eats them than they waste."
 
-### Scene 17 (46 words)
-The friends applied this lesson to their Community Market plans. "If we sell food, it has to be fresh," said Riley, thinking it through. "But crafts and art don't spoil," Layla added wisely. "Baked goods need to sell fast. Paintings can wait for the right buyer."
+### Scene 17
+Ellis was thinking very hard now about what this meant for them. "So for our Community Market, we really need to know what things are perishable. Things that won't last very long at all. Like fresh food or cut flowers. They need completely different pricing plans!"
 
-### Scene 18 (45 words)
-Benny nodded slowly, more serious than usual. "I'm good at moving fast," he admitted. "That can really help with some things. But I promise to try slowing down when the situation needs it." Layla smiled. "That's really smart thinking, Benny. Costa would be proud of you."
+### Scene 18
+"Exactly right, Ellis!" Mr. Mason said with obvious pride in his voice. "Now compare fish to something like Dimitri's boat. The boat doesn't spoil or go bad at all. He could sell it next week if he wanted. Or next month. Or even next year. So he can wait for the right price."
 
-### Scene 19 (46 words)
-Mr. Mason smiled warmly at their growing wisdom. "You have heard many stories from my trunk now," he said. "Morocco. Japan. Italy. The Mediterranean sea. But there are still more treasures inside to discover. And don't forget — Frances has her own stories to tell you."
+### Scene 19
+"Fresh lemonade that we might sell is perishable too," Layla realized with sudden understanding. "If we don't manage to sell it the same day we make it fresh, it goes bad quickly in the heat. We might need to lower our prices later in the day gradually. Just exactly like Dimitri did with his fish."
 
-### Scene 20 (47 words)
-The friends were filled with excitement and anticipation. They had learned about patience from Hassan. They learned about competition from the auction. They learned about family work from the bakery. Now they understood timing from Costa. Their Community Market vision kept growing richer! "Keep going!" everyone said eagerly.
-
----
-
-## VOCABULARY ANALYSIS
-
-### FL Vocabulary Introduced:
-1. **price** (Scenes 7, 10) - Core FL concept
-2. **fresh/freshest** (Scenes 7, 17) - Quality/value concept
-3. **sell** (Scenes 10, 11, 17) - Core FL concept
-4. **worth** (Scenes 5, 10) - Value concept
-5. **spoil/spoils** (Scenes 11, 16, 17) - Perishable concept
-6. **timing** (Scene 12) - Key lesson
-
-### General Academic Vocabulary:
-1. Mediterranean (Scenes 2)
-2. bargain (Scene 10)
-3. opportunities (Scene 11)
-4. context (Scene 15)
+### Scene 20
+Mr. Mason held up the little fishing net. "This net reminds me every time," he said warmly. "Some products are trapped by time. They must be sold quickly before they spoil. Be flexible with prices as time passes." The friends learned about urgency.
 
 ---
 
-## A+ ENHANCEMENTS DOCUMENTATION
-
-### 1. SENSORY DETAILS ADDED (4 for Tier 2):
-- Scene 2: Shimmering sea, colorful boats bobbing
-- Scene 9: Hot air, melting ice steadily
-- Scene 8: Hanging scale, brown paper wrapping
-- Scene 12: Sunset over water
-
-### 2. SIGNATURE TREASURE:
-- The small fishing net as memory anchor
-
-### 3. CHARACTER INTERACTIONS (3 moments):
-- Scenes 4-5: Costa's urgent teaching
-- Scene 11-12: Wisdom shared at day's end
-- Scenes 15-18: Benny's growth conversation
-
-### 4. MINOR TENSION:
-- Scenes 9-10: Clock ticking, value dropping
-
-### 5. CHARACTER ARC BEAT:
-- Scenes 15-18: Benny learns to channel his energy appropriately
+**Total Word Count: 1,060 words** ✅
 
 ---
 
-**TIER 2 COMPLETE** ✅
+## FL VOCABULARY
+
+1. **perishable** — Goes bad quickly
+2. **timing** — When to sell
+3. **value** — What something is worth
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 112 (moderate pace)
+- **Pause:** 1.5 seconds between sentences
+- **Tone:** Warm, instructional, practical

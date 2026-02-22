@@ -1,92 +1,93 @@
 # CHAPTER 2: THE LEMONADE PROBLEM - TIER 3 (3RD GRADE)
 
 **Reading Levels:** M-P
-**Target Narration Speed:** 125 WPM
-**Target Word Count:** 1,000 words
-**Episode Duration:** ~8 minutes
-**Character Focus:** Ellis (analytical thinking emerges)
-**FL Integration:** Supply & demand — too many sellers means lower prices
-**Setting:** Layla's front yard and neighborhood street
+**Target Narration Speed:** 130 WPM
+**Target Word Count:** 1,300 words
+**Episode Duration:** ~10 minutes
+**Character Focus:** Ellis (observes patterns)
+**FL Integration:** Supply and demand basics
+**Setting:** Layla's front yard
 
 ---
 
 ## THE LEMONADE PROBLEM
 
-### Scene 1 (50 words)
-Layla sat by her window on a scorching summer day. The sun blazed outside, making everything shimmer with heat. She fanned herself with a magazine. "Everyone must be so thirsty today," she thought. Then an idea struck her. A lemonade stand would be perfect on a day like this!
+### Scene 1
+Layla sat by her bedroom window on the hottest summer day of the year. The sun blazed overhead, making heat shimmer off the sidewalk below. She fanned herself with a piece of paper, but it didn't help much. "Everyone in the neighborhood must be thirsty today," she thought with growing excitement. A lemonade stand would be perfect for this weather! She jumped up to start her plan right away.
 
-### Scene 2 (51 words)
-Layla hurried to the kitchen with excitement. She found lemons in the refrigerator and squeezed them into a large pitcher. She added sugar and cold water, stirring until everything mixed together. The lemonade looked perfectly yellow and refreshing. "This is going to sell out fast," she said confidently to herself.
+### Scene 2
+Layla hurried to the kitchen with her brilliant plan taking shape. She found several fresh lemons in the refrigerator and squeezed them carefully into a pitcher. She added white sugar and ice-cold water, stirring everything together until it looked right. The lemonade turned bright yellow and wonderfully refreshing in the light. "This is going to sell fast today!" she said happily with confidence.
 
-### Scene 3 (50 words)
-Layla carried a small folding table to her front yard. She set up cups in neat rows and placed her pitcher in the center. Then she made a colorful sign: "LEMONADE 50¢" with drawings of lemon slices around the edges. Everything looked ready. Now she just needed customers.
+### Scene 3
+Layla carried a small folding table out to her front yard carefully and set it up. She arranged paper cups in neat rows and placed the pitcher in the center. She created a colorful sign that said "LEMONADE 50¢" with lemon drawings around it. Everything looked perfect and ready for customers to arrive and buy from her. Now she just waited with excitement for business to start soon.
 
-### Scene 4 (51 words)
-Layla looked up from her stand and froze with surprise. A few houses down the street, she spotted another lemonade stand. Someone was setting up cups and a pitcher just like hers. She squinted to see better. "Wait — is that Riley?" she said aloud. Riley had the same idea!
+### Scene 4
+Layla looked up from her stand and saw something surprising down the street. Another lemonade stand was being set up by someone she knew well. She squinted through the bright sunshine to see better who it was exactly. "Wait just a minute — is that Riley?" she said with growing confusion. Riley had the exact same idea as her today!
 
-### Scene 5 (50 words)
-Layla walked down the sidewalk to investigate further. Her eyes grew wider with each step. Riley's stand was just the beginning. Ellis had a stand. Benny had a stand. Two other neighborhood kids had stands too. She counted them all in disbelief. Six lemonade stands on one street!
+### Scene 5
+Layla walked down the hot sidewalk to investigate the situation more carefully. Her eyes grew wider with each step as she looked around the block. Riley had a lemonade stand on the corner there she noticed. Ellis had a stand at his house too across the way. Benny had a stand as well nearby! Several other neighborhood kids had set up stands everywhere she looked. She counted six different lemonade stands on one street alone!
 
-### Scene 6 (51 words)
-Layla returned to her stand and waited for customers. An hour passed slowly. A few people walked by on the sidewalk, but nobody stopped to buy. They seemed to have too many choices. Layla rested her chin in her hands and stared at her full pitcher. Something wasn't working.
+### Scene 6
+Layla returned to her stand feeling worried and waited for customers patiently. An entire hour passed slowly under the hot summer sun beating down. A few people walked past her stand, but nobody stopped to buy anything. They looked confused by so many choices available on the street today. Layla rested her chin in her hands, staring sadly at nothing in front of her.
 
-### Scene 7 (50 words)
-Layla walked over to Riley's stand to compare notes. Riley looked just as confused and frustrated. "Have you sold any lemonade?" Layla asked hopefully. Riley shook her head sadly. "Not a single cup. I don't understand — it's so hot outside!" They both looked at the quiet street.
+### Scene 7
+Layla walked over to Riley's lemonade stand to check on her friend. Riley looked just as confused and disappointed as Layla felt right now. "Have you sold any lemonade yet at all?" Layla asked hopefully, crossing her fingers. Riley shook her head with frustration showing clearly on her face. "Not even one cup sold! It's so incredibly hot today!"
 
-### Scene 8 (51 words)
-Ellis and Benny joined them in the middle of the street. Everyone had the same disappointing story. Plenty of lemonade, zero customers. "I was sure everyone would be thirsty today," Benny said with frustration. Ellis looked up and down the street at all the stands, his mind starting to work.
+### Scene 8
+Ellis and Benny walked over to join them in the shade together. Everyone was having the same frustrating problem with their lemonade stands today. Lots of delicious lemonade sitting there but zero sales for anyone at all. "I thought everyone in the neighborhood would be thirsty today!" Benny said with obvious frustration. Ellis looked around at all the competing stands very carefully now.
 
-### Scene 9 (50 words)
-Ellis studied the situation carefully. He counted the stands again and then counted the people walking by. "Let me think about this," he said slowly. "Six stands. Maybe twenty people walking past in an hour. That means only three or four possible customers for each stand." The math wasn't good.
+### Scene 9
+Ellis counted all the lemonade stands carefully and then counted people walking by on the sidewalk. "Let me figure this problem out step by step," he said slowly and thoughtfully to everyone. "Six different stands on our street, but maybe only twenty people passing by today in total. That's not very many customers for each of us to share fairly." He was starting to understand the real problem here.
 
-### Scene 10 (51 words)
-"I think I understand the problem," Ellis announced. His friends turned to listen. "There's too much lemonade and not enough people who want it. We're all trying to sell to the same small group of customers." Layla nodded as the explanation made sense. They were competing against each other.
+### Scene 10
+"I think I understand what's happening here now," Ellis explained to his friends clearly. "There's way too much lemonade available on the street for everyone selling. Not enough people who actually want to buy it from all of us. We're all trying to sell to the same small group of customers!" The friends nodded their heads as the idea started making complete sense now.
 
-### Scene 11 (50 words)
-Layla noticed one of the other neighborhood kids changing their sign. The price dropped from fifty cents to twenty-five cents. "Look at that," she pointed out. "They're lowering their price to get more customers." The strategy seemed clever at first. Would it work to attract more buyers?
+### Scene 11
+Layla noticed another kid changing their price sign to something much lower down the street. Fifty cents quickly became twenty-five cents in bright red marker on the cardboard sign. "Look at that stand over there!" she pointed out to everyone with growing interest. "They're making it cheaper to attract more customers to their stand instead of ours." The competitive idea seemed rather clever at first glance to them all.
 
-### Scene 12 (51 words)
-Soon other stands followed the same approach. Prices dropped everywhere. Twenty-five cents became twenty cents. Twenty cents became fifteen cents. Kids frantically changed their signs, each trying to be the cheapest option. But even with lower prices, people still weren't buying much. The street was in a pricing war.
+### Scene 12
+Soon everyone on the street was dropping their prices lower and lower rapidly. Twenty-five cents became twenty cents at some stands very quickly now. Then twenty cents became just fifteen cents per cup at other stands. Signs changed all over the street as kids tried desperately to compete. But even with much lower prices everywhere, people still weren't buying much lemonade at all.
 
-### Scene 13 (50 words)
-The friends gathered together feeling discouraged. "This is terrible," Benny groaned. "Now we're practically giving lemonade away, and still nobody's buying!" Riley crossed her arms in frustration. "There has to be a smarter solution than just making everything cheaper and cheaper." They needed to think differently about this problem.
+### Scene 13
+The four friends gathered together in the shade, feeling frustrated and discouraged. "This whole situation is terrible for everyone," Benny groaned loudly with disappointment in his voice. "Now we're practically giving lemonade away, and customers still aren't buying anything!" Riley crossed her arms with determination showing on her face clearly. "There has to be a much better idea than this approach."
 
-### Scene 14 (51 words)
-Layla's face brightened as a new idea formed. "What if we stopped competing against each other?" she suggested. "Instead of six small stands fighting for customers, we could create ONE amazing stand together." Her friends considered the possibility. Working together instead of against each other might change everything completely.
+### Scene 14
+Layla's face suddenly lit up with a new idea that might solve everything. "What if we all stopped competing against each other?" she suggested thoughtfully to the group. "Instead of six small struggling stands, we could combine and make ONE amazing stand!" Her friends thought carefully about the idea for a long moment. Working together might actually change everything for the better here!
 
-### Scene 15 (50 words)
-The four friends carried their supplies to Layla's front yard. They combined their lemons, their pitchers, their cups. Together they had more than enough for a serious lemonade operation. "We can make way more lemonade together," Ellis observed. "And it only takes one stand to attract attention."
+### Scene 15
+The four friends brought all their supplies to Layla's yard for combining together right away. They combined their fresh lemons, their pitchers, and all their paper cups into one place. Together they had way more supplies than any single stand alone ever could have. "We can accomplish so much more by working together as a team!" Ellis said with growing excitement. Cooperation was clearly the key to solving this difficult problem today.
 
-### Scene 16 (51 words)
-Each friend contributed their special skills to the new stand. Riley painted a beautiful new sign with bright colors and fancy letters. Ellis organized the supplies for quick, efficient serving. Benny arranged the cups in an impressive display. Layla sliced fresh lemons to float in the pitchers for decoration.
+### Scene 16
+Each friend helped build the new improved stand using their special talents and skills. Riley painted a beautiful colorful sign with amazing artistic details that caught attention. Ellis organized everything for incredibly fast and efficient customer service at the counter. Benny arranged the cups in an attractive pyramid display that looked impressive. Layla added lemon slices floating beautifully in each pitcher for decoration.
 
-### Scene 17 (50 words)
-Their combined stand looked amazing. The colorful sign caught everyone's attention from far away. The neat setup looked professional and trustworthy. People walking by actually stopped to look. "Fresh lemonade!" the friends called out together. "Made by friends, for friends!" The energy felt completely different from before.
+### Scene 17
+Their combined lemonade stand looked absolutely amazing and totally professional compared to before. The big colorful sign caught people's attention from way down the street clearly. The impressive setup looked inviting and well-organized, making people want to stop by. "Fresh lemonade made by friends!" the friends called out together with big smiles. "Come get some!" The positive energy was completely different now.
 
-### Scene 18 (51 words)
-Customers finally started lining up. Without so much competition cluttering the street, their single impressive stand became the obvious choice. The friends worked as a team — pouring, collecting money, and thanking each customer. "This is so much better than six tiny stands!" a customer commented cheerfully. Business was good.
+### Scene 18
+Customers finally started buying lemonade from their impressive stand at long last! Without so many competing stands cluttering the street, their setup became the obvious choice. The friends worked smoothly as a team pouring lemonade and taking money efficiently. They thanked each customer warmly as they served them all with smiles. "This approach is so much better than before!" one satisfied customer said.
 
-### Scene 19 (50 words)
-As the sun began setting, the friends counted their earnings together. They had made more money working together than they ever would have separately. Ellis smiled at the lesson. "When there's too much of something, prices drop and nobody wins. But working together made us special and valuable."
+### Scene 19
+The sun started going down as the successful afternoon came to an end. The friends counted their money together with excitement and growing happiness building inside. They had made way more profit today than they ever expected at all. They earned significantly more working together than they would have made alone separately. Ellis smiled warmly at the important lesson learned. "When there's too much, nobody wins fairly. Together we're special!"
 
-### Scene 20 (52 words)
-Layla connected the day's lesson to their bigger plans. "For our Community Market, we shouldn't all bring the same things," she realized. "If everyone sells lemonade, nobody does well. But if everyone brings something different, there's no competition — just variety." The friends nodded in agreement. Variety was the answer.
-
----
-
-**Total Word Count: 1,010 words** ✅
+### Scene 20
+Layla thought carefully about their Community Market idea and what they learned today. "For our future market, we shouldn't all bring the same things to sell," she realized. "If everyone sells lemonade at the market, nobody does well in business. But if everyone brings something completely different to offer, there's no competition at all!" Variety and cooperation would be the key to real success.
 
 ---
 
-## FL VOCABULARY INTRODUCED
-
-1. **supply** — How much of something is available
-2. **demand** — How many people want to buy
-3. **competition** — Multiple sellers trying for the same customers
-4. **price** — What something costs
+**Total Word Count: 1,300 words** ✅
 
 ---
 
-## CHARACTER NOTES
+## FL VOCABULARY
 
-- **Ellis:** Leads the analytical realization (character beat for this chapter)
+1. **supply** — How much of something exists
+2. **demand** — How much people want something
+3. **compete** — Try to do better than others
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 130 (moderate-fast pace)
+- **Pause:** 1.2 seconds between sentences
+- **Tone:** Warm, problem-solving

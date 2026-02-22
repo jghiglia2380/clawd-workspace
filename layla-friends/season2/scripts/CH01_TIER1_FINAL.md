@@ -1,93 +1,93 @@
-# CHAPTER 1: THE SWAP MEET - TIER 1 (K-1ST GRADE)
+# CHAPTER 1: THE SWAP MEET - TIER 1 (KINDERGARTEN-1ST GRADE)
 
 **Reading Levels:** A-I
 **Target Narration Speed:** 75 WPM
-**Target Word Count:** 600 words
-**Episode Duration:** ~8 minutes
-**Character Focus:** All four friends working together
-**FL Integration:** Fair trade, perceived value
+**Target Word Count:** 640 words
+**Episode Duration:** ~8.5 minutes
+**Character Focus:** All four friends
+**FL Integration:** Fair trade, exchange, value
 **Setting:** Neighborhood community center
-**S1 Callback:** Reference to the Trading Post
 
 ---
 
 ## THE SWAP MEET
 
-### Scene 1 (30 words)
-Layla walked down the street. It was a sunny day. She saw a colorful sign on a pole. The sign had big letters. Layla stopped to read it.
+### Scene 1
+Layla walked down the sunny street. She saw a bright sign on the wall. The sign had big letters. "Swap Meet Today!" it said. Layla stopped to read it.
 
-### Scene 2 (31 words)
-The sign said "Swap Meet Today!" Layla read the words. You bring things you don't need. You find things you want! "That sounds like our Trading Post!" said Layla happily.
+### Scene 2
+The sign said people bring old things. They take home new things instead! "That's like our Trading Post!" Layla said out loud. She felt so excited. This would be fun!
 
-### Scene 3 (30 words)
-Layla ran to Riley's house. She knocked on the door. Riley opened it. "Come with me!" said Layla. "There's a swap meet today. We can trade things!" Riley smiled.
+### Scene 3
+Layla ran to Riley's house. She knocked on the door. Riley opened it wide. "Come quick!" Layla said. "There's a swap meet today!" Riley grabbed her shoes fast.
 
-### Scene 4 (31 words)
-They found Ellis and Benny at the park. "A swap meet is happening!" said Layla. "We should bring stuff to trade." Ellis nodded. "What should we bring?" asked Benny. Everyone started thinking.
+### Scene 4
+They found Ellis and Benny playing. "A swap meet is happening!" Layla told them. "We can trade our stuff!" Ellis smiled at the idea. "What should we bring?" Benny asked them. They all thought hard.
 
-### Scene 5 (30 words)
-Layla went home. She looked in her closet. She found an old puzzle. She had done it many times. "Someone else might like this puzzle," she thought. She picked it up.
+### Scene 5
+Layla looked in her toy box. She found an old puzzle there. She'd done it ten times already. "Someone else might like this puzzle," she thought to herself. She picked it up carefully.
 
-### Scene 6 (30 words)
-Riley looked at her art things. She found short colored pencils. She also found old stickers. "These still work," Riley said. "Someone might want them." She put them in a bag.
+### Scene 6
+Riley checked her art supplies. She found short colored pencils inside. She found old stickers too. "These still work really good," Riley said to herself. She put them in a bag.
 
-### Scene 7 (31 words)
-Ellis chose a book he had read twice. He also picked a toy car. He was too big for it now. "Time for someone new to have these," he said to himself.
+### Scene 7
+Ellis picked a book he'd read. He grabbed a toy car too. He was too big for it now. "Someone smaller can have these things," Ellis said. He felt good about sharing.
 
-### Scene 8 (30 words)
-Benny found a bouncy ball and a toy drum. He forgot he had them! "I haven't played with these in so long," said Benny. He added them to his pile.
+### Scene 8
+Benny found a bouncy ball. He found a toy drum too! He forgot he had them. "I never play with these," Benny said. He added them to his bag.
 
-### Scene 9 (30 words)
-The four friends walked to the community center. They carried their swap items. The sun was warm. They talked about what they might find. The building was just ahead.
+### Scene 9
+The friends walked to the center. They carried their trade items carefully. The sun felt warm on them. They talked about finding new things. The building was close now.
 
-### Scene 10 (31 words)
-Inside, tables filled the big room. Neighbors put things on the tables. So many items! Books, toys, games, and more. Mrs. Patterson smiled at them. "Welcome to the swap meet!" she said.
+### Scene 10
+Inside, tables filled the big room. People put things out on them. So many cool items everywhere! Books and toys covered the tables. Mrs. Patterson waved at them happily. "Welcome!" she said.
 
-### Scene 11 (30 words)
-"The rule is simple," said Mrs. Patterson. "Fair trades. Both people should be happy." She pointed to a table. "Put your items there." The friends walked over with their things.
+### Scene 11
+"The rule is simple," she said. "Make fair trades. Both people should be happy." She pointed to a table. "Put your stuff there." They walked over together.
 
-### Scene 12 (31 words)
-They put their items on the table. The puzzle. The pencils. The book. The car. The ball. The drum. "Let's look around!" said Layla. She wanted to see what others had brought.
+### Scene 12
+They set out all their items. The puzzle went down first on the table. Then pencils and stickers went next. The book and car followed. The ball and drum last. "Let's look around!" Layla said.
 
-### Scene 13 (30 words)
-The friends walked around the room. They saw old toys. They saw books. They saw games. So many things to look at! People of all ages were there. Everyone looked happy.
+### Scene 13
+The friends walked around slowly. They saw old toys on tables. They saw many books too. They saw fun games there. So many things to see! People smiled at each other nicely. Everyone looked happy.
 
-### Scene 14 (31 words)
-Riley saw something she liked. Watercolor paints! An old woman sat behind them. "Do you want to trade?" the woman asked. Riley nodded. Her heart beat fast. She really wanted them.
+### Scene 14
+Riley saw something she really wanted. Watercolor paints in a nice box! An old lady sat at that table. "Want to trade something?" she asked Riley. Riley nodded her head fast.
 
-### Scene 15 (30 words)
-"What do you have?" asked the woman. Riley showed her pencils. The woman smiled. "My grandkids love to color!" They traded. Riley held the paints. She was so happy!
+### Scene 15
+"What do you have to trade?" she asked. Riley showed her the colored pencils. The lady smiled really big at them. "My grandkids will love these so much!" They traded items. Riley held the paints.
 
-### Scene 16 (31 words)
-The friends showed each other what they got. Riley had paints. Ellis had a magnifying glass. A boy walked by with Benny's drum. He was banging it and smiling. Benny laughed.
+### Scene 16
+The friends showed their new things together. Riley had the paints now. Ellis had a magnifying glass. A boy walked by near them. He had Benny's drum. He banged it loud. Benny laughed hard.
 
-### Scene 17 (30 words)
-"I forgot about that drum," said Benny. "But look how happy he is!" The boy banged the drum loudly. He loved it. Benny felt good inside. His old toy made someone happy.
+### Scene 17
+"I forgot about that drum," Benny said happily. "But look how happy he is!" The boy banged the drum again. He loved it so much. Benny felt really good. His toy helped someone new.
 
-### Scene 18 (31 words)
-A little boy saw Layla's puzzle. "I want that one!" he said. Layla smiled. She had done that puzzle so many times. But for him, it was new! They made a trade.
+### Scene 18
+A little boy saw Layla's puzzle. "I want that puzzle!" he said to Layla. Layla smiled at him warmly. She'd done it many times before. For him it was brand new! They traded happily.
 
-### Scene 19 (30 words)
-The swap meet ended. The friends sat on a bench outside. They looked at their new things. "We didn't spend any money," said Layla. "But we all got something good!"
+### Scene 19
+The swap meet finally ended. The friends sat outside together. They looked at their new things. "We didn't spend any money," Layla said to them. "But we got good stuff!" Everyone agreed completely.
 
-### Scene 20 (30 words)
-"Our Trading Post was just us," said Layla. "This was the whole neighborhood!" She looked at her friends. "What if we made something even bigger?" An idea was starting to grow.
-
----
-
-**Total Word Count: 608 words** ✅
+### Scene 20
+"Our Trading Post was really small," Layla said thoughtfully. "This was the whole neighborhood together!" She looked at her friends. "What if we made more swaps?" An idea grew in her mind. Something bigger!
 
 ---
 
-## FL VOCABULARY INTRODUCED
+**Total Word Count: 640 words** ✅
 
-1. **swap/trade** — Exchange one thing for another
-2. **fair** — Both sides happy
+---
+
+## FL VOCABULARY
+
+1. **swap** — Trade one thing for another
+2. **trade** — Exchange items
+3. **fair** — Both people are happy
 
 ---
 
 ## NARRATION NOTES
 
-- **Target WPM:** 75 (slow, clear, expressive)
+- **Target WPM:** 75 (slow, clear)
 - **Pause:** 2.5 seconds between sentences
-- **Tone:** Warm, friendly, simple
+- **Tone:** Warm and friendly

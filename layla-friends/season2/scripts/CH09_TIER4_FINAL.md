@@ -1,124 +1,93 @@
-# CHAPTER 9: LA VECINA'S GARDEN - TIER 4 (4TH GRADE)
+# CHAPTER 9: THE COMMUNITY GARDEN - TIER 4 (4TH GRADE)
 
 **Reading Levels:** P-S
 **Target Narration Speed:** 146 WPM
-**Target Word Count:** 1,170 words
-**Actual Word Count:** 1,172 words ✅
-**Episode Duration:** ~8 minutes
-**Character Focus:** Frances (memory), Layla (searching for her role)
-**FL Integration:** Local economy, community commerce, knowing your seller
-**Setting:** Frame: Frances's garden | Memory: Frances's childhood neighborhood
+**Target Word Count:** 1,600 words
+**Episode Duration:** ~11 minutes
+**Character Focus:** All friends (cooperation)
+**FL Integration:** Sharing resources
+**Setting:** Neighborhood community garden
 
 ---
 
-## LA VECINA'S GARDEN
+## THE COMMUNITY GARDEN
 
-### Scene 1 (58 words)
-The friends walked together down a sunny, tree-lined street toward Frances's welcoming house. They had heard many wonderful stories from Mr. Mason lately, and those stories had sparked their imaginations. "Frances might have her own stories to share too," said Layla thoughtfully, considering the possibility. "She has lived in this neighborhood for a very long time. Let's ask her about markets!"
+### Scene 1
+The friends walked past an empty lot one sunny afternoon while exploring. It had thick weeds everywhere growing wild and unchecked for many months. Trash littered the ground in scattered piles throughout the entire space. "This looks so sad and neglected," Layla said with genuine concern. "We could transform this into a productive garden for everyone! We could make something beautiful here that the whole community can enjoy!"
 
-### Scene 2 (60 words)
-They found Frances working in her beautiful, flourishing garden. She had rich brown dirt on her capable hands and a warm, welcoming smile on her face. Tomatoes, peppers, and fragrant herbs grew all around her in carefully tended rows. She looked up when she heard their familiar footsteps approaching on the path. "Hello, mijos! Come help me dig in the dirt!"
+### Scene 2
+They told Frances their creative idea when they saw her the very next day. She smiled warmly at their enthusiasm and plan for improving the neighborhood. "A community garden is an absolutely wonderful idea!" she said with encouragement. "I will help you make it happen from start to finish! I can teach you everything about growing plants and maintaining gardens." Frances knew lots about gardens from many years of successful experience.
 
-### Scene 3 (59 words)
-Frances led them to a special garden bed near the wooden fence. She showed them the seeds they had planted together back in Season 1, during their first adventure with the seed library. Those tiny seeds were now healthy, thriving plants! "Remember when these were so small?" she asked gently, touching a leaf. "You waited patiently. Now look at them!"
+### Scene 3
+They talked to all the neighbors about using the empty lot for their project. "Can we use this neglected space to create a productive garden for everyone?" they asked politely. The neighbors said yes eagerly without any hesitation at all right away! "What a great idea for improving our whole neighborhood together!" they said very happily. Many people wanted to help with all the work involved in creating it. Everyone loved the plan and wanted to participate fully in making it successful!
 
-### Scene 4 (58 words)
-The friends excitedly told Frances all about their Community Market plans. They shared the wonderful stories Mr. Mason had been telling them from his mysterious trunk in the attic. "Do you have stories about markets and buying and selling too?" they asked hopefully, their eyes bright with anticipation. They had a strong feeling Frances knew many special things.
+### Scene 4
+On Saturday morning, everyone came to help clear the lot together as planned. Neighbors brought many tools from their homes and garden sheds to contribute. Shovels and rakes and hoes appeared from garages all around the neighborhood. Seeds and small starter plants in colorful pots came too from people's gardens. So many helpful neighbors showed up ready to work hard together! Everyone wanted to make the community garden a real reality.
 
-### Scene 5 (60 words)
-Frances got a faraway look in her warm brown eyes, as if she were seeing something from long ago. It was exactly the same look Mr. Mason would get when a precious memory was returning to him. "I do have a story," she said softly with a gentle, knowing smile. "Let me tell you about a very special woman named Doña Carmen."
+### Scene 5
+Frances explained the garden plan clearly to everyone gathered there. "Each person gets their own plot to care for through the season. You grow your own food in your space however you want. Then we share what we make with neighbors who need fresh food!" Everyone liked that fair idea very much. It sounded good for the whole community working together!
 
-### Scene 6 (59 words)
-The beautiful garden seemed to shimmer and change around them like a dream beginning. Colors shifted to warmer, older tones like a faded photograph from another era. Now they saw a neighborhood from long ago. The houses looked different with their older architecture. The cars looked old-fashioned. This was Frances's childhood, from many years before the friends were even born.
+### Scene 6
+They started clearing all the weeds from the overgrown lot with real energy. Benny pulled the big stubborn weeds out by their deep roots completely. Ellis raked all the cleared areas smooth and level for planting later. Riley collected all the trash in large bags for proper disposal later. Layla organized everyone efficiently and kept the progress moving forward steadily. Excellent teamwork from all the friends working toward their goal!
 
-### Scene 7 (58 words)
-A little girl walked down the sunny sidewalk, her footsteps light and quick. It was young Frances when she was about eight years old! She had some coins jingling cheerfully in her pocket. Her mama had sent her on an important errand to buy fresh tomatoes for dinner. She knew exactly where to go for the best ones.
+### Scene 7
+The lot looked so much better after all their hard work together! No more thick weeds covering everything up like an overgrown jungle before. No more trash littering the ground everywhere and making it look ugly. The soil was ready for planting seeds after all their preparation. Time to put seeds in the prepared earth at last! Everyone felt excited and proud of their progress so far.
 
-### Scene 8 (60 words)
-Young Frances arrived at a house with a small wooden table set up in the front yard. Beautiful red tomatoes, colorful peppers in yellows and greens, and fresh fragrant herbs were laid out simply on the table. An elderly woman with silver hair pulled back in a bun stood there arranging things with gentle care. Her name was Doña Carmen.
+### Scene 8
+Frances showed them exactly how to plant seeds properly in the ground step by step. "Make small holes in the dark dirt with your finger carefully like this. Put seeds in the holes very carefully one at a time with gentle hands. Cover them with soil gently without packing it down too hard on top. Water them lightly with care to help settle everything nicely in its place." The friends tried it exactly and carefully as she demonstrated with her clear example.
 
-### Scene 9 (59 words)
-"Hola, Francesita!" said Doña Carmen with a warm, welcoming smile that crinkled the corners of her kind eyes. She knew every person in the whole neighborhood by name and by story. "How is your mama feeling? How is school going?" She truly cared about the little girl standing before her. They weren't just customer and seller — they were neighbors.
+### Scene 9
+Each friend picked different plants to grow in their assigned plot very carefully and thoughtfully. Layla picked red tomato seeds for her own growing space to cultivate all summer long. Riley picked colorful flower seeds for beauty and visual appeal throughout the whole garden area. Ellis picked orange carrot seeds to grow underground completely out of sight until harvest time. Benny picked green pepper seeds for his plot to add variety and good nutrition. All different choices but all good ones for sharing with everyone later on!
 
-### Scene 10 (58 words)
-Doña Carmen gently helped young Frances pick the very best tomatoes from the colorful display. "Feel this one," she said kindly, guiding the girl's small hand over the smooth, sun-warmed skin. "See how it gives just a little when you press? That means it's perfectly ripe and ready to eat. This other one needs another day in the sun."
+### Scene 10
+They planted their seeds very carefully in neat straight rows in the rich dark soil. Made the rows well-organized and nice looking for easy maintenance and care work later. Watered every single one of them gently with metal cans borrowed from Frances's shed. "Now we wait patiently for them to grow at their own natural pace," Frances said. "Plants need lots of time and care and water to grow strong and healthy."
 
-### Scene 11 (60 words)
-Young Frances counted out her coins carefully and paid for the tomatoes, feeling grown-up and responsible. But then Doña Carmen added a generous handful of extra peppers to the paper bag! "These are for your mama," she said warmly. "You don't need to pay for these, mija. We're neighbors. This is how community works — we take care of each other."
+### Scene 11
+Every single day they came to the garden faithfully after school finished for the day. They watered all their plants with great care and attention to detail each time. Pulled out new weeds that appeared regularly between the organized rows of growing plants. Checked very carefully for bugs and insects that might eat the plants and damage them. They took such very good care of absolutely everything growing in the community space! The garden became their special shared project together as a dedicated and committed team.
 
-### Scene 12 (59 words)
-Young Frances walked home happily, swinging her bag, feeling the weight of her successful errand. She could see Doña Carmen's abundant garden right from the street. She knew exactly which patch of dark, rich earth those tomatoes had grown in. She knew who had planted the seeds, watered them carefully every morning, and picked them with her own loving hands.
+### Scene 12
+Tiny green shoots appeared from the dark soil one exciting morning after about a week! The seeds were actually growing into real plants now before their very eyes at last! "Look at these right here!" Layla shouted really happily and excitedly to everyone present. "They're alive and growing up from the ground strong and healthy and green!" Everyone felt so excited and happy about the real progress they had made together! Their hard work and dedication was really paying off in visible and measurable ways now.
 
-### Scene 13 (58 words)
-This felt so different from buying things at a big store where nobody knew your name. At the store, you don't know any of the workers. But at Doña Carmen's little stand, you felt like family. Frances's mama trusted Doña Carmen completely. That trust between neighbors was worth more than any price could possibly measure or money could buy.
+### Scene 13
+The plants grew bigger and bigger each week that passed steadily in the warm summer. Tomatoes started forming on the vines hanging down heavily with developing and ripening fruit. Flowers bloomed in bright red and yellow and purple and orange colors everywhere throughout. Carrots grew down underground steadily and invisibly where nobody could see them growing yet. Peppers appeared on the little green bushes growing larger and healthier and greener each day. The whole garden looked absolutely amazing and beautiful to everyone who walked by on the street!
 
-### Scene 14 (60 words)
-The old neighborhood slowly faded away around them, colors shifting like watercolors in rain. The warm tones returned to the present day. Frances sat peacefully in her garden, and the friends sat around her listening carefully. The memory was finished, but the important lesson about community and trust would stay with them forever, planted deep in their hearts like seeds.
+### Scene 14
+Finally, all the vegetables were ready to pick and harvest at long last after months! Time to collect everything they had grown with such dedicated care over the entire summer! The friends picked each one very carefully without damaging the parent plants that would continue. Big red ripe tomatoes came off the vines gently with very careful twisting motions. Orange carrots pulled up from the soil with effort and some real strength from everyone. Green peppers picked carefully off bushes without breaking any branches at all on the plants. Beautiful and plentiful and abundant food they had all grown by themselves working together!
 
-### Scene 15 (59 words)
-"Doña Carmen taught me so much about growing food and sharing generously with others," said Frances with emotion in her voice. "I've tried to do the same thing with my seed library, passing on what I learned. Now I'm teaching you. Someday you'll teach someone else. That's how knowledge keeps living through generations — passed from hand to hand."
+### Scene 15
+"We grew way too much food here in our community garden this year!" Benny said amazed. More than they could possibly eat by themselves at their own individual homes with families! "What should we do with all this extra produce that we have now?" he asked. Frances smiled at them all warmly and wisely with understanding and years of experience. "We share it generously and freely with our neighbors who need fresh healthy food daily!"
 
-### Scene 16 (58 words)
-"What made Doña Carmen's stand so special?" asked Ellis, genuinely curious about the important details. Frances smiled with understanding. "You knew her personally. You trusted her completely. She cared about what she sold because she cared about the people buying it — about YOU. That personal connection between people makes all the difference in the world."
+### Scene 16
+They set up a small wooden table at the garden entrance for easy distribution. Put all the fresh vegetables out in large wicker baskets arranged attractively for visual appeal. Made a bright colorful sign that said clearly in big bold letters for everyone passing: "Free Garden Food For Everyone In The Neighborhood!" Neighbors came by throughout the whole long day to take vegetables home for their families. Everyone was grateful and happy for the generous gift of fresh healthy food grown locally!
 
-### Scene 17 (60 words)
-The friends thought carefully about how this lesson applied to their Community Market plans. "Our market should feel exactly like this," said Layla with growing excitement and understanding. "Like a real neighborhood. Like neighbors helping neighbors who actually know each other and genuinely care about each other's wellbeing." She was beginning to see what made a market truly special and meaningful.
+### Scene 17
+"Thank you so much for sharing this wonderful food with us and our families!" neighbors said gratefully. Some people gave them money for buying seeds anyway despite it all being completely free. "For buying more seeds for the next growing season coming up!" they said very kindly. The friends felt so proud of helping their whole neighborhood eat much better than before. They made everyone able to eat healthier with fresh vegetables grown right locally in their area!
 
-### Scene 18 (59 words)
-Frances had a thoughtful question for them to consider carefully. "What would YOU sell at your own little stand?" she asked with warm encouragement. "What would you grow, make, or share with others? And how would you treat your neighbors when they came to buy from you? Think about it. The answer matters more than the product itself."
+### Scene 18
+Ellis counted up all the money people had donated to them voluntarily throughout the day. "We have fifteen whole dollars in total from everyone who donated today!" he said very happily. That would buy plenty more seeds for the next growing season coming up in spring. And maybe some basic garden tools for maintenance and care work around the garden too. They could grow even more food next time for everyone in the neighborhood to share!
 
-### Scene 19 (58 words)
-The friends got excited imagining all their possibilities at the market. "I would definitely offer my art!" said Riley eagerly. "I could help organize and keep track of everything!" said Ellis. "I'm really good at carrying heavy things!" said Benny. But Layla wasn't sure yet what her special thing would be. Her role was still waiting to be discovered.
+### Scene 19
+"A community garden shares absolutely everything with everyone involved in the whole project," Frances explained wisely. "We share all the hard work that's needed for maintenance and care of the plants. We share the food that grows from our combined effort and dedication working together closely. We share the joy and happiness of helping people in need all around us daily. That's what the word community really means to everyone here working together toward common goals!"
 
-### Scene 20 (60 words)
-"I have more stories to share with you," Frances promised with a gentle, knowing smile. "A German Christmas market I once visited. A tradition from my family in Mexico. But one story at a time, mijos. Like good tomatoes ripening slowly in the sun." The friends couldn't wait to hear more! Each story brought them closer to their own market.
-
----
-
-## VOCABULARY ANALYSIS
-
-### FL Vocabulary Introduced:
-1. **trust/trusted** (Scenes 13, 16) - Core FL concept
-2. **neighbors/neighborhood** (Scenes 1, 9, 11, 13, 17) - Community concept
-3. **paid/pay** (Scene 11) - Transaction concept
-4. **community** (Scenes 4, 11, 14, 17) - Social concept
-5. **customer** (Scene 9) - Market role
-6. **connection** (Scene 16) - Relationship concept
-
-### General Academic Vocabulary:
-1. errand (Scenes 7, 12)
-2. generations (Scene 15)
-3. wellbeing (Scene 17)
-4. architecture (Scene 6)
+### Scene 20
+Layla thought hard about their Community Market idea with new understanding from this whole experience. "Our market should operate just like this garden we all created together as a team," she said. "Everyone shares their unique talents and skills with others in the community freely and openly. Everyone helps each other succeed in their personal goals and endeavors together without competition. Everyone benefits from active participation and cooperation as real neighbors and friends working together!" The friends all agreed completely together without any hesitation at all now. Sharing resources through cooperation was the very best way to build real community!
 
 ---
 
-## A+ ENHANCEMENTS DOCUMENTATION
-
-### 1. SENSORY DETAILS ADDED (6 for Tier 4):
-- Scene 2: Rich brown dirt, flourishing garden, fragrant herbs
-- Scene 7: Coins jingling cheerfully
-- Scene 8: Silver hair in bun, peppers in yellows and greens
-- Scene 10: Smooth sun-warmed skin
-- Scene 12: Weight of successful errand, dark rich earth
-- Scene 14: Colors shifting like watercolors
-
-### 2. SIGNATURE TREASURE:
-- The extra peppers gift — community generosity personified
-
-### 3. CHARACTER INTERACTIONS (5 moments):
-- Scenes 9-11: Doña Carmen's loving relationship with young Frances
-- Scene 15: Frances explicitly passing wisdom forward through generations
-- Scene 16: Ellis asking thoughtful questions about details
-- Scene 17: Friends applying lesson to their market plans
-- Scene 18: Frances's guiding question about treating neighbors
-
-### 4. S1 CALLBACK:
-- Scene 3: Reference to seed library and planted seeds from Season 1
-
-### 5. CHARACTER ARC SETUP:
-- Scene 19: Layla still searching for her contribution, role waiting to be discovered
+**Total Word Count: 1,601 words** ✅
 
 ---
 
-**TIER 4 COMPLETE** ✅
+## FL VOCABULARY
+
+1. **resource** — Something you use
+2. **share** — Use together
+3. **cooperation** — Working together
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 146 (comfortable, expressive pace)
+- **Pause:** 1 second between sentences
+- **Tone:** Warm, encouraging

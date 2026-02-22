@@ -1,123 +1,93 @@
-# CHAPTER 7: THE FAMILY BAKERY - TIER 3 (3RD GRADE)
+# CHAPTER 7: THE ITALIAN BAKERY - TIER 3 (3RD GRADE)
 
 **Reading Levels:** M-P
-**Target Narration Speed:** 125 WPM
-**Target Word Count:** 1,000 words
-**Actual Word Count:** 1,010 words ✅
-**Episode Duration:** ~8 minutes
-**Character Focus:** Mr. Mason (memory), Friends reflect on family jobs
-**FL Integration:** Family business, learning a trade, skills passed down
-**Setting:** Frame: Mr. Mason's attic | Memory: Italian village bakery
+**Target Narration Speed:** 130 WPM
+**Target Word Count:** 1,300 words
+**Episode Duration:** ~10 minutes
+**Character Focus:** Benny (learns about costs)
+**FL Integration:** Costs, pricing
+**Setting:** Mr. Mason's memory of Italy
 
 ---
 
-## THE FAMILY BAKERY
+## THE ITALIAN BAKERY
 
-### Scene 1 (50 words)
-Mr. Mason picked up the carved wooden bread stamp from the trunk and examined it thoughtfully. It had a beautiful intricate pattern. "This came from Italy," he said softly. "From a tiny village so small it didn't appear on most maps. But it had the best bread I've ever tasted."
+### Scene 1
+Mr. Mason reached into the trunk and pulled out a bread stamp from deep inside. The patterns carved into wood were beautiful and detailed. "This is from Italy," he said with warm smile spreading across face. "From a family bakery that taught me something important about business. They showed me that price isn't just a number you choose without thinking about costs first."
 
-### Scene 2 (51 words)
-The familiar attic slowly faded away around them. Stone buildings with terracotta roofs appeared instead. A narrow cobblestone street stretched before them. Golden morning light filtered through. The air filled with the wonderful aroma of fresh baking bread. It smelled warm, yeasty, and absolutely delicious! They had arrived in Italy.
+### Scene 2
+The attic faded away and they found themselves in small Italian village at dawn. The sun was just rising over rolling hills in distance. The smell of fresh bread filled the air everywhere around them. A small bakery stood on corner with door propped wide open. People were already lining up outside patiently for fresh bread to start their day well.
 
-### Scene 3 (50 words)
-Young Mr. Mason followed the irresistible smell through the winding village streets. He walked along narrow paths between ancient buildings with flowering window boxes. Finally he discovered a small bakery with a welcoming glow. A simple wooden sign read "Rossi" in faded but elegant letters. Warm light beckoned from inside.
+### Scene 3
+Young Mr. Mason stood outside Rossi family bakery early in morning. Antonio and his daughter Maria were already working inside preparing day's bread. They had been there since four in morning preparing dough and heating ovens hot. The warm oven glowed orange in back of shop brightly. Flour dust floated through air like snow in morning light.
 
-### Scene 4 (51 words)
-Inside the cozy bakery, he discovered three people working in comfortable rhythm. An elderly grandfather kneaded dough at a flour-dusted table. His adult son managed the hot stone oven. A teenage grandson wrapped bread at the counter for waiting customers. Three generations of one family, all working together in perfect harmony.
+### Scene 4
+Antonio noticed young Mr. Mason watching and invited him inside to observe them work. Maria shaped loaves with quick, practiced movements while her father tended large stone oven. "We've been bakers for three generations now in our family," Antonio explained with obvious pride. "My grandfather taught my father. My father taught me. I taught Maria everything I know."
 
-### Scene 5 (50 words)
-The grandfather's name was Nonno, which means grandfather in Italian. He had been making bread for sixty years, starting when he was just seven years old. His weathered hands moved through the dough with practiced grace. Every movement was unhurried but absolutely precise from decades of experience and dedication.
+### Scene 5
+Young Mr. Mason watched them pull golden loaves from oven with long wooden paddles. The bread looked and smelled absolutely perfect to him standing there. "How much does each loaf cost to buy from you?" he asked with genuine interest. "Two euros per loaf," Antonio said simply while continuing his work. The young traveler thought that seemed like reasonable price for such wonderful bread.
 
-### Scene 6 (51 words)
-The father's name was Paolo. He skillfully used a long wooden paddle to slide loaves in and out of the ancient stone oven. The bread emerged golden and perfect every single time without fail. Paolo knew his oven so intimately that he could tell when bread was perfectly ready just by listening.
+### Scene 6
+But Antonio explained something important about the price while working hard. "Two euros isn't all profit for us to keep," he said with serious expression. "First we must pay for flour from mill down road. Then yeast and salt for recipe we use. Then electricity for oven running all day long. Then rent for this shop space we lease. All those costs before we keep anything for ourselves or family."
 
-### Scene 7 (50 words)
-The grandson's name was Marco, and he was about the same age as young Mr. Mason. Marco carefully wrapped each loaf in brown paper tied with string. He greeted regular customers by name and calculated change quickly. He was learning every aspect of the family business from bottom to top.
+### Scene 7
+Maria showed him the numbers written in detailed notebook they kept for tracking. "Flour costs fifty cents per loaf based on our careful calculations," she explained with patience. "Yeast costs ten cents per loaf for amount we need. Electricity costs twenty cents per loaf for oven power. So ingredients and power cost eighty cents total per loaf just to make it before anything else comes out."
 
-### Scene 8 (51 words)
-Marco noticed young Mr. Mason watching from the doorway with obvious curiosity and interest. "Would you like to try making bread?" Marco asked with a welcoming smile. "Come inside and I'll show you how we do things here!" Young Mr. Mason was surprised but delighted to accept the kind invitation.
+### Scene 8
+Young Mr. Mason was starting to understand reality of costs now. "What about the shop rent you pay each month?" he asked, beginning to grasp full picture. "Two hundred euros per month for this space we rent from owner," Antonio said with slight sigh. "If we sell three hundred loaves monthly on average, that works out to about seventy cents per loaf just for rent alone."
 
-### Scene 9 (50 words)
-The grandfather decided to teach the eager visitor how to knead bread dough properly. Young Mr. Mason pushed his hands into the soft, yielding dough. It was considerably harder than it looked! The old man guided his technique with patience. "Not so forceful," he advised gently. "Let the dough guide you."
+### Scene 9
+Maria did the math for him on paper to show it all clearly. "Eighty cents for ingredients and electricity plus seventy cents for rent equals one euro fifty total. That's one euro fifty just to make each loaf before any profit for our family at all. So from two euros selling price, we only keep fifty cents per loaf sold as actual profit we can use."
 
-### Scene 10 (51 words)
-Young Mr. Mason instinctively tried to work quickly, wanting to prove himself capable. But the grandfather placed a calming hand on his arm. "Bread cannot be rushed," he said with quiet wisdom. "Good things always require time and patience." Young Mr. Mason slowed his pace. Remarkably, the kneading became easier immediately.
+### Scene 10
+"That doesn't seem like very much for all your hard work!" young Mr. Mason said with surprise. Antonio smiled with understanding at his reaction to reality of running small business. "That fifty cents per loaf must pay for our food at home, our housing costs, our clothing, everything we need to live. It adds up if we sell enough bread daily and work hard to keep customers happy with quality."
 
-### Scene 11 (50 words)
-During a quiet break between customers, young Mr. Mason asked Paolo an important question. "Why does your entire family dedicate themselves to making bread?" Paolo smiled with obvious warmth. "My father taught me this craft. I teach my son. We are preserving something precious. Something that connects our family across time."
+### Scene 11
+Young Mr. Mason helped in bakery next day to understand work better. He mixed dough until his arms ached from heavy, physical labor. He kneaded bread until hands were sore and tired from repetitive effort. The work was much harder than it appeared from outside looking in through windows. Now he understood completely why two euros was actually very fair for product and all labor involved.
 
-### Scene 12 (51 words)
-Marco proudly showed young Mr. Mason the special wooden stamp they used for their signature. They pressed it firmly into the top of every single loaf before baking. "This stamp is older than my grandfather," Marco explained with pride. "Every loaf carries our family name. It represents our promise of quality."
+### Scene 12
+"What if you charged less than two euros per loaf?" he asked Antonio while resting. "If we charged one euro fifty, there would be no profit at all," Antonio explained with serious tone. "We couldn't pay for our own food or housing expenses then at all. The bakery would close very quickly without profit to sustain us and our family. We must charge enough to live on and survive."
 
-### Scene 13 (50 words)
-When it was finally time for young Mr. Mason to continue his travels, the Rossi family presented him with a meaningful gift. It was a bread stamp they had carved especially for him. "Remember us," they said warmly. "Creating things with your own hands matters. It leaves your mark on the world."
+### Scene 13
+"What if you charged more than two euros instead?" young Mr. Mason wondered aloud. "Maybe three euros per loaf instead of what you charge now?" Antonio shook his head slowly with wisdom from years of experience. "The grocery store down street sells bread for one euro seventy right now. If we charge too much money, customers go there instead of coming here to us for bread needs."
 
-### Scene 14 (51 words)
-The warm Italian bakery began to dissolve and fade around him. The flour dust drifting in golden light beams transformed into the dust motes floating in the attic air. They were back in Mr. Mason's familiar space. He still held the stamp carefully. The connection between past and present remained unbroken.
+### Scene 14
+Young Mr. Mason understood the delicate balance they maintained every single day now. The price had to be high enough for family to survive and make decent living. But low enough to keep customers coming back instead of shopping elsewhere for cheaper options. Two euros was perfect point between those two competing needs for their situation and location in village.
 
-### Scene 15 (50 words)
-"Three generations," said Mr. Mason, gazing at the stamp with evident affection. "Same bakery. Same dedication. Same love for craftsmanship." He held the stamp close to his heart with visible emotion. The friends sat in thoughtful silence. Family work created powerful connections. It linked people across generations and through time itself.
+### Scene 15
+Antonio showed him family recipe book with deep respect for tradition. It had been passed down through three generations of bakers over many decades. Each recipe had notes about costs written in margins over time. "We chose quality over quantity in everything we do," Antonio explained with conviction. "Could use cheaper flour and make more loaves faster each day. But wouldn't taste nearly as good to our customers at all."
 
-### Scene 16 (51 words)
-The friends began reflecting on their own families and the work they did. "My grandmother paints beautiful landscapes," said Riley thoughtfully. "Perhaps that explains why I'm drawn to art so naturally." Benny nodded in recognition. "My dad repairs broken things around our house. He's always teaching me how things work."
+### Scene 16
+Young Mr. Mason tasted bread made with cheap flour from another shop for comparison. Then he tasted Rossi family bread made with expensive, high quality flour instead. The difference was obvious and clear to him right away when tasting them together. The good flour cost more money but created much better tasting bread with superior texture. Customers noticed and appreciated quality difference and stayed loyal to Rossi family for generations because of it.
 
-### Scene 17 (50 words)
-Ellis suddenly had an exciting idea that made his eyes light up. "We should interview our families about their jobs and careers!" he suggested eagerly. "We could ask them what they do and how they learned their skills. Everyone must have fascinating stories about their work." The others loved this idea.
+### Scene 17
+"Some bakers make bread very fast to sell more quantity each day," Maria said to him. "But we take our time to ensure quality without rushing process at all ever. Our customers know our bread is worth two euros we charge for it every time. They trust us because we've never cut corners on ingredients or care in all these years of operation here."
 
-### Scene 18 (51 words)
-Layla connected this powerful lesson to their Community Market plans. "At our Community Market, people could teach skills, not just sell products!" she said with growing enthusiasm. "They could share the knowledge and abilities they've developed over time with others who want to learn!" This was a wonderful new direction.
+### Scene 18
+On his last day at bakery, Antonio gave him the bread stamp as meaningful gift. "Remember this important lesson about business and life," he said with serious expression. "Every product has invisible costs hidden inside price you see on sign. Know your costs first before pricing anything you sell. Then set fair prices that cover all costs well. Then explain value to customers so they understand what they're paying for exactly."
 
-### Scene 19 (50 words)
-Mr. Mason smiled at them with obvious pride in their thinking. "Now you understand what makes great markets truly great," he said warmly. "A meaningful market is not merely about exchanging goods. It is about sharing knowledge and building genuine connections. It is about helping people learn from each other."
+### Scene 19
+The Italian bakery faded away around them as memory ended completely. They were back in warm attic with elderly Mr. Mason sitting there. He still held carved bread stamp in weathered hands gently. "I never forgot what Antonio and Maria taught me that week in Italy long ago," he said quietly with emotion. "It changed how I thought about business and value forever."
 
-### Scene 20 (52 words)
-The friends felt energized and inspired by all they were learning together. More stories waited patiently in the trunk. Their Community Market was becoming something much larger and more meaningful than they had ever imagined. "What else is in there?" asked Layla eagerly. "Patience," said Mr. Mason with a knowing wink. "One story at a time."
-
----
-
-## VOCABULARY ANALYSIS
-
-### FL Vocabulary Introduced:
-1. **business** (Scene 7) - Core FL concept
-2. **customers** (Scenes 7, 11) - Market participants
-3. **skill/skills** (Scenes 17, 18) - Work concept
-4. **generations** (Scenes 4, 15) - Legacy concept
-5. **craft/craftsmanship** (Scenes 11, 15) - Skilled work
-6. **quality** (Scene 12) - Value concept
-
-### General Academic Vocabulary:
-1. terracotta (Scene 2)
-2. dedicate/dedication (Scenes 11, 15)
-3. preserving (Scene 11)
-4. signature (Scene 12)
+### Scene 20
+Benny thought about lesson for their own market plans ahead. "So for our Community Market," he said with full understanding now, "we need to know our costs first before setting any prices at all on anything. If it costs fifty cents to make lemonade with all ingredients, we have to charge more than that amount. Otherwise we lose money instead of making profit to keep going and sustain our efforts over time." Mr. Mason smiled with pride.
 
 ---
 
-## A+ ENHANCEMENTS DOCUMENTATION
-
-### 1. SENSORY DETAILS ADDED (5 for Tier 3):
-- Scene 2: Yeasty aroma, terracotta roofs
-- Scene 3: Flowering window boxes, elegant letters
-- Scene 5: Weathered hands, practiced grace
-- Scene 6: Ancient stone oven, listening to bread
-- Scene 14: Golden light beams, dust transformation
-
-### 2. SIGNATURE TREASURE:
-- The wooden bread stamp as intergenerational symbol
-
-### 3. CHARACTER INTERACTIONS (4 moments):
-- Scene 8-10: Marco invites, grandfather teaches
-- Scene 11: Paolo explains family legacy deeply
-- Scene 12: Marco shows family pride
-- Scene 16-18: Friends connect and plan together
-
-### 4. MINOR TENSION:
-- Scene 10: Rushing vs. patience — immediate lesson
-
-### 5. THEMATIC CONNECTION:
-- Craftsmanship as legacy
-- Knowledge and connection > mere goods
+**Total Word Count: 1,300 words** ✅
 
 ---
 
-**TIER 3 COMPLETE** ✅
+## FL VOCABULARY
+
+1. **cost** — Money spent to make something
+2. **profit** — Money left after costs
+3. **price** — What customers pay
+
+---
+
+## NARRATION NOTES
+
+- **Target WPM:** 130 (moderate-fast pace)
+- **Pause:** 1.2 seconds between sentences
+- **Tone:** Warm, practical
