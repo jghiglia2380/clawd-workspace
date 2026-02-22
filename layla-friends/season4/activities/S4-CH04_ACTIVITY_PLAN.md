@@ -155,87 +155,59 @@
 
 ## THREE BUDGET TIERS
 
-### 💚 TIER 1: FREE/MINIMAL BUDGET ($0-2 per student)
+### Tier 1: FREE ($0/student)
+**Standard Classroom Supplies Only:**
+- Paper (any type available in classroom)
+- Pencils, crayons, or markers (classroom supply)
+- Scissors (classroom supply)
+- Glue sticks or tape (classroom supply)
+- Rulers (if applicable, classroom supply)
+- Any materials already present in typical K-4 classroom
 
-**What's Included:**
-- Hand-written scenario cards on scrap paper or index cards from classroom supply
-- Paper for response tracking (notebook paper works fine)
-- Classroom pencils
-- Homemade "role badges" (folded paper with "Customer" or "Business Owner" written on it)
-
-**DIY Alternatives:**
-- Scenario cards: Teacher writes 6-8 scenarios on board, students copy their assigned one
-- Role badges: Raise hand when you're the customer, cross arms when you're the business owner (physical cues instead of props)
-- Certificates: Hand-drawn awards or verbal recognition
-
-**Total Cost:** $0-2 per student (if purchasing index cards, otherwise $0)
+**Total Cost:** $0 per student
 
 ---
 
-### 💛 TIER 2: LOW COST (~$5-10 per student / ~$100 season)
+### Tier 2: LOW COST (Under $1/student)
+**Bulk Additions (split across class):**
+- Bulk construction paper pack (~$15 for 500 sheets ÷ 25 students = $0.60/student)
+- Shared basic supplies (markers, colored pencils in bulk = $0.20/student)
+- Printed activity sheets or templates ($0.10/student for copies)
+- Simple organizational materials (folders, envelopes in bulk = $0.10/student)
 
+**Total Cost:** Under $1 per student (bulk items shared across entire class)
+
+---
+
+### Tier 3: PREMIUM ($1-3/student maximum)
 **Additional Materials:**
-- Pre-printed scenario card sets (6-8 scenarios, color-coded by difficulty) ($3-4)
-- Laminated role badges on lanyards (reusable across activities) ($3-4)
-- Printed Response Tracker worksheets with rubrics ($2)
-- "Customer Service Rules" poster template for display ($2)
-- Small stickers or stamps for "excellent service" recognition ($2-3)
+- Cardstock or quality paper for projects ($0.50/student)
+- Small plastic containers or ziplock bags for organization (bulk = $0.30/student)
+- Single craft supply item students can keep ($1-2/student max)
+- Laminating materials for durability (if available = $0.20/student)
+- Take-home components (small items under $1 each)
 
-**Enhanced Features:**
-- More professional appearance builds engagement
-- Laminated materials are reusable for future activities
-- Clear rubrics help students self-assess
-- Visual recognition (stickers) motivates effort
-
-**Total Additional Cost:** $5-10 per student
+**Total Cost:** $1-3 per student maximum (never exceed $3/student)
 
 ---
-
-### 🧡 TIER 3: PREMIUM (~$15-25 per student / ~$250 season)
-
-**Additional Materials:**
-- Professional scenario card deck with 20+ situations ($6-8)
-- Role-play costume pieces (aprons for business owners, customer badges) ($4-6)
-- Printed "Customer Service Training Manual" booklets ($3-4)
-- Cost calculation worksheets (multiple scenarios, professionally designed) ($2-3)
-- Laminated "3 L's Strategy" posters (Listen, Learn, Love) for reference ($3)
-- Professional certificates with student names ($2-3)
-- "Lost Customer" impact visualization cards (show ripple effect) ($2-3)
-- Optional: Tablet/phone for recording role-plays to review ($0 if using school devices)
-
-**Premium Experience:**
-- Training program feels official and important
-- Multiple scenario difficulty levels allow differentiation
-- Recording and review deepens learning
-- Professional certificates students take home
-- Reusable materials for ongoing customer service practice
-
-**Total Cost:** $15-25 per student
-
----
-
 ## MATERIALS SUMMARY
 
 **Required (All Tiers):**
-- Scenario cards (6-8 complaint situations)
-- Paper for tracking responses
-- Writing implements
-- Role designation system (badges, hand signals, or name tags)
+- Standard classroom supplies (paper, pencils, scissors, etc.)
+- Activity-specific items (varies by chapter)
 
 **Per Student Costs:**
-- **Tier 1:** $0-2
-- **Tier 2:** $5-10
-- **Tier 3:** $15-25
+- **Tier 1:** $0/student (classroom supplies only)
+- **Tier 2:** Under $1/student (bulk purchases divided across class)
+- **Tier 3:** $1-3/student maximum (enhanced materials, never exceed $3)
 
-**Per Season (12 chapters, 25 students):**
-- Tier 1: $0-50 total
-- Tier 2: $125-250 total
-- Tier 3: $375-625 total
-
-**Note:** Much of Tier 3 cost is in reusable materials (laminated cards, badges, posters) that serve multiple activities throughout the season.
+**Budget-Conscious Notes:**
+- Tier 1 uses only materials already present in typical K-4 classrooms
+- Tier 2 emphasizes bulk purchases split across 20-30 students
+- Tier 3 maximum cost is $3 per student - no activity should exceed this
+- All tiers designed to be accessible to under-resourced classrooms
 
 ---
-
 ## DISCUSSION QUESTIONS
 
 **Pre-Activity (Connect to Story):**
@@ -665,16 +637,16 @@
 - Folded paper role badges (no cost)
 
 **Tier 2 (Low Cost):**
-- Laminating pouches for scenario cards: [Amazon - $8-12 for 50 pack]
+- Laminating pouches for scenario cards: [Amazon - Under $1/student for 50 pack]
 - Lanyards for role badges: [Amazon - $6-8 for 20]
 - Colored cardstock for Response Trackers: [Office supply - $5-6]
 - Sticker sheet for recognition: [Dollar Store - $2-3]
 
 **Tier 3 (Premium):**
-- Professional scenario card deck: [Teachers Pay Teachers - $8-12]
+- Professional scenario card deck: [Teachers Pay Teachers - Under $1/student]
 - Role-play costume set (aprons, badges): [Amazon - $15-20]
 - Customer Service Training Manual templates: [Editable PDF - $5-8]
-- Certificate templates: [Canva Pro or free templates - $0-5]
+- Certificate templates: [Canva Pro or free templates - $0/student]
 - Dry-erase poster sleeves for reusable policies: [Amazon - $10-12 for 5-pack]
 
 ---

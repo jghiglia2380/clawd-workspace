@@ -152,89 +152,59 @@
 
 ## THREE BUDGET TIERS
 
-### 💚 TIER 1: FREE/MINIMAL BUDGET ($0-2 per student)
+### Tier 1: FREE ($0/student)
+**Standard Classroom Supplies Only:**
+- Paper (any type available in classroom)
+- Pencils, crayons, or markers (classroom supply)
+- Scissors (classroom supply)
+- Glue sticks or tape (classroom supply)
+- Rulers (if applicable, classroom supply)
+- Any materials already present in typical K-4 classroom
 
-**What's Included:**
-- Items from classroom (used books, extra supplies, donated items students can "buy" then return)
-- Homemade play money (paper cut into bills, colored/labeled)
-- Scrap paper for transaction logs (columns drawn by hand)
-- Shoebox or container as "register"
-- Recycled materials as "products" (decorated boxes, bookmarks, paper crafts)
-
-**DIY Alternatives:**
-- Price tags: sticky notes or paper squares with tape
-- Transaction log: notebook paper with hand-drawn columns
-- Products: students bring items from home to "stock the store" (returned after activity)
-- Change box: any small container
-
-**Total Cost:** $0-2 per student (optional: sticky notes if needed)
+**Total Cost:** $0 per student
 
 ---
 
-### 💛 TIER 2: LOW COST (~$5-10 per student / ~$100 season)
+### Tier 2: LOW COST (Under $1/student)
+**Bulk Additions (split across class):**
+- Bulk construction paper pack (~$15 for 500 sheets ÷ 25 students = $0.60/student)
+- Shared basic supplies (markers, colored pencils in bulk = $0.20/student)
+- Printed activity sheets or templates ($0.10/student for copies)
+- Simple organizational materials (folders, envelopes in bulk = $0.10/student)
 
+**Total Cost:** Under $1 per student (bulk items shared across entire class)
+
+---
+
+### Tier 3: PREMIUM ($1-3/student maximum)
 **Additional Materials:**
-- Printed play money sets (realistic looking bills) ($3-5)
-- Pre-printed transaction log templates ($2)
-- Small actual items for sale (dollar store supplies, stickers, bookmarks) ($3-5)
-- Price tag labels or stickers ($1)
-- "Store" sign and department markers ($2)
+- Cardstock or quality paper for projects ($0.50/student)
+- Small plastic containers or ziplock bags for organization (bulk = $0.30/student)
+- Single craft supply item students can keep ($1-2/student max)
+- Laminating materials for durability (if available = $0.20/student)
+- Take-home components (small items under $1 each)
 
-**Enhanced Features:**
-- More realistic store experience
-- Professional-looking transaction tracking
-- Items students can actually keep (if using dollar store products)
-- Clear organization with signage
-
-**Total Additional Cost:** $5-10 per student
+**Total Cost:** $1-3 per student maximum (never exceed $3/student)
 
 ---
-
-### 🧡 TIER 3: PREMIUM (~$15-25 per student / ~$250 season)
-
-**Additional Materials:**
-- Professional play money sets with coins ($6-8)
-- Laminated transaction logs (reusable with dry-erase markers) ($4-5)
-- Cash register toy (shared, ~$20 split across class)
-- Quality products to sell (books, school supplies, art materials) ($8-12)
-- Store setup materials: shelving, signs, department dividers ($5-8)
-- "Employee" name tags and badges ($2-3)
-- Receipt pad or printed receipts ($2-3)
-
-**Premium Experience:**
-- Realistic store operations
-- Cash register with drawer and bell
-- Professional receipts for each transaction
-- Quality products students keep
-- Reusable materials for ongoing store activities
-
-**Total Cost:** $15-25 per student
-
----
-
 ## MATERIALS SUMMARY
 
 **Required (All Tiers):**
-- Items to "sell" (real or pretend)
-- Play money (homemade or purchased)
-- Paper for transaction tracking
-- Writing implements
-- Container to hold money
+- Standard classroom supplies (paper, pencils, scissors, etc.)
+- Activity-specific items (varies by chapter)
 
 **Per Student Costs:**
-- **Tier 1:** $0-2
-- **Tier 2:** $5-10
-- **Tier 3:** $15-25
+- **Tier 1:** $0/student (classroom supplies only)
+- **Tier 2:** Under $1/student (bulk purchases divided across class)
+- **Tier 3:** $1-3/student maximum (enhanced materials, never exceed $3)
 
-**Per Season (12 chapters, 25 students):**
-- Tier 1: $0-50 total
-- Tier 2: $125-250 total
-- Tier 3: $375-625 total
-
-**Note:** This activity can be run multiple times with the same materials. Many teachers run a weekly classroom store all season using one-time setup materials.
+**Budget-Conscious Notes:**
+- Tier 1 uses only materials already present in typical K-4 classrooms
+- Tier 2 emphasizes bulk purchases split across 20-30 students
+- Tier 3 maximum cost is $3 per student - no activity should exceed this
+- All tiers designed to be accessible to under-resourced classrooms
 
 ---
-
 ## DISCUSSION QUESTIONS
 
 **Pre-Activity (Connect to Story):**
@@ -689,7 +659,7 @@
 - Professional play money with coins: [Amazon - 200pc money set - $12-15]
 - Laminator pouches: [Amazon - 50 pack - $10-12]
 - Quality store items: [Scholastic book packs, school supplies - $20-30]
-- Store signage kit: [Teacher Created Resources Store Signs - $8-12]
+- Store signage kit: [Teacher Created Resources Store Signs - Under $1/student]
 - Receipt pad: [Office supply receipt book - $3-5]
 
 ---

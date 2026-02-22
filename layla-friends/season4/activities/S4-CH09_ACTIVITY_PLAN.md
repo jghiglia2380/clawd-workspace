@@ -172,86 +172,59 @@
 
 ## THREE BUDGET TIERS
 
-### 💚 TIER 1: FREE/MINIMAL BUDGET ($0-2 per student)
-
-**What's Included:**
-- Hand-drawn partnership template on notebook paper
-- Classroom pencils
-- Signatures (no special materials needed)
-- Scrap paper for negotiation notes
-
-**DIY Alternatives:**
-- Create template on whiteboard; students copy onto their own paper
-- Use back of used worksheets for planning notes
-- Student-designed "notary stamps" drawn with marker
+### Tier 1: FREE ($0/student)
+**Standard Classroom Supplies Only:**
+- Paper (any type available in classroom)
+- Pencils, crayons, or markers (classroom supply)
+- Scissors (classroom supply)
+- Glue sticks or tape (classroom supply)
+- Rulers (if applicable, classroom supply)
+- Any materials already present in typical K-4 classroom
 
 **Total Cost:** $0 per student
 
 ---
 
-### 💛 TIER 2: LOW COST (~$5-10 per student / ~$100 season)
+### Tier 2: LOW COST (Under $1/student)
+**Bulk Additions (split across class):**
+- Bulk construction paper pack (~$15 for 500 sheets ÷ 25 students = $0.60/student)
+- Shared basic supplies (markers, colored pencils in bulk = $0.20/student)
+- Printed activity sheets or templates ($0.10/student for copies)
+- Simple organizational materials (folders, envelopes in bulk = $0.10/student)
 
-**Additional Materials:**
-- Printed partnership agreement templates with professional formatting ($2-3)
-- Colored pens for official signatures ($1-2)
-- Folders for filing agreements ($1)
-- Sample real-world partnership agreement examples (printed) ($1-2)
-- "Lawyer Review" checklist handouts ($1)
-
-**Enhanced Features:**
-- Professional-looking templates increase sense of importance
-- Color-coded sections (roles=blue, money=green, disputes=red)
-- Organized filing system for record-keeping practice
-- Real-world examples show how adults use partnerships
-
-**Total Additional Cost:** $5-10 per student
+**Total Cost:** Under $1 per student (bulk items shared across entire class)
 
 ---
 
-### 🧡 TIER 3: PREMIUM (~$15-25 per student / ~$250 season)
-
+### Tier 3: PREMIUM ($1-3/student maximum)
 **Additional Materials:**
-- Professionally designed partnership contract templates (laminated masters for reuse) ($4-6)
-- Quality pens and signature pens ($3-4)
-- Accordion folders or binders for business documents ($3-5)
-- Teacher-made "notary stamp" or official-looking stamp ($3-5)
-- Sample contract library (printed and bound) ($2-4)
-- Partnership negotiation role-play cards with scenarios ($2-3)
-- Certificates of Partnership (officially designed) ($2-3)
-- Display frame for "filed" agreements (classroom wall) ($3-5)
+- Cardstock or quality paper for projects ($0.50/student)
+- Small plastic containers or ziplock bags for organization (bulk = $0.30/student)
+- Single craft supply item students can keep ($1-2/student max)
+- Laminating materials for durability (if available = $0.20/student)
+- Take-home components (small items under $1 each)
 
-**Premium Experience:**
-- Official legal document feel
-- Professional record-keeping systems
-- Recognition through certificates
-- Skills transferable to real adult scenarios
-- Portfolio-worthy documentation
-
-**Total Cost:** $15-25 per student
+**Total Cost:** $1-3 per student maximum (never exceed $3/student)
 
 ---
-
 ## MATERIALS SUMMARY
 
 **Required (All Tiers):**
-- Partnership agreement template (paper)
-- Writing implements
-- Partners
+- Standard classroom supplies (paper, pencils, scissors, etc.)
+- Activity-specific items (varies by chapter)
 
 **Per Student Costs:**
-- **Tier 1:** $0
-- **Tier 2:** $5-10
-- **Tier 3:** $15-25
+- **Tier 1:** $0/student (classroom supplies only)
+- **Tier 2:** Under $1/student (bulk purchases divided across class)
+- **Tier 3:** $1-3/student maximum (enhanced materials, never exceed $3)
 
-**Per Season (12 chapters, 25 students):**
-- Tier 1: $0 total
-- Tier 2: $125-250 total
-- Tier 3: $375-625 total
-
-**Note:** This activity requires minimal consumable materials. Templates can be reused across classes. Focus is on thinking and negotiating rather than purchasing materials.
+**Budget-Conscious Notes:**
+- Tier 1 uses only materials already present in typical K-4 classrooms
+- Tier 2 emphasizes bulk purchases split across 20-30 students
+- Tier 3 maximum cost is $3 per student - no activity should exceed this
+- All tiers designed to be accessible to under-resourced classrooms
 
 ---
-
 ## DISCUSSION QUESTIONS
 
 **Pre-Activity (Connect to Story):**

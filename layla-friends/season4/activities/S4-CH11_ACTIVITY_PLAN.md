@@ -187,89 +187,59 @@
 
 ## THREE BUDGET TIERS
 
-### 💚 TIER 1: FREE/MINIMAL BUDGET ($0-2 per student)
+### Tier 1: FREE ($0/student)
+**Standard Classroom Supplies Only:**
+- Paper (any type available in classroom)
+- Pencils, crayons, or markers (classroom supply)
+- Scissors (classroom supply)
+- Glue sticks or tape (classroom supply)
+- Rulers (if applicable, classroom supply)
+- Any materials already present in typical K-4 classroom
 
-**What's Included:**
-- Printed or hand-drawn worksheets on regular paper
-- Classroom pencils, crayons, markers
-- Chart paper or whiteboard for class brainstorming
-- Scenario cards created by teacher on index cards or paper
-- Play money can be paper cutouts with denominations written on them
-
-**DIY Alternatives:**
-- Worksheets: use notebook paper with teacher-drawn sections
-- Scenario cards: write on index cards or torn notebook paper
-- Play money: cut paper into rectangles and label with values
-- Presentation materials: students present verbally without materials
-
-**Total Cost:** $0-2 per student (only if purchasing index cards)
+**Total Cost:** $0 per student
 
 ---
 
-### 💛 TIER 2: LOW COST (~$5-10 per student / ~$100 season)
+### Tier 2: LOW COST (Under $1/student)
+**Bulk Additions (split across class):**
+- Bulk construction paper pack (~$15 for 500 sheets ÷ 25 students = $0.60/student)
+- Shared basic supplies (markers, colored pencils in bulk = $0.20/student)
+- Printed activity sheets or templates ($0.10/student for copies)
+- Simple organizational materials (folders, envelopes in bulk = $0.10/student)
 
+**Total Cost:** Under $1 per student (bulk items shared across entire class)
+
+---
+
+### Tier 3: PREMIUM ($1-3/student maximum)
 **Additional Materials:**
-- Pre-printed "Slow Season Strategy Planner" worksheets with clear sections and prompts ($2-3)
-- Laminated business scenario cards with visuals and financial details ($3-4)
-- Printed play money sets for budgeting activity ($2-3)
-- Chart paper and quality markers for presentations ($2-3)
-- Real-world business examples (printed articles or photos) ($1-2)
+- Cardstock or quality paper for projects ($0.50/student)
+- Small plastic containers or ziplock bags for organization (bulk = $0.30/student)
+- Single craft supply item students can keep ($1-2/student max)
+- Laminating materials for durability (if available = $0.20/student)
+- Take-home components (small items under $1 each)
 
-**Enhanced Features:**
-- Professional-looking materials that feel "real"
-- Clear visual organization supports different learning styles
-- Laminated cards can be reused for future classes
-- Better presentation quality for sharing work
-
-**Total Additional Cost:** $5-10 per student
+**Total Cost:** $1-3 per student maximum (never exceed $3/student)
 
 ---
-
-### 🧡 TIER 3: PREMIUM (~$15-25 per student / ~$250 season)
-
-**Additional Materials:**
-- Professionally designed "Slow Season Action Plan" workbooks with multiple sections ($4-6)
-- Laminated scenario cards with color photos of real businesses ($4-5)
-- Professional play currency sets in realistic denominations ($3-4)
-- Business cycle posters showing seasonal variations in different industries ($3-4)
-- Presentation folders for each team to organize and present their plans ($2-3)
-- "Business Advisor" reference guides with real slow season strategies from actual businesses ($2-3)
-- Certificates: "Strategic Business Thinker" awards ($2-3)
-- Optional: simple budget tracking ledgers (like real business use) ($2-3)
-
-**Premium Experience:**
-- Materials that mirror real business planning tools
-- Visual supports help students understand complex concepts
-- Professional presentation builds confidence and public speaking skills
-- Portfolio-worthy documentation students can keep
-- More authentic connection to real-world business practices
-
-**Total Cost:** $15-25 per student
-
----
-
 ## MATERIALS SUMMARY
 
 **Required (All Tiers):**
-- Paper for worksheets and planning
-- Writing implements
-- Business scenario descriptions
-- Space for group work and presentations
+- Standard classroom supplies (paper, pencils, scissors, etc.)
+- Activity-specific items (varies by chapter)
 
 **Per Student Costs:**
-- **Tier 1:** $0-2
-- **Tier 2:** $5-10
-- **Tier 3:** $15-25
+- **Tier 1:** $0/student (classroom supplies only)
+- **Tier 2:** Under $1/student (bulk purchases divided across class)
+- **Tier 3:** $1-3/student maximum (enhanced materials, never exceed $3)
 
-**Per Season (12 chapters, 25 students):**
-- Tier 1: $0-50 total
-- Tier 2: $125-250 total
-- Tier 3: $375-625 total
-
-**Note:** This activity requires minimal materials as the core work is strategic thinking and planning. The primary "product" is ideas and plans, not physical items.
+**Budget-Conscious Notes:**
+- Tier 1 uses only materials already present in typical K-4 classrooms
+- Tier 2 emphasizes bulk purchases split across 20-30 students
+- Tier 3 maximum cost is $3 per student - no activity should exceed this
+- All tiers designed to be accessible to under-resourced classrooms
 
 ---
-
 ## DISCUSSION QUESTIONS
 
 **Pre-Activity (Connect to Story):**
@@ -756,9 +726,9 @@ Discuss "slow seasons" in your family life:
 
 **Tier 3 (Premium):**
 - Action Plan workbooks: [Custom printed or high-quality templates - $10-15 per class set]
-- Laminated scenario cards: [Laminating pouches + color printing - $8-12]
+- Laminated scenario cards: [Laminating pouches + color printing - Under $1/student]
 - Professional play currency: [Educational currency set with realistic bills - $12-15]
-- Business cycle posters: [Economics education posters - $8-12]
+- Business cycle posters: [Economics education posters - Under $1/student]
 - Presentation folders: [Two-pocket folders with brads - 25 pack - $10-15]
 - Certificates: [Award certificate templates - Free printable or $5-8 for pre-printed]
 

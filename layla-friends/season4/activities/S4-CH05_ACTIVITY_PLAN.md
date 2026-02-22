@@ -169,92 +169,59 @@
 
 ## THREE BUDGET TIERS
 
-### 💚 TIER 1: FREE/MINIMAL BUDGET ($0-2 per student)
+### Tier 1: FREE ($0/student)
+**Standard Classroom Supplies Only:**
+- Paper (any type available in classroom)
+- Pencils, crayons, or markers (classroom supply)
+- Scissors (classroom supply)
+- Glue sticks or tape (classroom supply)
+- Rulers (if applicable, classroom supply)
+- Any materials already present in typical K-4 classroom
 
-**What's Included:**
-- Paper for business signs (scrap or recycled paper)
-- Hand-drawn play money (students create it)
-- Imaginary products (menus, drawn pictures, service cards)
-- Classroom supplies (markers, pencils, crayons)
-- Desks or tables as "stores"
-- Scrap paper for tracking sheets
-
-**DIY Alternatives:**
-- Business signs: fold paper tent-cards
-- Play money: students design and cut from scrap paper
-- Products: draw pictures of items, create paper samples
-- Tracking: use whiteboard or large paper taped to wall
-
-**Total Cost:** $0-2 per student (optional: index cards if available)
+**Total Cost:** $0 per student
 
 ---
 
-### 💛 TIER 2: LOW COST (~$5-10 per student / ~$100 season)
+### Tier 2: LOW COST (Under $1/student)
+**Bulk Additions (split across class):**
+- Bulk construction paper pack (~$15 for 500 sheets ÷ 25 students = $0.60/student)
+- Shared basic supplies (markers, colored pencils in bulk = $0.20/student)
+- Printed activity sheets or templates ($0.10/student for copies)
+- Simple organizational materials (folders, envelopes in bulk = $0.10/student)
 
+**Total Cost:** Under $1 per student (bulk items shared across entire class)
+
+---
+
+### Tier 3: PREMIUM ($1-3/student maximum)
 **Additional Materials:**
-- Printed play money ($3-5)
-- Actual products to differentiate (craft supplies for customization: stickers, stamps, colored paper) ($4-6)
-- Printed business planning templates and tracking sheets ($2-3)
-- Customer feedback cards (printed or index cards) ($2)
-- Simple prizes for "winning" strategies ($2-3)
+- Cardstock or quality paper for projects ($0.50/student)
+- Small plastic containers or ziplock bags for organization (bulk = $0.30/student)
+- Single craft supply item students can keep ($1-2/student max)
+- Laminating materials for durability (if available = $0.20/student)
+- Take-home components (small items under $1 each)
 
-**Enhanced Features:**
-- More professional-looking currency and materials
-- Tangible products students can actually customize
-- Structured worksheets for strategy planning
-- Data tracking with printed templates
-- Recognition for successful differentiation
-
-**Total Additional Cost:** $5-10 per student
+**Total Cost:** $1-3 per student maximum (never exceed $3/student)
 
 ---
-
-### 🧡 TIER 3: PREMIUM (~$15-25 per student / ~$250 season)
-
-**Additional Materials:**
-- Professional play currency set ($5-8)
-- Quality craft supplies for product creation and customization ($6-10)
-- Laminated business planning worksheets (reusable) ($3-5)
-- Booth setup materials (tablecloths, signage stands) ($4-6)
-- Customer survey tablets or printed professional forms ($3-4)
-- Digital timer for rounds ($3, shared)
-- Awards/certificates for best differentiation strategies ($2-3)
-- Chart paper and markers for data visualization ($3-5)
-
-**Premium Experience:**
-- Professional market atmosphere
-- High-quality products to differentiate
-- Robust data collection and analysis
-- Formal business strategy training
-- Recognition and awards for successful strategies
-- Portfolio-quality business case studies
-
-**Total Cost:** $15-25 per student
-
----
-
 ## MATERIALS SUMMARY
 
 **Required (All Tiers):**
-- Paper for signage and tracking
-- Writing implements
-- Space for 4 "stores"
-- Play money (created or printed)
+- Standard classroom supplies (paper, pencils, scissors, etc.)
+- Activity-specific items (varies by chapter)
 
 **Per Student Costs:**
-- **Tier 1:** $0-2
-- **Tier 2:** $5-10
-- **Tier 3:** $15-25
+- **Tier 1:** $0/student (classroom supplies only)
+- **Tier 2:** Under $1/student (bulk purchases divided across class)
+- **Tier 3:** $1-3/student maximum (enhanced materials, never exceed $3)
 
-**Per Season (12 chapters, 25 students):**
-- Tier 1: $0-50 total
-- Tier 2: $125-250 total
-- Tier 3: $375-625 total
-
-**Note:** This activity's value comes from the strategic simulation, not expensive materials. Even with zero budget, the learning is powerful.
+**Budget-Conscious Notes:**
+- Tier 1 uses only materials already present in typical K-4 classrooms
+- Tier 2 emphasizes bulk purchases split across 20-30 students
+- Tier 3 maximum cost is $3 per student - no activity should exceed this
+- All tiers designed to be accessible to under-resourced classrooms
 
 ---
-
 ## DISCUSSION QUESTIONS
 
 **Pre-Activity (Connect to Story):**
@@ -692,7 +659,7 @@
 - Use: Scrap paper, classroom markers, desks as stores
 
 **Tier 2 (Low Cost):**
-- Play money printables: [Learning Resources Play Money - $8-12]
+- Play money printables: [Learning Resources Play Money - Under $1/student]
 - Craft supplies for differentiation: [Dollar Store variety pack - $5-8]
 - Index cards for feedback: [Amazon Basic Index Cards - $3-5]
 - Chart paper: [School supply or dollar store - $3-5]
@@ -703,7 +670,7 @@
 - Laminating pouches for templates: [Amazon 50-pack - $12-18]
 - Tablecloths for booths: [Party store or Amazon - $10-15]
 - Award certificates: [Printable templates or purchase - $5-8]
-- Timer with display: [Digital classroom timer - $8-12]
+- Timer with display: [Digital classroom timer - Under $1/student]
 
 ---
 

@@ -155,88 +155,59 @@
 
 ## THREE BUDGET TIERS
 
-### 💚 TIER 1: FREE/MINIMAL BUDGET ($0-2 per student)
+### Tier 1: FREE ($0/student)
+**Standard Classroom Supplies Only:**
+- Paper (any type available in classroom)
+- Pencils, crayons, or markers (classroom supply)
+- Scissors (classroom supply)
+- Glue sticks or tape (classroom supply)
+- Rulers (if applicable, classroom supply)
+- Any materials already present in typical K-4 classroom
 
-**What's Included:**
-- Scenario descriptions (teacher writes on board or reads aloud)
-- Scrap paper or recycled paper for planning
-- Classroom pencils, crayons, markers
-- Notebook paper for charts and calculations
-- Tape for posting work
-
-**DIY Alternatives:**
-- Bar charts: hand-drawn on notebook paper with ruler
-- Scenario cards: teacher writes on board, students copy
-- Presentation posters: large recycled cardboard or taped-together paper
-- Play money: cut paper squares with values written on them
-
-**Total Cost:** $0-2 per student (optional: grid paper if preferred)
+**Total Cost:** $0 per student
 
 ---
 
-### 💛 TIER 2: LOW COST (~$5-10 per student / ~$100 season)
+### Tier 2: LOW COST (Under $1/student)
+**Bulk Additions (split across class):**
+- Bulk construction paper pack (~$15 for 500 sheets ÷ 25 students = $0.60/student)
+- Shared basic supplies (markers, colored pencils in bulk = $0.20/student)
+- Printed activity sheets or templates ($0.10/student for copies)
+- Simple organizational materials (folders, envelopes in bulk = $0.10/student)
 
+**Total Cost:** Under $1 per student (bulk items shared across entire class)
+
+---
+
+### Tier 3: PREMIUM ($1-3/student maximum)
 **Additional Materials:**
-- Pre-printed scenario cards with sales data ($2-3)
-- Bar chart templates on card stock ($1-2)
-- Pivot Plan worksheets (printed) ($1-2)
-- Colored index cards for categorizing products ($2)
-- Small dry-erase boards for calculations (optional, $3)
+- Cardstock or quality paper for projects ($0.50/student)
+- Small plastic containers or ziplock bags for organization (bulk = $0.30/student)
+- Single craft supply item students can keep ($1-2/student max)
+- Laminating materials for durability (if available = $0.20/student)
+- Take-home components (small items under $1 each)
 
-**Enhanced Features:**
-- Professional-looking data visualizations
-- Structured planning templates
-- Clear scenario cards students can reference
-- Reusable materials for multiple pivot activities
-
-**Total Additional Cost:** $5-10 per student
+**Total Cost:** $1-3 per student maximum (never exceed $3/student)
 
 ---
-
-### 🧡 TIER 3: PREMIUM (~$15-25 per student / ~$250 season)
-
-**Additional Materials:**
-- Laminated scenario cards with detailed sales data ($4-6)
-- Professional bar chart templates and graph paper pads ($3-4)
-- Comprehensive Pivot Strategy workbooks ($4-5)
-- Real-world business pivot case study cards ($3-4)
-- Small whiteboards and markers for team planning ($4-6)
-- "Investor pitch" presentation folders ($2-3)
-- Business pivot success/failure cards for extended play ($2-3)
-
-**Premium Experience:**
-- Real business case studies make concepts tangible
-- Professional planning materials mirror actual business tools
-- Multiple scenarios for extended learning
-- Portfolio-worthy documentation
-- Reusable materials for ongoing business simulations
-
-**Total Cost:** $15-25 per student
-
----
-
 ## MATERIALS SUMMARY
 
 **Required (All Tiers):**
-- Scenario descriptions (failing businesses)
-- Paper for planning and charts
-- Writing/drawing implements
-- Space for team work and presentations
+- Standard classroom supplies (paper, pencils, scissors, etc.)
+- Activity-specific items (varies by chapter)
 
 **Per Student Costs:**
-- **Tier 1:** $0-2
-- **Tier 2:** $5-10
-- **Tier 3:** $15-25
+- **Tier 1:** $0/student (classroom supplies only)
+- **Tier 2:** Under $1/student (bulk purchases divided across class)
+- **Tier 3:** $1-3/student maximum (enhanced materials, never exceed $3)
 
-**Per Season (12 chapters, 25 students):**
-- Tier 1: $0-50 total
-- Tier 2: $125-250 total
-- Tier 3: $375-625 total
-
-**Note:** This activity requires minimal consumables—most materials are reusable planning tools and scenario cards.
+**Budget-Conscious Notes:**
+- Tier 1 uses only materials already present in typical K-4 classrooms
+- Tier 2 emphasizes bulk purchases split across 20-30 students
+- Tier 3 maximum cost is $3 per student - no activity should exceed this
+- All tiers designed to be accessible to under-resourced classrooms
 
 ---
-
 ## DISCUSSION QUESTIONS
 
 **Pre-Activity (Connect to Story):**
@@ -674,9 +645,9 @@
 **Tier 3 (Premium):**
 - Laminating pouches: [Amazon - 100 pack - $15-20]
 - Small whiteboards: [12-pack dry erase boards - $20-30]
-- Business case study cards: [Printable or purchase educational set - $8-12]
+- Business case study cards: [Printable or purchase educational set - Under $1/student]
 - Presentation folders: [Two-pocket folders 12-pack - $10-15]
-- Graph paper pads (quality): [Professional grid pads - $8-12]
+- Graph paper pads (quality): [Professional grid pads - Under $1/student]
 
 ---
 

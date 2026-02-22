@@ -160,91 +160,59 @@
 
 ## THREE BUDGET TIERS
 
-### 💚 TIER 1: FREE/MINIMAL BUDGET ($0-2 per student)
+### Tier 1: FREE ($0/student)
+**Standard Classroom Supplies Only:**
+- Paper (any type available in classroom)
+- Pencils, crayons, or markers (classroom supply)
+- Scissors (classroom supply)
+- Glue sticks or tape (classroom supply)
+- Rulers (if applicable, classroom supply)
+- Any materials already present in typical K-4 classroom
 
-**What's Included:**
-- Plain copy paper or notebook paper
-- Classroom rulers (standard 12-inch)
-- Regular pencils with erasers
-- Scrap paper for rough sketches
-- Simple objects from classroom for blueprinting practice
-
-**DIY Alternatives:**
-- Grid paper: Hand-draw grid lines on plain paper with ruler
-- Scale reference: Use common items (paperclip = 1 inch) as measuring guides
-- Title block: Hand-draw simple rectangle for project title and date
-- Protractor substitute: Use corner of paper for right angles
-
-**Total Cost:** $0-2 per student (optional: graph paper if preferred over plain)
+**Total Cost:** $0 per student
 
 ---
 
-### 💛 TIER 2: LOW COST (~$5-10 per student / ~$100 season)
+### Tier 2: LOW COST (Under $1/student)
+**Bulk Additions (split across class):**
+- Bulk construction paper pack (~$15 for 500 sheets ÷ 25 students = $0.60/student)
+- Shared basic supplies (markers, colored pencils in bulk = $0.20/student)
+- Printed activity sheets or templates ($0.10/student for copies)
+- Simple organizational materials (folders, envelopes in bulk = $0.10/student)
 
+**Total Cost:** Under $1 per student (bulk items shared across entire class)
+
+---
+
+### Tier 3: PREMIUM ($1-3/student maximum)
 **Additional Materials:**
-- Pre-printed blueprint grid paper ($2-3)
-- Quality rulers with both inch and metric markings ($2)
-- Mechanical pencils with fine leads for precision ($1-2)
-- Simple protractor for angle measurement ($1)
-- Blueprint template sheets with title blocks ($1-2)
-- Reference poster showing blueprint symbols and conventions ($3, shared)
+- Cardstock or quality paper for projects ($0.50/student)
+- Small plastic containers or ziplock bags for organization (bulk = $0.30/student)
+- Single craft supply item students can keep ($1-2/student max)
+- Laminating materials for durability (if available = $0.20/student)
+- Take-home components (small items under $1 each)
 
-**Enhanced Features:**
-- Professional-looking technical drawings
-- More accurate measurements with better tools
-- Reusable templates for multiple projects
-- Clear standards and conventions
-- Organized title blocks with key information
-
-**Total Additional Cost:** $5-10 per student
+**Total Cost:** $1-3 per student maximum (never exceed $3/student)
 
 ---
-
-### 🧡 TIER 3: PREMIUM (~$15-25 per student / ~$250 season)
-
-**Additional Materials:**
-- Large-format blueprint paper (11x17 or 18x24) ($4-6)
-- Professional drawing set: rulers, protractors, compasses, French curves ($8-12)
-- Architectural scale rulers (showing multiple scales) ($4-6)
-- Technical drawing templates (circles, squares, symbols) ($3-5)
-- Fine-tip technical pens for inking final drafts ($3-4)
-- Blueprint folder/portfolio for storage ($2-3)
-- Access to simple CAD software or apps (free options: Tinkercad, SketchUp Free) ($0, but requires tech)
-
-**Premium Experience:**
-- Professional-grade tools used by real engineers
-- Large-format drawings for detailed work
-- Portfolio-quality technical documents
-- Digital blueprint options
-- Skills transferable to actual drafting/engineering work
-- Professional presentation and storage
-
-**Total Cost:** $15-25 per student
-
----
-
 ## MATERIALS SUMMARY
 
 **Required (All Tiers):**
-- Paper for drawing
-- Rulers for measurement
-- Pencils for drawing
-- Objects to measure and blueprint
+- Standard classroom supplies (paper, pencils, scissors, etc.)
+- Activity-specific items (varies by chapter)
 
 **Per Student Costs:**
-- **Tier 1:** $0-2
-- **Tier 2:** $5-10
-- **Tier 3:** $15-25
+- **Tier 1:** $0/student (classroom supplies only)
+- **Tier 2:** Under $1/student (bulk purchases divided across class)
+- **Tier 3:** $1-3/student maximum (enhanced materials, never exceed $3)
 
-**Per Season (12 chapters, 25 students):**
-- Tier 1: $0-50 total
-- Tier 2: $125-250 total
-- Tier 3: $375-625 total
-
-**Note:** This activity requires minimal consumables as paper can be reused for practice and rulers/tools are permanent classroom supplies.
+**Budget-Conscious Notes:**
+- Tier 1 uses only materials already present in typical K-4 classrooms
+- Tier 2 emphasizes bulk purchases split across 20-30 students
+- Tier 3 maximum cost is $3 per student - no activity should exceed this
+- All tiers designed to be accessible to under-resourced classrooms
 
 ---
-
 ## DISCUSSION QUESTIONS
 
 **Pre-Activity (Connect to Story):**

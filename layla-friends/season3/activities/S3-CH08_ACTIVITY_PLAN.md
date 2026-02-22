@@ -141,85 +141,59 @@
 
 ## THREE BUDGET TIERS
 
-### 💚 TIER 1: FREE/MINIMAL BUDGET ($0-3 per student)
+### Tier 1: FREE ($0/student)
+**Standard Classroom Supplies Only:**
+- Paper (any type available in classroom)
+- Pencils, crayons, or markers (classroom supply)
+- Scissors (classroom supply)
+- Glue sticks or tape (classroom supply)
+- Rulers (if applicable, classroom supply)
+- Any materials already present in typical K-4 classroom
 
-**What's Included:**
-- Paper and pencils for planning
-- Recyclable materials (cardboard boxes, containers, caps, straws from recycling)
-- Classroom tape and scissors
-- Found materials for prototypes
-
-**DIY Alternatives:**
-- Prototyping materials: collect from home and recycling
-- Worksheets: hand-draw templates on notebook paper
-- "Shark Tank" setup: just use classroom chairs
-- No materials purchased—pure creativity and scavenging
-
-**Total Cost:** $0-3 per student
+**Total Cost:** $0 per student
 
 ---
 
-### 💛 TIER 2: LOW COST (~$5-10 per student / ~$125 season)
+### Tier 2: LOW COST (Under $1/student)
+**Bulk Additions (split across class):**
+- Bulk construction paper pack (~$15 for 500 sheets ÷ 25 students = $0.60/student)
+- Shared basic supplies (markers, colored pencils in bulk = $0.20/student)
+- Printed activity sheets or templates ($0.10/student for copies)
+- Simple organizational materials (folders, envelopes in bulk = $0.10/student)
 
+**Total Cost:** Under $1 per student (bulk items shared across entire class)
+
+---
+
+### Tier 3: PREMIUM ($1-3/student maximum)
 **Additional Materials:**
-- Cardboard and craft materials variety pack ($3-5)
-- Basic building supplies (popsicle sticks, pipe cleaners, foam) ($2-3)
-- Printed invention planning templates ($1-2)
-- Prototyping toolkit (scissors, tape, glue, fasteners) ($2-3)
+- Cardstock or quality paper for projects ($0.50/student)
+- Small plastic containers or ziplock bags for organization (bulk = $0.30/student)
+- Single craft supply item students can keep ($1-2/student max)
+- Laminating materials for durability (if available = $0.20/student)
+- Take-home components (small items under $1 each)
 
-**Enhanced Features:**
-- Better prototyping materials = better models
-- Structured planning templates guide thinking
-- More material options = more creative solutions
-- Professional presentation materials
-
-**Total Additional Cost:** $5-10 per student
+**Total Cost:** $1-3 per student maximum (never exceed $3/student)
 
 ---
-
-### 🧡 TIER 3: PREMIUM (~$15-30 per student / ~$400 season)
-
-**Additional Materials:**
-- Comprehensive maker kit (motors, batteries, connectors, sensors) ($10-15)
-- Quality building materials (balsa wood, quality cardboard, specialized components) ($5-8)
-- Laminated design thinking process posters ($3-5)
-- Professional pitch templates and presentation boards ($3-5)
-- Simple electronics kit if applicable ($5-10)
-- 3D pen or modeling clay for detailed prototypes ($3-5)
-
-**Premium Experience:**
-- Working prototypes possible
-- Professional-quality models
-- Authentic invention experience
-- Portfolio-worthy projects
-- Skills transferable to real product development
-
-**Total Cost:** $15-30 per student
-
----
-
 ## MATERIALS SUMMARY
 
 **Required (All Tiers):**
-- Way to identify problems (conversation, observation)
-- Paper for planning and sketching
-- Materials to build prototype (any materials work)
-- Method to present invention
+- Standard classroom supplies (paper, pencils, scissors, etc.)
+- Activity-specific items (varies by chapter)
 
 **Per Student Costs:**
-- **Tier 1:** $0-3
-- **Tier 2:** $5-10
-- **Tier 3:** $15-30
+- **Tier 1:** $0/student (classroom supplies only)
+- **Tier 2:** Under $1/student (bulk purchases divided across class)
+- **Tier 3:** $1-3/student maximum (enhanced materials, never exceed $3)
 
-**Per Season (12 chapters, 25 students):**
-- Tier 1: $0-75 total
-- Tier 2: $125-250 total
-- Tier 3: $375-750 total
-
-**Note:** Invention skills apply throughout life—seeing problems as opportunities is fundamental entrepreneurial thinking.
+**Budget-Conscious Notes:**
+- Tier 1 uses only materials already present in typical K-4 classrooms
+- Tier 2 emphasizes bulk purchases split across 20-30 students
+- Tier 3 maximum cost is $3 per student - no activity should exceed this
+- All tiers designed to be accessible to under-resourced classrooms
 
 ---
-
 ## DISCUSSION QUESTIONS
 
 **Pre-Activity (Connect to Story):**
@@ -659,7 +633,7 @@
 - Cardboard variety pack: [Amazon - $10-15]
 - Craft supplies kit: [Popsicle sticks, pipe cleaners, foam - $10-15]
 - Printed templates: [$3-5 for class]
-- Prototyping toolkit: [Scissors, tape, glue, fasteners - $8-12]
+- Prototyping toolkit: [Scissors, tape, glue, fasteners - Under $1/student]
 - Total: ~$30-50 for class
 
 **Tier 3 (Premium):**

@@ -161,90 +161,59 @@
 
 ## THREE BUDGET TIERS
 
-### 💚 TIER 1: FREE/MINIMAL BUDGET ($0-2 per student)
+### Tier 1: FREE ($0/student)
+**Standard Classroom Supplies Only:**
+- Paper (any type available in classroom)
+- Pencils, crayons, or markers (classroom supply)
+- Scissors (classroom supply)
+- Glue sticks or tape (classroom supply)
+- Rulers (if applicable, classroom supply)
+- Any materials already present in typical K-4 classroom
 
-**What's Included:**
-- Chart paper or large paper from classroom supply
-- Markers, crayons, colored pencils (classroom supplies)
-- Scrap paper for financial calculations
-- Index cards for reflection prompts
-- Handwritten awards on construction paper
-
-**DIY Alternatives:**
-- Display boards: tape together large sheets of paper or use tabletop displays
-- Graphs: hand-drawn bar charts and pie charts
-- Awards: create certificates using construction paper and markers
-- Photos: if unavailable, students draw representations of products
-
-**Total Cost:** $0-2 per student
+**Total Cost:** $0 per student
 
 ---
 
-### 💛 TIER 2: LOW COST (~$5-10 per student / ~$150 season)
+### Tier 2: LOW COST (Under $1/student)
+**Bulk Additions (split across class):**
+- Bulk construction paper pack (~$15 for 500 sheets ÷ 25 students = $0.60/student)
+- Shared basic supplies (markers, colored pencils in bulk = $0.20/student)
+- Printed activity sheets or templates ($0.10/student for copies)
+- Simple organizational materials (folders, envelopes in bulk = $0.10/student)
 
+**Total Cost:** Under $1 per student (bulk items shared across entire class)
+
+---
+
+### Tier 3: PREMIUM ($1-3/student maximum)
 **Additional Materials:**
-- Printed business journey templates with prompts ($2)
-- Simple tri-fold presentation boards ($3-4)
-- Printed graph paper for financial charts ($1)
-- Pre-made award certificates ($2)
-- Stickers and decorative supplies ($2)
-- Calculator access (shared classroom sets)
+- Cardstock or quality paper for projects ($0.50/student)
+- Small plastic containers or ziplock bags for organization (bulk = $0.30/student)
+- Single craft supply item students can keep ($1-2/student max)
+- Laminating materials for durability (if available = $0.20/student)
+- Take-home components (small items under $1 each)
 
-**Enhanced Features:**
-- More professional-looking displays
-- Structured templates guide reflection
-- Official-looking awards and recognition
-- Better visual organization
-
-**Total Additional Cost:** $5-10 per student
+**Total Cost:** $1-3 per student maximum (never exceed $3/student)
 
 ---
-
-### 🧡 TIER 3: PREMIUM (~$15-30 per student / ~$350 season)
-
-**Additional Materials:**
-- Professional tri-fold display boards ($6-8)
-- Printed financial tracking worksheets (multi-page) ($3-4)
-- Laminated graph templates (reusable) ($3)
-- Printed award ribbons and certificates ($4-5)
-- Photo printing of activities throughout season ($3-5)
-- "Business Expo" banner and signage ($4, shared)
-- Display stands for products ($3-4)
-- Professional markers and supplies ($2-3)
-
-**Premium Experience:**
-- Science fair-quality presentation boards
-- Complete financial documentation
-- Professional awards ceremony
-- Portfolio-quality materials to keep
-- Photo documentation of full season journey
-
-**Total Cost:** $15-30 per student
-
----
-
 ## MATERIALS SUMMARY
 
 **Required (All Tiers):**
-- Large paper or display boards
-- Writing/drawing implements
-- Financial calculation tools (paper/pencil or calculator)
-- Reflection prompts
+- Standard classroom supplies (paper, pencils, scissors, etc.)
+- Activity-specific items (varies by chapter)
 
 **Per Student Costs:**
-- **Tier 1:** $0-2
-- **Tier 2:** $5-10
-- **Tier 3:** $15-30
+- **Tier 1:** $0/student (classroom supplies only)
+- **Tier 2:** Under $1/student (bulk purchases divided across class)
+- **Tier 3:** $1-3/student maximum (enhanced materials, never exceed $3)
 
-**Per Season (12 chapters, 25 students):**
-- Tier 1: $0-50 total
-- Tier 2: $125-250 total
-- Tier 3: $375-750 total
-
-**Note:** This final activity can incorporate products/materials from previous activities throughout the season, reducing the need for new purchases.
+**Budget-Conscious Notes:**
+- Tier 1 uses only materials already present in typical K-4 classrooms
+- Tier 2 emphasizes bulk purchases split across 20-30 students
+- Tier 3 maximum cost is $3 per student - no activity should exceed this
+- All tiers designed to be accessible to under-resourced classrooms
 
 ---
-
 ## DISCUSSION QUESTIONS
 
 **Pre-Activity (Connect to Story):**
@@ -709,7 +678,7 @@
 **Tier 3 (Premium):**
 - Professional display boards: [Office supply store - $6-8 each]
 - Photo printing: [Local print shop or Walgreens - $0.25-0.50 per photo]
-- Award ribbons: [Amazon - 25 pack - $8-12]
+- Award ribbons: [Amazon - 25 pack - Under $1/student]
 - Laminating pouches: [Amazon - 100 pack - $15-20]
 - Expo banner: [Custom print or DIY - $5-10]
 - Display stands: [Amazon - tabletop easels - $3-5 each]

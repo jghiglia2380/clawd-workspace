@@ -146,87 +146,59 @@
 
 ## THREE BUDGET TIERS
 
-### 💚 TIER 1: FREE/MINIMAL BUDGET ($0-2 per student)
+### Tier 1: FREE ($0/student)
+**Standard Classroom Supplies Only:**
+- Paper (any type available in classroom)
+- Pencils, crayons, or markers (classroom supply)
+- Scissors (classroom supply)
+- Glue sticks or tape (classroom supply)
+- Rulers (if applicable, classroom supply)
+- Any materials already present in typical K-4 classroom
 
-**What's Included:**
-- Scrap paper or recycled paper for drawing/folding tasks
-- Classroom supplies already available (crayons, pencils, scissors)
-- Items to organize (classroom blocks, crayons, books)
-- Teacher's phone or wall clock for timing
-- Notebook paper for tracking sheets
-
-**DIY Alternatives:**
-- Task stations: use classroom desks or floor spaces
-- Tracking sheets: draw simple tally chart on scrap paper
-- Play money: draw currency on paper or use tokens/counters
-
-**Total Cost:** $0
+**Total Cost:** $0 per student
 
 ---
 
-### 💛 TIER 2: LOW COST (~$5-10 per student / ~$100 season)
+### Tier 2: LOW COST (Under $1/student)
+**Bulk Additions (split across class):**
+- Bulk construction paper pack (~$15 for 500 sheets ÷ 25 students = $0.60/student)
+- Shared basic supplies (markers, colored pencils in bulk = $0.20/student)
+- Printed activity sheets or templates ($0.10/student for copies)
+- Simple organizational materials (folders, envelopes in bulk = $0.10/student)
 
+**Total Cost:** Under $1 per student (bulk items shared across entire class)
+
+---
+
+### Tier 3: PREMIUM ($1-3/student maximum)
 **Additional Materials:**
-- Printed task cards for each station with clear instructions ($2-3)
-- Pre-printed tracking sheets with time logs and calculation spaces ($2)
-- Play money (printable currency or purchased set) ($3-5)
-- Visual timer (digital countdown timer for whole class to see) ($8-12, one-time purchase)
-- Station signs for clear organization ($2-3)
+- Cardstock or quality paper for projects ($0.50/student)
+- Small plastic containers or ziplock bags for organization (bulk = $0.30/student)
+- Single craft supply item students can keep ($1-2/student max)
+- Laminating materials for durability (if available = $0.20/student)
+- Take-home components (small items under $1 each)
 
-**Enhanced Features:**
-- Professional-looking task stations with clear visual instructions
-- Easier tracking and data collection
-- More engaging with printed money
-- Visual timer reduces teacher management load
-
-**Total Additional Cost:** $5-10 per student (or ~$30-50 one-time for class set)
+**Total Cost:** $1-3 per student maximum (never exceed $3/student)
 
 ---
-
-### 🧡 TIER 3: PREMIUM (~$15-25 per student / ~$250 season)
-
-**Additional Materials:**
-- Laminated task station cards with illustrations ($5-8)
-- Professional tracking sheets with calculation guides ($3-5)
-- Quality play currency with realistic denominations ($8-12)
-- Large visual timer with sound alerts ($15-20, shared class resource)
-- Station setup materials: tablecloths, bins, organizing containers ($10-15)
-- Individual stopwatches for precise time tracking ($4-6 each if feasible)
-- Award certificates: "Teamwork Champion," "Most Efficient Solo Worker," "Best Partnership" ($2-4)
-
-**Premium Experience:**
-- Professional simulation atmosphere
-- Precise data collection enables deeper analysis
-- Certificates recognize both solo effort and team collaboration
-- Reusable materials for future activities
-
-**Total Cost:** $15-25 per student (or ~$75-125 one-time for class set of reusables)
-
----
-
 ## MATERIALS SUMMARY
 
 **Required (All Tiers):**
-- Paper for tasks (drawing, folding)
-- Items to organize
-- Writing implements
-- Timer of some kind
-- Tracking method (paper or board)
+- Standard classroom supplies (paper, pencils, scissors, etc.)
+- Activity-specific items (varies by chapter)
 
 **Per Student Costs:**
-- **Tier 1:** $0
-- **Tier 2:** $5-10
-- **Tier 3:** $15-25
+- **Tier 1:** $0/student (classroom supplies only)
+- **Tier 2:** Under $1/student (bulk purchases divided across class)
+- **Tier 3:** $1-3/student maximum (enhanced materials, never exceed $3)
 
-**Per Season (12 chapters, 25 students):**
-- Tier 1: $0-50 total
-- Tier 2: $125-250 total
-- Tier 3: $375-625 total
-
-**Note:** This activity requires minimal consumables. Most costs are one-time investments in timers, task cards, and organizational materials that can be reused throughout the season and in future years.
+**Budget-Conscious Notes:**
+- Tier 1 uses only materials already present in typical K-4 classrooms
+- Tier 2 emphasizes bulk purchases split across 20-30 students
+- Tier 3 maximum cost is $3 per student - no activity should exceed this
+- All tiers designed to be accessible to under-resourced classrooms
 
 ---
-
 ## DISCUSSION QUESTIONS
 
 **Pre-Activity (Connect to Story):**
@@ -647,7 +619,7 @@
 **Tier 2 (Low Cost):**
 - Printable task cards: [Free templates online or create your own]
 - Play money: [Print from online templates - free OR purchase basic set $5-8]
-- Visual timer: [Amazon - classroom timer - $8-12]
+- Visual timer: [Amazon - classroom timer - Under $1/student]
 - Station signs: [Print and laminate or use cardstock - $3-5]
 
 **Tier 3 (Premium):**

@@ -156,93 +156,59 @@
 
 ## THREE BUDGET TIERS
 
-### 💚 TIER 1: FREE/MINIMAL BUDGET ($0-2 per student)
+### Tier 1: FREE ($0/student)
+**Standard Classroom Supplies Only:**
+- Paper (any type available in classroom)
+- Pencils, crayons, or markers (classroom supply)
+- Scissors (classroom supply)
+- Glue sticks or tape (classroom supply)
+- Rulers (if applicable, classroom supply)
+- Any materials already present in typical K-4 classroom
 
-**What's Included:**
-- Scrap paper, cardboard from recycling
-- Classroom scissors, glue, tape
-- Markers, crayons, colored pencils already available
-- Recycled materials (bottle caps, cardboard tubes, newspaper)
-- Handwritten tracking sheets on scrap paper
-- Items from home students can assemble/decorate
-
-**DIY Alternatives:**
-- Templates: trace and cut from cardboard
-- Quality checklist: written on whiteboard or shared paper
-- Timer: use classroom clock or phone timer
-- Materials cost: imaginary pricing, focus on tracking types used
-
-**Total Cost:** $0-2 per student (optional: index cards for tracking)
+**Total Cost:** $0 per student
 
 ---
 
-### 💛 TIER 2: LOW COST (~$5-10 per student / ~$100 season)
+### Tier 2: LOW COST (Under $1/student)
+**Bulk Additions (split across class):**
+- Bulk construction paper pack (~$15 for 500 sheets ÷ 25 students = $0.60/student)
+- Shared basic supplies (markers, colored pencils in bulk = $0.20/student)
+- Printed activity sheets or templates ($0.10/student for copies)
+- Simple organizational materials (folders, envelopes in bulk = $0.10/student)
 
+**Total Cost:** Under $1 per student (bulk items shared across entire class)
+
+---
+
+### Tier 3: PREMIUM ($1-3/student maximum)
 **Additional Materials:**
-- Craft supply basics ($3-5): construction paper, pipe cleaners, popsicle sticks, foam shapes
-- Printed production tracking sheets and quality rubrics ($1-2)
-- Play money for materials budget simulation ($1-2)
-- Basic craft kits (bookmark making, simple sewing, bead kits) ($3-5)
-- Small storage containers for organizing materials ($1-2)
-- Printed role badges (Designer, Builder, Inspector) ($0.50-1)
+- Cardstock or quality paper for projects ($0.50/student)
+- Small plastic containers or ziplock bags for organization (bulk = $0.30/student)
+- Single craft supply item students can keep ($1-2/student max)
+- Laminating materials for durability (if available = $0.20/student)
+- Take-home components (small items under $1 each)
 
-**Enhanced Features:**
-- More professional-looking finished products
-- Structured tracking and documentation
-- Realistic materials budgeting experience
-- Clear role definition with badges
-- Reusable materials for multiple production runs
-
-**Total Additional Cost:** $5-10 per student
+**Total Cost:** $1-3 per student maximum (never exceed $3/student)
 
 ---
-
-### 🧡 TIER 3: PREMIUM (~$15-25 per student / ~$250 season)
-
-**Additional Materials:**
-- Quality craft supply kits ($5-8): wood pieces, quality paper, fabric squares, beading supplies, paint
-- Professional production planning templates (laminated, reusable) ($3-5)
-- Digital timer with display ($3-5, shared across class)
-- Quality inspection tools: rulers, measuring templates, magnifying glass ($2-4)
-- Materials pricing system with item cards and cash box ($3-5)
-- Display materials: mini easels, product cards, booth setup ($4-6)
-- Professional role identification: name badges, clipboards for each role ($2-3)
-- Certificates for "Quality Production Team" awards ($1-2)
-
-**Premium Experience:**
-- Professional production environment feel
-- Accurate materials costing and budgeting
-- High-quality finished products students are proud of
-- Portfolio-worthy documentation
-- Skills directly transferable to real manufacturing/business
-- Enhanced pride in craftsmanship
-
-**Total Cost:** $15-25 per student
-
----
-
 ## MATERIALS SUMMARY
 
 **Required (All Tiers):**
-- Materials to build items (paper, cardboard, or craft supplies)
-- Assembly tools (scissors, glue, tape)
-- Tracking method (paper and pencil minimum)
-- Timer
+- Standard classroom supplies (paper, pencils, scissors, etc.)
+- Activity-specific items (varies by chapter)
 
 **Per Student Costs:**
-- **Tier 1:** $0-2
-- **Tier 2:** $5-10
-- **Tier 3:** $15-25
+- **Tier 1:** $0/student (classroom supplies only)
+- **Tier 2:** Under $1/student (bulk purchases divided across class)
+- **Tier 3:** $1-3/student maximum (enhanced materials, never exceed $3)
 
-**Per Season (12 chapters, 25 students):**
-- Tier 1: $0-50 total
-- Tier 2: $125-250 total
-- Tier 3: $375-625 total
-
-**Note:** This activity is the culmination of Season 3's making arc. Students apply skills from all previous chapters. Materials should allow for actual production of items students can display/keep/gift.
+**Budget-Conscious Notes:**
+- Tier 1 uses only materials already present in typical K-4 classrooms
+- Tier 2 emphasizes bulk purchases split across 20-30 students
+- Tier 3 maximum cost is $3 per student - no activity should exceed this
+- All tiers designed to be accessible to under-resourced classrooms
 
 ---
-
 ## DISCUSSION QUESTIONS
 
 **Pre-Activity (Connect to Story):**
@@ -709,7 +675,7 @@ If you have craft supplies at home you'd like to donate (construction paper, fab
 - Use: Scrap paper, cardboard, classroom supplies, recycled materials
 
 **Tier 2 (Low Cost):**
-- Construction paper variety pack: [Amazon - 300 sheets - $8-12]
+- Construction paper variety pack: [Amazon - 300 sheets - Under $1/student]
 - Popsicle sticks: [Craft stores - 200 pack - $3-5]
 - Pipe cleaners: [Dollar Store or craft stores - 100 pack - $2-4]
 - Play money set: [Amazon - classroom pack - $6-10]
@@ -719,7 +685,7 @@ If you have craft supplies at home you'd like to donate (construction paper, fab
 **Tier 3 (Premium):**
 - Craft supply organizer with dividers: [Amazon - $10-15]
 - Quality craft materials set: [Michaels/Joann - varies by item - $15-25]
-- Digital timer with large display: [Amazon - $8-12]
+- Digital timer with large display: [Amazon - Under $1/student]
 - Laminating pouches for reusable templates: [Amazon - 50 pack - $12-18]
 - Clipboard set for role assignments: [Amazon - 6 pack - $10-15]
 - "Production Team" certificates: [Printable templates or purchase - $3-6]

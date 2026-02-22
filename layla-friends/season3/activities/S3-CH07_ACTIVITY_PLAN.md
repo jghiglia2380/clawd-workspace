@@ -148,88 +148,59 @@
 
 ## THREE BUDGET TIERS
 
-### 💚 TIER 1: FREE/MINIMAL BUDGET ($0-2 per student)
+### Tier 1: FREE ($0/student)
+**Standard Classroom Supplies Only:**
+- Paper (any type available in classroom)
+- Pencils, crayons, or markers (classroom supply)
+- Scissors (classroom supply)
+- Glue sticks or tape (classroom supply)
+- Rulers (if applicable, classroom supply)
+- Any materials already present in typical K-4 classroom
 
-**What's Included:**
-- Ice from school freezer
-- Sugar from kitchen
-- Water from tap
-- Food coloring or paint from classroom
-- Found materials for transformation demos
-- Natural transformations (seeds sprouting, leaves changing color)
-
-**DIY Alternatives:**
-- Heat source: sunny windowsill instead of hot plate
-- Transformations: focus on observable free processes
-- Documentation: draw observations instead of printed worksheets
-- Examples: photos from internet instead of physical samples
-
-**Total Cost:** $0-2 per student
+**Total Cost:** $0 per student
 
 ---
 
-### 💛 TIER 2: LOW COST (~$5-10 per student / ~$125 season)
+### Tier 2: LOW COST (Under $1/student)
+**Bulk Additions (split across class):**
+- Bulk construction paper pack (~$15 for 500 sheets ÷ 25 students = $0.60/student)
+- Shared basic supplies (markers, colored pencils in bulk = $0.20/student)
+- Printed activity sheets or templates ($0.10/student for copies)
+- Simple organizational materials (folders, envelopes in bulk = $0.10/student)
 
+**Total Cost:** Under $1 per student (bulk items shared across entire class)
+
+---
+
+### Tier 3: PREMIUM ($1-3/student maximum)
 **Additional Materials:**
-- Simple chemistry kit or transformation materials ($3-5)
-- Ingredients for baking transformation (cookie dough—edible result!) ($2-3)
-- Printed observation worksheets and value chain templates ($1-2)
-- Real product samples for analysis ($2-3)
-- Timer, thermometer for measuring processes ($2-3)
+- Cardstock or quality paper for projects ($0.50/student)
+- Small plastic containers or ziplock bags for organization (bulk = $0.30/student)
+- Single craft supply item students can keep ($1-2/student max)
+- Laminating materials for durability (if available = $0.20/student)
+- Take-home components (small items under $1 each)
 
-**Enhanced Features:**
-- Hands-on transformation experiences
-- Edible results (motivation!)
-- Structured documentation
-- Real-world connection with actual products
-
-**Total Additional Cost:** $5-10 per student
+**Total Cost:** $1-3 per student maximum (never exceed $3/student)
 
 ---
-
-### 🧡 TIER 3: PREMIUM (~$15-25 per student / ~$400 season)
-
-**Additional Materials:**
-- Science lab-quality transformation kit ($8-12)
-- Access to kiln or oven for actual firing/baking ($5-10 per use)
-- Professional observation tools (microscopes, thermometers, scales) ($10-15 shared)
-- Comprehensive product sample set ($5-10)
-- Laminated value chain mapping materials ($3-5)
-- Video resources showing industrial processes ($3-5)
-- Lab notebooks for documentation ($3-5)
-
-**Premium Experience:**
-- Actual kiln firing experience if available
-- Scientific-quality data collection
-- Professional-level observation tools
-- Comprehensive real-world examples
-- Portfolio-quality documentation
-
-**Total Cost:** $15-25 per student
-
----
-
 ## MATERIALS SUMMARY
 
 **Required (All Tiers):**
-- Materials that transform (ice, sugar, paint, etc.)
-- Method to observe and document changes
-- Way to connect transformations to value
+- Standard classroom supplies (paper, pencils, scissors, etc.)
+- Activity-specific items (varies by chapter)
 
 **Per Student Costs:**
-- **Tier 1:** $0-2
-- **Tier 2:** $5-10
-- **Tier 3:** $15-25
+- **Tier 1:** $0/student (classroom supplies only)
+- **Tier 2:** Under $1/student (bulk purchases divided across class)
+- **Tier 3:** $1-3/student maximum (enhanced materials, never exceed $3)
 
-**Per Season (12 chapters, 25 students):**
-- Tier 1: $0-50 total
-- Tier 2: $125-250 total
-- Tier 3: $375-625 total
-
-**Note:** Transformation concepts apply across all manufacturing and production throughout the season.
+**Budget-Conscious Notes:**
+- Tier 1 uses only materials already present in typical K-4 classrooms
+- Tier 2 emphasizes bulk purchases split across 20-30 students
+- Tier 3 maximum cost is $3 per student - no activity should exceed this
+- All tiers designed to be accessible to under-resourced classrooms
 
 ---
-
 ## DISCUSSION QUESTIONS
 
 **Pre-Activity (Connect to Story):**

@@ -153,89 +153,59 @@
 
 ## THREE BUDGET TIERS
 
-### 💚 TIER 1: FREE/MINIMAL BUDGET ($0-2 per student)
+### Tier 1: FREE ($0/student)
+**Standard Classroom Supplies Only:**
+- Paper (any type available in classroom)
+- Pencils, crayons, or markers (classroom supply)
+- Scissors (classroom supply)
+- Glue sticks or tape (classroom supply)
+- Rulers (if applicable, classroom supply)
+- Any materials already present in typical K-4 classroom
 
-**What's Included:**
-- Scrap paper or recycled paper for surveys
-- Classroom pencils
-- Notebook paper for data recording
-- Whiteboard or blackboard for class graphing
-- Hand-drawn graphs and charts
-
-**DIY Alternatives:**
-- Clipboards: use cardboard backing from notebooks
-- Graph paper: draw grid lines on regular paper with ruler
-- Survey templates: teacher writes one template on board, students copy
-- Data collection: simple tally marks on any paper
-
-**Total Cost:** $0-2 per student
+**Total Cost:** $0 per student
 
 ---
 
-### 💛 TIER 2: LOW COST (~$5-10 per student / ~$100 season)
+### Tier 2: LOW COST (Under $1/student)
+**Bulk Additions (split across class):**
+- Bulk construction paper pack (~$15 for 500 sheets ÷ 25 students = $0.60/student)
+- Shared basic supplies (markers, colored pencils in bulk = $0.20/student)
+- Printed activity sheets or templates ($0.10/student for copies)
+- Simple organizational materials (folders, envelopes in bulk = $0.10/student)
 
+**Total Cost:** Under $1 per student (bulk items shared across entire class)
+
+---
+
+### Tier 3: PREMIUM ($1-3/student maximum)
 **Additional Materials:**
-- Printed survey templates with formatted questions ($2)
-- Real clipboards for professional feel ($2-3)
-- Graph paper pads or printed graph templates ($1)
-- Colored pencils for graphing ($2)
-- Simple data analysis worksheets ($1)
+- Cardstock or quality paper for projects ($0.50/student)
+- Small plastic containers or ziplock bags for organization (bulk = $0.30/student)
+- Single craft supply item students can keep ($1-2/student max)
+- Laminating materials for durability (if available = $0.20/student)
+- Take-home components (small items under $1 each)
 
-**Enhanced Features:**
-- Professional-looking surveys increase participation
-- Real clipboards make students feel like real researchers
-- Pre-formatted graphs save time and look cleaner
-- Color-coded data visualization improves understanding
-
-**Total Additional Cost:** $5-10 per student
+**Total Cost:** $1-3 per student maximum (never exceed $3/student)
 
 ---
-
-### 🧡 TIER 3: PREMIUM (~$15-25 per student / ~$250 season)
-
-**Additional Materials:**
-- Professional clipboard sets with storage ($4-6)
-- Laminated survey templates (reusable) ($3-5)
-- Full graph kit (multiple types of graph paper, rulers, templates) ($4-6)
-- Market Research Report folders/binders ($2-3)
-- "Junior Market Researcher" badges or name tags ($1-2)
-- Access to simple online survey tools (Google Forms on tablets if available) ($0 but requires tech)
-- Certificates for "Outstanding Market Research" ($2-3)
-- Data analysis toolkit with calculators, percentage wheels ($3-4)
-
-**Premium Experience:**
-- Professional market researcher atmosphere
-- Reusable materials for ongoing research projects
-- Digital option for tech-savvy students
-- Portfolio-quality documentation
-- Recognition and celebration
-
-**Total Cost:** $15-25 per student
-
----
-
 ## MATERIALS SUMMARY
 
 **Required (All Tiers):**
-- Paper for surveys
-- Writing implements
-- Something to tally/record data
-- Way to graph results (paper/board)
+- Standard classroom supplies (paper, pencils, scissors, etc.)
+- Activity-specific items (varies by chapter)
 
 **Per Student Costs:**
-- **Tier 1:** $0-2
-- **Tier 2:** $5-10
-- **Tier 3:** $15-25
+- **Tier 1:** $0/student (classroom supplies only)
+- **Tier 2:** Under $1/student (bulk purchases divided across class)
+- **Tier 3:** $1-3/student maximum (enhanced materials, never exceed $3)
 
-**Per Season (12 chapters, 25 students):**
-- Tier 1: $0-50 total
-- Tier 2: $125-250 total
-- Tier 3: $375-625 total
-
-**Note:** This activity's primary "material" is people to survey. The tools are just for recording and analyzing what you learn from conversations.
+**Budget-Conscious Notes:**
+- Tier 1 uses only materials already present in typical K-4 classrooms
+- Tier 2 emphasizes bulk purchases split across 20-30 students
+- Tier 3 maximum cost is $3 per student - no activity should exceed this
+- All tiers designed to be accessible to under-resourced classrooms
 
 ---
-
 ## DISCUSSION QUESTIONS
 
 **Pre-Activity (Connect to Story):**
@@ -683,7 +653,7 @@ Ask your child to survey family members about household needs or preferences (di
 - Laminating pouches: [Amazon 100-pack - $15-20]
 - Graph paper variety pack: [Amazon - $10-15]
 - Report folders/binders: [Classroom set - $15-25]
-- Name badge holders: [Amazon 25-pack - $8-12]
+- Name badge holders: [Amazon 25-pack - Under $1/student]
 - Award certificates: [Printable templates - $3-6]
 - Calculators (if needed): [Basic classroom set - $15-20]
 

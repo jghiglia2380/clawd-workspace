@@ -155,95 +155,59 @@
 
 ## THREE BUDGET TIERS
 
-### 💚 TIER 1: FREE/MINIMAL BUDGET ($0-3 per student)
+### Tier 1: FREE ($0/student)
+**Standard Classroom Supplies Only:**
+- Paper (any type available in classroom)
+- Pencils, crayons, or markers (classroom supply)
+- Scissors (classroom supply)
+- Glue sticks or tape (classroom supply)
+- Rulers (if applicable, classroom supply)
+- Any materials already present in typical K-4 classroom
 
-**What's Included:**
-- Student-made items from previous Season 3 activities (already created)
-- Scrap paper or recycled cardboard for price tags and product cards
-- Classroom pencils, crayons, markers
-- Desks or tables for booth space (already available)
-- Hand-drawn or photocopied play money
-- Simple tally marks on paper for sales tracking
-
-**DIY Alternatives:**
-- Booth signs: folded paper or cardboard from recycling
-- Display risers: stacked books or shoeboxes
-- Product cards: torn notebook paper or index card scraps
-- Play money: draw bills and coins on scrap paper, cut out
-- Cashbox: small cardboard box or envelope
-
-**Total Cost:** $0-3 per student (only if purchasing index cards or paper)
+**Total Cost:** $0 per student
 
 ---
 
-### 💛 TIER 2: LOW COST (~$5-10 per student / ~$100 season)
+### Tier 2: LOW COST (Under $1/student)
+**Bulk Additions (split across class):**
+- Bulk construction paper pack (~$15 for 500 sheets ÷ 25 students = $0.60/student)
+- Shared basic supplies (markers, colored pencils in bulk = $0.20/student)
+- Printed activity sheets or templates ($0.10/student for copies)
+- Simple organizational materials (folders, envelopes in bulk = $0.10/student)
 
+**Total Cost:** Under $1 per student (bulk items shared across entire class)
+
+---
+
+### Tier 3: PREMIUM ($1-3/student maximum)
 **Additional Materials:**
-- Pre-printed professional play money set ($3-5)
-- Colored index cards for price tags and product cards ($2-3)
-- Fabric scraps or tablecloths for display cloths ($1-2 per student)
-- Printed sales tracking sheets with categories ($1)
-- Name tags or booth signs (printed) ($1-2)
-- Small display risers or boxes ($2-3)
-- Business Report worksheets (printed) ($1)
+- Cardstock or quality paper for projects ($0.50/student)
+- Small plastic containers or ziplock bags for organization (bulk = $0.30/student)
+- Single craft supply item students can keep ($1-2/student max)
+- Laminating materials for durability (if available = $0.20/student)
+- Take-home components (small items under $1 each)
 
-**Enhanced Features:**
-- More professional-looking faire with cohesive visual design
-- Easier money handling with realistic-looking currency
-- Organized sales tracking and documentation
-- Attractive product displays that feel like a real market
-
-**Total Additional Cost:** $5-10 per student
+**Total Cost:** $1-3 per student maximum (never exceed $3/student)
 
 ---
-
-### 🧡 TIER 3: PREMIUM (~$15-30 per student / ~$250 season)
-
-**Additional Materials:**
-- Professional classroom play money set with variety of bills and coins ($5-8)
-- High-quality booth setup materials: fabric, display stands, signage materials ($6-10)
-- Laminated price tag and product card templates (reusable) ($3-5)
-- "Makers' Faire" banner and professional signage ($3-5)
-- String lights or decorative elements for faire atmosphere ($4-6 shared)
-- Certificate templates for season awards (printed or printed+framed) ($3-5)
-- Optional: professional "Business Report" booklets for each student ($2-4)
-- Optional: real refreshments for faire atmosphere (lemonade, cookies) ($5-10 shared)
-- Portfolio materials: photo printing, binders, or digital compilation ($3-5)
-
-**Premium Experience:**
-- Authentic market faire atmosphere with professional appearance
-- Celebration-worthy event that feels important and special
-- Portfolio-quality documentation of season's work
-- Memory-making experience students will remember for years
-- Parent/family invitation-worthy event
-
-**Total Cost:** $15-30 per student
-
----
-
 ## MATERIALS SUMMARY
 
 **Required (All Tiers):**
-- Student-made products from Season 3
-- Price tags and product description materials
-- Play money for transactions
-- Sales tracking system (paper-based)
-- Display space (desks or tables)
+- Standard classroom supplies (paper, pencils, scissors, etc.)
+- Activity-specific items (varies by chapter)
 
 **Per Student Costs:**
-- **Tier 1:** $0-3
-- **Tier 2:** $5-10
-- **Tier 3:** $15-30
+- **Tier 1:** $0/student (classroom supplies only)
+- **Tier 2:** Under $1/student (bulk purchases divided across class)
+- **Tier 3:** $1-3/student maximum (enhanced materials, never exceed $3)
 
-**Per Season (12 chapters, 25 students):**
-- Tier 1: $0-75 total
-- Tier 2: $125-250 total
-- Tier 3: $375-750 total
-
-**Note:** This is the season finale and should feel special. Even at Tier 1, the celebration and reflection components are powerful. At higher tiers, this becomes a showcase event worthy of family attendance.
+**Budget-Conscious Notes:**
+- Tier 1 uses only materials already present in typical K-4 classrooms
+- Tier 2 emphasizes bulk purchases split across 20-30 students
+- Tier 3 maximum cost is $3 per student - no activity should exceed this
+- All tiers designed to be accessible to under-resourced classrooms
 
 ---
-
 ## DISCUSSION QUESTIONS
 
 **Pre-Activity (Connect to Story):**
@@ -822,7 +786,7 @@ Students who successfully complete S3 can:
 - Use: Scrap paper, classroom supplies, student-made items from season
 
 **Tier 2 (Low Cost):**
-- Classroom play money: [Learning Resources Money Set - $8-12]
+- Classroom play money: [Learning Resources Money Set - Under $1/student]
 - Colored index cards: [Amazon - 300 count - $6-8]
 - Small tablecloths or fabric: [Dollar Store - $3-5 for 2]
 - Sales tracking printables: [Free templates online]

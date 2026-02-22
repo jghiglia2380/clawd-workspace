@@ -183,94 +183,59 @@
 
 ## THREE BUDGET TIERS
 
-### 💚 TIER 1: FREE/MINIMAL BUDGET ($0-2 per student)
+### Tier 1: FREE ($0/student)
+**Standard Classroom Supplies Only:**
+- Paper (any type available in classroom)
+- Pencils, crayons, or markers (classroom supply)
+- Scissors (classroom supply)
+- Glue sticks or tape (classroom supply)
+- Rulers (if applicable, classroom supply)
+- Any materials already present in typical K-4 classroom
 
-**What's Included:**
-- Handwritten task cards on scrap paper or index cards
-- Classroom timer (phone/clock)
-- Paper for tracking sheets (template drawn on board)
-- Classroom materials for tasks (paper, pencils, blocks, books to stack)
-- DIY capacity cards (folded paper colored green/red with crayons)
-
-**DIY Alternatives:**
-- Task cards: tear paper into squares, write one task per square
-- Tracking sheets: students copy template from board
-- Timer: use classroom clock or teacher's phone
-- Priority matrix: draw 2x2 grid on paper
-- Play money: not needed — use point system on paper
-
-**Total Cost:** $0-2 per student (cost of paper/markers if not already in classroom)
+**Total Cost:** $0 per student
 
 ---
 
-### 💛 TIER 2: LOW COST (~$5-10 per student / ~$100 season)
+### Tier 2: LOW COST (Under $1/student)
+**Bulk Additions (split across class):**
+- Bulk construction paper pack (~$15 for 500 sheets ÷ 25 students = $0.60/student)
+- Shared basic supplies (markers, colored pencils in bulk = $0.20/student)
+- Printed activity sheets or templates ($0.10/student for copies)
+- Simple organizational materials (folders, envelopes in bulk = $0.10/student)
 
+**Total Cost:** Under $1 per student (bulk items shared across entire class)
+
+---
+
+### Tier 3: PREMIUM ($1-3/student maximum)
 **Additional Materials:**
-- Pre-printed task cards on cardstock ($2-3)
-- Printed capacity tracking worksheets ($1-2)
-- Red/green laminated capacity indicator cards ($2)
-- Small timers or sand timers for each team ($3-4)
-- Printed priority matrix templates ($1)
-- Simple reward stickers for quality work ($1-2)
+- Cardstock or quality paper for projects ($0.50/student)
+- Small plastic containers or ziplock bags for organization (bulk = $0.30/student)
+- Single craft supply item students can keep ($1-2/student max)
+- Laminating materials for durability (if available = $0.20/student)
+- Take-home components (small items under $1 each)
 
-**Enhanced Features:**
-- Professional-looking task cards with time estimates and payment values
-- Clear tracking systems for data comparison
-- Durable capacity cards that can be reused
-- Visual timers that create urgency
-- Recognition system for quality over quantity
-
-**Total Additional Cost:** $5-10 per student
+**Total Cost:** $1-3 per student maximum (never exceed $3/student)
 
 ---
-
-### 🧡 TIER 3: PREMIUM (~$15-25 per student / ~$250 season)
-
-**Additional Materials:**
-- Professionally printed task card decks (color-coded by priority) ($5-7)
-- Laminated priority matrix boards with dry-erase markers ($4-6)
-- Digital timers with displays for each team ($4-5 each, shared)
-- Quality control clipboards with rubrics ($3-4)
-- Play money for payment simulation ($2-3)
-- "Client complaint" consequence cards ($2)
-- Capacity management journals (mini notebooks) ($3-4)
-- Achievement certificates for strategic planning ($2-3)
-
-**Premium Experience:**
-- Realistic business simulation atmosphere
-- Professional tools for priority management
-- Visible consequences for poor planning
-- Skills directly transferable to homework and project management
-- Portfolio-worthy documentation and certificates
-- Reusable materials for future simulations
-
-**Total Cost:** $15-25 per student
-
----
-
 ## MATERIALS SUMMARY
 
 **Required (All Tiers):**
-- Task cards (minimum 5-15 depending on version)
-- Timer
-- Paper for tracking
-- Classroom supplies for task completion
-- Writing implements
+- Standard classroom supplies (paper, pencils, scissors, etc.)
+- Activity-specific items (varies by chapter)
 
 **Per Student Costs:**
-- **Tier 1:** $0-2
-- **Tier 2:** $5-10
-- **Tier 3:** $15-25
+- **Tier 1:** $0/student (classroom supplies only)
+- **Tier 2:** Under $1/student (bulk purchases divided across class)
+- **Tier 3:** $1-3/student maximum (enhanced materials, never exceed $3)
 
-**Per Season (12 chapters, 25 students):**
-- Tier 1: $0-50 total
-- Tier 2: $125-250 total
-- Tier 3: $375-625 total
-
-**Note:** This activity uses primarily time and classroom materials. The "product" is the experience of overwhelm and the discovery of prioritization strategies. Materials are organizational tools that enhance but aren't essential to the core learning.
+**Budget-Conscious Notes:**
+- Tier 1 uses only materials already present in typical K-4 classrooms
+- Tier 2 emphasizes bulk purchases split across 20-30 students
+- Tier 3 maximum cost is $3 per student - no activity should exceed this
+- All tiers designed to be accessible to under-resourced classrooms
 
 ---
-
 ## DISCUSSION QUESTIONS
 
 **Pre-Activity (Connect to Story):**
@@ -747,7 +712,7 @@
 - Use: Scrap paper, classroom supplies, colored pencils/crayons for capacity cards
 
 **Tier 2 (Low Cost):**
-- Cardstock for printing: [Amazon - 100 sheets - $8-12]
+- Cardstock for printing: [Amazon - 100 sheets - Under $1/student]
 - Small sand timers: [Dollar Store or Amazon 6-pack - $6-10]
 - Laminating pouches (if laminator available): [Amazon - 50-pack - $10-15]
 - [Printable capacity tracking worksheets - PDF]
@@ -757,9 +722,9 @@
 - Digital timers with display: [Amazon classroom timer - $12-18 each]
 - Clipboards for quality control: [Amazon 6-pack - $15-20]
 - Play money set: [Learning Resources play money - $12-18]
-- Dry-erase markers for laminated boards: [Amazon 12-pack - $8-12]
+- Dry-erase markers for laminated boards: [Amazon 12-pack - Under $1/student]
 - Color printer access for task cards: [Print shop or school printer]
-- Certificate paper: [Amazon printable certificates - $8-12]
+- Certificate paper: [Amazon printable certificates - Under $1/student]
 
 ---
 

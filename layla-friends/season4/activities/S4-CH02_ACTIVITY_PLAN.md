@@ -156,87 +156,59 @@
 
 ## THREE BUDGET TIERS
 
-### 💚 TIER 1: FREE/MINIMAL BUDGET ($0-2 per student)
+### Tier 1: FREE ($0/student)
+**Standard Classroom Supplies Only:**
+- Paper (any type available in classroom)
+- Pencils, crayons, or markers (classroom supply)
+- Scissors (classroom supply)
+- Glue sticks or tape (classroom supply)
+- Rulers (if applicable, classroom supply)
+- Any materials already present in typical K-4 classroom
 
-**What's Included:**
-- Hand-drawn or photocopied business plan template (scrap paper works)
-- Classroom pencils, crayons, markers
-- Notebook paper for calculations
-- Chalkboard or whiteboard for teaching PRICE - COST = PROFIT formula
-
-**DIY Alternatives:**
-- Template: Teacher draws sections on board, students copy onto paper
-- Sample cost list: Teacher estimates common materials costs and writes on board
-- Calculator: Use hundreds chart or manual addition
-- Presentation: Students present from desks rather than poster boards
-
-**Total Cost:** $0
+**Total Cost:** $0 per student
 
 ---
 
-### 💛 TIER 2: LOW COST (~$5-10 per student / ~$100 season)
+### Tier 2: LOW COST (Under $1/student)
+**Bulk Additions (split across class):**
+- Bulk construction paper pack (~$15 for 500 sheets ÷ 25 students = $0.60/student)
+- Shared basic supplies (markers, colored pencils in bulk = $0.20/student)
+- Printed activity sheets or templates ($0.10/student for copies)
+- Simple organizational materials (folders, envelopes in bulk = $0.10/student)
 
+**Total Cost:** Under $1 per student (bulk items shared across entire class)
+
+---
+
+### Tier 3: PREMIUM ($1-3/student maximum)
 **Additional Materials:**
-- Printed business plan templates with clear sections ($2-3)
-- Sample materials cost sheets (professionally formatted) ($1-2)
-- Basic calculators (can be shared, $3-5 total)
-- Index cards for role assignments ($2)
-- Simple badge/name tags for team roles ($2-3)
+- Cardstock or quality paper for projects ($0.50/student)
+- Small plastic containers or ziplock bags for organization (bulk = $0.30/student)
+- Single craft supply item students can keep ($1-2/student max)
+- Laminating materials for durability (if available = $0.20/student)
+- Take-home components (small items under $1 each)
 
-**Enhanced Features:**
-- Professional-looking templates make planning feel more official
-- Calculators speed up math and reduce frustration
-- Role badges create team identity and ownership
-- Reusable materials for future business activities
-
-**Total Additional Cost:** $5-10 per student (or ~$30-50 one-time for class set)
+**Total Cost:** $1-3 per student maximum (never exceed $3/student)
 
 ---
-
-### 🧡 TIER 3: PREMIUM (~$15-25 per student / ~$250 season)
-
-**Additional Materials:**
-- Laminated business plan templates with step-by-step guides ($5-8)
-- Professional product cost calculator sheets ($3-4)
-- Team calculators (one per group of 4) ($8-12 total)
-- Business name/logo design kit (markers, stamps, stickers) ($4-6)
-- Poster boards for final presentations ($3-4)
-- "Investor packets" folders with printed templates ($3-5)
-- Award certificates: "Best Business Plan," "Most Realistic Pricing," "Best Team Roles" ($2-3)
-
-**Premium Experience:**
-- Professional business planning atmosphere
-- High-quality presentation materials
-- Recognition and celebration of planning skills
-- Portfolio-ready business plan documents
-- Reusable templates for multiple activities
-
-**Total Cost:** $15-25 per student (or ~$75-125 one-time for class set of reusables)
-
----
-
 ## MATERIALS SUMMARY
 
 **Required (All Tiers):**
-- Paper (template, calculations, notes)
-- Writing implements
-- Space to work and present
-- Way to do basic math
+- Standard classroom supplies (paper, pencils, scissors, etc.)
+- Activity-specific items (varies by chapter)
 
 **Per Student Costs:**
-- **Tier 1:** $0
-- **Tier 2:** $5-10
-- **Tier 3:** $15-25
+- **Tier 1:** $0/student (classroom supplies only)
+- **Tier 2:** Under $1/student (bulk purchases divided across class)
+- **Tier 3:** $1-3/student maximum (enhanced materials, never exceed $3)
 
-**Per Season (12 chapters, 25 students):**
-- Tier 1: $0-50 total
-- Tier 2: $125-250 total
-- Tier 3: $375-625 total
-
-**Note:** Business planning requires minimal consumables. Most costs are one-time investments in templates and organizational materials reusable throughout the season and future years.
+**Budget-Conscious Notes:**
+- Tier 1 uses only materials already present in typical K-4 classrooms
+- Tier 2 emphasizes bulk purchases split across 20-30 students
+- Tier 3 maximum cost is $3 per student - no activity should exceed this
+- All tiers designed to be accessible to under-resourced classrooms
 
 ---
-
 ## DISCUSSION QUESTIONS
 
 **Pre-Activity (Connect to Story):**
@@ -680,7 +652,7 @@
 **Tier 3 (Premium):**
 - Laminating pouches: [Amazon - 50 pack - $12-15]
 - Team calculators: [Amazon - basic calculator 10-pack - $15-20]
-- Poster boards: [Pack of 10 - $8-12]
+- Poster boards: [Pack of 10 - Under $1/student]
 - Business plan folders: [Amazon - 2-pocket folders 25-pack - $10-15]
 - Award certificates: [Printable templates OR purchase pack - $3-5]
 - Markers and art supplies: [Classroom set - $10-20]
