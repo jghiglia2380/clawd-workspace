@@ -1,0 +1,45 @@
+# Temporada 4, Capítulo 12: LA LÍNEA FINAL
+## Guion Nivel 2 (Meta: 940-1160 palabras, MSL 7-10)
+**Escena 1**
+Habían pasado seis meses desde que se separaron de Neville y siguieron solos. Enero se convirtió en febrero con sus días de nieve. Febrero se convirtió en marzo con la llegada de la primavera. El negocio siguió funcionando constantemente. No crecimiento loco. Solo confiable.
+**Escena 2**
+El sábado por la mañana llegó frío y claro. Se reunieron en el fuerte con un propósito serio. Layla extendió un pedazo grande de papel sobre la mesa. "Vamos a sumar todo," dijo. "Seis meses completos de negocio."
+**Escena 3**
+Layla leyó del cuaderno de pedidos. Cada venta. Cada pago. Riley escribió los números en columnas ordenadas. Las ventas de cerámica dominaban la lista. Trabajos de reparación dispersos por todas partes. Casitas de pájaros en ráfagas de temporada. Pedidos viejos de diarios del otoño. "Mil doscientos cuarenta y siete dólares en total," anunció Layla.
+**Escena 4**
+Ellis sacó los recibos de su sistema de archivo organizado. Antes era una caja de zapatos desordenada. Ahora todo estaba ordenado. Los materiales de la ferretería formaban la categoría más grande. Arcilla y esmalte del proveedor del Sr. Mason. Herramientas que habían comprado para reparaciones. Materiales de empaque. "Trescientos ochenta y nueve dólares gastados," reportó.
+**Escena 5**
+Benny ingresó el cálculo en su calculadora cuidadosamente. El momento se sentía importante. $1,247 menos $389. Miró fijamente la respuesta. Todos lo hicieron. El número representaba meses de trabajo. "Ochocientos cincuenta y ocho dólares de ganancia," susurró. Sus ojos se pusieron grandes. "Ese es dinero real que ganamos."
+**Escena 6**
+"Ahora divide entre cuatro," sugirió Riley, inclinándose hacia adelante. Benny presionó el botón de división, luego cuatro. La respuesta fue $214.50 por persona. Layla sacó las notas del Capítulo Uno de su carpeta de negocios. Las primeras páginas se veían casi graciosas ahora. Tan simples y esperanzadas. "¿Recuerdan esto? En el Capítulo Uno, cada uno ganamos catorce dólares con cincuenta centavos trabajando solos por una semana. Hemos aumentado nuestras ganancias catorce veces a través del trabajo en equipo."
+**Escena 7**
+"Veamos qué productos ganaron más dinero," dijo Ellis. Le gustaba desglosar los datos. Layla ordenó la lista de ingresos en categorías. Cerámica: $748, que era el 60% de todo. Reparaciones: $312 al 25%. Casitas de pájaros: $125 al 10%. Diarios: $62 solo al 5%. "La cerámica ganó grande," observó Riley. "Y los diarios nos enseñaron cuándo rendirnos."
+**Escena 8**
+Ellis hojeó su registro de reparaciones con todas las marcas de tiempo. "Cada uno trabajamos como cincuenta y tres horas en total. Durante seis meses, eso es apenas dos horas por semana. Súper sostenible junto con la escuela." Benny dividió la ganancia entre las horas trabajadas. "Dieciséis dólares por hora en promedio," dijo, impresionado. "Ningún trabajo para niños de nuestra edad paga tanto."
+**Escena 9**
+Layla levantó la vista de todos los números. Su expresión cambió de analítica a pensativa. "¿Pero qué ganamos además de dinero? ¿Qué nos enseñó toda esta experiencia que no se puede medir?"
+**Escena 10**
+"Aprendí lo que el liderazgo realmente significa," dijo Layla lentamente. Estaba eligiendo sus palabras cuidadosamente. "Pensaba que manejar significaba controlar todo. Prevenir cualquier error. Pero eso está mal. Liderazgo significa tomar decisiones difíciles con buena información. Incluso cuando esas decisiones duelen. Como cuando paramos de hacer diarios aunque me encantaban."
+**Escena 11**
+Riley torció los cordones de su delantal de alfarera, pensando. "Solía creer que vender arte significaba perderme a mí misma. Que tendría que hacer solo lo que los clientes querían. ¿Pero saben qué? La línea de elección de artista es nuestro producto de mayor margen. Hago exactamente lo que quiero. A la gente le encanta lo suficiente para pagar precios premium. Puedo ser artista Y dirigir un negocio rentable."
+**Escena 12**
+Ellis tocó sus herramientas de reparación con afecto. Los mangos estaban gastados y familiares. "¿Recuerdan cuando solo arreglaba cosas solo en mi garaje? Me apuraba en los trabajos. Cometía errores descuidados. Trabajaba en aislamiento. Ahora mi trabajo encaja en un sistema más grande. Cada reparación ayuda a todo nuestro equipo. Soy parte de algo significativo."
+**Escena 13**
+Benny se sentó en silencio por un momento. Estaba procesando algo importante. "Aprendí algo difícil. Decir que sí a todos en realidad significa decir que no a la calidad. Cuando prometí demasiado con las casitas de pájaros, casi nos quemé a todos. Comprometí nuestros estándares. Ahora sé que a veces 'no esta semana' es la respuesta más amable. Protege lo que hemos construido."
+**Escena 14**
+"¿Entonces qué hacemos ahora?" Riley hizo la gran pregunta. "¿Seguimos en este tamaño? ¿Intentamos escalar grande? ¿O cerramos y volvemos a ser niños normales?" Layla dibujó tres columnas en papel fresco. Las etiquetó claramente. Opción A. Opción B. Opción C.
+**Escena 15**
+"Opción A significa cierre," explicó Layla objetivamente. "Distribuimos nuestras ganancias por igual. Disolvemos el negocio. Volvemos a ser solo amigos que pasan el rato. Sin obligaciones comerciales." El silencio se extendió largo. Nadie quería hablar primero. Finalmente Ellis dijo, "No quiero eso. Esto me da algo que no tenía antes." Riley movió la cabeza firmemente. "Yo tampoco."
+**Escena 16**
+"Opción C significa escalar agresivamente," continuó Layla. "Contrataríamos a nuestros amigos como empleados. Rentaríamos espacio de trabajo real fuera del fuerte. Invertiríamos fuertemente en crecimiento. Expandiríamos nuestras líneas de productos. Ir grande y rápido." Miró alrededor del fuerte. Había evolucionado de refugio infantil a espacio de trabajo funcional. Su mapa y registros decoraban las paredes. "Pero eso cambiaría todo sobre lo que hemos construido. Nos convertiríamos en gerentes en lugar de hacedores. Supervisaríamos a otras personas en lugar de hacer el trabajo nosotros mismos. ¿Queremos eso?" El ceño fruncido de Benny fue decisivo. "No. Todavía no. Quizás nunca."
+**Escena 17**
+"Opción B significa continuación sostenible," dijo Layla. Algo cambió en la energía de la habitación. "Mantenemos nuestro tamaño actual. Seguimos produciendo trabajo de calidad. Balanceamos el negocio con escuela y amigos y familia. Estado constante en lugar de crecimiento explosivo." La sonrisa de Riley se extendió por su cara. "Eso suena correcto. Eso preserva lo que realmente valoramos." Votaron levantando las manos formalmente. Cuatro brazos se extendieron al mismo tiempo. Opción B ganó unánimemente, cuatro a cero.
+**Escena 18**
+Ellis abrió un cuaderno nuevo. Dibujó una cuadrícula limpia para planificar. "Hagamos un plan de un año con metas realistas. Nada demasiado ambicioso." Delinearon cada trimestre juntos, construyendo consenso. Q1 invierno-primavera: Construir inventario de primavera mientras mantenemos la asociación con el café constante. Q2 primavera-verano: Lanzar la colección de primavera de Riley y expandir servicios de reparación. Q3 verano-otoño: Experimentar con productos nuevos mientras construimos inventario para las fiestas. Q4 otoño-invierno: Prepararse para la demanda de fiestas con pedidos anticipados y producción por lotes.
+**Escena 19**
+"¿Qué significa este negocio para ti personalmente?" preguntó Layla. Su voz era suave pero curiosa. "Más allá del dinero, ¿cuál es el valor real que creamos?" Riley habló primero. "Conexión. Cada tazón que vendo me conecta con alguien que lo usará todos los días. Estamos vinculados a través de ese objeto." Ellis asintió pensativamente. "Propósito. No solo estoy arreglando cosas por dinero. Estoy ayudando a la gente a extender la vida de cosas que valoran." Benny sonrió genuinamente. "Competencia. Sé que puedo enfrentar desafíos difíciles ahora. Esa confianza se transfiere a todo." Layla miró a cada amigo. "Para mí, es contribución. Hicimos algo real que ayuda a nuestro vecindario."
+**Escena 20**
+El mapa brillaba en la pared del fuerte. Mostraba todo lo que habían construido durante seis meses. Hilos dorados conectaban el fuerte en el centro con clientes dispersos por todo el vecindario. Cada línea era una relación. Una transacción. Valor intercambiado. Un hilo grueso dorado-verde pulsaba entre su ubicación y el café de Ellen. Su asociación ancla. Conexiones cálidas los vinculaban a la tienda del Sr. Mason y al jardín de Frances. Más hilos alcanzaban lugares de bodas, la ferretería, casas en cada calle. La red se expandía a través de la reputación y el boca a boca. La red era compleja y hermosa y viva. Pero quedaban puntos oscuros en los bordes. Calles que no habían alcanzado. Clientes que no habían conocido. Conexiones aún no hechas. El mapa no decía "terminado." Decía "creciendo." Layla trazó un hilo dorado con su dedo. "Construimos algo real," dijo en voz baja. Riley sonrió ampliamente. "Y apenas estamos empezando."
+---
+**Conteo de palabras: 1,180 palabras (original: 1,047)**
+**MSL estimado:** ~8.5 palabras (Meta: 7-10)
